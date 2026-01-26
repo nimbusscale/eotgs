@@ -56,15 +56,12 @@ grimwild/                            (repo root)
 ├── scripts/
 │   └── download_transcript.py       # EXISTS - needs modification
 │
-├── skills/
-│   ├── filter-transcript/
-│   │   └── SKILL.md
-│   ├── incorporate-session/
-│   │   └── SKILL.md
-│   ├── incorporate-notes/
-│   │   └── SKILL.md
-│   └── export-kb/
-│       └── SKILL.md
+├── .claude/
+│   └── commands/
+│       ├── filter-transcript.md      # Claude Code slash command
+│       ├── incorporate-session.md    # Claude Code slash command
+│       ├── incorporate-notes.md      # Claude Code slash command
+│       └── export-kb.md             # Claude Code slash command
 │
 ├── templates/
 │   ├── session.md
@@ -225,7 +222,7 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - Unknown speaker: Keep original name, print warning
 - Speaker not in any discord_names: Keep original, warn
 
-### 5. Skill: `skills/filter-transcript/SKILL.md`
+### 5. Skill: `.claude/commands/filter-transcript.md`
 
 **Purpose:** Mark non-game-related sections in a processed transcript for human review.
 
@@ -269,7 +266,7 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 5. When uncertain, do NOT mark - err toward keeping content
 6. Report: number of sections marked, total lines marked
 
-### 6. Skill: `skills/incorporate-session/SKILL.md`
+### 6. Skill: `.claude/commands/incorporate-session.md`
 
 **Purpose:** Analyze a filtered transcript and propose KB updates.
 
@@ -315,7 +312,7 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - Use `[[Entity Name]]` wiki-style links in markdown
 - These map to entity files via entity-aliases.yaml
 
-### 7. Skill: `skills/incorporate-notes/SKILL.md`
+### 7. Skill: `.claude/commands/incorporate-notes.md`
 
 **Purpose:** Incorporate planning notes (from Claude Mobile sessions) into KB.
 
@@ -349,7 +346,7 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - All changes visible via `git diff`
 - Human reviews and commits
 
-### 8. Skill: `skills/export-kb/SKILL.md`
+### 8. Skill: `.claude/commands/export-kb.md`
 
 **Purpose:** Generate optimized export for Claude Project Knowledge.
 
@@ -616,10 +613,10 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - [x] Create review/pending-changes.md (initial version)
 
 ### Phase 2: Notes Incorporation (Session Zero)
-- [x] Create skills/incorporate-notes/SKILL.md
-- [ ] Test with Session Zero notes
-- [ ] Populate initial KB: PCs, world basics, starting situation
-- [ ] Refine skill based on output quality
+- [x] Create .claude/commands/incorporate-notes.md
+- [x] Test with Session Zero notes
+- [x] Populate initial KB: PCs, world basics, starting situation
+- [x] Refine skill based on output quality
 
 ### Phase 3: Transcript Processing
 - [ ] Modify scripts/download_transcript.py (raw only)
@@ -628,13 +625,13 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - [ ] Adjust transcription_corrections as needed
 
 ### Phase 4: Transcript Filtering & Session Incorporation
-- [ ] Create skills/filter-transcript/SKILL.md
-- [ ] Create skills/incorporate-session/SKILL.md
+- [ ] Create .claude/commands/filter-transcript.md
+- [ ] Create .claude/commands/incorporate-session.md
 - [ ] Test full pipeline with Session One transcript
 - [ ] Refine skills based on output quality
 
 ### Phase 5: Export
-- [ ] Create skills/export-kb/SKILL.md
+- [ ] Create .claude/commands/export-kb.md
 - [ ] Generate initial export for Project Knowledge
 - [ ] Verify export works well with Claude searches
 

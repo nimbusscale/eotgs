@@ -1,9 +1,57 @@
 # Maps alternative names/spellings to canonical entity filenames
 # Used during KB incorporation to find existing entries
 
-# examples:
-# locations:
-#   "Ashen Vale": "ashen-vale"
-#   "the Vale": "ashen-vale"
+characters:
+  "Sir Roderic Lightbearer": "sir-roderic-lightbearer"
+  "Sir Roderic": "sir-roderic-lightbearer"
+  "Roderic": "sir-roderic-lightbearer"
+  "Garland yn Greenholt": "garland-yn-greenholt"
+  "Garland": "garland-yn-greenholt"
+  "Edric Bloom": "edric-bloom"
+  "Edric": "edric-bloom"
+  "Castor": "castor"
+  "Count Albrecht Marrow": "count-albrecht-marrow"
+  "Marrow": "count-albrecht-marrow"
+  "Albrecht Marrow": "count-albrecht-marrow"
+  "Rowan yn Greenholt": "rowan-yn-greenholt"
+  "Rowan": "rowan-yn-greenholt"
+  "Aldric Garlandsson": "aldric-garlandsson"
+  "Aldric": "aldric-garlandsson"
 
+locations:
+  "Beaconhold": "beaconhold"
+  "Ashen Vale": "ashen-vale"
+  "Eastern Rivers": "eastern-rivers"
+  "Ashbrook": "ashbrook"
+  "Eld Ashara": "ashbrook"
+  "Crownvale": "crownvale"
+  "Marrow County": "marrow-county"
+  "Cinderwall": "cinderwall"
+  "Bonewall": "bonewall"
+  "Cragmarr": "cragmarr"
+  "Great Lake": "great-lake"
+  "Ashen Flow": "ashen-flow"
+  "Altreth": "altreth"
 
+items:
+  "Seal of Unmaking": "seal-of-unmaking"
+  "Witch Stones": "witch-stones"
+  "Witchstones": "witch-stones"
+  "Shepherd's Teeth": "witch-stones"
+  "Shepherds Teeth": "witch-stones"
+  "Whiteglass": "whiteglass"
+
+factions:
+  "Church of Lucifer": "church-of-lucifer"
+  "Luciferian faith": "church-of-lucifer"
+  "Luciferians": "church-of-lucifer"
+
+world:
+  "Imperium Lucis Aeternae": "imperium-lucis-aeternae"
+  "Imperium": "imperium-lucis-aeternae"
+  "Old Empire": "imperium-lucis-aeternae"
+  "Middle Kingdoms": "middle-kingdoms"
+  "Greenholt Bloodline": "greenholt-bloodline"
+  "Old Gods and New Gods": "old-gods-and-new-gods"
+  "Dire Coyotes": "dire-coyotes"
+  "Points of Light": "points-of-light"

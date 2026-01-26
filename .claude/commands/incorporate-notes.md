@@ -113,6 +113,11 @@ A **hook** is a potential story arc that hasn't been activated in play yet — a
 - **Group hooks** affect the whole party or world → `grimwild-kb/story-arcs/group/hooks.md`
 - **Character hooks** are tied to a specific PC → `grimwild-kb/story-arcs/character/{character-slug}/hooks.md`
 
+**Attribution rules — avoid duplicates and misclassification:**
+- Attribute a hook to the character the hook is **about** (the subject), not every character who cares about it. If Character A has a personal goal related to Character B's mystery, that is part of Character A's motivation — not a separate hook. Do not create duplicate hooks covering the same underlying mystery from different character perspectives.
+- A hook is only **group** if it affects the whole party or the world at large and is not primarily tied to 1–2 specific PCs' personal stories. If a hook involves specific PCs' backgrounds, bloodlines, or family history, it is a character hook for the most directly affected PC — even if multiple PCs share it.
+- When a hook could reasonably belong to multiple PCs (e.g., a shared bloodline), place it under the PC with the strongest narrative connection (typically the one who is most likely to actively pursue it). Add a brief cross-reference in the other PC's hooks file rather than duplicating the full entry.
+
 **Directory structure:**
 - Always create a subdirectory for every PC listed in `speaker-map.yaml` under `story-arcs/character/` (using the character's filename slug)
 - `grimwild-kb/story-arcs/group/hooks.md`

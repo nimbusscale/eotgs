@@ -1,20 +1,9 @@
 # Maps alternative names/spellings to canonical entity filenames
 # Used during KB incorporation to find existing entries
 
-characters:
-  "Sir Roderic": "sir-roderic-lightbearer"
-  "Roderic": "sir-roderic-lightbearer"
-  "the paladin": "sir-roderic-lightbearer"
-  "Garland": "garland-yn-greenholt"
-  "the wizard": "garland-yn-greenholt"
-  "old man": "garland-yn-greenholt"
-  # Add as entities accumulate
+# examples:
+# locations:
+#   "Ashen Vale": "ashen-vale"
+#   "the Vale": "ashen-vale"
 
-locations:
-  "Ashen Vale": "ashen-vale"
-  "the Vale": "ashen-vale"
-  # etc.
 
-# items:
-# factions:
-# npcs:

@@ -279,22 +279,35 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - Optional: recap-teaser text
 
 **Process:**
-1. Read existing KB state (grimwild-kb/ directory)
-2. Analyze transcript for:
+1. Read existing KB state (sessions/, pcs/, npcs/, locations/, etc.)
+2. Read `config/entity-aliases.yaml` to resolve entity references
+3. Analyze transcript for:
    - Major events and plot developments
    - New entities (NPCs, locations, items, factions)
    - Updates to existing entities
    - Story arc progress (new questions, answered questions)
    - Notable quotes
-3. Generate proposed changes:
+4. Generate proposed changes:
    - New session file from template
    - New entity files as needed
    - Updates to existing files
    - Story arc updates
-4. For any conflicts or uncertainties, add to `review/pending-changes.md`
+5. For any conflicts or uncertainties, add to `review/pending-changes.md`
+
+**Entity Alias Handling:**
+- When creating a new entity, propose obvious aliases to add to `entity-aliases.yaml`:
+  - Name variants (full name, short name, title + name)
+  - Obvious descriptors if contextually clear ("the paladin" for Sir Roderic)
+- When encountering a reference that can't be resolved via existing aliases, flag in `review/pending-changes.md`:
+  ```markdown
+  ## Unresolved References
+  - Session 1, line 247: "the old wizard" - Add alias to Garland?
+  - Session 1, line 312: "the beaver man" - Add alias to Castor?
+  ```
+- Never auto-add to entity-aliases.yaml—all additions appear in git diff for human approval
 
 **Output:**
-- Creates/modifies files in the KB
+- Creates/modifies files in the KB (including proposed additions to entity-aliases.yaml)
 - All changes visible via `git diff`
 - Human reviews and commits
 
@@ -309,16 +322,32 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 **Input:** A markdown file from `inbox/notes/`
 
 **Process:**
-1. Analyze note content
-2. Determine what type of content it is:
+1. Read existing KB state (all entity directories)
+2. Read `config/entity-aliases.yaml` to resolve entity references
+3. Analyze note content
+4. Determine what type of content it is:
    - Session prep → gm-notes/
-   - World building → grimwild-kb/world/ or appropriate entity files
-   - Character development → update grimwild-kb/pcs/ or grimwild-kb/npcs/ files
-   - Story arc planning → grimwild-kb/story-arcs/ + possibly gm-notes/ for secrets
-3. Propose file creation/updates
-4. Flag anything that contradicts existing KB for review
+   - World building → world/ or appropriate entity files
+   - Character development → update PC/NPC files
+   - Story arc planning → story-arcs/ + possibly gm-notes/ for secrets
+5. Propose file creation/updates
+6. Flag anything that contradicts existing KB for review
 
-**Output:** Same as incorporate-session - changes via git diff
+**Entity Alias Handling:**
+- When creating a new entity, propose obvious aliases to add to `entity-aliases.yaml`:
+  - Name variants (full name, short name, title + name)
+  - Obvious descriptors if contextually clear
+- When encountering a reference that can't be resolved via existing aliases, flag in `review/pending-changes.md`:
+  ```markdown
+  ## Unresolved References
+  - inbox/notes/session-zero-prep.md: "the Shepherd's Teeth" - New entity? Or alias for existing?
+  ```
+- Never auto-add to entity-aliases.yaml—all additions appear in git diff for human approval
+
+**Output:**
+- Creates/modifies files in the KB (including proposed additions to entity-aliases.yaml)
+- All changes visible via `git diff`
+- Human reviews and commits
 
 ### 8. Skill: `skills/export-kb/SKILL.md`
 
@@ -579,15 +608,15 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 
 ## Development Tasks
 
-### Phase 1: Foundation
-- [ ] Create directory structure
-- [ ] Create config/speaker-map.yaml
-- [ ] Create config/entity-aliases.yaml (empty initial version)
-- [ ] Create all template files
-- [ ] Create review/pending-changes.md (empty initial version)
+### Phase 1: Foundation ✅
+- [x] Create directory structure
+- [x] Create config/speaker-map.yaml
+- [x] Create config/entity-aliases.yaml (initial version)
+- [x] Create all template files
+- [x] Create review/pending-changes.md (initial version)
 
 ### Phase 2: Notes Incorporation (Session Zero)
-- [ ] Create skills/incorporate-notes/SKILL.md
+- [x] Create skills/incorporate-notes/SKILL.md
 - [ ] Test with Session Zero notes
 - [ ] Populate initial KB: PCs, world basics, starting situation
 - [ ] Refine skill based on output quality

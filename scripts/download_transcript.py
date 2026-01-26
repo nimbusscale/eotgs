@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Download and clean a Discord transcript from the Grimwild voice channel.
+"""Download and clean a raw Discord transcript from the Grimwild voice channel.
 
 Uses DiscordChatExporter.Cli to download, then strips bot noise and
-deduplicates progressive transcription updates from SeaVoice.
+deduplicates progressive transcription updates from SeaVoice. Outputs a
+clean transcript with original Discord speaker names (no name mapping or
+transcription corrections — those are handled by prepare_transcript.py).
 """
 
 import argparse
@@ -47,7 +49,7 @@ def parse_args():
     )
     parser.add_argument(
         "--output", type=str, default=None,
-        help="Override output path (default: transcripts/{channel}_{date}.txt).",
+        help="Override output path (default: inbox/transcripts/raw/session-{date}-raw.txt).",
     )
     parser.add_argument(
         "--input", type=str, default=None,
@@ -195,7 +197,7 @@ def format_output(entries):
     return "\n".join(lines) + "\n" if lines else ""
 
 
-def determine_output_path(args, channel_name, entries, after_str):
+def determine_output_path(args, entries, after_str):
     """Determine the output file path."""
     if args.output:
         return Path(args.output)
@@ -226,9 +228,8 @@ def determine_output_path(args, channel_name, entries, after_str):
     if not date_str:
         date_str = datetime.now().strftime("%Y-%m-%d")
 
-    name = channel_name.lower().replace(" ", "_") if channel_name else "grimwild"
-    script_dir = Path(__file__).resolve().parent.parent
-    return script_dir / "transcripts" / f"{name}_{date_str}.txt"
+    repo_root = Path(__file__).resolve().parent.parent
+    return repo_root / "inbox" / "transcripts" / "raw" / f"session-{date_str}-raw.txt"
 
 
 def main():
@@ -246,7 +247,7 @@ def main():
     raw_text = Path(input_path).read_text(encoding="utf-8")
     channel_name, entries = clean_transcript(raw_text)
 
-    output_path = determine_output_path(args, channel_name, entries, after_str)
+    output_path = determine_output_path(args, entries, after_str)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     output_text = format_output(entries)

@@ -44,7 +44,7 @@ grimwild/                            (repo root)
 ├── inbox/
 │   ├── transcripts/
 │   │   ├── raw/                     # Untouched Discord downloads
-│   │   ├── processed/               # After speaker mapping + transcription fixes
+│   │   ├── prepared/                # After speaker mapping + transcription fixes
 │   │   └── filtered/                # After non-game marking + human review (final)
 │   └── notes/                       # Planning notes to incorporate
 │
@@ -195,16 +195,16 @@ locations:
 - Saves exactly as received (raw)
 - If `--input` provided, just copies to raw folder (for reprocessing old transcripts)
 
-### 4. Script: `scripts/process_transcript.py` (NEW)
+### 4. Script: `scripts/prepare_transcript.py` (NEW)
 
 **Usage:**
 ```
-process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config PATH]
+prepare_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config PATH]
 ```
 
 **Arguments:**
 - `--input`: Path to raw transcript (required)
-- `--output`: Output path (default: `inbox/transcripts/processed/{input_basename}-processed.txt`)
+- `--output`: Output path (default: `inbox/transcripts/prepared/{input_basename}-prepared.txt`)
 - `--session`: Session number for character lookup (default: latest, for multi-character players)
 - `--config`: Path to speaker-map.yaml (default: `config/speaker-map.yaml`)
 
@@ -226,7 +226,7 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 
 **Purpose:** Mark non-game-related sections in a processed transcript for human review.
 
-**Input:** A processed transcript file from `inbox/transcripts/processed/`
+**Input:** A prepared transcript file from `inbox/transcripts/prepared/`
 
 **Output:** Same transcript with HTML comments marking non-game sections, saved to `inbox/transcripts/filtered/`
 
@@ -619,10 +619,10 @@ process_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - [x] Refine skill based on output quality
 
 ### Phase 3: Transcript Processing
-- [ ] Modify scripts/download_transcript.py (raw only)
-- [ ] Create scripts/process_transcript.py
-- [ ] Test with Session One raw transcript
-- [ ] Adjust transcription_corrections as needed
+- [x] Modify scripts/download_transcript.py (raw only)
+- [x] Create scripts/prepare_transcript.py
+- [x] Test with Session One raw transcript
+- [x] Adjust transcription_corrections as needed
 
 ### Phase 4: Transcript Filtering & Session Incorporation
 - [ ] Create .claude/commands/filter-transcript.md

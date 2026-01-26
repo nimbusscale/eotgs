@@ -1,0 +1,69 @@
+# Maps Discord usernames to players/characters and fixes common transcription errors
+
+players:
+  joe:
+    role: gm
+    display: "GM"
+    discord_names:
+      - "Killjoy Keegan"
+
+  ramsey:
+    role: player
+    discord_names:
+      - "feklars"
+    characters:
+      - name: "Sir Roderic Lightbearer"
+        display: "Roderic"
+        active: true
+        sessions: "0-"
+
+  ken:
+    role: player
+    discord_names:
+      - "SiliKen"
+    characters:
+      - name: "Edric Bloom"
+        display: "Edric"
+        active: true
+        sessions: "0-"
+
+  dustin:
+    role: player
+    discord_names:
+      - "duskit"
+    characters:
+      - name: "Castor"
+        display: "Castor"
+        active: true
+        sessions: "0-"
+
+  jay:
+    role: player
+    discord_names:
+      - "regular human faits"
+    characters:
+      - name: "Garland yn Greenholt"
+        display: "Garland"
+        active: true
+        sessions: "0-"
+
+# Transcription corrections - case-insensitive replacements
+# Add new entries as you discover speech-to-text errors
+transcription_corrections:
+  # Character name mishearings
+  - match: "Roderick"
+    replace: "Roderic"
+  - match: "kather"
+    replace: "Castor"
+  - match: "Katherine"
+    replace: "Castor"
+  - match: "Castro"
+    replace: "Castor"
+  - match: "Garlin"
+    replace: "Garland"
+  - match: "Edrick"
+    replace: "Edric"
+
+  # Add location/term corrections as discovered
+  # - match: "grim wild"
+  #   replace: "Grimwild"

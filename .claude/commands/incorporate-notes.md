@@ -41,7 +41,7 @@ Minimize context usage by loading only what is needed:
 | `config/entity-aliases.yaml` | Read in full (small config) |
 | `config/speaker-map.yaml` | Read in full (small config) |
 | `review/pending-changes.md` | Read in full (small file) |
-| KB directories (`grimwild-kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/`, `world/`) | **List filenames only** (`ls`) — do NOT read contents |
+| KB directories (`grimwild-kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
 | `gm-notes/` | **List filenames only** (`ls`) |
 | Individual entity files | **Read on-demand** — only when the note references that entity and you need to check or update it |
 | Template files in `templates/` | **Read on-demand** — only when creating a new entity of that type |
@@ -66,6 +66,7 @@ Break the note into logical sections and classify each:
 | New faction | `grimwild-kb/factions/` | `templates/faction.md` |
 | Story arc (player-visible) | `grimwild-kb/story-arcs/group/` or `story-arcs/character/` | `templates/story-arc.md` |
 | Story arc (GM secrets) | `gm-notes/` | — (freeform, reference the arc) |
+| Story hooks (potential arcs not yet in play) | `grimwild-kb/story-arcs/group/hooks.md` or `story-arcs/character/{character-slug}/hooks.md` | — (see Step 5b) |
 | Session recap or summary | `grimwild-kb/sessions/` | `templates/session.md` |
 
 ### Step 4 — Resolve entity references
@@ -95,6 +96,56 @@ When the note introduces an entity that does not yet exist in the KB:
 - Drop leading articles ("the", "a", "an").
 - Remove all punctuation except hyphens.
 - Examples: "Sir Roderic Lightbearer" → `sir-roderic-lightbearer.md`, "The Ashen Vale" → `ashen-vale.md`.
+
+### Step 5b — Identify and create story hooks
+
+A **hook** is a potential story arc that hasn't been activated in play yet — an open question, unresolved mystery, or thread that could become a full arc.
+
+**What qualifies as a hook:**
+- Unanswered questions about a character's past (unknown parentage, lost memories)
+- Mysterious items or symbols with unexplained significance
+- Unresolved mysteries (origin of a curse, purpose of an artifact)
+- Goals a character wants to pursue (understand the Witch Stones, find a lost relative)
+- Tensions or conflicts hinted at but not yet in play
+- World events that could draw the party in
+
+**Classification:**
+- **Group hooks** affect the whole party or world → `grimwild-kb/story-arcs/group/hooks.md`
+- **Character hooks** are tied to a specific PC → `grimwild-kb/story-arcs/character/{character-slug}/hooks.md`
+
+**Directory structure:**
+- Always create a subdirectory for every PC listed in `speaker-map.yaml` under `story-arcs/character/` (using the character's filename slug)
+- `grimwild-kb/story-arcs/group/hooks.md`
+- `grimwild-kb/story-arcs/character/castor/hooks.md`
+- `grimwild-kb/story-arcs/character/edric-bloom/hooks.md`
+- etc.
+
+**Hooks file format:**
+
+```markdown
+# Hooks
+
+## {Hook Name}
+**Source:** [[Session 0]]
+**Related:** [[Entity1]], [[Entity2]]
+
+Brief description of what's unresolved and what could become a story arc.
+One sentence per line.
+```
+
+Append new hooks to an existing `hooks.md` if one already exists. Do not duplicate hooks that are already listed.
+
+**Hook → Arc lifecycle:**
+
+When a hook is activated in play (session transcript shows the party engaging with it), remove the hook entry from `hooks.md` and create a dedicated arc file:
+- Group: `grimwild-kb/story-arcs/group/{arc-slug}.md`
+- Character: `grimwild-kb/story-arcs/character/{character-slug}/{arc-slug}.md`
+
+The arc file uses `templates/story-arc.md`. Until activated, hooks remain as entries in `hooks.md`.
+
+**Relationship to pending-changes.md:**
+
+Hooks capture things that *could* become story arcs. Do not flag clear hooks in `review/pending-changes.md` as "ambiguous content" — route them to hooks.md instead. Only flag in pending-changes if it's genuinely unclear whether something is a hook, or if you can't determine whether a hook is group vs. character.
 
 ### Step 6 — Propose entity aliases
 
@@ -162,6 +213,8 @@ Route content based on sensitivity:
 | GM session prep, encounter plans, secret motivations | `gm-notes/` |
 | Story arc — player-visible elements (open questions, known events) | `grimwild-kb/story-arcs/` |
 | Story arc — secret answers, future reveals, planned twists | `gm-notes/` (reference the arc file with a link) |
+| Story hooks (open questions, mysteries the players know about) | `grimwild-kb/story-arcs/` (player-visible) |
+| GM answers to hooks, planned reveals for hooks | `gm-notes/` (reference the hooks file) |
 | NPC secrets the players haven't learned | `gm-notes/` |
 
 When a note mixes both, split it: player-visible parts go to the KB, GM-private parts go to `gm-notes/`.
@@ -179,6 +232,7 @@ If it's unclear whether content is player-visible or GM-private, flag it in `rev
 - [ ] Alias proposals have been added to `entity-aliases.yaml`.
 - [ ] Contradictions and ambiguous references have been flagged in `pending-changes.md`.
 - [ ] GM-private content has been routed to `gm-notes/`.
+- [ ] Story hooks have been identified and added to the appropriate hooks.md files.
 - [ ] All generated prose uses one-sentence-per-line.
 - [ ] All entity references use `[[wiki-link]]` syntax.
 
@@ -212,6 +266,11 @@ After processing each note, report:
 **Items flagged for review:**
 - Contradiction: Castor's homeland (see review/pending-changes.md)
 - Unresolved reference: "the Shepherd's Teeth"
+
+**Story hooks identified:**
+- Character (castor): "The Beaver Curse" — origin and motive unknown
+- Character (edric-bloom): "The Unknown Father" — mother won't speak of him
+- Group: "The Cursed Ruins" — aging curse spreading via spring water
 
 **GM-private content:**
 - gm-notes/session-zero-prep.md (encounter plans)

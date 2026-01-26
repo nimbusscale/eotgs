@@ -38,6 +38,7 @@ But the suppression of the Old Gods created imbalances that have been building f
 | **The Forgetting** | Release of memory, moving on | Obsession with history. Ghosts. Inability to heal from the past. |
 
 ## Related Entries
+- [[The Old Gods]] — The gods themselves: titles, followers, and nature
 - [[Church of Lucifer]] — The dominant faith that suppressed the Old Gods
 - [[Imperium Lucis Aeternae]] — The empire founded by Lucifer
 - [[Whiteglass]] — The substance used to seal and preserve

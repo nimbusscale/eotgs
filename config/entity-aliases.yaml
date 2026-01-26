@@ -45,6 +45,9 @@ factions:
   "Church of Lucifer": "church-of-lucifer"
   "Luciferian faith": "church-of-lucifer"
   "Luciferians": "church-of-lucifer"
+  "The Old Gods": "old-gods"
+  "Old Gods": "old-gods"
+  "Harlequins": "old-gods"
 
 world:
   "Imperium Lucis Aeternae": "imperium-lucis-aeternae"

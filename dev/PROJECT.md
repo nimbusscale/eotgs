@@ -8,8 +8,8 @@
 
 Build a campaign knowledge base system for a Grimwild TTRPG campaign. The system:
 1. Processes Discord voice channel transcripts into clean, attributed text
-2. Filters out non-game-related chatter (marks sections for human review)
-3. Incorporates transcript content and planning notes into a structured markdown KB
+2. Extracts structured session data from transcripts (filtering non-game content and producing YAML)
+3. Incorporates extracted session data and planning notes into a structured markdown KB
 4. Exports the KB in a format optimized for Claude Project Knowledge
 5. Uses git for version control and human review of all changes
 
@@ -45,7 +45,7 @@ grimwild/                            (repo root)
 │   ├── transcripts/
 │   │   ├── raw/                     # Untouched Discord downloads
 │   │   ├── prepared/                # After speaker mapping + transcription fixes
-│   │   └── filtered/                # After non-game marking + human review (final)
+│   │   └── extracted/               # After extraction (structured YAML)
 │   └── notes/                       # Planning notes to incorporate
 │
 ├── review/
@@ -58,7 +58,7 @@ grimwild/                            (repo root)
 │
 ├── .claude/
 │   └── commands/
-│       ├── filter-transcript.md      # Claude Code slash command
+│       ├── extract-session.md        # Claude Code slash command
 │       ├── incorporate-session.md    # Claude Code slash command
 │       ├── incorporate-notes.md      # Claude Code slash command
 │       └── export-kb.md             # Claude Code slash command
@@ -222,86 +222,39 @@ prepare_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - Unknown speaker: Keep original name, print warning
 - Speaker not in any discord_names: Keep original, warn
 
-### 5. Skill: `.claude/commands/filter-transcript.md`
+### 5. Skill: `.claude/commands/extract-session.md`
 
-**Purpose:** Mark non-game-related sections in a processed transcript for human review.
+**Purpose:** Filter non-game content and extract structured session data from a prepared transcript, producing a small YAML file for downstream incorporation.
 
-**Input:** A prepared transcript file from `inbox/transcripts/prepared/`
+**Input:** A prepared transcript from `inbox/transcripts/prepared/`, session number (required), optional date
 
-**Output:** Same transcript with HTML comments marking non-game sections, saved to `inbox/transcripts/filtered/`
+**Output:** A structured YAML file in `inbox/transcripts/extracted/` containing: summary, major events, new entities, entity updates, questions raised/resolved, arc progress, notable quotes, rules clarifications, filtered sections log, GM observations, and unresolved references.
 
-**Marking format:**
-```
-[timestamp] GM: I'm going to go get some water.
-
-<!-- NON-GAME SECTION: break/chit-chat -->
-[timestamp] Edric: While he's gone...
-[timestamp] Castor: Yeah that ice machine thing...
-...
-<!-- END NON-GAME SECTION -->
-
-[timestamp] GM: Okay, so where were we...
-```
-
-**What counts as NON-GAME:**
-- Real-world chit-chat (ice machines, personal anecdotes unrelated to game)
-- AFK announcements and waiting chatter
-- Technical issues (Discord problems, audio issues)
-- Scheduling discussion
-
-**What is GAME-RELATED (do NOT mark):**
-- In-character dialogue and narration
-- Rules discussions and clarifications
-- Character ability discussions
-- World-building discussion
-- Dice roll announcements and results
-- Session planning within the game context
-- Jokes/banter that reference game content
-
-**Instructions for the skill:**
-1. Read the transcript
-2. Identify contiguous blocks of non-game chatter
-3. Wrap each block in the comment markers with a brief description
-4. Preserve all content (human will delete after review)
-5. When uncertain, do NOT mark - err toward keeping content
-6. Report: number of sections marked, total lines marked
+**Process:**
+1. Load minimal context (speaker-map, entity-aliases, KB filenames only)
+2. First pass: scan for structure (~2000 lines)
+3. Scene-by-scene extraction with filtering (chunks of ~1500-2000 lines)
+4. Consolidation: deduplicate, resolve references, sequence events, write summary
+5. Write YAML output to `inbox/transcripts/extracted/`
+6. Report extraction summary
 
 ### 6. Skill: `.claude/commands/incorporate-session.md`
 
-**Purpose:** Analyze a filtered transcript and propose KB updates.
+**Purpose:** Process an extracted session YAML into the KB — creating session files, updating entities, tracking story arcs, and extracting hooks.
 
-**Input:** 
-- A final/filtered transcript from `inbox/transcripts/filtered/`
-- Session number
-- Optional: recap-teaser text
+**Input:** An extracted YAML file from `inbox/transcripts/extracted/` (auto-discovered or path provided)
 
 **Process:**
-1. Read existing KB state (sessions/, pcs/, npcs/, locations/, etc.)
-2. Read `config/entity-aliases.yaml` to resolve entity references
-3. Analyze transcript for:
-   - Major events and plot developments
-   - New entities (NPCs, locations, items, factions)
-   - Updates to existing entities
-   - Story arc progress (new questions, answered questions)
-   - Notable quotes
-4. Generate proposed changes:
-   - New session file from template
-   - New entity files as needed
-   - Updates to existing files
-   - Story arc updates
-5. For any conflicts or uncertainties, add to `review/pending-changes.md`
-
-**Entity Alias Handling:**
-- When creating a new entity, propose obvious aliases to add to `entity-aliases.yaml`:
-  - Name variants (full name, short name, title + name)
-  - Obvious descriptors if contextually clear ("the paladin" for Sir Roderic)
-- When encountering a reference that can't be resolved via existing aliases, flag in `review/pending-changes.md`:
-  ```markdown
-  ## Unresolved References
-  - Session 1, line 247: "the old wizard" - Add alias to Garland?
-  - Session 1, line 312: "the beaver man" - Add alias to Castor?
-  ```
-- Never auto-add to entity-aliases.yaml—all additions appear in git diff for human approval
+1. Parse YAML, validate required fields (session_number, date_played, source_transcript, summary, major_events)
+2. Build KB index (filenames only for context efficiency)
+3. Map YAML fields to KB operations (new entities, entity updates, hooks, arcs, session file)
+4. Validate entities (confirm update targets exist, new entities don't duplicate)
+5. Create session file, new entity files, story hooks
+6. Propose entity aliases
+7. Flag contradictions and unresolved references in `pending-changes.md`
+8. Update existing entity files
+9. Route GM-private content to `gm-notes/`
+10. Move YAML to `processed/` (prepared transcript stays in place as archival source)
 
 **Output:**
 - Creates/modifies files in the KB (including proposed additions to entity-aliases.yaml)
@@ -624,8 +577,8 @@ prepare_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - [x] Test with Session One raw transcript
 - [x] Adjust transcription_corrections as needed
 
-### Phase 4: Transcript Filtering & Session Incorporation
-- [ ] Create .claude/commands/filter-transcript.md
+### Phase 4: Transcript Extraction & Session Incorporation
+- [ ] Create .claude/commands/extract-session.md
 - [ ] Create .claude/commands/incorporate-session.md
 - [ ] Test full pipeline with Session One transcript
 - [ ] Refine skills based on output quality
@@ -658,11 +611,11 @@ prepare_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - [ ] Transcription corrections applied (Roderick → Roderic, etc.)
 - [ ] Unknown speakers generate warnings but don't fail
 
-**Filtering:**
-- [ ] Non-game sections correctly identified
-- [ ] Game-related OOC (rules discussion) NOT marked
-- [ ] Marking format is correct for easy manual editing
-- [ ] Edge cases handled (uncertain → don't mark)
+**Extraction:**
+- [ ] Non-game sections correctly filtered and logged
+- [ ] Game-related OOC (rules discussion) NOT filtered
+- [ ] YAML output contains all required fields
+- [ ] Edge cases handled (uncertain → keep content)
 
 **Session Incorporation:**
 - [ ] Session summary generated from template

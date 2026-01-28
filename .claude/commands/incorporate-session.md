@@ -1,6 +1,6 @@
 # Skill: Incorporate Session
 
-**Purpose:** Process a filtered session transcript from `inbox/transcripts/filtered/` into the Grimwild campaign knowledge base — creating a session file, updating entities, tracking story arcs, and extracting hooks.
+**Purpose:** Process an extracted session YAML from `inbox/transcripts/extracted/` into the Grimwild campaign knowledge base — creating a session file, updating entities, tracking story arcs, and extracting hooks.
 
 **Writing convention:** All generated prose in KB files uses **one sentence per line** (semantic linebreaks).
 This produces cleaner git diffs and makes review easier.
@@ -23,23 +23,19 @@ Bullet points, headings, and metadata lines are unaffected — only narrative pr
 
 ## Workflow
 
-Process one filtered transcript through the following steps.
+Process one extracted session YAML through the following steps.
 
-### Step 1 — Parse arguments & discover transcript
+### Step 1 — Parse arguments & discover input
 
-`$ARGUMENTS` format: `<session-number> [recap-teaser text...]`
+`$ARGUMENTS` format: `[yaml-file-path]`
 
-- Example: `1 The dust settles over what was once Ashbrook...`
-- If session number is missing, prompt the user and stop.
-- Recap-teaser is everything after the number; if absent, leave a placeholder `[TODO: Add recap-teaser]` in the session file.
+- If a path is provided, use that file directly.
+- If omitted, list files in `inbox/transcripts/extracted/` matching `session-*-extracted.yaml`.
+  - Exclude `.gitkeep`.
+  - If no extracted YAMLs exist, report that and stop.
+  - If multiple extracted YAMLs exist, ask the user which one to process.
 
-List files in `inbox/transcripts/filtered/`.
-Exclude `.gitkeep`.
-If no filtered transcripts exist, report that and stop.
-If multiple filtered transcripts exist, ask the user which one to process.
-
-Extract the session date from the first timestamped line in the transcript.
-Expected format: `[M/DD/YYYY H:MM AM/PM]`.
+Session number, date, recap teaser, and all other data come from the YAML content — no additional arguments needed.
 
 ### Step 2 — Build KB index (context-efficient)
 
@@ -52,89 +48,77 @@ Minimize context usage by loading only what is needed:
 | `review/pending-changes.md` | Read in full (small file) |
 | KB directories (`grimwild-kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
 | `gm-notes/` | **List filenames only** (`ls`) |
-| Individual entity files | **Read on-demand** — only when the transcript references that entity and you need to check or update it |
+| Individual entity files | **Read on-demand** — only when you need to check or update a specific entity |
 | Template files in `templates/` | **Read on-demand** — only when creating a new entity of that type |
 | `grimwild-kb/sessions/` | Check for duplicate session number collision — if `session-{N}.md` already exists, warn and stop |
 
 This approach keeps context small and scales as the KB grows.
 
-### Step 3 — Read & pre-process transcript
+### Step 3 — Read & validate YAML
 
-**3a** Read the full transcript. Note the total line count.
+**3a** Read the extracted YAML file. Validate that required fields are present:
+- `session_number`
+- `date_played`
+- `source_transcript`
+- `summary`
+- `major_events`
 
-**3b** Strip NON-GAME sections (between `<!-- NON-GAME SECTION -->` / `<!-- END NON-GAME SECTION -->` markers).
-Skip these during analysis.
-Count the stripped lines for the final report.
+If any required field is missing, warn the user and stop.
 
-**3c** Build speaker-to-entity map from `config/speaker-map.yaml`:
+**3b** Parse the YAML into working variables. The YAML is small (~1-2k tokens), so it fits entirely in context.
 
-| Transcript Speaker | Entity | Type |
-|---|---|---|
-| GM | (narrator) | GM |
-| Garland | Garland yn Greenholt | PC |
-| Edric | Edric Bloom | PC |
-| Roderic | Sir Roderic Lightbearer | PC |
-| Castor | Castor | PC |
+**3c** If `recap_teaser` is absent or empty, set it to `[TODO: Add recap-teaser]`.
 
-**3d** Speech-to-text handling: interpret meaning behind fragmented speech.
-Do not treat garbled output as literal text.
-Synthesize across multiple fragmented lines to extract intended meaning.
+### Step 4 — Map YAML fields to KB operations
 
-### Step 4 — Analyze transcript content
+Map each YAML field to the KB operations it drives:
 
-Read through the game-relevant portions and classify content:
+| YAML Field | KB Operation |
+|---|---|
+| `summary`, `major_events` | Session file (Summary, Major Events) |
+| `new_entities.npcs`, `new_entities.locations`, `new_entities.items`, `new_entities.factions` | Create entity files |
+| `entity_updates` | Update existing entity files |
+| `questions_raised` | Story hooks |
+| `questions_resolved`, `arc_progress` | Story arc updates |
+| `notable_quotes` | Session file (Notable Quotes) |
+| `rules_clarifications` | PC files (Key Traits) + session notes |
+| `unresolved_references` | `review/pending-changes.md` |
+| `gm_observations` | Session file (Session Notes) / `gm-notes/` |
+| `filtered_sections` | Report only (not written to KB) |
+| `recap_teaser` | Session file (Recap-Teaser) |
 
-| Content type | How to identify | Destination |
-|---|---|---|
-| GM narration / events | GM describes scenes, actions | Session file (Summary, Major Events) |
-| World-building discussion | Geography, history, culture | `grimwild-kb/world/` or entity files |
-| New NPC introduction | GM introduces named character | `grimwild-kb/npcs/` |
-| New location | New place visited/described | `grimwild-kb/locations/` |
-| New item | Named item appears | `grimwild-kb/items/` |
-| New faction | Named group appears | `grimwild-kb/factions/` |
-| PC development | Players reveal character details | Update `grimwild-kb/pcs/` |
-| Story arc progress | Events advance/complicate arcs | Update `grimwild-kb/story-arcs/` |
-| New story hooks | Unanswered questions, mysteries | `story-arcs/group/hooks.md` or `character/*/hooks.md` |
-| Rules/mechanical details | Ability usage, class features | Update PC file (Key Traits) |
-| Notable quotes | Memorable in-character lines | Session file (Notable Quotes) |
+### Step 5 — Entity resolution (validation)
 
-Track scene transitions for chronological summary organization.
+The extraction step pre-identified entities. This step validates them:
 
-### Step 5 — Resolve entity references
-
-For every entity name mentioned in the transcript:
-
-1. Check `config/entity-aliases.yaml` for a canonical match.
-2. Check KB directory filenames for a slug match (e.g., "Edric Bloom" → `edric-bloom.md` in `pcs/`).
-3. Check `config/speaker-map.yaml` to distinguish PCs from NPCs:
+1. **Verify `entity_updates` targets exist** — For each entry in `entity_updates`, confirm the target entity has a file in the KB. If not, flag in `review/pending-changes.md`.
+2. **Verify `new_entities` targets don't already exist** — For each entry in `new_entities`, confirm no existing KB file matches. If a match exists, convert to an `entity_updates` operation instead.
+3. **Cross-check `unresolved_references`** — Check each entry against the full KB filename index. If you can now resolve one, move it to the appropriate category. If still ambiguous, keep it for `pending-changes.md`.
+4. **Check `config/speaker-map.yaml`** to distinguish PCs from NPCs:
    - Any character listed under a player's `characters:` list is a **PC** → route to `grimwild-kb/pcs/`.
    - All other characters are **NPCs** → route to `grimwild-kb/npcs/`.
-4. If no match is found, flag the reference as unresolved (see Step 8).
-
-Add: fuzzy matching for speech-to-text misspellings (e.g., "Ashton Vale" → "Ashen Vale").
-Check `config/speaker-map.yaml` `transcription_corrections` for known STT errors.
 
 ### Step 6 — Create session file
 
 Read `templates/session.md`.
 Fill in:
 
-- **Number:** from `$ARGUMENTS`
-- **Title:** synthesize a short, evocative title from the session's major events
-- **Date Played:** extracted from transcript timestamps (Step 1)
-- **Recap-Teaser:** from `$ARGUMENTS`, or placeholder if absent
-- **Summary:** 2-3 paragraph narrative of the session, one sentence per line
-- **Major Events:** chronological bullet list of key events
-- **New Questions & Hooks:** open threads introduced this session
-- **Questions Answered / Arcs Advanced:** resolved or progressed threads
-- **NPCs Introduced:** with `[[wiki-links]]` and brief descriptions
-- **Locations Visited:** with `[[wiki-links]]`
-- **Notable Quotes:** cleaned-up memorable lines with speaker attribution
-- **Session Notes:** GM observations about pacing, player engagement, things to revisit
+- **Number:** from `session_number`
+- **Title:** synthesize a short, evocative title from `summary` and `major_events`
+- **Date Played:** from `date_played`
+- **Recap-Teaser:** from `recap_teaser`, or placeholder if absent
+- **Summary:** from `summary`, reformatted with one sentence per line
+- **Major Events:** from `major_events`, as a chronological bullet list
+- **New Questions & Hooks:** from `questions_raised`
+- **Questions Answered / Arcs Advanced:** from `questions_resolved` and `arc_progress`
+- **NPCs Introduced:** from `new_entities.npcs`, with `[[wiki-links]]` and brief descriptions
+- **Locations Visited:** from `new_entities.locations` plus locations mentioned in `major_events`, with `[[wiki-links]]`
+- **Notable Quotes:** from `notable_quotes`, cleaned up with speaker attribution
+- **Session Notes:** from `gm_observations`
 
 Save to `grimwild-kb/sessions/session-{N}.md`.
 
-**Quote extraction rules:**
+**Quote rules:**
 
 | Include | Exclude |
 |---|---|
@@ -144,10 +128,10 @@ Save to `grimwild-kb/sessions/session-{N}.md`.
 
 ### Step 6b — Create new entity files
 
-When the transcript introduces an entity that does not yet exist in the KB:
+For each entry in `new_entities` (npcs, locations, items, factions):
 
 1. Read the appropriate template from `templates/` (on-demand).
-2. Fill in the template with information from the transcript.
+2. Fill in the template with information from the YAML entry.
 3. Use the one-sentence-per-line convention for all prose sections.
 4. Use `[[Entity Name]]` wiki-links for all cross-references.
 5. Save to the correct KB directory with a slugified filename.
@@ -163,6 +147,8 @@ When the transcript introduces an entity that does not yet exist in the KB:
 ### Step 6c — Identify and create story hooks
 
 A **hook** is a potential story arc that hasn't been activated in play yet — an open question, unresolved mystery, or thread that could become a full arc.
+
+Hooks come from `questions_raised` in the YAML.
 
 **What qualifies as a hook:**
 - Unanswered questions about a character's past (unknown parentage, lost memories)
@@ -205,7 +191,7 @@ Append new hooks to an existing `hooks.md` if one already exists. Do not duplica
 
 **Hook → Arc lifecycle:**
 
-When the transcript shows the party engaging with an existing hook, consider promoting it to a full arc.
+When the YAML shows progress on an existing hook (via `arc_progress` or `questions_resolved`), consider promoting it to a full arc.
 Remove the hook entry from `hooks.md` and create a dedicated arc file:
 - Group: `grimwild-kb/story-arcs/group/{arc-slug}.md`
 - Character: `grimwild-kb/story-arcs/character/{character-slug}/{arc-slug}.md`
@@ -226,7 +212,7 @@ For every new entity created, propose aliases in `config/entity-aliases.yaml`:
 - Do NOT propose generic descriptors (e.g., "the paladin", "the wizard", "the old man") as aliases.
   These are too ambiguous — multiple entities may share the same descriptor.
   If the GM wants a descriptor alias, they can add it manually after review.
-- If players consistently use a nickname during the session, propose it as an alias (only if unambiguous — the nickname must clearly refer to a single entity).
+- If the YAML `notable_quotes` or `entity_updates` suggest players consistently use a nickname, propose it as an alias (only if unambiguous — the nickname must clearly refer to a single entity).
 
 Add aliases under the correct category section (`characters:`, `locations:`, `items:`, `factions:`).
 Create a new category section if one doesn't exist yet.
@@ -237,36 +223,36 @@ All alias additions appear in the git diff for human review — never silently m
 
 Add entries to `review/pending-changes.md` for:
 
-- **Contradictions:** Information in the transcript that conflicts with existing KB content.
+- **Contradictions:** Information in the YAML that conflicts with existing KB content.
   ```markdown
   ## Contradictions
-  - Session {N} transcript: Says Castor is from the Northern Reaches, but pcs/castor.md says Southern Marches
+  - Session {N}: Says Castor is from the Northern Reaches, but pcs/castor.md says Southern Marches
   ```
 
-- **Unresolved references:** Entity names that cannot be matched to existing entries or confidently identified as new.
+- **Unresolved references:** From the YAML `unresolved_references` field — entity mentions that cannot be matched to existing entries or confidently identified as new.
   ```markdown
   ## Unresolved References
-  - Session {N} transcript: "the Shepherd's Teeth" — New location? Or alias for existing entity?
+  - Session {N}: "the Shepherd's Teeth" — New location? Or alias for existing entity?
   ```
 
 - **Ambiguous content:** Sections where it's unclear whether content is player-visible or GM-private.
   ```markdown
   ## Ambiguous Content
-  - Session {N} transcript: GM hints about a secret behind the ruins — player-visible mystery or GM-only info?
+  - Session {N}: GM hints about a secret behind the ruins — player-visible mystery or GM-only info?
   ```
 
 - **Missing context:** Information that seems incomplete or references unknown sessions/events.
   ```markdown
   ## Missing Context
-  - Session {N} transcript: References "the Pact of Thorns" but no details provided — placeholder entry created
+  - Session {N}: References "the Pact of Thorns" but no details provided — placeholder entry created
   ```
 
 ### Step 9 — Update existing entity files
 
-When the transcript contains information about an entity that already exists in the KB:
+For each entry in `entity_updates`:
 
 1. Read the existing entity file (on-demand).
-2. **Incorporate new information** into the existing content — rewrite sections as needed so the file reads as a complete, up-to-date representation of the entity. Do not simply append to the end.
+2. **Incorporate new information** from `new_info` into the existing content — rewrite sections as needed so the file reads as a complete, up-to-date representation of the entity. Do not simply append to the end.
 3. When new details expand on existing content, weave them into the relevant section to maintain a coherent narrative.
 4. When new details supersede outdated information (e.g., a character's status changes), update the content in place.
 5. If information genuinely conflicts and you cannot determine which is correct, keep the existing content and flag the contradiction in `review/pending-changes.md` (Step 8).
@@ -274,6 +260,8 @@ When the transcript contains information about an entity that already exists in 
 7. Preserve all existing `[[wiki-links]]` and add new ones as appropriate.
 8. Update `## Session Appearances` on every PC and NPC that appears in the session.
 9. Update `## Current Threads` on PCs if the session changes their active storylines.
+
+For `rules_clarifications` entries: extract relevant mechanical information to the appropriate PC file's Key Traits section.
 
 ### Step 10 — Split GM-private vs player-visible content
 
@@ -288,49 +276,54 @@ Route content based on sensitivity:
 | Story hooks (open questions, mysteries the players know about) | `grimwild-kb/story-arcs/` (player-visible) |
 | GM answers to hooks, planned reveals for hooks | `gm-notes/` (reference the hooks file) |
 | NPC secrets the players haven't learned | `gm-notes/` |
+| `gm_observations` from YAML | Session file (Session Notes) for pacing/engagement observations; `gm-notes/` for plot-direction notes |
 
-When transcript content mixes both, split it: player-visible parts go to the KB, GM-private parts go to `gm-notes/`.
+When content mixes both, split it: player-visible parts go to the KB, GM-private parts go to `gm-notes/`.
 In the `gm-notes/` file, include a reference back to the related KB entry: `See also: [[Entity Name]]`.
 
 If it's unclear whether content is player-visible or GM-private, flag it in `review/pending-changes.md` (Step 8) and default to placing it in `gm-notes/` (safer to keep private than to accidentally reveal).
 
-**Note:** Most transcript content is inherently player-visible since players were present for the session.
-GM-private content from transcripts is rare — mainly meta-observations about plot direction, pacing notes, or things the GM noticed that players didn't.
+**Note:** Most session content is inherently player-visible since players were present.
+GM-private content from sessions is rare — mainly meta-observations about plot direction, pacing notes, or things the GM noticed that players didn't.
 
-### Step 11 — Move processed transcript
+### Step 11 — Move processed files
 
 **Pre-move checklist** — verify all of the following before moving:
 
-- [ ] All game-relevant sections of the transcript have been processed (nothing skipped).
+- [ ] All YAML fields have been processed (nothing skipped).
 - [ ] Session file has been created with all template sections filled.
-- [ ] New entity files have been created for all new entities found.
-- [ ] Existing entity files have been updated where applicable.
+- [ ] New entity files have been created for all entries in `new_entities`.
+- [ ] Existing entity files have been updated for all entries in `entity_updates`.
 - [ ] Alias proposals have been added to `entity-aliases.yaml`.
-- [ ] Contradictions and ambiguous references have been flagged in `pending-changes.md`.
+- [ ] Contradictions and unresolved references have been flagged in `pending-changes.md`.
 - [ ] GM-private content has been routed to `gm-notes/`.
 - [ ] Story hooks have been identified and added to the appropriate hooks.md files.
 - [ ] All generated prose uses one-sentence-per-line.
 - [ ] All entity references use `[[wiki-link]]` syntax.
 
-Once verified, move the transcript:
+Once verified, move the YAML file:
 
 ```
-inbox/transcripts/filtered/{filename} → inbox/transcripts/processed/{YYYY-MM-DD}/{filename}
+inbox/transcripts/extracted/{filename} → inbox/transcripts/processed/{YYYY-MM-DD}/{filename}
 ```
 
 Create the date subdirectory if it doesn't exist.
 Use today's date (the date of processing, not the date the session was played).
+
+The prepared transcript stays in `inbox/transcripts/prepared/` — it serves as an archival source for potential re-extraction. The `source_transcript` field in the YAML references its path.
 
 ### Step 12 — Report summary
 
 After processing, report:
 
 ```
-## Processed: {filename}
+## Processed: {yaml filename}
 
 **Session:** {number} — {title}
 **Date Played:** {date}
-**Transcript lines:** {total} ({game} game, {non-game} non-game skipped)
+**Source YAML:** {yaml path} ({token estimate})
+**Source Transcript:** {source_transcript from YAML}
+**Filtered sections:** {count from filtered_sections} ({total lines} lines skipped during extraction)
 
 **Files created:**
 - grimwild-kb/sessions/session-{N}.md
@@ -358,18 +351,8 @@ After processing, report:
 
 ## Edge Cases
 
-**Speech-to-text quality:**
-Interpret intent, not literal garbled text.
-Use surrounding context to reconstruct meaning from fragmented STT output.
-Check `config/speaker-map.yaml` `transcription_corrections` for known errors.
-
-**Player OOC vs in-character:**
-Use context to distinguish out-of-character discussion from in-character speech.
-Do not extract OOC banter as notable quotes.
-Rules discussions are OOC but may contain useful mechanical data for PC files.
-
 **Rules discussions as PC data:**
-When players discuss abilities, class features, or mechanical details, extract the relevant information for PC files (Key Traits section).
+When `rules_clarifications` entries describe abilities, class features, or mechanical details, extract the relevant information for PC files (Key Traits section).
 Do not include the rules discussion itself in the session summary.
 
 **Ambiguous entity type:**
@@ -379,21 +362,13 @@ The human reviewer can move it.
 **PC vs NPC detection:**
 Always check `config/speaker-map.yaml` first.
 Any character listed under a player entry is a PC.
-If a character is not in the speaker map and the transcript doesn't clarify, default to NPC and flag for review.
+If a character is not in the speaker map and the YAML doesn't clarify, default to NPC and flag for review.
 
 **Story arcs with secrets:**
 Split the arc into two parts:
 - Player-visible arc file in `grimwild-kb/story-arcs/` with known facts and open questions.
 - GM-private file in `gm-notes/` with answers, planned reveals, and secret motivations.
 The GM-private file should reference the arc: `See also: [[Arc Name]]`.
-
-**Overlapping speakers / crosstalk:**
-When multiple speakers talk rapidly over each other, synthesize the meaningful content across the rapid-fire lines.
-Do not try to preserve exact turn-by-turn ordering when it's garbled.
-
-**Long transcripts:**
-Process in chronological chunks, maintaining a running entity/event list across chunks.
-Do not lose track of entities mentioned earlier in the transcript.
 
 **Session with no major events:**
 Provide an honest summary even if little happened.
@@ -404,8 +379,8 @@ Use the placeholder `[TODO: Add recap-teaser]` in the session file.
 Do not fabricate a teaser.
 
 **Entity mentioned but not introduced:**
-If an entity is only mentioned in passing (e.g., "I heard about the Black Tower once"), do not create a full entity file.
-Only create files for entities that are meaningfully introduced — described, interacted with, or plot-relevant.
+If an entity appears in `unresolved_references` and only shows up as a passing mention, do not create a full entity file.
+Only create files for entities in `new_entities`.
 
 **Duplicate session number:**
 If `grimwild-kb/sessions/session-{N}.md` already exists, warn the user and stop.

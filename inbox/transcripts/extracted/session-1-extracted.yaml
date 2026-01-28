@@ -1,0 +1,566 @@
+session_number: 1
+date_played: "2026-01-24"
+source_transcript: "inbox/transcripts/prepared/session-2026-01-24-prepared.txt"
+
+recap_teaser: |
+  Behind them, Ashbrook crumbles to dust. Before them, a cursed river
+  races toward the Great Beaver Dam — and beyond it, everything they love.
+
+summary: |
+  The party stood on the mountainside above the ruins of Ashbrook — once
+  called Eld Ashara, the Place of Unmaking — watching the town collapse
+  into decay behind them. They had removed the Seal of Unmaking from its
+  altar beneath the town's spring, and in doing so released the imprisoned
+  force of Ruin into the headwaters of the Ashen Flow. The cursed water
+  now raced downstream toward the Great Beaver Dam, and beyond it, the
+  Ashen Vale and Crownvale — home to people Garland and Castor cared
+  deeply about.
+
+  Desperate to outrun the corruption, the party rode hard through the
+  Cinderwall mountains. Along the way, they were stopped by a pack of
+  dire coyotes — shapeshifters blessed by the Wild Hunt, one of the old
+  gods. The coyote leader demanded the Seal, claiming the party was
+  carrying ruin through their hunting grounds. Through persuasion and
+  bardic storytelling, Roderic and Edric convinced the pack to let them
+  pass, though the price was steep: a horse, which Garland soothed with
+  an illusion spell before surrendering it to the hungry pack.
+
+  Riding through the night, the party reached Beaver Lake by morning.
+  They split their efforts: Castor shifted into beaver form and convinced
+  the colony to evacuate downstream, wielding a stick — a sign of
+  authority in beaver society — and slapping his tail urgently to convey
+  the danger. Garland, assisted by Edric's bardic melody, erected a
+  spirit wall across the river to filter the ruin from the water. The
+  barrier held, though imperfectly — the corruption began pooling at the
+  barrier site, creating a new concentration of ruinous energy that would
+  eventually overwhelm the ward. Meanwhile, Roderic attempted to heal the
+  exhausted horses by calling upon Lucifer's light, but the proximity of
+  ruin overwhelmed his divine power. The horses withered and aged before
+  his eyes, deepening his crisis of faith.
+
+  With no mounts and the party exhausted, Garland recalled an abandoned
+  fisher's hut on the lakeshore where they could rest. During the night
+  watch, the hut's foundations crumbled — whether from age or the creeping
+  influence of ruin — and Castor, standing watch in giraffe form, felt a
+  growing doubt about his own craftsmanship. As the party prepared to
+  leave, Garland spotted a scrap of fabric bearing the livery of his
+  grandson Aldric, snagged in the reeds by the lake — fresh, as if
+  someone connected to Aldric had been there recently. Combined with the
+  letter from Rowan mentioning someone dressed in Aldric's livery near
+  Ashbrook before the disaster, suspicion fell on the ambitious young lord.
+
+  Walking through the Ashen Vale toward Crownvale, the party encountered
+  a merchant named Jacob whose preserved fish had inexplicably rotted.
+  His young daughter spoke disturbingly of endings as natural and
+  comfortable things. Edric purchased a barrel of the ruined fish and a
+  cart, planning to sell it as fertilizer. The party debated whether the
+  girl's words reflected the spreading influence of ruin on the minds of
+  ordinary people. Roderic warned against reinforcing the philosophy of
+  "new beginnings through destruction," fearing it empowered ruin further.
+
+  Arriving in Crownvale, the party moved quickly. Garland, keeping his
+  hood drawn to avoid recognition, purchased horses. Edric distracted
+  Aldric's guards — including Sergeant Iyer — by buying them drinks at
+  the tavern, where he pumped them for information. He came away convinced
+  Aldric was not involved in the ruin's release. However, Edric experienced
+  a disturbing vision of Sergeant Iyer's marital troubles and felt an
+  almost irresistible compulsion to weaponize that knowledge — a whisper
+  of ruin's influence that he barely resisted. Mira, Aldric's ten-year-old
+  daughter, recognized Garland despite his disguise, and he slipped her a
+  letter warning Aldric of the approaching danger.
+
+  A brief complication arose when the horse seller, Laura, accused Garland
+  of theft — apparently confused or manipulated — but the guards recognized
+  Garland and dismissed the claim. The townspeople began turning against
+  Laura, but Roderic intervened with a stirring blessing, urging compassion
+  and attributing her confusion to the corrupting influence spreading
+  across the land. The party departed Crownvale on fresh horses, headed
+  for Beacon Hold to seek counsel from the Church of Lucifer and the
+  Wizard's College, knowing that Garland's spirit wall would not hold
+  forever.
+
+major_events:
+  - description: |
+      The party fled the ruins of Ashbrook on horseback, racing the cursed
+      river downstream through the Cinderwall mountains toward the Great
+      Beaver Dam.
+    entities_involved: ["Castor", "Roderic", "Edric", "Garland"]
+    location: "Cinderwall"
+
+  - description: |
+      A pack of dire coyotes — shapeshifters blessed by the Wild Hunt —
+      blocked the mountain road, demanding the Seal of Unmaking. Their
+      leader, a half-shifted man with black eyes, claimed the party was
+      carrying ruin through their hunting grounds. Through Roderic's
+      appeals and Edric's bardic storytelling, the party convinced the
+      coyotes to let them pass in exchange for a horse.
+    entities_involved: ["Roderic", "Edric", "Garland", "Castor"]
+    location: "Cinderwall"
+
+  - description: |
+      Garland cast an illusion on Castor's horse, letting it believe it
+      was frolicking in the pastures of Greenholt, before surrendering it
+      to the dire coyotes as payment for passage. Castor rode double with
+      Garland for the rest of the journey.
+    entities_involved: ["Garland", "Castor"]
+    location: "Cinderwall"
+
+  - description: |
+      Arriving at Beaver Lake by morning, the party split their efforts.
+      Castor shifted into beaver form and entered the colony's burrows,
+      wielding a stick — a sign of authority — to convince the beavers to
+      evacuate downstream. The beavers respected the stick and fled over
+      the dam into the lower Ashen Flow.
+    entities_involved: ["Castor"]
+    location: "Beaver Lake"
+
+  - description: |
+      Garland, with Edric singing a supportive melody, cast a potent
+      spirit wall across the river upstream of the lake to filter the
+      corruption from the water. The barrier held but imperfectly — it
+      blocked the ruin, but the corrupted energy began pooling at the
+      barrier site, creating a growing concentration of ruinous force
+      that would eventually overwhelm the ward.
+    entities_involved: ["Garland", "Edric"]
+    location: "Beaver Lake"
+
+  - description: |
+      Roderic called upon Lucifer's light to heal the exhausted horses,
+      but the proximity of ruin overwhelmed his divine power. The horses
+      withered and aged before his eyes, leaving the party without mounts.
+      Roderic knelt over the fallen animals and prayed, his faith shaken
+      further by his inability to protect even these creatures.
+    entities_involved: ["Roderic"]
+    location: "Beaver Lake"
+
+  - description: |
+      During the night watch at an abandoned fisher's hut, the hut's
+      foundations crumbled. Garland discovered a scrap of fabric bearing
+      Aldric's livery caught in the reeds by the lake — fresh, suggesting
+      someone connected to Aldric had been there very recently.
+    entities_involved: ["Garland", "Castor"]
+    location: "Beaver Lake"
+
+  - description: |
+      On the road through the Ashen Vale, the party encountered a merchant
+      named Jacob whose preserved fish had inexplicably rotted. His young
+      daughter spoke of endings as natural and comfortable, disturbing the
+      party. Edric purchased a barrel of ruined fish and a cart, planning
+      to sell the fish as fertilizer in Crownvale.
+    entities_involved: ["Edric", "Garland", "Roderic"]
+    location: "Ashen Vale"
+
+  - description: |
+      Roderic warned the party against casually endorsing the philosophy
+      of renewal through destruction, fearing such talk empowered the
+      force of ruin. This sparked a theological debate — Edric countered
+      that the old gods do not care for faith, while Roderic argued they
+      might still need it.
+    entities_involved: ["Roderic", "Edric"]
+    location: "Ashen Vale"
+
+  - description: |
+      In Crownvale, Edric distracted Aldric's guards by buying them drinks
+      and extracted information from Sergeant Iyer. He came away convinced
+      Aldric was not involved in the ruin's release. However, Edric
+      experienced a disturbing compulsion — a vision of Iyer's personal
+      troubles and an urge to weaponize that knowledge — which he barely
+      resisted, recognizing it as ruin's influence on his mind.
+    entities_involved: ["Edric"]
+    location: "Crownvale"
+
+  - description: |
+      Mira, Aldric's ten-year-old daughter, recognized Garland despite
+      his disguise. Garland gave her candy and slipped her a letter
+      warning Aldric of the approaching corruption.
+    entities_involved: ["Garland", "Mira"]
+    location: "Crownvale"
+
+  - description: |
+      The horse seller Laura accused Garland of stealing the horses he
+      had legitimately purchased. The guards recognized Garland and
+      dismissed the claim, but the townspeople began turning against Laura.
+      Roderic intervened with a blessing, urging compassion and attributing
+      her confusion to the corrupting influence of ruin.
+    entities_involved: ["Garland", "Roderic"]
+    location: "Crownvale"
+
+new_entities:
+  npcs:
+    - name: "Mira"
+      description: |
+        Aldric Garlandsson's ten-year-old daughter, precocious and
+        sharp-eyed. She recognized Garland despite his disguise, calling
+        him "Pappy" and identifying him by his feet. She has a warm
+        relationship with her great-grandfather and serves as an unwitting
+        go-between, delivering Garland's warning letter to Aldric.
+      first_location: "Crownvale"
+      notes: "Personal relationship with Garland. Likely to recur as connection to Aldric's household."
+
+    - name: "Sergeant Iyer"
+      description: |
+        A sergeant-at-arms in Aldric's guard, responsible for escorting
+        Mira. A dutiful soldier with personal troubles — his wife has been
+        unfaithful. Edric charmed him into abandoning his post briefly
+        for drinks and pumped him for information about Aldric.
+      first_location: "Crownvale"
+      notes: "Connected to Aldric's household. Edric extracted information from him. Stationed in Crownvale where party may return."
+
+  locations:
+    - name: "Beaver Lake"
+      type: "Landmark"
+      description: |
+        A lake in the foothills of the Cinderwall, formed by the Great
+        Beaver Dam. The upper Ashen Flow feeds into it, and the lower
+        Ashen Flow continues beyond the dam into the Ashen Vale. Home to
+        a beaver colony that Castor knows well — his kin built and
+        maintained the dam for generations. The beavers were evacuated
+        downstream when the party arrived ahead of the ruin.
+      notes: "Garland erected a spirit wall upstream of the lake to block the ruin. The corruption is pooling at the barrier site. An abandoned fisher's hut sits on the lakeshore."
+
+    - name: "Crownvale"
+      type: "Settlement"
+      description: |
+        The largest town in the Ashen Vale, seat of Aldric Garlandsson's
+        ambitions. Built around the ruins of an old Imperium fort that
+        Aldric has been restoring as his keep, with ramshackle buildings
+        growing up around the walls. A farming community and market town
+        with a bridge approach. Aldric styles himself a lord here, basing
+        his authority on the Greenholt name.
+      notes: |
+        Aldric's keep is built on Imperium ruins. The town is the capital
+        of a farming region. Garland is widely recognized here but
+        prefers to avoid attention since Aldric's power relies on Garland's
+        absence. Crown Vale is downstream of Beaver Lake and threatened
+        by the approaching ruin.
+
+    - name: "Farlands Pass"
+      type: "Landmark"
+      description: |
+        A mountain pass through the Cinderwall connecting the Ashen Vale
+        region to lands beyond. Used by trade caravans.
+
+  items: []
+
+  factions: []
+
+entity_updates:
+  - entity: "Castor"
+    category: "pc"
+    new_info: |
+      Can communicate with beavers through gestures, body language, and
+      tail-slapping — not verbal speech, but enough to convey urgency and
+      general ideas. The beaver colony at Beaver Lake knows and recognizes
+      him. In beaver society, holding a stick signifies authority. Castor
+      is deeply connected to this colony — it is essentially his home.
+      He can shapeshift into various animals (giraffe, horse, mule, etc.)
+      but all his forms retain subtle beaver characteristics — a beaver
+      tail on a horse, beaver feet on a giraffe. His true form is beaver.
+      He has traveled extensively across the continent as a beaver,
+      including to regions with savannah climates, giving him knowledge
+      of exotic fauna. He was originally a human carpenter before being
+      transformed into a beaver.
+
+  - entity: "Sir Roderic Lightbearer"
+    category: "pc"
+    new_info: |
+      Carries the authority of the Church of Lucifer as a knight errant
+      on assignment — not on sabbatical, but specifically tasked with
+      redemption through deeds after a crisis of faith. His battalion was
+      destroyed, and he blames his insufficient faith. The failed attempt
+      to heal the horses deepened this crisis. He possesses the ability to
+      sense when people are contemplating sin — body language and spiritual
+      perception from his years as an acolyte. He wears
+      recognizable church armor and is identifiable as a paladin. His
+      order is called "The Redeemers of Light". He reports to a superior in the church hierarchy.
+
+  - entity: "Edric Bloom"
+    category: "pc"
+    new_info: |
+      His bardic instrument is storytelling rather than music — he tells
+      short tales and parables to produce his bardic effects. He carries
+      the Seal of Unmaking in its warded box. He knows about Altreth, a
+      city-state destroyed in a manner similar to Ashbrook — people who
+      entered aged rapidly and died, and the story itself was "unmade"
+      from memory. He knows that whiteglass resists ruin. He has a
+      pragmatic streak regarding Count Marrow — he's willing to steal
+      from Marrow's collection if it would help. He experienced a
+      disturbing compulsion in Crownvale — a vision of Sergeant Iyer's
+      marital troubles and an almost irresistible urge to weaponize that
+      knowledge, which he recognized as ruin's influence on his mind.
+
+  - entity: "Garland yn Greenholt"
+    category: "pc"
+    new_info: |
+      Known as "Lord Greenholt" in the Ashen Vale. His grandson Aldric
+      styles himself a lord in Crownvale, basing his authority on the
+      Greenholt bloodline — but Aldric's power relies on Garland's
+      absence. Garland is widely recognized throughout the region and
+      must disguise himself to move unnoticed. He has a warm relationship
+      with Mira, Aldric's ten-year-old daughter, who calls him "Pappy."
+      He carries foreign candy (butterscotch) as treats for grandchildren.
+      He suspects Aldric may be
+      connected to the events at Ashbrook based on Rowan's letter and
+      the livery found at Beaver Lake.
+
+  - entity: "Aldric Garlandsson"
+    category: "npc"
+    new_info: |
+      Has a ten-year-old daughter named Mira and at least one other
+      younger child. His guards wear brigandine armor and carry spears
+      topped with his livery. He is rebuilding an Imperium-era fort as
+      his keep in Crownvale. His consolidation of power relies on
+      Garland's absence. A scrap of his livery was found fresh at Beaver
+      Lake, and Rowan's letter mentioned someone in his livery near
+      Ashbrook before the disaster. However, Edric's investigation of
+      Sergeant Iyer suggests Aldric is not directly involved with the
+      ruin's release. His relationship with Garland is complicated —
+      he would not be happy to see his grandfather in Crownvale.
+
+  - entity: "Count Albrecht Marrow"
+    category: "npc"
+    new_info: |
+      Sent the party to retrieve the Seal of Unmaking from Ashbrook. He
+      provided a warded box and offered suspiciously generous coin while
+      asking too few questions. He is known to collect whiteglass
+      artifacts. His son holds a ranking position in the Church of
+      Lucifer, giving the Marrow family influence over the local church
+      in Marrow County. The party suspects his motives and has decided
+      not to return the Seal to him. Marrow County lies between the
+      Ashen Vale and Beacon Hold, meaning the party must pass through
+      his territory.
+
+  - entity: "Rowan yn Greenholt"
+    category: "npc"
+    new_info: |
+      Rowan had been living in Ashbrook before the disaster. She wrote
+      a letter to Garland mentioning strange occurrences — stonework
+      that changed by night, water that tasted too sweet, fish lingering
+      in the shallows — and reported seeing someone dressed in Aldric's
+      livery. She is now gone, presumably killed when Ashbrook was
+      destroyed. She was Garland's granddaughter (distinct from Aldric).
+
+questions_raised:
+  - "What does Count Marrow want with the Seal of Unmaking, and did he know what removing it would unleash?"
+  - "Why was someone wearing Aldric's livery at Beaver Lake and near Ashbrook before the disaster?"
+  - "Is the spreading influence of ruin affecting people's minds — making them accept decay and endings as natural?"
+  - "Can the spirit wall hold long enough for the party to find a solution at Beacon Hold?"
+  - "What happened to the Imperium that even with the Unmaker sealed and Lucifer ascendant, the empire still fell?"
+  - "Is Edric's disturbing compulsion in the tavern a sign that ruin is specifically targeting the party?"
+  - "Does Marrow's son in the church hierarchy mean the church in Marrow County cannot be trusted?"
+  - "Can the Seal of Unmaking be used to reseal the force of ruin, and if so, how?"
+
+questions_resolved:
+  - question: "Can Castor communicate with beavers?"
+    answer: |
+      Not through verbal speech, but through gestures, body language,
+      tail-slapping, and familiarity built over generations of living
+      among them. He can convey urgency and general concepts but not
+      nuanced ideas.
+    session_established: 1
+
+  - question: "What is the relationship between the old gods and the new gods?"
+    answer: |
+      The old gods are forces of nature — uncaring, neither good nor evil,
+      but indifferent to human suffering. The new gods, led by Lucifer,
+      represent civilization, order, and care for people. Lucifer drove
+      the old gods into shadow to protect civilization. The Wild Hunt and
+      the force of Ruin are old gods. The old traditions call the force
+      of ruin "the Gentle Collapse" — a natural necessity, not a demon —
+      suggesting the Luciferians may have imprisoned something that was
+      never meant to be caged.
+    session_established: 1
+
+  - question: "What is the party's relationship with Count Marrow?"
+    answer: |
+      Marrow hired them to retrieve the Seal of Unmaking. The party has
+      decided not to return it to him, suspecting his motives. They plan
+      to bypass Marrow County on their way to Beacon Hold, though this
+      will be difficult as it lies directly in their path.
+    session_established: 1
+
+arc_progress:
+  - arc_name: "Curse of Ruin"
+    arc_type: "group"
+    development: |
+      The party released the force of ruin by removing the Seal of
+      Unmaking from Ashbrook. They raced ahead of the cursed river,
+      evacuated the beaver colony, and erected a spirit wall to
+      temporarily hold back the corruption. However, the ruin is pooling
+      at the barrier and spreading its influence across the land — rotting
+      preserved food, crumbling structures, and subtly affecting people's
+      minds. The party now heads to Beacon Hold to seek help from the
+      Church of Lucifer and the Wizard's College before the spirit wall
+      fails.
+
+  - arc_name: "Garland's Uncover the Truth"
+    arc_type: "character"
+    development: |
+      Garland chose "Uncover the Truth" as his character arc, driven by
+      suspicion that his grandson Aldric may be connected to the events
+      at Ashbrook. Evidence: Rowan's letter mentioned someone in Aldric's
+      livery near Ashbrook before the disaster, and a fresh scrap of
+      Aldric's livery was found at Beaver Lake. Edric's investigation of
+      Aldric's guards suggests Aldric himself is uninvolved, but the
+      mystery remains — who bearing his colors was present at these
+      locations?
+
+  - arc_name: "Roderic's Redemption"
+    arc_type: "character"
+    development: |
+      Roderic's crisis of faith deepened when his attempt to heal the
+      horses was overwhelmed by ruin's proximity. He interpreted this as
+      confirmation that his faith is insufficient — the same weakness he
+      blames for his battalion's destruction. He is on assignment from
+      the church as a knight errant, tasked with redeeming himself through
+      deeds. His successful blessings in the Crownvale tavern offered a
+      counterpoint — his faith can still move people, even if it cannot
+      yet overcome the old gods' power.
+
+notable_quotes:
+  - speaker: "Edric"
+    line: "This has happened before. Altreth, the city-state on Mount Rapea, was destroyed in a similar way."
+    context: "Warning the party about the historical precedent for the Seal of Unmaking's destructive power"
+
+  - speaker: "Castor"
+    line: "We gotta do everything we can for that beaver dam."
+    context: "Castor's immediate, visceral reaction to learning the cursed river threatens his kin"
+
+  - speaker: "Edric"
+    line: "Some things are meant to fall."
+    context: "Philosophical moment debating whether to return the Seal to Count Marrow"
+
+  - speaker: "Garland"
+    line: "Look, the kingdom is the kingdom, but we're talking about the beaver dam, and we're talking about Crownvale. There's good people there."
+    context: "Grounding the debate about consequences in personal stakes"
+
+  - speaker: "Roderic"
+    line: "Unfortunately, Lucifer's light was unable to protect you from the wiles of this ruin. And that is because my own faith has been put to question."
+    context: "Praying over the withered horses after his healing failed"
+
+  - speaker: "Garland"
+    line: "Ruin turned a small village into an ancient ruin and killed my family. What are the beavers building a little bit more of a dam going to do?"
+    context: "Arguing with Castor about evacuating the beavers rather than having them reinforce the dam"
+
+  - speaker: "Roderic"
+    line: "You're empowering ruin to become more powerful. Don't you see that's what's going on here? He's been messing with us this whole time."
+    context: "Warning Edric that endorsing 'new beginnings through destruction' feeds ruin's power"
+
+rules_clarifications:
+  - topic: "Rituals vs. Spells"
+    clarification: |
+      Rituals can accomplish complex effects beyond even potent spells,
+      but require preparation — anchors, rights, and understanding of
+      the ritual's components. They cannot be performed on the fly.
+      Roderic's consecration rights are a prerequisite for rituals, not
+      a standalone power. Consecrating a body of water to resist ruin
+      would require a full ritual, not just a spell.
+
+  - topic: "Power Pools"
+    clarification: |
+      Power pools (like Roderic's healing pool) are rolled in place of
+      a stat. A grim result on a power pool means the pool is exhausted
+      for the session and the GM makes an impact move. Power pools return
+      at the start of the next session. They are distinct from resource
+      pools and timer pools.
+
+  - topic: "Castor's Animal Communication"
+    clarification: |
+      Not magical speech — behavioral and gestural communication from
+      years living as a beaver. Works well with beavers specifically.
+      Can convey urgency and general concepts but not nuance. Other
+      animals may be communicated with less effectively.
+
+  - topic: "Castor's Shapeshift Forms"
+    clarification: |
+      All of Castor's animal forms retain subtle beaver characteristics
+      (beaver tail on horse, beaver feet on giraffe). His true form is
+      beaver. Wild shape is a power pool that resets every scene.
+
+  - topic: "Story Points"
+    clarification: |
+      Players can spend story points to establish narrative facts. Used
+      this session to establish: the abandoned fisher's hut at Beaver
+      Lake, Farlands Pass as a named location. Story rolls (2d) determine
+      how established details play out.
+
+  - topic: "Roderic's Status with the Church"
+    clarification: |
+      Roderic is on assignment as a knight errant — not resigned or on
+      sabbatical. He retains the authority and recognition of a paladin
+      of the Church of Lucifer but does not currently command a battalion.
+      He reports to a superior and is tasked with redemption through
+      deeds. His order is "The Redeemers of Light."
+
+  - topic: "Messy Results"
+    clarification: |
+      A messy result is a success that also allows the GM to make an
+      impact move — complicating things, escalating the situation, or
+      introducing a problem. The action still succeeds.
+
+filtered_sections:
+  - line_range: "1-50"
+    reason: "Pre-session technical setup — recording notifications, Discord audio issues"
+  - line_range: "180-250"
+    reason: "Administrative discussion — character story arcs as game mechanic, sparks, vexes, character sheet UI"
+  - line_range: "288-318"
+    reason: "Administrative discussion — ritual rules correction from session zero montage"
+  - line_range: "460-495"
+    reason: "AFK break — player away, chit-chat about ice machines, current events"
+  - line_range: "805-870"
+    reason: "Rules explanation — how challenges work mechanically, dice rolling UI issues"
+  - line_range: "1050-1070"
+    reason: "Technical — private vs public dice roll settings in Foundry VTT"
+  - line_range: "1350-1355"
+    reason: "Technical — SeaVoice transcription bot crashing"
+  - line_range: "1376-1470"
+    reason: "Map confusion — extended discussion about which lake is which, map drawing"
+  - line_range: "1724-1728"
+    reason: "AFK — player bathroom break"
+  - line_range: "1867-1890"
+    reason: "Off-topic — ice machines, cartoon hats, personal banter"
+  - line_range: "2256-2270"
+    reason: "Off-topic — brief political/social humor"
+  - line_range: "2302-2375"
+    reason: "Rules/world-building discussion — Castor's giraffe form, continental geography, background revision"
+  - line_range: "2840-2845"
+    reason: "AFK — GM bathroom break"
+  - line_range: "3370-3405"
+    reason: "Off-topic — discussion about similar NPC names in previous campaign"
+  - line_range: "3486-3615"
+    reason: "Extended meta discussion — Roderic's relationship with the church, not in-character"
+  - line_range: "3912-4269"
+    reason: "Post-session wrap-up — player feedback, AI tools discussion, next session planning, Grimwild creator discussion"
+
+gm_observations:
+  - "The dire coyote encounter worked well as a social challenge — the party used persuasion and sacrifice rather than combat."
+  - "The split-task approach at Beaver Lake created good dramatic tension with parallel actions."
+  - "Roderic's failed healing roll created a powerful character moment — his crisis of faith became tangible."
+  - "Ruin's influence on ordinary people (the merchant's daughter, the horse seller Laura, Edric's compulsion) effectively established the spreading threat."
+  - "The party's plan for next session is to travel through Marrow County to Beacon Hold, seeking help from the Church and Wizard's College."
+
+unresolved_references:
+  - reference: "the livery at Beaver Lake"
+    context: "Fresh fabric bearing Aldric's livery found in the reeds at Beaver Lake"
+    likely_match: "Someone from Aldric's household, but Edric's investigation suggests Aldric himself is uninvolved"
+    line_approx: "~line 2465"
+
+  - reference: "Marrow's son in the church"
+    context: "Edric mentioned that the church in Marrow County is run by Marrow's son"
+    likely_match: "New NPC — Count Marrow's son, ranking member of the Church of Lucifer"
+    line_approx: "~line 4067"
+
+  - reference: "Jacob's daughter"
+    context: "The merchant's young daughter who spoke disturbingly of endings as natural and comfortable"
+    likely_match: "Unnamed child — possibly touched by ruin's influence, or a vessel for its philosophy"
+    line_approx: "~line 2607"
+
+  - reference: "Laura"
+    context: "Horse seller in Crownvale who accused Garland of theft, seemingly confused or manipulated"
+    likely_match: "Set dressing NPC, but her confusion may indicate ruin's influence on the town"
+    line_approx: "~line 3819"
+
+  - reference: "Greenholt"
+    context: "Garland's ancestral home, further from Beaver Lake than Crownvale but in the same direction"
+    likely_match: "May need its own location entry — currently only referenced in the greenholt-bloodline world entry"
+    line_approx: "~line 2211"

@@ -30,7 +30,7 @@ Process one extracted session YAML through the following steps.
 `$ARGUMENTS` format: `[yaml-file-path]`
 
 - If a path is provided, use that file directly.
-- If omitted, list files in `inbox/transcripts/extracted/` matching `session-*-extracted.yaml`.
+- If omitted, list files in `inbox/transcripts/extracted/` matching `session-*.yaml`.
   - Exclude `.gitkeep`.
   - If no extracted YAMLs exist, report that and stop.
   - If multiple extracted YAMLs exist, ask the user which one to process.
@@ -338,11 +338,8 @@ GM-private content from sessions is rare — mainly meta-observations about plot
 Once verified, move the YAML file:
 
 ```
-inbox/transcripts/extracted/{filename} → inbox/transcripts/processed/{YYYY-MM-DD}/{filename}
+inbox/transcripts/extracted/session-{N}.yaml → inbox/transcripts/processed/session-{N}.yaml
 ```
-
-Create the date subdirectory if it doesn't exist.
-Use today's date (the date of processing, not the date the session was played).
 
 The prepared transcript stays in `inbox/transcripts/prepared/` — it serves as an archival source for potential re-extraction. The `source_transcript` field in the YAML references its path.
 

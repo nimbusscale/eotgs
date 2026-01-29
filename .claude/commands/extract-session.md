@@ -131,7 +131,7 @@ After processing all chunks:
 Write the consolidated data to:
 
 ```
-inbox/transcripts/extracted/session-{NUMBER}-extracted.yaml
+inbox/transcripts/extracted/session-{NUMBER}.yaml
 ```
 
 Use the output format defined in the Output Format section below.
@@ -141,7 +141,7 @@ Use the output format defined in the Output Format section below.
 After extraction completes, report:
 
 ```
-## Extraction Complete: session-{NUMBER}-extracted.yaml
+## Extraction Complete: session-{NUMBER}.yaml
 
 **Transcript:** {path to prepared transcript}
 **Chunks processed:** {n} (~{total lines} lines)
@@ -166,7 +166,7 @@ After extraction completes, report:
 - {reference} (~line {n}) — {likely_match}
 - ...
 
-**Output:** inbox/transcripts/extracted/session-{NUMBER}-extracted.yaml ({n} tokens)
+**Output:** inbox/transcripts/extracted/session-{NUMBER}.yaml ({n} tokens)
 
 **Next step:** Review the YAML, then run incorporate-session
 ```
@@ -178,7 +178,7 @@ After extraction completes, report:
 ```yaml
 session_number: 1
 date_played: "2026-01-24"
-source_transcript: "inbox/transcripts/prepared/session-2026-01-24-prepared.txt"
+source_transcript: "inbox/transcripts/prepared/session-1.txt"
 
 recap_teaser: |
   When we last left our heroes, they had just discovered the seal
@@ -468,5 +468,5 @@ Review the YAML file before running incorporate-session:
 
 Then run:
 ```
-/incorporate-session inbox/transcripts/extracted/session-{NUMBER}-extracted.yaml
+/incorporate-session inbox/transcripts/extracted/session-{NUMBER}.yaml
 ```

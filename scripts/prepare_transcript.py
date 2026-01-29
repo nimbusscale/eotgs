@@ -29,7 +29,7 @@ def parse_args():
         description="Process a raw Grimwild transcript: map speakers and fix transcription errors.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='examples:\n'
-               '  %(prog)s --input inbox/transcripts/raw/session-2026-01-10-raw.txt\n'
+               '  %(prog)s --input inbox/transcripts/raw/session-1.txt --session 1\n'
                '  %(prog)s --input raw.txt --output processed.txt --session 3\n',
     )
     parser.add_argument(
@@ -38,11 +38,11 @@ def parse_args():
     )
     parser.add_argument(
         "--output", type=str, default=None,
-        help="Override output path (default: inbox/transcripts/prepared/session-{date}-prepared.txt).",
+        help="Override output path (default: inbox/transcripts/prepared/session-{N}.txt).",
     )
     parser.add_argument(
-        "--session", type=int, default=None,
-        help="Session number, used to select the correct character for multi-character players.",
+        "--session", type=int, required=True,
+        help="Session number (required). Used in output filename and to select the correct character for multi-character players.",
     )
     parser.add_argument(
         "--config", type=str, default=None,
@@ -142,22 +142,12 @@ def apply_corrections(text, corrections):
     return text
 
 
-def determine_output_path(args, input_path):
-    """Derive output path from input path.
-
-    Strips '-raw' suffix and adds '-prepared', placing output in
-    inbox/transcripts/prepared/.
-    """
+def determine_output_path(args):
+    """Determine output path using session number."""
     if args.output:
         return Path(args.output)
 
-    stem = input_path.stem  # e.g. "session-2026-01-10-raw"
-    # Strip -raw suffix if present
-    if stem.endswith("-raw"):
-        stem = stem[:-4]
-    new_name = f"{stem}-prepared.txt"
-
-    return REPO_ROOT / "inbox" / "transcripts" / "prepared" / new_name
+    return REPO_ROOT / "inbox" / "transcripts" / "prepared" / f"session-{args.session}.txt"
 
 
 def prepare_transcript(lines, speaker_map, corrections):
@@ -216,7 +206,7 @@ def main():
         lines, speaker_map, corrections,
     )
 
-    output_path = determine_output_path(args, input_path)
+    output_path = determine_output_path(args)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text("\n".join(output_lines) + "\n" if output_lines else "", encoding="utf-8")
 

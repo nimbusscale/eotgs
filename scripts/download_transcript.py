@@ -49,11 +49,15 @@ def parse_args():
     )
     parser.add_argument(
         "--output", type=str, default=None,
-        help="Override output path (default: inbox/transcripts/raw/session-{date}-raw.txt).",
+        help="Override output path (default: inbox/transcripts/raw/session-{N}.txt).",
     )
     parser.add_argument(
         "--input", type=str, default=None,
         help="Path to an already-downloaded transcript. Skips the download step.",
+    )
+    parser.add_argument(
+        "--session", type=int, required=True,
+        help="Session number (required). Used in output filename.",
     )
     return parser.parse_args()
 
@@ -197,39 +201,13 @@ def format_output(entries):
     return "\n".join(lines) + "\n" if lines else ""
 
 
-def determine_output_path(args, entries, after_str):
+def determine_output_path(args):
     """Determine the output file path."""
     if args.output:
         return Path(args.output)
 
-    # Derive date from --after arg or first entry timestamp
-    date_str = None
-    if after_str:
-        # Try to parse the after string to get a date
-        for fmt in ("%Y-%m-%d %H:%M", "%Y-%m-%d", "%m/%d/%Y %I:%M %p", "%m/%d/%Y"):
-            try:
-                dt = datetime.strptime(after_str, fmt)
-                date_str = dt.strftime("%Y-%m-%d")
-                break
-            except ValueError:
-                continue
-
-    if not date_str and entries:
-        # Parse from first entry timestamp like "1/10/2026 2:56 PM"
-        ts = entries[0]["timestamp"]
-        for fmt in ("%m/%d/%Y %I:%M %p", "%m/%d/%Y %H:%M"):
-            try:
-                dt = datetime.strptime(ts, fmt)
-                date_str = dt.strftime("%Y-%m-%d")
-                break
-            except ValueError:
-                continue
-
-    if not date_str:
-        date_str = datetime.now().strftime("%Y-%m-%d")
-
     repo_root = Path(__file__).resolve().parent.parent
-    return repo_root / "inbox" / "transcripts" / "raw" / f"session-{date_str}-raw.txt"
+    return repo_root / "inbox" / "transcripts" / "raw" / f"session-{args.session}.txt"
 
 
 def main():
@@ -247,7 +225,7 @@ def main():
     raw_text = Path(input_path).read_text(encoding="utf-8")
     channel_name, entries = clean_transcript(raw_text)
 
-    output_path = determine_output_path(args, entries, after_str)
+    output_path = determine_output_path(args)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     output_text = format_output(entries)

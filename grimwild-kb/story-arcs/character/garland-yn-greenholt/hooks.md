@@ -23,3 +23,11 @@ What Garland wants to accomplish or pass on before the end is an open thread.
 The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.
 Whether it connects to actual elven ancestry or something else entirely remains an open question.
 Both Garland and Castor carry this trait.
+
+## Friction with Aldric
+**Source:** [[Session 1]]
+**Related:** [[Garland yn Greenholt]], [[Aldric Garlandsson]], [[Crownvale]]
+
+Tension exists between Garland and his grandson Aldric over Aldric's lordship of the Ashen Vale.
+Garland's presence and influence may undermine Aldric's authority as lord.
+This family conflict over succession and legacy could develop into its own character arc, independent of the Curse of Ruin.

@@ -28,9 +28,11 @@ However, he did have a talent for protecting the weak and fighting evil and repr
 He transferred from the healing order to the church's war college.
 
 Roderic spent years on the battlefields spreading the church's doctrine and eliminating evil.
-On his last campaign, tragedy struck and he lost his entire regiment.
-He blamed himself for not being able to defend his brothers.
-This caused him to take a sabbatical where he could focus on defending and healing those in need.
+On his last campaign, tragedy struck and he lost his entire battalion.
+He blamed his insufficient faith for the destruction.
+He is now on assignment from the church as a knight errant — not on sabbatical, but specifically tasked with redemption through deeds.
+His order is called "The Redeemers of Light."
+He reports to a superior in the church hierarchy and retains the authority and recognition of a paladin of the [[Church of Lucifer]].
 
 ## Religion
 Devoted worshipper of [[Lucifer]], the God of Radiance, following the [[Church of Lucifer|Luciferian faith]].
@@ -49,7 +51,11 @@ Initial ideas include defending the defenseless and healing those in need.
 
 **Talents:**
 - **Oathsworn** *(Core Talent)* — 3 Smite per session; three tenets dictate behavior (not yet written); doesn't take thorns from bloodied/rattled, takes +1d instead; can give spark to players who engage with tenets
-- **Divine Blessing, Healing** *(Minor Domain — 4d)* — God: Lucifer, Healing Light; can drop 1d to cast potent spells
+- **Divine Blessing, Healing** *(Minor Domain — 4d)* — God: Lucifer, Healing Light; can drop 1d to cast potent spells; a grim result exhausts the pool for the session and the GM makes an impact move; pool returns at next session start
+
+**Spiritual Perception:**
+He possesses the ability to sense when people are contemplating sin — body language and spiritual perception developed from his years as an acolyte.
+He wears recognizable church armor and is identifiable as a paladin.
 
 ## Relationships
 - [[Edric Bloom]] — Playful Camaraderie; views Edric's rashness as immaturity — "He should be mature already... maybe he'll grow up."
@@ -58,7 +64,10 @@ Initial ideas include defending the defenseless and healing those in need.
 
 ## Current Threads
 - Tenets need to be formalized using the crucible format
-- Processing the loss of his regiment and finding a new purpose
+- Crisis of faith deepened — his healing was overwhelmed by ruin's proximity, but his blessings still move people
+- On assignment as knight errant, tasked with redemption through deeds
+- Headed to [[Beaconhold|Beacon Hold]] to seek counsel from the [[Church of Lucifer]]
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
+- [[Session 1]] — Persuaded the dire coyotes to let the party pass; failed to heal horses (ruin overwhelmed his power); delivered a stirring blessing in Crownvale defending the horse seller Laura

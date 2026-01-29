@@ -17,5 +17,3 @@ The [[Eastern Rivers]] cut through, providing the only reliable passage.
 ## Events Here
 - [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Great Lake
 
-## Notes
-Without the river passages, crossing the Cragmarr would be extremely difficult.

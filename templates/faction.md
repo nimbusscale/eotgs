@@ -17,6 +17,3 @@
 
 ## History with Party
 - [[Session X]] - [Interaction]
-
-## Notes
-[Additional details]

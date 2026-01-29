@@ -43,5 +43,3 @@ Feeds the fertile farmland of the vale.
 ## Events Here
 - [[Session 0]] — The cursed water from Ashbrook is being held back by the beaver dam; the dam and beavers are aging rapidly
 
-## Notes
-If the beaver dam fails, the cursed water will flow into the [[Ashen Vale]], directly threatening [[Crownvale]].

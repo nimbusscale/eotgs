@@ -17,6 +17,7 @@ In hindsight, the inclusion of a sealed metal container with warding locks — a
 Those who cross Marrow are rarely punished openly.
 Instead, sermons and homilies begin to reference their moral failings, and their reputations quietly erode until the common folk turn against them.
 Such individuals soon find themselves unable to secure food, lodging, or meaningful aid.
+Confronting Marrow is difficult due to his station, resources, and deep ties to the Church.
 
 ## Collecting
 Marrow is a well-known collector of [[Whiteglass]], the translucent and radiant substance associated with [[Lucifer]].
@@ -24,11 +25,9 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 
 ## Relationships
 - [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]
-- [[Church of Lucifer]] — Major donor with sons in influential clerical positions
+- [[Church of Lucifer]] — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in [[Marrow County]]
 - [[Beaconhold]] — Rules [[Marrow County]], a strategically placed border county
 
 ## Key Events
 - [[Session 0]] — Commissioned the party to retrieve the Seal of Unmaking from [[Ashbrook]]
-
-## Notes
-Confronting Marrow is difficult due to his station, location, and resources — particularly his deep ties to the Church.
+- [[Session 1]] — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold

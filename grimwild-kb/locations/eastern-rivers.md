@@ -27,5 +27,3 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Great Lake]]
 ## Events Here
 - [[Session 0]] — Established as Edric's homeland
 
-## Notes
-This is a border and hinterland region on the eastern edge of Beaconhold.

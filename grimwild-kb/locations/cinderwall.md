@@ -10,7 +10,7 @@ Wooded slopes, mossy, shrouded in mist and steam.
 
 ## Notable Features
 - Volcanic; source of the Ashen Vale's fertile ash
-- Home to [[Dire Coyotes]] — a tougher and more aggressive breed that dominates the lower elevations toward the Ashen Vale
+- Home to [[Dire Coyotes]] — a tougher and more aggressive breed that dominates the lower elevations toward the Ashen Vale; humankind is sparse in the higher elevations where they roam, and few have ventured far enough to even catch sight of them
 - Contains [[Ashbrook]] (now the cursed ruins of Eld Ashara)
 - Few mountain passes exist through the range
 
@@ -25,6 +25,3 @@ Wooded slopes, mossy, shrouded in mist and steam.
 ## Events Here
 - [[Session 0]] — Established as the mountain range containing Ashbrook and the dire coyotes
 
-## Notes
-Humankind is sparse in the higher elevations where the dire coyotes roam.
-Few have ventured far enough to even catch sight of them.

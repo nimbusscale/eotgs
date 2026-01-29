@@ -28,6 +28,3 @@ Home to [[Garland yn Greenholt]] and [[Castor]].
 ## Events Here
 - [[Session 0]] — Established as homeland of Garland and Castor; the curse threatens to reach the vale if the beaver dam fails
 
-## Notes
-The vale is at risk if the beaver dam on the [[Ashen Flow]] breaks and the cursed water flows downstream.
-[[Crownvale]] lies directly in the path of the curse.

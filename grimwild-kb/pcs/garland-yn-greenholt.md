@@ -57,13 +57,18 @@ Has never had much use for gods.
 - [[Sir Roderic Lightbearer]] — Growing Camaraderie
 - [[Edric Bloom]] — Lowkey Affection; views Edric's rashness as that of a child — "Rash in my youth... maybe he'll grow out of it."
 - [[Rowan yn Greenholt]] — Great-grandchild who lived in [[Ashbrook]] and perished when the town fell
-- [[Aldric Garlandsson]] — Grandson who rules [[Crownvale]]
+- [[Aldric Garlandsson]] — Grandson who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
+- [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
 
 ## Current Threads
 - Understand the [[Witch Stones]] better — what they do, how their power works
 - Investigate whether other Witch Stones exist elsewhere
 - Understand [[Castor]]'s curse so he can undo it "just in case" before his own time runs out
 - The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]]
+- Suspects [[Aldric Garlandsson|Aldric]] may be connected to the events at Ashbrook — evidence: [[Rowan yn Greenholt|Rowan]]'s letter and a fresh scrap of Aldric's livery found at [[Beaver Lake]]
+- Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
+- Carries foreign candy (butterscotch) as treats for grandchildren
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
+- [[Session 1]] — Soothed a horse with illusion before surrendering it to the dire coyotes; erected a spirit wall at Beaver Lake to hold back the ruin; found Aldric's livery at the lake; disguised himself in Crownvale but was recognized by Mira; slipped her a warning letter for Aldric; purchased horses

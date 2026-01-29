@@ -15,6 +15,3 @@
 
 ## Key Events
 - [[Session X]] - [What happened]
-
-## Notes
-[GM notes visible to players]

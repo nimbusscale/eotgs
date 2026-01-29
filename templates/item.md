@@ -12,6 +12,3 @@
 
 ## History
 [Known history of the item]
-
-## Notes
-[Additional details]

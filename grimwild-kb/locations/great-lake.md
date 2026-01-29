@@ -8,6 +8,7 @@ A large freshwater lake fed by the [[Eastern Rivers]].
 Multiple city-states and kingdoms line its shores.
 [[Beaconhold]]'s port city provides access to lake trade.
 Accessible through the [[Cragmarr]] via the river passages.
+Multiple other kingdoms and city-states exist around the lake and beyond, none yet established.
 
 ## Notable Features
 - Name TBD
@@ -23,5 +24,3 @@ Accessible through the [[Cragmarr]] via the river passages.
 ## Events Here
 - [[Session 0]] — Established as a major geographical feature
 
-## Notes
-Multiple other kingdoms and city-states exist around the lake and beyond, none yet established.

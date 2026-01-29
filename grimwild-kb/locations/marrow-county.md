@@ -22,5 +22,3 @@ Deeply entwined with the [[Church of Lucifer]].
 ## Events Here
 - [[Session 0]] — Established as Marrow's domain
 
-## Notes
-Marrow County sits between the party's areas of activity and the political center of [[Beaconhold]].

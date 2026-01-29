@@ -81,9 +81,9 @@ Map each YAML field to the KB operations it drives:
 | `questions_raised` | Story hooks |
 | `questions_resolved`, `arc_progress` | Story arc updates |
 | `notable_quotes` | Session file (Notable Quotes) |
-| `rules_clarifications` | PC files (Key Traits) + session notes |
+| `rules_clarifications` | PC files (Key Traits) if relevant; otherwise review in extracted YAML |
 | `unresolved_references` | `review/pending-changes.md` |
-| `gm_observations` | Session file (Session Notes) / `gm-notes/` |
+| `gm_observations` | `gm-notes/` only (review in extracted YAML) |
 | `filtered_sections` | Report only (not written to KB) |
 | `recap_teaser` | Session file (Recap-Teaser) |
 
@@ -111,10 +111,9 @@ Fill in:
 - **Major Events:** from `major_events`, as a chronological bullet list
 - **New Questions & Hooks:** from `questions_raised`
 - **Questions Answered / Arcs Advanced:** from `questions_resolved` and `arc_progress`
-- **NPCs Introduced:** from `new_entities.npcs`, with `[[wiki-links]]` and brief descriptions
-- **Locations Visited:** from `new_entities.locations` plus locations mentioned in `major_events`, with `[[wiki-links]]`
+- **Notable NPCs Introduced:** from `new_entities.npcs`, with `[[wiki-links]]` and brief descriptions
+- **Notable Locations Visited:** from `new_entities.locations` plus locations mentioned in `major_events`, with `[[wiki-links]]`
 - **Notable Quotes:** from `notable_quotes`, cleaned up with speaker attribution
-- **Session Notes:** from `gm_observations`
 
 Save to `grimwild-kb/sessions/session-{N}.md`.
 
@@ -150,6 +149,15 @@ A **hook** is a potential story arc that hasn't been activated in play yet — a
 
 Hooks come from `questions_raised` in the YAML.
 
+**Hooks vs Arc Open Questions:**
+
+Before creating a hook, check if the question belongs to an **existing active arc**. If so, add it to that arc's "Open Questions" section instead of creating a separate hook.
+
+- **Arc Open Questions:** Questions that will resolve as the current story progresses. "Can the spirit wall hold?" "Who was wearing Aldric's livery?" "Can the Seal reseal ruin?" — these are part of the Curse of Ruin arc.
+- **Hooks:** Threads that could become their OWN story arc, independent of what's currently active. "What is the origin of the Greenholt Bloodline?" "What are the Witch Stones?" "Aldric's growing resentment of Garland" — these could develop into separate arcs.
+
+**Test:** If the question would naturally resolve when the current arc concludes, it's an arc open question. If it could persist or develop regardless of how the current arc ends, it's a hook.
+
 **What qualifies as a hook:**
 - Unanswered questions about a character's past (unknown parentage, lost memories)
 - Mysterious items or symbols with unexplained significance
@@ -157,6 +165,21 @@ Hooks come from `questions_raised` in the YAML.
 - Goals a character wants to pursue (understand the Witch Stones, find a lost relative)
 - Tensions or conflicts hinted at but not yet in play
 - World events that could draw the party in
+
+**What does NOT qualify as a hook:**
+- Questions about how to resolve the current active arc
+- Tactical questions ("Can we trust X?" "Will Y hold?")
+- Questions that track progress within an active storyline
+- Mysteries that are central to the current arc's plot
+
+These belong in the relevant arc file's "Open Questions" section.
+
+**Examples:**
+
+✓ HOOK: "Aldric resents Garland's presence because it undermines his authority" → Could become a character arc about family legacy and succession
+✓ HOOK: "The Greenholt Bloodline's mysterious origin" → Independent mystery that could develop into its own arc
+✗ NOT A HOOK: "Can the Seal reseal ruin?" → Open question within the Curse of Ruin arc
+✗ NOT A HOOK: "Is Marrow involved in releasing the ruin?" → Investigation thread within the current arc
 
 **Classification:**
 - **Group hooks** affect the whole party or world → `grimwild-kb/story-arcs/group/hooks.md`
@@ -263,6 +286,17 @@ For each entry in `entity_updates`:
 
 For `rules_clarifications` entries: extract relevant mechanical information to the appropriate PC file's Key Traits section.
 
+**Avoid Notes sections:**
+Do not add `## Notes` sections to entity files.
+Information worth recording should go in the appropriate section:
+- Tactical/behavioral info → Methods (NPCs)
+- Physical details → Description
+- Location features → Notable Features
+- Session-specific events → Events Here / Key Events (with session link)
+
+Transient session details (temporary barriers, items found during a scene) belong in the session file only — not duplicated to entity files.
+Only update entity files with information that changes the permanent understanding of that entity.
+
 ### Step 10 — Split GM-private vs player-visible content
 
 Route content based on sensitivity:
@@ -352,8 +386,8 @@ After processing, report:
 ## Edge Cases
 
 **Rules discussions as PC data:**
-When `rules_clarifications` entries describe abilities, class features, or mechanical details, extract the relevant information for PC files (Key Traits section).
-Do not include the rules discussion itself in the session summary.
+When `rules_clarifications` entries describe abilities, class features, or mechanical details that should be recorded permanently, extract the relevant information to PC files (Key Traits section).
+Most rules clarifications are GM rulings to verify later — these stay in the extracted YAML for review and are not written to KB files.
 
 **Ambiguous entity type:**
 If it's unclear whether a named entity is a person, location, faction, etc., flag it in `pending-changes.md` and make your best guess for initial placement.

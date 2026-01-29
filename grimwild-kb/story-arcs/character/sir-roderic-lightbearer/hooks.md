@@ -1,11 +1,12 @@
 # Hooks
 
-## Roderic's Lost Regiment
+## Roderic's Lost Battalion
 **Source:** [[Session 0]]
 **Related:** [[Sir Roderic Lightbearer]], [[Church of Lucifer]]
 
-On his last campaign, Roderic lost his entire regiment.
-He blamed himself for not being able to defend his brothers.
-This tragedy drove him to take a sabbatical focused on defending and healing those in need.
+On his last campaign, Roderic lost his entire battalion.
+He blamed his insufficient faith for the destruction.
+This tragedy led to his assignment as a knight errant of "The Redeemers of Light," tasked with redemption through deeds.
 What happened on that campaign, and whether the guilt is justified, is unexplored.
+See also: [[Roderic's Redemption]]
 

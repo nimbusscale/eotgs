@@ -7,6 +7,7 @@ characters:
   "Roderic": "sir-roderic-lightbearer"
   "Garland yn Greenholt": "garland-yn-greenholt"
   "Garland": "garland-yn-greenholt"
+  "Lord Greenholt": "garland-yn-greenholt"
   "Edric Bloom": "edric-bloom"
   "Edric": "edric-bloom"
   "Castor": "castor"
@@ -17,9 +18,13 @@ characters:
   "Rowan": "rowan-yn-greenholt"
   "Aldric Garlandsson": "aldric-garlandsson"
   "Aldric": "aldric-garlandsson"
+  "Mira": "mira"
+  "Sergeant Iyer": "sergeant-iyer"
+  "Iyer": "sergeant-iyer"
 
 locations:
   "Beaconhold": "beaconhold"
+  "Beacon Hold": "beaconhold"
   "Ashen Vale": "ashen-vale"
   "Eastern Rivers": "eastern-rivers"
   "Ashbrook": "ashbrook"
@@ -32,6 +37,8 @@ locations:
   "Great Lake": "great-lake"
   "Ashen Flow": "ashen-flow"
   "Altreth": "altreth"
+  "Beaver Lake": "beaver-lake"
+  "Farlands Pass": "farlands-pass"
 
 items:
   "Seal of Unmaking": "seal-of-unmaking"

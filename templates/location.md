@@ -18,6 +18,3 @@
 
 ## Events Here
 - [[Session X]] - [What happened]
-
-## Notes
-[Additional details]

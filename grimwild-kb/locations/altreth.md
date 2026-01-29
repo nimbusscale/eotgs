@@ -17,6 +17,8 @@ Upon its altar rested a single [[Whiteglass]] disc — the [[Seal of Unmaking]].
 Those who recovered the relic reportedly aged with unnatural speed and soon died.
 Their homes fell to ruin, and even their names were forgotten.
 Only a faint memory of Altreth and the caravan remains.
+The surviving accounts named the whiteglass disc the [[Seal of Unmaking]] after the fate of those who recovered it.
+The relic vanished after the initial recovery and eventually surfaced in [[Ashbrook]].
 
 ## Connected Locations
 - Mount Ripea — The mountain Altreth was built upon
@@ -24,6 +26,3 @@ Only a faint memory of Altreth and the caravan remains.
 ## Events Here
 - [[Session 0]] — Established as the legendary origin of the [[Seal of Unmaking]]
 
-## Notes
-The surviving accounts named the whiteglass disc the [[Seal of Unmaking]] after the fate of those who recovered it.
-The relic vanished after the initial recovery and eventually surfaced in [[Ashbrook]].

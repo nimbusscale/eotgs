@@ -19,14 +19,11 @@
 ## Questions Answered / Arcs Advanced
 - [Resolution or progress]
 
-## NPCs Introduced
+## Notable NPCs Introduced
 - [[NPC Name]] - [Brief description]
 
-## Locations Visited
+## Notable Locations Visited
 - [[Location Name]]
 
 ## Notable Quotes
 > [Memorable lines]
-
-## Session Notes
-[GM observations, pacing notes, things to revisit]

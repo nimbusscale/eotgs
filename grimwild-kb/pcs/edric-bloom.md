@@ -50,15 +50,25 @@ It's not a big part of his identity; he keeps it private.
 - **Bardsong** *(Core Talent)* — 3 bardsongs per session (potent emotional influence); 3 melodies per session (assist without risk, calm/intensify vex, clear marks); roll Presence; compose with style, tune, and impact
 - **Forked Tongue** — When given time, can tell potent lies (like claiming to be royalty or delivering false prophecies); push yourself to do it on the spot
 
+**Bardic Style:**
+His bardic instrument is storytelling rather than music — he tells short tales and parables to produce his bardic effects.
+
+**Knowledge:**
+He knows about [[Altreth]], a city-state destroyed in a manner similar to [[Ashbrook]] — people who entered aged rapidly and died, and the story itself was "unmade" from memory.
+He knows that [[Whiteglass|whiteglass]] resists ruin.
+
 ## Relationships
 - [[Castor]] — Playful Curiosity
 - [[Sir Roderic Lightbearer]] — Lowkey Doubts
 - [[Garland yn Greenholt]] — Deep Respect
 
 ## Current Threads
-- Was hired by [[Count Albrecht Marrow]] to retrieve the [[Seal of Unmaking]] from [[Ashbrook]]
+- Carries the [[Seal of Unmaking]] in its warded box — the party has decided not to return it to [[Count Albrecht Marrow|Marrow]]
 - Realizes in hindsight that Marrow knew the relic's true nature
 - The mystery of his unknown father
+- Experienced a disturbing compulsion in [[Crownvale]] — a vision of [[Sergeant Iyer]]'s marital troubles and an almost irresistible urge to weaponize that knowledge, which he recognized as ruin's influence on his mind
+- Has a pragmatic streak regarding Marrow — willing to steal from his collection if it would help
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
+- [[Session 1]] — Told the dire coyotes a bardic tale to win passage; sang a melody to assist Garland's spirit wall; distracted Aldric's guards and extracted information from Sergeant Iyer; experienced ruin's influence on his mind in the Crownvale tavern

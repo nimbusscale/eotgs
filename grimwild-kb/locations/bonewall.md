@@ -9,6 +9,7 @@ Dry and cold climate.
 Barren, rocky, windswept, with sparse vegetation.
 Feeds the [[Eastern Rivers]] through deep springs and aquifers.
 Less snow than the [[Cinderwall]] despite being cold.
+Forms the eastern arm of the L-shaped mountain border, contrasting with the wet and volcanic Cinderwall to the south.
 
 ## Connected Locations
 - [[Eastern Rivers]] — Fed by springs and snowmelt from this range
@@ -17,5 +18,3 @@ Less snow than the [[Cinderwall]] despite being cold.
 ## Events Here
 - [[Session 0]] — Established as the eastern mountain range
 
-## Notes
-Forms the eastern arm of the L-shaped mountain border, contrasting with the wet and volcanic Cinderwall to the south.

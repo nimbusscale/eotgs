@@ -33,5 +33,3 @@ The kingdom may claim mountains, valleys, and regions, but only truly controls t
 ## Events Here
 - [[Session 0]] — Established as Roderic's homeland
 
-## Notes
-The capital city is where [[Sir Roderic Lightbearer]] was raised as a war orphan by the church.

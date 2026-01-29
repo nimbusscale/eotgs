@@ -10,6 +10,9 @@ Now a cursed ruin known as Eld Ashara, aged centuries in moments by the spreadin
 
 The spring beneath the town feeds the Upper [[Ashen Flow]], carrying the curse downstream toward the [[Ashen Vale]].
 
+Before the fall, residents spoke of the town "building itself" and there was talk of renaming it to something grander.
+The water tasted unusually sweet, though fish didn't linger in the shallows.
+
 ## Notable Features
 - Location of the reemergence of the God of Ruin
 - The [[Seal of Unmaking]] was recovered from here by the party, unwittingly releasing what it contained
@@ -28,7 +31,3 @@ The spring beneath the town feeds the Upper [[Ashen Flow]], carrying the curse d
 ## Events Here
 - [[Session 0]] — The party retrieved the [[Seal of Unmaking]] from these ruins, unwittingly releasing the God of Ruin; the town had already been destroyed by the aging curse
 
-## Notes
-Before the fall, residents spoke of the town "building itself" and there was talk of renaming it to something grander.
-The water tasted unusually sweet, though fish didn't linger in the shallows.
-A stranger bearing [[Aldric Garlandsson]]'s livery visited before the curse struck.

@@ -25,7 +25,7 @@ He was never good with people and seemed uninterested in growing out his own bra
 
 His ancestral land came under a curse — a curse that seemed to pick on him in particular.
 Whether bad luck or revenge for a forgotten affront, Castor took the brunt of the curse far worse than his brethren.
-He was transformed into a beaver and left to wander the land.
+He was originally a human carpenter before being transformed into a beaver and left to wander the land.
 
 While cursed, he wasn't a "human trapped in a beaver body" — he truly was a beaver, with only repressed and dormant humanity.
 The curse lasted longer than [[Garland yn Greenholt]] has been alive.
@@ -52,11 +52,21 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 - **Wild Shape** *(Core Talent)* — 4d resource pool (replenishes each scene); shift into any beast you're familiar with; take on the form's physical qualities and feral instincts
 - **True Shape** — Choose 1 beast form (beaver); shift without rolling wild shape, even at 0d; beaver is his "true form"
 
+**Shapeshifting Notes:**
+All of Castor's animal forms retain subtle beaver characteristics — a beaver tail on a horse, beaver feet on a giraffe.
+His true form is beaver.
+He can shift into various animals (giraffe, horse, mule, etc.) based on his extensive travels.
+He has traveled across the continent as a beaver, including to regions with savannah climates, giving him knowledge of exotic fauna.
+
 ## The Beaver Dam
-Castor is connected to a beaver community and a dam on the [[Ashen Flow]] that has stood for 120+ years.
+Castor is connected to a beaver community and a dam on the [[Ashen Flow]] at [[Beaver Lake]] that has stood for 120+ years.
 The dam was his society and home during his years as a beaver.
 He was enamored with beaver society and how they lived.
-The dam currently holds back the cursed waters flowing from [[Ashbrook]], but the dam and the beavers maintaining it are aging rapidly.
+The beaver colony knows and recognizes him — it is essentially his home.
+In beaver society, holding a stick signifies authority.
+He can communicate with beavers through gestures, body language, and tail-slapping — not verbal speech, but enough to convey urgency and general ideas.
+During [[Session 1]], he shifted into beaver form and used these methods to convince the colony to evacuate downstream ahead of the cursed waters.
+The dam currently holds back the cursed waters flowing from [[Ashbrook]], but [[Garland yn Greenholt|Garland]]'s spirit wall upstream is the primary barrier — and it will not hold forever.
 
 ## Religion
 Was culturally religious when younger, going through the motions, but lost touch with that entire aspect of his life during his beaver years.
@@ -69,9 +79,10 @@ Not a believer one way or another now.
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
 
 ## Current Threads
-- The beaver dam is aging rapidly while holding back cursed water
+- The beaver dam and spirit wall holding back cursed water — the ruin is pooling at the barrier
 - Curiosity about the origin and motive of his original curse
 - Loyalty to the family who never seemed to remember him
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
+- [[Session 1]] — Evacuated the beaver colony at Beaver Lake; rode double with Garland after surrendering his horse to the dire coyotes; stood watch in giraffe form at the fisher's hut

@@ -79,7 +79,7 @@ Skip and log non-game content:
 | **Questions answered** | Previously open questions that got resolved |
 | **Arc progress** | Developments in ongoing story arcs |
 | **Notable quotes** | Memorable lines worth preserving |
-| **Rules clarifications** | OOC discussion that establishes how something works |
+| **Rules clarifications** | GM rulings made when uncertain — things to verify later |
 | **Unresolved references** | Entity mentions you can't confidently match |
 | **Filtered sections** | Log line ranges and reasons for skipped content |
 
@@ -277,11 +277,14 @@ notable_quotes:
     context: "After communicating with the beavers"
 
 rules_clarifications:
-  - topic: "Castor's animal communication"
-    clarification: "Not magical speech - behavioral/gestural from years as a beaver. Works with beavers; unclear if extends to other animals."
+  # GM rulings made when uncertain — verify these against the rulebook later
+  - topic: "Can you push yourself twice on the same roll?"
+    ruling: "Ruled NO for this session — one push per roll"
+    ruling_context: "Player asked, I wasn't sure, made a call to keep moving"
 
-  - topic: "Healing pool recovery"
-    clarification: "Roderic's healing pool returns at start of next session, not after a rest."
+  - topic: "Does armor reduce damage from falling?"
+    ruling: "Ruled YES — armor absorbs first hit of any damage type"
+    ruling_context: "Ambiguous in rules — check if this is RAW or house rule"
 
 filtered_sections:
   - line_range: "847-862"
@@ -377,7 +380,7 @@ If a location fails all three criteria, fold it into the parent location's `desc
 - Plot developments and story beats
 - Character moments (growth, decisions, relationships)
 - World-building details revealed in play
-- Rules clarifications that establish "how things work"
+- Rules clarifications where the GM was uncertain and made a ruling to verify later
 - Combat outcomes and consequences
 - NPC interactions and new NPCs introduced
 - Location descriptions and new locations visited
@@ -422,8 +425,31 @@ If a character tells a story about the past, extract relevant lore to `entity_up
 **Unclear new vs. existing entity:**
 When genuinely uncertain, add to `unresolved_references`. The human reviewer will clarify.
 
-**Rules discussion that changes understanding:**
-Capture in `rules_clarifications`. These inform how abilities/mechanics work going forward.
+**Rules discussion:**
+- If GM was uncertain and made a ruling → `rules_clarifications` (needs verification)
+- If GM confidently explained a rule → Do not extract (just teaching)
+- If establishing character fiction → `entity_updates` (narrative, not rules)
+
+**Distinguishing rules content:**
+
+| Content Type | Where It Goes | Example |
+|--------------|---------------|---------|
+| **Uncertain ruling** | `rules_clarifications` | "I ruled you can't push twice, but I need to check that" |
+| **Rules explanation** | Filter out (not extracted) | GM explaining how power pools work to players |
+| **Fiction establishment** | `entity_updates` | "Castor's forms all have beaver traits" |
+
+**Include in `rules_clarifications` only when:**
+- The GM explicitly said they weren't sure
+- The GM said "let's rule it this way for now"
+- The GM said they need to check the book later
+- A rule was ambiguous and the GM made a judgment call
+
+**Do NOT include:**
+- Rules the GM explained confidently
+- Character fiction being established (even if discussed OOC)
+- Mechanics working as documented
+
+It's fine for this section to be empty if no uncertain rulings were made.
 
 **Speech-to-text quality:**
 Interpret intent, not literal garbled text. Use surrounding context to reconstruct meaning from fragmented STT output. Check `config/speaker-map.yaml` `transcription_corrections` for known errors.

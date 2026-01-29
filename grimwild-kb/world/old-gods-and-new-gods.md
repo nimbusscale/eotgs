@@ -37,6 +37,9 @@ But the suppression of the Old Gods created imbalances that have been building f
 | **The Fallow One** | Rest, dormancy, the necessary pause | Exhaustion everywhere. Endless labor. No respite. |
 | **The Forgetting** | Release of memory, moving on | Obsession with history. Ghosts. Inability to heal from the past. |
 
+The cumulative effect of these imbalances is a world that has been slowly sickening for centuries.
+The Luciferians perceive it as "the darkness pressing in" and redouble their wards — not realizing they caused it.
+
 ## Related Entries
 - [[The Old Gods]] — The gods themselves: titles, followers, and nature
 - [[Church of Lucifer]] — The dominant faith that suppressed the Old Gods
@@ -46,7 +49,3 @@ But the suppression of the Old Gods created imbalances that have been building f
 ## Sources
 - [[Session 0]] — Established during world-building
 
-## Notes
-The world has been slowly sickening for centuries.
-The Luciferians call it "the darkness pressing in" and redouble their wards.
-They don't realize they caused it.

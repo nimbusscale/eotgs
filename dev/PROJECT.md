@@ -303,7 +303,7 @@ prepare_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 
 **Purpose:** Generate optimized export for Claude Project Knowledge.
 
-**Input:** The KB content (grimwild-kb/ directory)
+**Input:** The KB content (grimwild-kb/ directory) and GM notes (gm-notes/ directory)
 
 **Output:** Files in `exports/` directory
 
@@ -313,19 +313,20 @@ prepare_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
    - Quick reference for all PCs
    - List of active story arcs with status
    - Table of contents for all categories
-   
+
 2. Generate category summary files:
    - `exports/characters-pcs.md` - All PCs consolidated
-   - `exports/characters-npcs.md` - All NPCs consolidated  
+   - `exports/characters-npcs.md` - All NPCs consolidated
    - `exports/locations.md` - All locations
    - `exports/world-setting.md` - World entries consolidated
    - `exports/story-arcs-active.md` - Active arcs with current state
    - `exports/sessions-recent.md` - Last 3-5 session summaries
-   
+   - `exports/hooks-all.md` - All open hooks (group + character) for brainstorming
+   - `exports/gm-notes.md` - GM secrets and planning material (GM-only export)
+
 3. Each export file should be self-contained and include relevant cross-references
 
 **Exclusions:**
-- `gm-notes/` - Never export (private)
 - `inbox/` - Working files, not KB content
 - `review/` - Process files, not KB content
 - Resolved story arcs older than X sessions (configurable)
@@ -578,13 +579,13 @@ prepare_transcript.py --input PATH [--output PATH] [--session NUMBER] [--config 
 - [x] Adjust transcription_corrections as needed
 
 ### Phase 4: Transcript Extraction & Session Incorporation
-- [ ] Create .claude/commands/extract-session.md
-- [ ] Create .claude/commands/incorporate-session.md
-- [ ] Test full pipeline with Session One transcript
-- [ ] Refine skills based on output quality
+- [x] Create .claude/commands/extract-session.md
+- [x] Create .claude/commands/incorporate-session.md
+- [x] Test full pipeline with Session One transcript
+- [x] Refine skills based on output quality
 
 ### Phase 5: Export
-- [ ] Create .claude/commands/export-kb.md
+- [x] Create .claude/commands/export-kb.md
 - [ ] Generate initial export for Project Knowledge
 - [ ] Verify export works well with Claude searches
 

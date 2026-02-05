@@ -61,6 +61,9 @@ He knows that [[Whiteglass|whiteglass]] resists ruin.
 - [[Castor]] — Playful Curiosity
 - [[Sir Roderic Lightbearer]] — Lowkey Doubts
 - [[Garland yn Greenholt]] — Deep Respect
+- [[Mayliss Vane]] — His contact in [[Marrow County]] for artifact retrieval jobs
+- [[Captain Eisen Dorn]] — Acquaintance; respects Edric for defusing a peasant uprising
+- [[Luminary Severin Morrow]] — Head priest in [[Aurelion]] who despises bards and storytellers
 
 ## Current Threads
 - Carries the [[Seal of Unmaking]] in its warded box — the party has decided not to return it to [[Count Albrecht Marrow|Marrow]]

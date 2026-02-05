@@ -1,16 +1,33 @@
-# Church of Lucifer
+# The Light
 
 **Type:** Religion
 **Status:** Active
+**Also Known As:** The Church of Lucifer, The Luciferian Faith
 
 ## Overview
 The dominant faith of the setting, worshipping [[Lucifer]], the god-emperor of the [[Imperium Lucis Aeternae|Old Empire]].
 Lucifer is the god of radiance and light.
 The religion has genuinely good tenets — helping people, protecting the weak, bringing light.
-A better name for this religion may be developed.
+
+When Lucifer rose to power as god-emperor of the Imperium, it became the beacon of light and civilization for all mortalkind.
+The Light enabled people to live and prosper in ways that had never happened before.
+The faith spread through hope rather than conquest.
 
 The Church genuinely believes it is protecting humanity from darkness.
 Its faith has brought real benefits — stability, safety, the foundations of civilization.
+
+## Terminology
+
+### The Faith
+- **The Light** — the religious organization and faith itself
+
+### Followers
+- **Casual usage:** "I follow the Light" / "I'm of the Light"
+- **Formal usage:** "The Illuminated"
+
+### Clergy
+- **Luminaries** — clergy; a genderless title used instead of father, brother, sister, etc.
+- **Radiant Luminaries** — high-ranking clergy (cardinals, archbishops, and similar positions)
 
 ## Enforcement by Region
 Enforcement of the faith varies by region:
@@ -34,5 +51,4 @@ Enforcement of the faith varies by region:
 - [[Session 0]] — Roderic is a Luciferian paladin; the Church's history with the Old Gods is central to the story
 
 ## Notes
-The name "Luciferian religion" is a working title; a better name may be established.
 Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally tolerated in Beaconhold but not in all places.

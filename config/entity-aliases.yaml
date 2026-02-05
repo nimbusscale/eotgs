@@ -21,6 +21,15 @@ characters:
   "Mira": "mira"
   "Sergeant Iyer": "sergeant-iyer"
   "Iyer": "sergeant-iyer"
+  "Mayliss Vane": "mayliss-vane"
+  "Mayliss": "mayliss-vane"
+  "Captain Eisen Dorn": "captain-eisen-dorn"
+  "Eisen Dorn": "captain-eisen-dorn"
+  "Captain Dorn": "captain-eisen-dorn"
+  "Dorn": "captain-eisen-dorn"
+  "Luminary Severin Morrow": "luminary-severin-morrow"
+  "Severin Morrow": "luminary-severin-morrow"
+  "Severin": "luminary-severin-morrow"
 
 locations:
   "Beaconhold": "beaconhold"
@@ -39,6 +48,7 @@ locations:
   "Altreth": "altreth"
   "Beaver Lake": "beaver-lake"
   "Farlands Pass": "farlands-pass"
+  "Aurelion": "aurelion"
 
 items:
   "Seal of Unmaking": "seal-of-unmaking"
@@ -49,9 +59,13 @@ items:
   "Whiteglass": "whiteglass"
 
 factions:
+  "The Light": "church-of-lucifer"
+  "Light": "church-of-lucifer"
   "Church of Lucifer": "church-of-lucifer"
   "Luciferian faith": "church-of-lucifer"
   "Luciferians": "church-of-lucifer"
+  "The Illuminated": "church-of-lucifer"
+  "Illuminated": "church-of-lucifer"
   "The Old Gods": "old-gods"
   "Old Gods": "old-gods"
   "Harlequins": "old-gods"

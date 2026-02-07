@@ -45,7 +45,7 @@ Has never had much use for gods.
 
 **Backgrounds:**
 - Old Soldier (Battlefield intuition, Military customs and obligations, "My sword was a plowshare")
-- Mystic (Ancient prophecies, Leylines, Symbologies)
+- Scion of the Old Blood (Ancient prophecies, Leylines, Symbologies)
 
 **Talents:**
 - **Spellcraft** *(Core Talent)* — 4 spells and 2 potent spells per session; roll Wits to cast

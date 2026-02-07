@@ -41,33 +41,47 @@ Create `exports/campaign-index.md` containing:
 # [Campaign Name] - Campaign Index
 
 ## Campaign Overview
-[Brief description of the campaign premise and current state]
+[2-3 paragraph description of the campaign premise and current state]
 
 ## Player Characters
 
-| Character | Player | Concept | Status |
-|-----------|--------|---------|--------|
-| [Name] | [Player] | [One-line concept] | Active |
+### [Character Name]
+**Player:** [Player (Discord name)]
+**Concept:** [Full concept paragraph from PC file]
+**Key Abilities:** [Notable talents/backgrounds]
+**Relationships:** [Brief list of key relationships to other PCs]
+**Current Threads:** [Active personal plot hooks]
+
+[Repeat for each PC]
 
 ## Active Story Arcs
 
-### Group Arcs
-- [Arc name] - [Current status/phase]
+### Group: [Arc Name]
+**Theme:** [Arc theme]
+**Status:** [Current phase/status]
 
-### Character Arcs
-- [Character]: [Arc name] - [Current status]
+[Full summary paragraph from arc file]
 
-## Export Files
+**Open Questions:**
+- [List key open questions from arc file]
 
-- `characters-pcs.md` - All player characters
-- `characters-npcs.md` - All NPCs
-- `locations.md` - All locations
-- `world-setting.md` - World lore and factions
-- `story-arcs-active.md` - Active story arcs
-- `sessions-recent.md` - Recent session summaries
-- `hooks-all.md` - All open hooks for brainstorming
-- `gm-notes.md` - GM secrets and planning (GM-only)
+### Character: [Character] - [Arc Name]
+**Theme:** [Arc theme]
+**Status:** [Current phase]
+
+[Summary and current state]
+
+**Open Questions:**
+- [Character-specific open questions]
+
+[Repeat for each character arc]
 ```
+
+**Notes for Step 3:**
+- For PCs: Pull concept, key abilities, relationships, and current threads from the PC file
+- For Story Arcs: Include full summary and open questions list from the arc file
+- Keep narrative voice consistent with KB conventions (no game mechanics meta-references)
+- Do NOT include an "Export Files" section (RAG will handle finding other files)
 
 ### Step 4 — Generate characters-pcs.md
 

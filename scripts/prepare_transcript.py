@@ -24,7 +24,7 @@ DEFAULT_CONFIG = REPO_ROOT / "config" / "speaker-map.yaml"
 LINE_RE = re.compile(r"^(\[.+?\])\s+(.+?):\s+(.+)$")
 
 
-def parse_args():
+def parse_args(argv=None):
     parser = argparse.ArgumentParser(
         description="Process a raw Grimwild transcript: map speakers and fix transcription errors.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -48,7 +48,7 @@ def parse_args():
         "--config", type=str, default=None,
         help=f"Path to speaker-map.yaml (default: {DEFAULT_CONFIG.relative_to(REPO_ROOT)}).",
     )
-    return parser.parse_args()
+    return parser.parse_args(argv)
 
 
 def load_config(config_path):
@@ -187,8 +187,8 @@ def prepare_transcript(lines, speaker_map, corrections):
     return output_lines, speaker_counts, corrections_count, unmapped_speakers
 
 
-def main():
-    args = parse_args()
+def main(argv=None):
+    args = parse_args(argv)
 
     input_path = Path(args.input)
     if not input_path.exists():
@@ -224,6 +224,8 @@ def main():
         print("  WARNING: Unmapped speakers (kept original name):")
         for name in sorted(unmapped):
             print(f"    - {name}")
+
+    return str(output_path)
 
 
 if __name__ == "__main__":

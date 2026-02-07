@@ -28,7 +28,7 @@ TRANSCRIPT_RE = re.compile(r"^\*\*(.+?)\*\*:\s+(.+)$")
 CHANNEL_RE = re.compile(r"^Channel:\s+.+/\s*(.+)$")
 
 
-def parse_args():
+def parse_args(argv=None):
     parser = argparse.ArgumentParser(
         description="Download and clean a Grimwild voice channel transcript.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -59,7 +59,7 @@ def parse_args():
         "--session", type=int, required=True,
         help="Session number (required). Used in output filename.",
     )
-    return parser.parse_args()
+    return parser.parse_args(argv)
 
 
 def download_transcript(after: str, before: str) -> str:
@@ -210,8 +210,8 @@ def determine_output_path(args):
     return repo_root / "inbox" / "transcripts" / "raw" / f"session-{args.session}.txt"
 
 
-def main():
-    args = parse_args()
+def main(argv=None):
+    args = parse_args(argv)
 
     if args.input:
         input_path = args.input
@@ -236,6 +236,8 @@ def main():
     # Clean up temp file if we downloaded
     if not args.input and os.path.exists(input_path):
         os.unlink(input_path)
+
+    return str(output_path)
 
 
 if __name__ == "__main__":

@@ -13,19 +13,20 @@ Summary of the current campaign can be found at @exports/campaign-index.md
 ### Transcript Processing Pipeline
 
 ```bash
-# 1. Download raw transcript from Discord
-python scripts/download_transcript.py --session N
+# 1. Download and prepare transcript
+python scripts/ingest_transcript.py --session N
 
-# 2. Map speakers and apply transcription corrections
-python scripts/prepare_transcript.py --input inbox/transcripts/raw/session-N.txt --session N
+# Individual steps (for troubleshooting):
+#   python scripts/download_transcript.py --session N
+#   python scripts/prepare_transcript.py --input inbox/transcripts/raw/session-N.txt --session N
 
-# 3. Extract structured data (use Claude Code slash command)
+# 2. Extract structured data (use Claude Code slash command)
 /extract-session
 
-# 4. Incorporate into knowledge base (use Claude Code slash command)
+# 3. Incorporate into knowledge base (use Claude Code slash command)
 /incorporate-session
 
-# 5. Export for Claude Projects (use Claude Code slash command)
+# 4. Export for Claude Projects (use Claude Code slash command)
 /export-kb
 ```
 

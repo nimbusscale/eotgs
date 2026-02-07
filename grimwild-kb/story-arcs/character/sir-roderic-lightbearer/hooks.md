@@ -2,7 +2,7 @@
 
 ## Roderic's Lost Battalion
 **Source:** [[Session 0]]
-**Related:** [[Sir Roderic Lightbearer]], [[Church of Lucifer]]
+**Related:** [[Sir Roderic Lightbearer]], [[The Light]]
 
 On his last campaign, Roderic lost his entire battalion.
 He blamed his insufficient faith for the destruction.

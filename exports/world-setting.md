@@ -7,22 +7,19 @@
 ### Imperium Lucis Aeternae
 
 "Empire of Eternal Light" — the fallen empire at the height of civilized power.
-Ruled by Lucifer, the god-emperor and first of the New Gods.
+Ruled by [[Lucifer]], the god-emperor and first of the New Gods.
 Colloquially called "the Imperium."
-Think of it as analogous to Rome.
 
-**History:**
 The Imperium was a vast empire that spanned the land.
 Remnants of its glory — roads, ruins, towers — still dot the landscape.
 The empire eventually fell, leading to a "dark ages" period.
 
-After the Imperium's fall, the Middle Kingdoms emerged — a confederacy of kingdoms and city-states.
+After the Imperium's fall, the [[Middle Kingdoms]] emerged — a confederacy of kingdoms and city-states.
 Eventually this confederacy also fell apart, giving rise to the modern kingdoms.
 
-**The Farus Lucis:**
-"Beacon of Light" — towers that symbolized the Imperium's reach and authority.
+**The Farus Lucis:** "Beacon of Light" — towers that symbolized the Imperium's reach and authority.
 They once dotted the empire; most are now destroyed or lost.
-The one in Beaconhold is the last known intact tower, though dormant.
+The one in [[Beaconhold]] is the last known intact tower, though dormant.
 
 **Historical Periods:**
 
@@ -30,26 +27,17 @@ The one in Beaconhold is the last known intact tower, though dormant.
 | :---- | :---- |
 | The Old Empire | The Imperium at its height, ruled by Lucifer |
 | The Dark Ages | Period after the Imperium's fall |
-| The Middle Kingdoms | Confederacy of kingdoms and city-states |
+| The [[Middle Kingdoms]] | Confederacy of kingdoms and city-states |
 | The Modern Kingdoms | Current era — independent, disorganized city-states |
 
 
 ### The Middle Kingdoms
 
-A confederacy of kingdoms and city-states that formed after the fall of the Imperium Lucis Aeternae.
-Eventually this confederacy also fell apart, giving rise to the modern kingdoms like Beaconhold.
+A confederacy of kingdoms and city-states that formed after the fall of the [[Imperium Lucis Aeternae]].
+Eventually this confederacy also fell apart, giving rise to the modern kingdoms like [[Beaconhold]].
 
-**Legacy:**
-Edric Bloom wears a faded yellow scarf bearing the symbols of the Middle Kingdoms — the kings and kingdoms that made up this confederacy.
+[[Edric Bloom]] wears a faded yellow scarf bearing the symbols of the Middle Kingdoms.
 The weave occasionally reveals a broken sunburst ring, an old royal symbol of a fallen line of kings.
-
-**The Modern Era:**
-The current kingdoms are more independent and disorganized than the Middle Kingdoms.
-Each kingdom is essentially its capital city plus immediate surroundings.
-Outside the cities and main roads lies the wild — a "points of light" setting.
-
-
-## Geography and Culture
 
 
 ### Points of Light
@@ -57,38 +45,19 @@ Outside the cities and main roads lies the wild — a "points of light" setting.
 The Grimwild is a "points of light" setting.
 Kingdoms may claim mountains, valleys, and regions, but they only truly control their capitals, main roads, inns along those roads, and checkpoints and fortresses.
 
-**Details:**
 Go a mile or two off the beaten path and you're in the wild.
 Maps are not very good.
 The roads are relatively secure; off-road is dangerous.
 
 What's in the wild:
-- Remnants of the Old Empire
-- Ruins of the Middle Kingdoms
+- Remnants of the [[Imperium Lucis Aeternae|Old Empire]]
+- Ruins of the [[Middle Kingdoms]]
 - People who don't fit civilization
 - Monsters that have cropped up
 - The unknown
 
 
-### The Greenholt Bloodline
-
-A hereditary trait found in the Greenholt family that occasionally expresses in family members.
-It functions like a "recessive gene" in modern terms.
-
-**Details:**
-Those who express the trait have elven features and live extraordinarily long lives.
-Those who don't look like normal humans and live normal human lifespans.
-The family members are not elves and don't consider themselves elves, though the ancestry question remains open.
-
-Garland yn Greenholt has the strongest expression of this trait — he has lived longer than anyone else in his family line.
-Castor also carries the trait, sharing the same elven features and origin in the Ashen Vale.
-Garland believes Castor is a relative, though there is no definitive proof.
-
-**Notes:**
-The origin of this trait — whether it connects to actual elven ancestry or something else — remains an open question.
-
-
-## Religion and Cosmology
+## Cosmology
 
 
 ### The Old Gods and the New
@@ -102,21 +71,18 @@ You didn't choose a patron deity — you honored whichever force was relevant.
 No force was rejected, because all were necessary.
 The Old Gods existed in balance — they weren't at war with each other, they were parts of a whole.
 
-**The Luciferian Ascent:**
-The New Gods — Lucifer chief among them — offered something the Old Gods never had: the promise that things could be preserved.
+**The Luciferian Ascent:** The New Gods — [[Lucifer]] chief among them — offered something the Old Gods never had: the promise that things could be preserved.
 Where the Old Gods accepted the cycle, the New Gods fought against it.
-Lucifer brought light to push back darkness, wards to hold boundaries, whiteglass that never decayed.
+Lucifer brought light to push back darkness, wards to hold boundaries, [[Whiteglass]] that never decayed.
 The Luciferian faith spread not through conquest but through hope.
 
-**The Suppression:**
-As the New Gods rose, the Old Gods were gradually reframed.
+**The Suppression:** As the New Gods rose, the Old Gods were gradually reframed.
 What was once honored as natural became something to be feared.
-Some Old Gods were actively sealed away — imprisoned in whiteglass, the very substance of Luciferian permanence.
+Some Old Gods were actively sealed away — imprisoned in [[Whiteglass]], the very substance of Luciferian permanence.
 Others were simply starved of acknowledgment and faded — not dead, but dormant.
 Most people today don't know there ever were Old Gods.
 
-**What Was Lost:**
-The Luciferians brought real benefits — safety, stability, the foundations of civilization.
+**What Was Lost:** The Luciferians brought real benefits — safety, stability, the foundations of civilization.
 But the suppression of the Old Gods created imbalances that have been building for centuries:
 
 | Suppressed Force | What It Governed | The Imbalance Created |
@@ -131,21 +97,37 @@ The cumulative effect of these imbalances is a world that has been slowly sicken
 The Luciferians perceive it as "the darkness pressing in" and redouble their wards — not realizing they caused it.
 
 
+## Races & Culture
+
+
+### The Greenholt Bloodline
+
+A hereditary trait found in the Greenholt family that occasionally expresses in family members.
+It functions like a "recessive gene" in modern terms.
+
+Those who express the trait have elven features and live extraordinarily long lives.
+Those who don't look like normal humans and live normal human lifespans.
+The family members are not elves and don't consider themselves elves, though the ancestry question remains open.
+
+[[Garland yn Greenholt]] has the strongest expression of this trait — he has lived longer than anyone else in his family line.
+[[Castor]] also carries the trait, sharing the same elven features and origin in the [[Ashen Vale]].
+The origin of this trait — whether it connects to actual elven ancestry or something else — remains an open question.
+
+
 ## Creatures
 
 
 ### Dire Coyotes
 
-A tougher and more aggressive breed of coyote that dominates the lower elevations of the Cinderwall toward the Ashen Vale.
+A tougher and more aggressive breed of coyote that dominates the lower elevations of the [[Cinderwall]] toward the [[Ashen Vale]].
 Far more dangerous than their pasture-roaming cousins.
 
-**Details:**
 To the locals, ordinary coyotes are considered mostly non-threatening and more of a pest to pets and livestock.
 But in the more treacherous mountain areas where people have feared to tread, this aggressive breed has come to dominate.
 Humankind is sparse where they roam, so few know of these keen predators.
 
-Even among the residents of the Ashen Vale, few have ventured far enough to catch sight of a dire coyote.
-Castor has seen them during his time as a beaver, seeking proof of their existence out of curiosity, and getting little more than a frantic burrowing session in the mountains as a reward.
+Even among the residents of the [[Ashen Vale]], few have ventured far enough to catch sight of a dire coyote.
+[[Castor]] has seen them during his time as a beaver.
 
 A local named Phillip once talked a big game about going to the mountains to prove these coyotes existed.
 That's the last anyone heard of Phillip.
@@ -154,13 +136,12 @@ That's the last anyone heard of Phillip.
 ## Factions
 
 
-### The Light (Church of Lucifer)
+### The Light
 
 **Type:** Religion
-**Status:** Active
 **Also Known As:** The Church of Lucifer, The Luciferian Faith
 
-The dominant faith of the setting, worshipping Lucifer, the god-emperor of the Old Empire.
+The dominant faith of the setting, worshipping [[Lucifer|The Radiant One]], the god-emperor of the [[Imperium Lucis Aeternae|Old Empire]].
 Lucifer is the god of radiance and light.
 The religion has genuinely good tenets — helping people, protecting the weak, bringing light.
 
@@ -172,31 +153,20 @@ The Church genuinely believes it is protecting humanity from darkness.
 Its faith has brought real benefits — stability, safety, the foundations of civilization.
 
 **Terminology:**
-
-*The Faith:*
 - **The Light** — the religious organization and faith itself
-
-*Followers:*
-- **Casual usage:** "I follow the Light" / "I'm of the Light"
-- **Formal usage:** "The Illuminated"
-
-*Clergy:*
-- **Luminaries** — clergy; a genderless title used instead of father, brother, sister, etc.
-- **Radiant Luminaries** — high-ranking clergy (cardinals, archbishops, and similar positions)
+- **The Radiant One** — formal title for [[Lucifer]]
+- **The Illuminated** — formal term for followers
+- **Luminary** — priest (genderless title)
+- **Radiant Luminary** — high priest
 
 **Enforcement by Region:**
-Enforcement of the faith varies by region:
 - Some places mandate worship (Inquisition-style) with other religions forbidden
-- In Beaconhold, it is the state religion — supported but not mandated; other religions are tolerated but not supported
+- In [[Beaconhold]], it is the state religion — supported but not mandated; other religions are tolerated
 - Other places vary in tolerance
 
-**Notable Members:**
-- Sir Roderic Lightbearer — Paladin, devoted worshipper
-- Count Albrecht Marrow — Major donor with sons in influential clerical positions
-- Luminary Severin Morrow — Head priest in Aurelion, Marrow's third son
+**Notable Members:** [[Sir Roderic Lightbearer]] (paladin), [[Count Albrecht Marrow]] (major donor)
 
-**Notes:**
-Other smaller faiths exist (like Edric Bloom's private religion), generally tolerated in Beaconhold but not in all places.
+Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally tolerated in Beaconhold but not in all places.
 
 
 ### The Old Gods
@@ -208,83 +178,26 @@ The Old Gods are the pre-Luciferian divine forces that once governed the natural
 They were not worshipped in the Luciferian sense — they were acknowledged, honored in their proper time.
 None of them are evil; they are forces of nature, each governing a necessary part of existence.
 
-#### The God of Ruin
+**The God of Ruin:**
+Titles include The Unmaker (Luciferian pejorative), The Gentle Collapse (old honorific), Lord/Lady of Endings, The Patient Dark, Terminus, The Release, and The Final Kindness.
 
-**Titles and Epithets** (true name unknown/unknowable):
-- **The Unmaker** — Luciferian term, pejorative
-- **The Gentle Collapse** — old honorific, still used by hedge traditions
-- **Lord/Lady of Endings** — formal old religion term
-- **The Patient Dark** — poetic name
-- **Terminus** — scholarly term
-- **The Release** — used by those who honor endings
-- **The Final Kindness** — whispered by those who tend the dying
+Those who honor Ruin come from different places: the grieving who found peace in accepting loss, the exhausted who are tired of endless preservation, the philosophical who believe the natural order has been disrupted, the converted who found revelation in destruction, and the desperate who want something specific to end.
 
-**Those Who Honor Ruin:**
+**The God of Renewal:**
+Titles include The Beloved, The Green After Fire, The First Shoot, The Dawn After, Hope, The Returner, and The Second Chance.
 
-Ruinous cultists aren't cackling villains.
-They come to the god of ruin from different places:
-
-**The Grieving** — People who lost everything and found peace only in accepting that loss is natural.
-
-**The Exhausted** — People tired of the endless Luciferian labor of preservation.
-
-**The Philosophical** — Those who believe the natural order has been disrupted.
-
-**The Converted** — Once victims of ruin who came to see it as revelation.
-
-**The Desperate** — Those who want something specific to end: a tyrannical ruler, a corrupt institution, an abusive relationship, their own suffering.
-
-#### The God of Renewal
-
-**Titles and Epithets** (true name unknown/unknowable):
-- **The Beloved** — in relation to Ruin, used by those who know the old stories
-- **The Green After Fire** — poetic name
-- **The First Shoot** — old honorific
-- **The Dawn After** — scholarly term
-- **Hope** — sometimes, simply
-- **The Returner** — used by those who await the awakening
-- **The Second Chance** — whispered by those seeking redemption
-
-**Followers of Renewal:**
-Think Celtic/druidic aesthetic.
-They've kept the old ways in secret — hedge witches, hermits, rural communities that never fully converted, families with long memories.
+Followers keep the old ways in secret — hedge witches, hermits, rural communities that never fully converted.
 They know Renewal sleeps and have been waiting for the awakening.
-Some operate openly in the wilds; others hide within cities.
 
-#### The God of Trickery
+**The God of Trickery:**
+Not evil — a force of chaos, mischief, change, disruption.
+Embodies the truth that plans go awry, that certainty is illusion, that the universe has a sense of humor.
+Possible names include The Laughing One, Lord/Lady of Misrule, The Crooked Path, The Motley, The Unexpected, The Reversal.
 
-Not evil — none of the Old Gods are.
-A force of chaos, mischief, change, disruption.
-They embody the truth that plans go awry, that certainty is illusion, that the universe has a sense of humor (and it's not always kind).
+Followers are called the Harlequins — not a formal cult, more a loose network.
+They spread chaos, puncture certainties, expose hypocrisies, and test people.
+Sometimes they genuinely help — but never straightforwardly.
 
-**Possible names/epithets:**
-- The Laughing One
-- Lord/Lady of Misrule
-- The Crooked Path
-- The Motley
-- The Unexpected
-- The Reversal
-
-**Nature:** Amoral, not immoral.
-The Trickster doesn't serve good or evil — they serve change, disruption, the puncturing of certainty.
-They lie, but sometimes their lies reveal deeper truths.
-They cause chaos, but sometimes that chaos breaks stagnant systems.
-
-**The Harlequins:**
-Followers of the Trickster.
-Not a formal cult — more like a loose network of those who've been touched by the Laughing One's influence.
-
-**Aesthetic:** Motley, masks, bells, patchwork.
-Classic harlequin imagery that can range from theatrical and almost playful to deeply unsettling.
-
-**What they do:**
-- Spread chaos, disruption, change
-- Puncture certainties, expose hypocrisies
-- Test people — are you as virtuous as you claim?
-- Manipulate, misdirect, arrange circumstances
-- Sometimes genuinely help people — but never straightforwardly
-
-**Notes:**
 The Old Gods existed in balance — they weren't at war with each other, they were parts of a whole.
 No force was rejected, because all were necessary.
 
@@ -295,73 +208,50 @@ No force was rejected, because all were necessary.
 ### Seal of Unmaking
 
 **Type:** Artifact
-**Current Holder:** Unknown (released)
-**First Appeared:** Session 0
 
-A single whiteglass disc.
-When found, it rested upon the altar of the great church in Altreth's central square — the only structure that remained untouched when the city was buried.
+A single [[Whiteglass]] disc.
+When found, it rested upon the altar of the great church in [[Altreth]]'s central square — the only structure that remained untouched when the city was buried.
 
-**Properties:**
 The Seal contained and imprisoned a god — the God of Ruin.
 Those who recovered the relic from Altreth reportedly aged with unnatural speed and soon died.
 Their homes fell to ruin, and even their names were forgotten.
 
-When the party retrieved it from Ashbrook, they unwittingly released the God of Ruin it contained.
-The curse now spreads through the mountain springs, flowing from the ruins downstream toward the Ashen Vale.
+When the party retrieved it from [[Ashbrook]], they unwittingly released the God of Ruin it contained.
+The curse now spreads through the mountain springs, flowing from the ruins downstream toward the [[Ashen Vale]].
 
-**History:**
-The Seal was first discovered in the ruins of Altreth on Mount Ripea.
-After the initial recovery, the relic vanished — its whereabouts lost for an unknown period.
-It eventually surfaced in Ashbrook, a town in the Cinderwall.
-
-Count Albrecht Marrow, a well-known collector of whiteglass, commissioned Edric Bloom and the party to retrieve it.
-He described it as rare but otherwise unremarkable.
-The inclusion of a sealed metal container with warding locks — absent from his previous commissions — suggests he knew its true nature.
+The Seal was first discovered in the ruins of [[Altreth]] on Mount Ripea.
+After the initial recovery, the relic vanished for an unknown period before surfacing in [[Ashbrook]].
+[[Count Albrecht Marrow]] commissioned [[Edric Bloom]] and the party to retrieve it, describing it as rare but otherwise unremarkable.
 
 
 ### Whiteglass
 
 **Type:** Substance / Material
-**Current Holder:** Various (primarily the Church of Lucifer)
-**First Appeared:** Session 0
 
-A translucent, radiant substance associated with Lucifer, the god of light and warding.
-
-**Properties:**
+A translucent, radiant substance associated with [[Lucifer]], the god of light and warding.
 Believed to be immutable and uncorruptible.
 Resists breakage by tools, time, decay, and magical interference.
 Objects made of whiteglass are treated as doctrinal proof that some wards and boundaries are absolute.
 
-**History:**
-The rituals required to create whiteglass are known only to the highest ranks of the Church of Lucifer.
-Count Albrecht Marrow is a well-known collector of whiteglass relics.
-The Seal of Unmaking is a whiteglass disc that was used to imprison the God of Ruin.
+The rituals required to create whiteglass are known only to the highest ranks of the [[The Light]].
+[[Count Albrecht Marrow]] is a well-known collector of whiteglass relics.
+The [[Seal of Unmaking]] is a whiteglass disc that was used to imprison the God of Ruin.
 
 Some Old Gods were sealed away in whiteglass — the very substance of Luciferian permanence.
-
-**Notes:**
-Whiteglass represents the Luciferian ideal of preservation and permanence.
-It is both a symbol of the faith's power and, ironically, the instrument used to suppress the Old Gods.
+It is both a symbol of the faith's power and, ironically, the instrument used to suppress the [[Old Gods and New Gods|Old Gods]].
 
 
 ### Witch Stones
 
 **Type:** Artifact (Standing Stones)
-**Current Holder:** Hidden in the Ashen Vale
-**First Appeared:** Session 0
+**Current Location:** Hidden in the [[Ashen Vale]]
 
-A set of standing stones hidden in the Ashen Vale.
-Also known as the Shepherd's Teeth.
+A set of standing stones hidden in the [[Ashen Vale]], also known as the Shepherd's Teeth.
 Local legends know the Witch Stones exist somewhere in the Ashen Vale, but their location is considered "lost."
 
-**Properties:**
-The Witch Stones are the source of Garland yn Greenholt's magical power.
+The Witch Stones are the source of [[Garland yn Greenholt]]'s magical power.
 The full extent of what they do and how their power works is still to be established in play.
 
-**History:**
-Garland yn Greenholt discovered them while preparing a well-hidden field for pasture on his land.
+[[Garland yn Greenholt]] discovered them while preparing a well-hidden field for pasture on his land.
 He studied them carefully over the years and guards the secret of their location.
-
-**Notes:**
-Garland speaks of the Ashen Vale openly, but doesn't volunteer information about the Witch Stones themselves.
 He would be very interested in investigating other Witch Stones if they exist elsewhere.

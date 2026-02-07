@@ -32,16 +32,18 @@ On his last campaign, tragedy struck and he lost his entire battalion.
 He blamed his insufficient faith for the destruction.
 He is now on assignment from the church as a knight errant — not on sabbatical, but specifically tasked with redemption through deeds.
 His order is called "The Redeemers of Light."
-He reports to a superior in the church hierarchy and retains the authority and recognition of a paladin of the [[Church of Lucifer]].
+He reports to a superior in the church hierarchy and retains the authority and recognition of a paladin of the [[The Light]].
 
 ## Religion
-Devoted worshipper of [[Lucifer]], the God of Radiance, following the [[Church of Lucifer|Luciferian faith]].
+Devoted worshipper of [[Lucifer]], the God of Radiance, following the [[The Light|Luciferian faith]].
 He is fanatical about the tenets of the religion — helping people, protecting the weak, bringing light.
 However, he is tolerant of other religions and practitioners.
 This reflects the attitude of [[Beaconhold]] — the faith is good and right, but not forced on others.
 
-His tenets still need to be established using the Tenet Builder.
-Initial ideas include defending the defenseless and healing those in need.
+His three tenets are:
+- *I swear to offer the Light before I strike, because only those who refuse it deserve judgment.*
+- *I swear to answer every cry for help, because a Knight-Errant cannot choose who deserves protection.*
+- *I swear to spare those who yield, because my blade was meant for protection, not slaughter.*
 
 ## Key Traits & Abilities
 
@@ -50,7 +52,7 @@ Initial ideas include defending the defenseless and healing those in need.
 - Acolyte of the Sacred Oath (Undead Lore & Profane Signs, Consecration Rights & Blessings, Sin Redemption & Penance)
 
 **Talents:**
-- **Oathsworn** *(Core Talent)* — 3 Smite per session; three tenets dictate behavior (not yet written); doesn't take thorns from bloodied/rattled, takes +1d instead; can give spark to players who engage with tenets
+- **Oathsworn** *(Core Talent)* — 3 Smite per session; three tenets dictate behavior; doesn't take thorns from bloodied/rattled, takes +1d instead; can give spark to players who engage with tenets
 - **Divine Blessing, Healing** *(Minor Domain — 4d)* — God: Lucifer, Healing Light; can drop 1d to cast potent spells; a grim result exhausts the pool for the session and the GM makes an impact move; pool returns at next session start
 
 **Spiritual Perception:**
@@ -63,10 +65,9 @@ He wears recognizable church armor and is identifiable as a paladin.
 - [[Castor]] — Lowkey Doubts
 
 ## Current Threads
-- Tenets need to be formalized using the crucible format
 - Crisis of faith deepened — his healing was overwhelmed by ruin's proximity, but his blessings still move people
 - On assignment as knight errant, tasked with redemption through deeds
-- Headed to [[Beaconhold|Beacon Hold]] to seek counsel from the [[Church of Lucifer]]
+- Headed to [[Beaconhold|Beacon Hold]] to seek counsel from the [[The Light]]
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation

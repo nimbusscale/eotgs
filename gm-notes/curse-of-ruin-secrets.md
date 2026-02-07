@@ -234,9 +234,9 @@ Not defined until you need it.
 
 ---
 
-## The Church of Lucifer — What They Know
+## The Light — What They Know
 
-See also: [[Church of Lucifer]]
+See also: [[The Light]]
 
 **At various levels:**
 - Common faithful: The Old Gods are myths, demons, or "pagan superstitions." The Light protects.

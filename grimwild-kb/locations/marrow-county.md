@@ -6,7 +6,7 @@
 ## Description
 A minor but strategically placed county between [[Beaconhold]] county and the [[Ashen Vale]].
 Ruled by [[Count Albrecht Marrow]].
-Deeply entwined with the [[Church of Lucifer]].
+Deeply entwined with the [[The Light]].
 Its capital is [[Aurelion]].
 
 ## Notable Features

@@ -10,7 +10,7 @@
 His attempt to heal the exhausted horses at [[Beaver Lake]] was overwhelmed by ruin's proximity — the horses withered and aged before his eyes.
 He interpreted this as confirmation that his faith is insufficient, the same weakness he blames for his battalion's destruction.
 
-He is on assignment from the [[Church of Lucifer]] as a knight errant of "The Redeemers of Light," specifically tasked with redemption through deeds.
+He is on assignment from the [[The Light]] as a knight errant of "The Redeemers of Light," specifically tasked with redemption through deeds.
 His successful blessings in the [[Crownvale]] tavern — urging compassion for the confused horse seller Laura — offered a counterpoint: his faith can still move people, even if it cannot yet overcome the [[Old Gods|old gods]]' power.
 
 ## Open Questions
@@ -24,7 +24,7 @@ His successful blessings in the [[Crownvale]] tavern — urging compassion for t
 - [[Session 1]] — Failed to heal horses (ruin overwhelmed his power); successfully delivered a blessing in Crownvale defending the horse seller Laura; warned Edric that endorsing "new beginnings through destruction" feeds ruin's power
 
 ## Related Entities
-- [[Church of Lucifer]] — His faith and order
+- [[The Light]] — His faith and order
 - [[Beaconhold]] — Destination where he seeks counsel
 - [[Beaver Lake]] — Where his healing failed
 - [[Crownvale]] — Where his blessing succeeded

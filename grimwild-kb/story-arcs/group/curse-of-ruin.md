@@ -17,7 +17,7 @@ The beaver colony was evacuated downstream by [[Castor]].
 
 The party realizes they were used — whoever hired [[Edric Bloom]] knew exactly what would happen.
 They are no longer just adventurers; they are the only ones who can make things right.
-The party has decided not to return the [[Seal of Unmaking]] to [[Count Albrecht Marrow|Marrow]] and is heading to [[Beaconhold|Beacon Hold]] to seek help from the [[Church of Lucifer]] and the Wizard's College.
+The party has decided not to return the [[Seal of Unmaking]] to [[Count Albrecht Marrow|Marrow]] and is heading to [[Beaconhold|Beacon Hold]] to seek help from the [[The Light]] and the Wizard's College.
 
 Ruin's influence is spreading beyond the river — rotting preserved food, crumbling structures, and subtly affecting people's minds, making them accept decay and endings as natural.
 

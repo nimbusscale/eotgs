@@ -30,6 +30,8 @@ characters:
   "Luminary Severin Morrow": "luminary-severin-morrow"
   "Severin Morrow": "luminary-severin-morrow"
   "Severin": "luminary-severin-morrow"
+  "Lucifer": "lucifer"
+  "The Radiant One": "lucifer"
 
 locations:
   "Beaconhold": "beaconhold"
@@ -59,13 +61,13 @@ items:
   "Whiteglass": "whiteglass"
 
 factions:
-  "The Light": "church-of-lucifer"
-  "Light": "church-of-lucifer"
-  "Church of Lucifer": "church-of-lucifer"
-  "Luciferian faith": "church-of-lucifer"
-  "Luciferians": "church-of-lucifer"
-  "The Illuminated": "church-of-lucifer"
-  "Illuminated": "church-of-lucifer"
+  "The Light": "the-light"
+  "Light": "the-light"
+  "Church of Lucifer": "the-light"
+  "Luciferian faith": "the-light"
+  "Luciferians": "the-light"
+  "The Illuminated": "the-light"
+  "Illuminated": "the-light"
   "The Old Gods": "old-gods"
   "Old Gods": "old-gods"
   "Harlequins": "old-gods"

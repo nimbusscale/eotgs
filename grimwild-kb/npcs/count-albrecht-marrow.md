@@ -2,7 +2,7 @@
 
 **First Appeared:** [[Session 0]]
 **Status:** Active
-**Affiliation:** [[Church of Lucifer]], [[Beaconhold]]
+**Affiliation:** [[The Light]], [[Beaconhold]]
 
 ## Description
 Lord of a minor but strategically placed county ([[Marrow County]]) bordering the royal capital of [[Beaconhold]].
@@ -25,7 +25,7 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 
 ## Relationships
 - [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]
-- [[Church of Lucifer]] — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in [[Marrow County]]
+- [[The Light]] — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in [[Marrow County]]
 - [[Beaconhold]] — Rules [[Marrow County]], a strategically placed border county
 
 ## Key Events

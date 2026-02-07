@@ -2,7 +2,7 @@
 
 **First Mentioned:** Pre-session notes
 **Status:** Active
-**Affiliation:** [[Church of Lucifer]]
+**Affiliation:** [[The Light]]
 
 ## Description
 A severe man who serves as head priest of the church in [[Aurelion]].
@@ -15,7 +15,7 @@ His preaching has turned at least a portion of his flock against performers and 
 
 ## Relationships
 - [[Count Albrecht Marrow]] — His father
-- [[Church of Lucifer]] — His religious affiliation; he serves as a luminary
+- [[The Light]] — His religious affiliation; he serves as a luminary
 
 ## Key Events
 - Has been turning his congregation against bards and storytellers

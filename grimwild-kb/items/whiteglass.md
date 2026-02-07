@@ -1,7 +1,7 @@
 # Whiteglass
 
 **Type:** Substance / Material
-**Current Holder:** Various (primarily the [[Church of Lucifer]])
+**Current Holder:** Various (primarily the [[The Light]])
 **First Appeared:** [[Session 0]]
 
 ## Description
@@ -13,7 +13,7 @@ Resists breakage by tools, time, decay, and magical interference.
 Objects made of whiteglass are treated as doctrinal proof that some wards and boundaries are absolute.
 
 ## History
-The rituals required to create whiteglass are known only to the highest ranks of the [[Church of Lucifer]].
+The rituals required to create whiteglass are known only to the highest ranks of the [[The Light]].
 [[Count Albrecht Marrow]] is a well-known collector of whiteglass relics.
 The [[Seal of Unmaking]] is a whiteglass disc that was used to imprison the God of Ruin.
 

@@ -42,7 +42,7 @@ The Luciferians perceive it as "the darkness pressing in" and redouble their war
 
 ## Related Entries
 - [[The Old Gods]] — The gods themselves: titles, followers, and nature
-- [[Church of Lucifer]] — The dominant faith that suppressed the Old Gods
+- [[The Light]] — The dominant faith that suppressed the Old Gods
 - [[Imperium Lucis Aeternae]] — The empire founded by Lucifer
 - [[Whiteglass]] — The substance used to seal and preserve
 

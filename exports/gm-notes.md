@@ -5,7 +5,7 @@
 
 ## Curse of Ruin — GM Secrets
 
-See also: Curse of Ruin (player-facing arc)
+See also: [[Curse of Ruin]]
 
 ### The Shape of Things
 
@@ -20,11 +20,9 @@ They've become unwitting Heralds of Ruin, spreading decay through every interact
 **The cruel irony:** The more they try to help, the more they spread ruin.
 The more heroic they are, the wider the plague reaches.
 
----
-
 ### The God of Ruin
 
-See also: The Old Gods
+See also: [[The Old Gods]]
 
 Still wounded, still potentially sympathetic.
 Centuries of imprisonment in whiteglass — the substance of preservation — has changed them.
@@ -49,11 +47,9 @@ The plague spreading through the Heralds may be unintentional — an overflow of
 They're a victim whose trauma is now causing harm they never intended.
 Healing them might be how you stop the plague — not defeating them.
 
----
-
 ### The God of Renewal
 
-See also: The Old Gods
+See also: [[The Old Gods]]
 
 Dormant. Waiting.
 When Ruin was sealed, Renewal went into a kind of hibernation — a cocoon state, waiting to emerge when their counterpart was free again.
@@ -71,11 +67,9 @@ The sealing of Ruin broke something in Renewal too; without endings, there can b
 - A reunion that could heal both gods — or go terribly wrong
 - A restoration of the old balance that threatens the Luciferian order
 
----
-
 ### The God of Trickery
 
-See also: The Old Gods
+See also: [[The Old Gods]]
 
 **Why they orchestrated this (possibilities):**
 - The cosmic order has calcified; the Trickster is introducing chaos to a system that's become too rigid
@@ -98,11 +92,9 @@ So the Trickster gave them one.
 - Was the one who ensured the party specifically would be hired
 - Set up the "seal" to infect whoever broke it, knowing eventually someone would
 
----
-
 ### The Harlequins
 
-See also: The Old Gods
+See also: [[The Old Gods]]
 
 **Possible encounters:**
 - A Harlequin who seems to help the party but steers them toward greater spread of the plague
@@ -110,8 +102,6 @@ See also: The Old Gods
 - A Harlequin who wants to tell the party the truth — but only in riddles
 - A Harlequin who is themselves a pawn, not knowing who they truly serve
 - A Harlequin who has doubts about the Trickster's plan
-
----
 
 ### The Heralds of Ruin
 
@@ -149,8 +139,6 @@ His gift is building, community, the deep connection between creature and home.
 What he spreads: Foundations crack; buildings settle wrong; communities fragment; nature unbalances; homes become unhomely.
 The irony: The builder whose beaver-nature drives him to create — he leaves behind a world where nothing holds together.
 
----
-
 ### The Herald Legend
 
 There's a legend about Heralds who come before an age of ruin.
@@ -169,8 +157,6 @@ Let the players start to suspect before confirmation.
 - They come in the wake of something freed/awakened
 - They don't know what they are
 - There's probably something about how they can be stopped, cleansed, or redeemed — but interpretations vary
-
----
 
 ### The River Ruse
 
@@ -196,11 +182,9 @@ The Trickster (or their agents) set it up to give the party something to fight.
 - The curse behaves strangely — almost like it's putting on a show
 - Someone might point out that curses don't usually work this way
 
----
-
 ### Count Marrow's True Motivations
 
-See also: Count Albrecht Marrow
+See also: [[Count Albrecht Marrow]]
 
 A believer in Renewal, operating within Luciferian society.
 His family has kept old traditions secretly — or perhaps framed them as "acceptable" Luciferian mysticism while actually serving older purposes.
@@ -237,11 +221,9 @@ Not defined until you need it.
 - Marrow betrays them (if he has reason to)
 - Marrow's position collapses as the church investigates the crisis
 
----
+### The Light — What They Know
 
-### The Church of Lucifer — What They Know
-
-See also: Church of Lucifer
+See also: [[The Light]]
 
 **At various levels:**
 - Common faithful: The Old Gods are myths, demons, or "pagan superstitions." The Light protects.

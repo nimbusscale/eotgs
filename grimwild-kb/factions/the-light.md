@@ -5,7 +5,7 @@
 **Also Known As:** The Church of Lucifer, The Luciferian Faith
 
 ## Overview
-The dominant faith of the setting, worshipping [[Lucifer]], the god-emperor of the [[Imperium Lucis Aeternae|Old Empire]].
+The dominant faith of the setting, worshipping [[Lucifer|The Radiant One]], the god-emperor of the [[Imperium Lucis Aeternae|Old Empire]].
 Lucifer is the god of radiance and light.
 The religion has genuinely good tenets — helping people, protecting the weak, bringing light.
 
@@ -21,13 +21,16 @@ Its faith has brought real benefits — stability, safety, the foundations of ci
 ### The Faith
 - **The Light** — the religious organization and faith itself
 
+### Deity
+- **The Radiant One** — formal title for [[Lucifer]]
+
 ### Followers
 - **Casual usage:** "I follow the Light" / "I'm of the Light"
 - **Formal usage:** "The Illuminated"
 
 ### Clergy
-- **Luminaries** — clergy; a genderless title used instead of father, brother, sister, etc.
-- **Radiant Luminaries** — high-ranking clergy (cardinals, archbishops, and similar positions)
+- **Luminary** — priest; a genderless title used instead of father, brother, sister, etc.
+- **Radiant Luminary** — high priest; high-ranking clergy (cardinals, archbishops, and similar positions)
 
 ## Enforcement by Region
 Enforcement of the faith varies by region:

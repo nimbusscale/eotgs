@@ -31,7 +31,7 @@ The one in [[Beaconhold]] is the last known intact tower, though dormant.
 | The Modern Kingdoms | Current era — independent, disorganized city-states |
 
 ## Related Entries
-- [[Church of Lucifer]] — Faith that worships the Imperium's god-emperor
+- [[The Light]] — Faith that worships the Imperium's god-emperor
 - [[Beaconhold]] — Kingdom built around the last intact Farus Lucis
 - [[Whiteglass]] — Substance associated with the Imperium's power
 - [[Middle Kingdoms]] — The confederacy that followed the Imperium

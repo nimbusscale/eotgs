@@ -43,7 +43,7 @@ However, Edric experienced a disturbing vision of Sergeant Iyer's marital troubl
 
 A brief complication arose when the horse seller Laura accused Garland of theft — apparently confused or manipulated — but the guards recognized Garland and dismissed the claim.
 The townspeople began turning against Laura, but Roderic intervened with a stirring blessing, urging compassion and attributing her confusion to the corrupting influence spreading across the land.
-The party departed [[Crownvale]] on fresh horses, headed for [[Beaconhold|Beacon Hold]] to seek counsel from the [[Church of Lucifer]] and the Wizard's College, knowing that Garland's spirit wall would not hold forever.
+The party departed [[Crownvale]] on fresh horses, headed for [[Beaconhold|Beacon Hold]] to seek counsel from the [[The Light]] and the Wizard's College, knowing that Garland's spirit wall would not hold forever.
 
 ## Major Events
 - The party fled the ruins of [[Ashbrook]] on horseback, racing the cursed river downstream through the [[Cinderwall]] mountains toward the Great Beaver Dam.

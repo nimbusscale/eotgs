@@ -6,7 +6,7 @@
 ## Description
 A modern city-state kingdom, one of many that emerged after the fall of the [[Middle Kingdoms]].
 The kingdom is built around the last known intact [[Farus Lucis]] — a dormant beacon tower that serves as a symbol of ancient connection and inherited legitimacy.
-The [[Church of Lucifer|Luciferian faith]] is the state religion here — supported but not mandated.
+The [[The Light|Luciferian faith]] is the state religion here — supported but not mandated.
 Other religions are tolerated but not supported, and perhaps frowned upon.
 
 ## The Nature of the Kingdom

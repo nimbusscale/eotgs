@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Grimwild KB is a campaign knowledge base system for managing a TTRPG campaign. It processes Discord voice channel transcripts into a structured markdown knowledge base optimized for Claude Projects. The workflow is semi-automated with human review via git diff before committing.
 
+Summary of the current campaign can be found at @exports/campaign-index.md
+
 ## Common Commands
 
 ### Transcript Processing Pipeline

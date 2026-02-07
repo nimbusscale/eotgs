@@ -106,7 +106,7 @@ Mix both for unsettling effect.
 
 ## Related Entries
 - [[Old Gods and New Gods]] — History of the old religion and its suppression
-- [[Church of Lucifer]] — The dominant faith that suppressed the Old Gods
+- [[The Light]] — The dominant faith that suppressed the Old Gods
 - [[Whiteglass]] — The substance used to seal Old Gods
 
 ## Sources

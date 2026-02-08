@@ -46,6 +46,8 @@ Read the manifest JSON. It contains:
 - `chunk_count` — number of chunks
 - `known_entities` — dict of entity names by category (pcs, npcs_and_others, locations, items, factions, world)
 - `kb_filenames` — dict of KB filenames by subdirectory
+- `sub_entity_map` — dict mapping sub-entity header names to `{"parent_file", "parent_name", "category"}` (e.g., `"The God of Ruin" → {"parent_file": "factions/old-gods.md", "parent_name": "Old Gods", "category": "factions"}`)
+- `kb_content_hints` — dict mapping KB file paths to lists of sub-entity section names (e.g., `"factions/old-gods.md" → ["The God of Ruin", "The Harlequins", ...]`)
 - `campaign_context` — contents of `exports/campaign-index.md` (empty string if file doesn't exist)
 - `chunks` — list of per-chunk info: `chunk_index`, `file`, `line_start`, `line_end`, `line_count`, `entities_mentioned`
 
@@ -94,6 +96,19 @@ These entities already exist in the knowledge base. If you see them mentioned, r
 
 **KB files:** {For each KB subdirectory with files, list: "subdir/: file1.md, file2.md, ..."}
 
+## KB file contents (sub-entities)
+
+These section headers exist inside KB files. They represent sub-entries within larger entries.
+If you encounter these names OR closely related names in the transcript, record them as
+`entity_updates` for the parent entity — NOT as `new_entities`.
+
+{For each entry in sub_entity_map:}
+- **{name}** → part of {parent_name} (`{parent_file}`)
+
+**Key files and their sections:**
+{For each file in kb_content_hints with entries:}
+`{file_path}`: {comma-separated section names}
+
 ## Campaign context
 
 {Insert campaign_context from manifest verbatim. If empty, write: "This is a new campaign — no prior context available."}
@@ -140,11 +155,14 @@ All narrative content must read like fiction. A reader should never be able to t
 ### Entity recognition
 
 1. If an entity name matches the known entities list → it's known. Record updates under `entity_updates`.
-2. If an entity name is new:
+2. If a name is new, check the KB file contents list above:
+   - **Direct match** → record as `entity_updates` for the parent entity. Include `parent_file` and `sub_section` fields.
+   - **Semantically related** (e.g., "The Dark Harlequin" relates to "The Harlequins" in old-gods.md) → record as `entity_updates` for the parent entity. Note the related sub-section in the update.
+3. If truly new and unrelated to any existing entry:
    - **NPCs:** Add to `new_entities` only if they have a relationship with a PC, are connected to a major NPC, had a substantive exchange with PCs, or are likely to recur. Otherwise, just name them in event descriptions. When uncertain, include them.
    - **Locations:** Add to `new_entities` only if standalone (not a sub-location), a recurring destination, or plot-critical. Sub-locations should be mentioned in event descriptions instead.
    - **Items/Factions:** Add if meaningfully introduced (described, used, or plot-relevant).
-3. If ambiguous ("the old wizard"), add to `unresolved_references`.
+4. If ambiguous ("the old wizard"), add to `unresolved_references`.
 
 ### Rules clarifications
 
@@ -186,7 +204,9 @@ new_entities:
   factions: []
 entity_updates:
   - entity: "Known Entity Name"
-    category: "pc|npc|location|item|faction"
+    category: "pc|npc|location|item|faction|world"
+    parent_file: "factions/old-gods.md"  # optional, for sub-entity updates
+    sub_section: "The Harlequins"  # optional, which section it relates to
     new_info: |
       New information learned in this chunk.
 questions_raised:
@@ -349,7 +369,9 @@ new_entities:
 
 entity_updates:
   - entity: "Entity Name"
-    category: "pc|npc|location|item|faction"
+    category: "pc|npc|location|item|faction|world"
+    parent_file: "factions/old-gods.md"  # optional, for sub-entity updates
+    sub_section: "The Harlequins"  # optional, which section it relates to
     new_info: |
       New information learned this session.
 

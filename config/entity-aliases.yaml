@@ -51,6 +51,10 @@ locations:
   "Beaver Lake": "beaver-lake"
   "Farlands Pass": "farlands-pass"
   "Aurelion": "aurelion"
+  "Lower Ashen Flow": "ashen-flow"
+  "The Fall of Altreth": "altreth"
+  "The Great Beaver Dam": "ashen-flow"
+  "Upper Ashen Flow": "ashen-flow"
 
 items:
   "Seal of Unmaking": "seal-of-unmaking"
@@ -71,6 +75,12 @@ factions:
   "The Old Gods": "old-gods"
   "Old Gods": "old-gods"
   "Harlequins": "old-gods"
+  "Followers of Renewal": "old-gods"
+  "The God of Renewal": "old-gods"
+  "The God of Ruin": "old-gods"
+  "The God of Trickery": "old-gods"
+  "The Harlequins": "old-gods"
+  "Those Who Honor Ruin": "old-gods"
 
 world:
   "Imperium Lucis Aeternae": "imperium-lucis-aeternae"
@@ -81,3 +91,8 @@ world:
   "Old Gods and New Gods": "old-gods-and-new-gods"
   "Dire Coyotes": "dire-coyotes"
   "Points of Light": "points-of-light"
+  "The Farus Lucis": "imperium-lucis-aeternae"
+  "The Luciferian Ascent": "old-gods-and-new-gods"
+  "The Modern Era": "middle-kingdoms"
+  "The Suppression": "old-gods-and-new-gods"
+  "What Was Lost": "old-gods-and-new-gods"

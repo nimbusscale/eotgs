@@ -37,6 +37,16 @@ Process one extracted session YAML through the following steps.
 
 Session number, date, recap teaser, and all other data come from the YAML content — no additional arguments needed.
 
+### Step 1b — Sync entity aliases
+
+Run the alias sync script to ensure sub-entity names are in `entity-aliases.yaml`:
+
+```bash
+python3 scripts/sync_kb_aliases.py
+```
+
+This adds any missing sub-entity aliases (e.g., "The God of Ruin" → `old-gods` under `factions:`) so that entity resolution in later steps has the complete picture.
+
 ### Step 2 — Build KB index (context-efficient)
 
 Minimize context usage by loading only what is needed:

@@ -1,0 +1,500 @@
+session_number: 2
+date_played: "2026-02-07"
+source_transcript: "inbox/transcripts/prepared/session-2.txt"
+
+recap_teaser: |
+  Ashbrook lies in ruin. Centuries of decay unleashed in moments upon a town that was alive just days ago. You rode hard through the Cinderwall, bargained with shapeshifters under a hunter's moon, and raised a desperate ward of spirit and song across the waters of Beaver Lake. But barriers crack.  And already the signs are spreading: a merchant's stock rotting on the cart, a child whispering sweetly of endings, a soldier's discipline fraying like old rope. Something is seeping into the bones of the land, and it is not content to follow the river.
+  Now the road to Beaconhold stretches too long. The spirit wall won't hold forever, and the cursed waters pool higher with every passing hour. So you ride for the Triune, three halfling sisters and hedge-wizards of strange geometric arts, who Garland once consulted about Castor's curse. They work out of a place called the Nodrum, an ancient facility built at the nexus of several ley lines, deep in the heart of Marrow County. And therein lies the danger. Count Marrow's soldiers, the Aureate, patrol these roads, and the Assayer Sovereign, Mayliss Vane, is expecting a delivery you have no intention of making. Worse still, whispers travel fast in this county. Whispers of creeping ruin: crops failing, fish rotting, bridges groaning under their own weight. And whispers of a different kind. Luminary Severin Morrow, the Count's own son and head priest of the Chryseum, has turned his pulpit against bards, storytellers, and anyone who trades in the currency of words. Those who have the ear of the people are being silenced. Wanted signs are nailed to tavern doors. For a party traveling with a bard, these roads just got a good deal more dangerous.
+  And old Garland rides with an uneasy knot in his gut. The Triune helped him, yes. But their questions about Castor were always a little too eager, their curiosity a little too sharp. He kept the druid's identity secret for a reason. And now he's about to walk Castor through their front door.
+
+summary: |
+  The party detoured from the long road to Beacon Hold, riding instead to the Nodrum — an ancient stone facility built into the side of a mountain at the nexus of several ley lines, deep in Marrow County.
+  Along the way they witnessed signs of ruin spreading far beyond the Ashen Vale: rotting merchant stock, failing crops, and the Aureate dragging performers from taverns under Luminary Severin Morrow's decree against storytellers.
+  Garland and Castor agreed that Castor would pose as one of Garland's many grandsons, keeping the druid's true nature hidden from the Triune — three halfling sisters and hedge-wizards of geometric arts who had previously helped Garland stabilize Castor's curse.
+
+  At the Nodrum, Aurea greeted Garland warmly and the Triune attempted to examine Edric with their rotating platforms and lenses, but the machinery seized when it touched him.
+  Venn observed that Edric stood at the overlap of many circles — old gods, new faith, curses, and counties — a shared space that was either very safe or very dangerous.
+  Delta explained that ruin was never meant to exist alone among the old gods; it had a counterpart in Renewal, and without that balance, centuries of ruinous energy had been released all at once.
+  Edric wondered whether the answer lay not in resealing ruin but in restoring renewal.
+
+  Tremors shook the facility and the party pressed deeper, past malfunctioning clockwork guardians, into an antechamber library where Garland discovered the Nodrum was once called the Nexarium — a prison built to contain the Xan-Kor, a legendary construct of the God of Forgetting capable of erasing things from existence by removing them backward through time.
+  The Triune's wards began failing; they confessed they had secretly siphoned energy from the curse Garland blocked on Castor to power what they called the Aegis Mechanism — their attempt to repurpose the Xan-Kor.
+  The party's arrival, carrying ruin's influence, had destabilized everything.
+
+  Garland refused to let Castor be re-cursed and instead teleported to retrieve the Seal of Unmaking's case, losing his recent memory of his great-great-grandchild Mira in the transit.
+  The party helped the Triune redirect the ley line energy into the Whiteglass seal, pushing the Xan-Kor back to a faint outline — but the ritual went awry.
+  Ley lines passing through Edric and Roderic emerged corrupted, reality itself shifted, the Bonewall's ancient protective wards began to crumble, and a pivotal historical victory by Lucifer's champion was retroactively undone.
+
+  By morning, ruin had struck at the core of each party member: Roderic's door lock crumbled in his hands, Garland's books became indecipherable, Edric's dreams drained of inspiration, and Castor's presence caused the clockwork servants to break down.
+  The Triune delivered their research over breakfast and declared that the party themselves were the heralds of ruin — carrying the curse wherever they went.
+  A scrying of Beaver Lake confirmed it: the spirit wall still stood but blocked nothing, the cursed water simply gone.
+  The ruin traveled with the party, not through the waterway.
+
+  The Triune directed them toward a shrine to the God of Renewal beneath the Chryseum in Aurelion, where they might find clues to locating the heralds of renewal and restoring balance.
+  The party departed the Nodrum, and Garland discovered another piece of Aldric's green-and-gold livery deliberately planted on a branch.
+  Castor tracked acrobat footprints to a nearby village, where the Aureate were beating a performer in an orange scarf strikingly similar to Edric's yellow one.
+
+  Roderic invoked his authority as a knight of Lucifer and forced the soldiers to release the man, who introduced himself as Jimmy — a Harlequin, a follower of the Laughing One.
+  Jimmy revealed that the Harlequins had been watching the party since Ashbrook, delighting in their unwitting role as heralds of ruin, and confessed that the Aldric livery was a low-effort trick to exploit Garland's paranoia.
+  The Dark Harlequin — their monstrous leader — sent Garland an uninvited vision of Mira and other children in the tower of Aldric's castle, daring each other to leap from the parapets.
+  Edric glimpsed the Dark Harlequin itself inside a barrel: a figure with checkered face paint, a fool's cap, and a mouth full of inhuman teeth that laughed silently before vanishing.
+  The party resolved to press on toward the Chryseum, hoping to find a path to renewal before ruin consumed everything they carried it toward.
+
+major_events:
+  - description: |
+      As the party rode through Marrow County toward the Nodrum, they witnessed signs of ruin spreading beyond the Ashen Vale — rotting merchant stock, failing crops, and poisoned waters.
+      The Aureate carried out a crackdown against bards and storytellers on orders from Luminary Severin Morrow, with wanted signs posted at crossroads and minstrels dragged from taverns.
+    entities_involved: ["Edric Bloom"]
+    location: "Marrow County"
+  - description: |
+      The party arrived at the Nodrum, an ancient stone building set into the side of a mountain.
+      Roderic recognized Luciferian architectural stonework on the facade, overlaid on far older geometric glyphs that predated the faith entirely.
+      Aurea greeted Garland warmly from a balcony, and he introduced his companions and explained the ruin crisis — his spirit wall at Beaver Lake was holding but could not last forever.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Castor", "Edric Bloom"]
+    location: "The Nodrum"
+  - description: |
+      The Triune attempted to examine Edric using their rotating platforms, mirrors, and lenses.
+      Venn observed that Edric stood at the overlap of many circles — old gods, new faith, curses, and counties.
+      As the geometric runes illuminated and Edric began to glow, the devices screeched to a halt and clockwork spiders emerged to inspect the machinery.
+    entities_involved: ["Edric Bloom"]
+    location: "The Nodrum"
+  - description: |
+      The Triune explained that ruin had an arrangement with Count Marrow through Mayliss Vane — they served as magical consultants in exchange for autonomy.
+      Edric revealed his prior work fetching Whiteglass relics for Marrow, and Roderic speculated that each artifact may have been a barrier holding ruin back, weakened one by one until the Seal of Unmaking was the final clasp.
+    entities_involved: ["Edric Bloom", "Sir Roderic Lightbearer", "Count Albrecht Marrow", "Mayliss Vane"]
+    location: "The Nodrum"
+  - description: |
+      Delta explained that ruin never existed in isolation — it had a counterpart in Renewal.
+      Without renewal's balance, centuries of pent-up ruinous energy had been released all at once.
+      Edric wondered whether the answer lay not in resealing ruin but in restoring renewal.
+    entities_involved: ["Edric Bloom", "Sir Roderic Lightbearer", "Garland yn Greenholt"]
+    location: "The Nodrum"
+  - description: |
+      Tremors shook the Nodrum and Castor experienced an involuntary partial reversion toward his beaver form, as though whatever protected him momentarily faltered.
+      The party pressed deeper into the facility past malfunctioning clockwork guardians.
+      Garland discovered the Nodrum was once called the Nexarium, and both he and Edric recognized the Xan-Kor — a legendary construct of the God of Forgetting capable of erasing things from existence by removing them backward through time.
+    entities_involved: ["Castor", "Garland yn Greenholt", "Edric Bloom"]
+    location: "The Nodrum"
+  - description: |
+      The Triune's wards began failing and the Xan-Kor started phasing into reality.
+      They confessed they had secretly siphoned transformation energy from Castor's curse to power the Aegis Mechanism — their attempt to repurpose the Xan-Kor for defensive purposes.
+      The party's arrival, carrying ruin's influence, had destabilized everything.
+    entities_involved: ["Garland yn Greenholt", "Castor"]
+    location: "The Nodrum"
+  - description: |
+      Garland refused to let Castor be re-cursed and instead used his Grasping Gate spell to teleport and retrieve the Seal of Unmaking's case.
+      During the transit, the chaotic magical energies stripped away his recent memory of Mira — his great-great-grandchild.
+      He returned holding the case but felt a hollow absence he could not explain, his earlier optimism drained.
+    entities_involved: ["Garland yn Greenholt", "Mira"]
+    location: "The Nodrum"
+  - description: |
+      The party helped the Triune redirect ley line energy into the Whiteglass seal, pushing the Xan-Kor back to a faint outline.
+      Roderic held a mirror, Edric a lens, and Castor opened the case at the critical moment.
+      The ritual succeeded but the ley lines passing through Edric and Roderic emerged corrupted by ruin.
+      Reality shifted — a pivotal historical victory by Lucifer's champion was retroactively undone, and the Bonewall's protective wards began to crumble.
+    entities_involved: ["Garland yn Greenholt", "Edric Bloom", "Sir Roderic Lightbearer", "Castor"]
+    location: "The Nodrum"
+  - description: |
+      Garland admonished the Triune for wielding power not meant for mortal hands.
+      The Triune conceded and agreed to repair the Seal of Unmaking's broken case and study whether the empowered Whiteglass seal could reseal the God of Ruin.
+    entities_involved: ["Garland yn Greenholt"]
+    location: "The Nodrum"
+  - description: |
+      During the night at the Nodrum, ruin manifested personally for each party member.
+      Roderic's door lock crumbled in his hands.
+      Garland's books became indecipherable, as though the knowledge itself was erased.
+      Edric's dreams were drained of inspiration, replaced by mundane visions.
+      Castor's mere presence caused the clockwork servants to break down.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Edric Bloom", "Castor"]
+    location: "The Nodrum"
+  - description: |
+      The Triune presented their research and declared that the party themselves were the heralds of ruin — carrying the curse wherever they went.
+      A scrying of Beaver Lake confirmed it: the great beaver dam had partially collapsed and water had poured into the lower Ashen Flow, but there were no signs of ruin at the spirit wall or in the river.
+      The cursed water the party had witnessed was simply gone.
+    entities_involved: ["Garland yn Greenholt", "Castor", "Edric Bloom", "Sir Roderic Lightbearer"]
+    location: "The Nodrum"
+  - description: |
+      The Triune directed the party toward a shrine to the God of Renewal beneath the Chryseum in Beacon Hold, where they might find clues to locating the heralds of renewal.
+      The party departed the Nodrum, warned that their presence was endangering the facility.
+      Garland cautioned the Triune that the Xan-Kor had the power to unwrite history.
+    entities_involved: ["Garland yn Greenholt", "Sir Roderic Lightbearer"]
+    location: "The Nodrum"
+  - description: |
+      Shortly after leaving the Nodrum, Garland spotted another piece of Aldric's green-and-gold livery deliberately cut and placed on a branch.
+      Castor shifted into beaver form and tracked acrobat footprints to a nearby village tavern, where the Aureate were dragging out a performer in an orange scarf strikingly similar to Edric's yellow scarf.
+      The performer looked up at Edric and called him "brother" before being punched unconscious.
+    entities_involved: ["Garland yn Greenholt", "Castor", "Edric Bloom", "Aldric Garlandsson"]
+    location: "Marrow County"
+  - description: |
+      Roderic stepped forward, declared himself a paladin of Lucifer on a sacred mission, and commanded the Aureate soldiers to surrender the performer.
+      His commanding presence overwhelmed the soldiers, who withdrew but warned they would report the encounter to Luminary Severin.
+    entities_involved: ["Sir Roderic Lightbearer", "Edric Bloom", "Garland yn Greenholt"]
+    location: "Aurelion"
+  - description: |
+      The party overheard the departing Aureate discussing troubling news: half the Crownvale guard had walked off the walls in the middle of the night, and Sergeant Iyer told them to go home, saying none of it mattered anymore.
+    entities_involved: ["Sergeant Iyer"]
+    location: "Crownvale"
+  - description: |
+      The beaten performer introduced himself as Jimmy, a follower of the Laughing One — the God of Trickery.
+      He revealed the Harlequins had been following the party since Ashbrook, finding dark humor in their unwitting role as heralds of ruin.
+      He confessed that both the party and Count Marrow were puppets on the Laughing One's strings, and that the Aldric livery was a low-effort Harlequin trick to exploit Garland's paranoia.
+    entities_involved: ["Edric Bloom", "Sir Roderic Lightbearer", "Garland yn Greenholt", "Castor", "Count Albrecht Marrow"]
+    location: "Aurelion"
+  - description: |
+      The Dark Harlequin sent Garland an uninvited vision of Mira and other children in the tower of Aldric's castle in Crownvale, playing a dare game that ended with a child walking off the parapet.
+      Garland could not determine whether the vision was real or a trick to lure the party back.
+    entities_involved: ["Garland yn Greenholt", "Mira", "Aldric Garlandsson"]
+    location: "Crownvale"
+  - description: |
+      Edric looked inside a barrel at Jimmy's suggestion and glimpsed the Dark Harlequin — a figure with black and white checkered face paint, a purple and white fool's cap, and a mouth full of monstrous teeth stretched into an inhuman grin.
+      It laughed silently and vanished, the barrel snapping back to normal.
+      The party resolved to press on toward the Chryseum to seek a temple of Renewal.
+    entities_involved: ["Edric Bloom"]
+    location: "Aurelion"
+
+new_entities:
+  npcs:
+    - name: "The Triune"
+      description: |
+        Three halfling sisters — Aurea, Venn, and Delta — who are triplet hedge-wizards practicing a strange geometric art based on mathematical principles.
+        They work from the Nodrum and have served as magical consultants to Count Marrow through Mayliss Vane.
+        They are not aligned with the Wizard's College and operate as independent practitioners.
+        They secretly siphoned energy from Castor's curse to power the Aegis Mechanism.
+        Aurea wears gold and is inspired by the Golden Ratio, focused on proportional harmony, alignment, symmetry, and long-term stability. She serves as the de facto leader and primary spokesperson, though they all claim equal standing. She speaks in mathematical metaphors about balance and proportion.
+        Venn wears violet and silver with overlapping blue. She is obsessed with intersections, overlaps, shared spaces, and boundaries — like a Venn diagram. She focuses on things that exist between other things.
+        Delta is focused on change, transformation, differentiation, deviations, and thresholds. She contributed the key insight about ruin and renewal being counterparts among the old gods.
+      first_location: "The Nodrum"
+      notes: "Garland previously consulted them about Castor's curse but kept the druid's identity secret because their curiosity seemed too eager. Aurea greeted Garland warmly as an old friend and cried out that the ratios were wrong when the wards began failing. Venn observed that Edric stands at the overlap of many circles. Delta bluntly declared the party were the heralds of ruin."
+
+  locations:
+    - name: "The Nodrum"
+      type: "Landmark"
+      description: |
+        An ancient stone facility built into the side of a mountain at the nexus of several ley lines, deep in Marrow County, not far from Arulian.
+        Once known as the Nexarium (or Aurelion Vault), it was originally a magical prison constructed during the wars of the old gods to contain the Xan-Kor, a construct of the God of Forgetting.
+        The facade bears geometric glyphs of immense age, overlaid with Luciferian architectural stonework that has since worn away.
+        The Triune has retrofitted it with halfling-sized structures and equipment, including rotating platforms, mirrors, and lenses for their geometric magic.
+        Clockwork constructs serve as workers and guardians; clockwork spiders maintain the machinery.
+        Contains an antechamber library with history books documenting its origins, and a central chamber with a deep pit where the Xan-Kor is held.
+      notes: "The Triune unlocked the abandoned facility when no one else could gain entry. The door has been rebuilt at a middle size — large for halflings but tight for humans."
+  items:
+    - name: "The Xan-Kor"
+      description: |
+        A legendary construct created by the God of Forgetting during the wars of the old gods.
+        The Xan-Kor can erase things from existence — not merely destroying them, but removing them backward through time, undoing their actions and influence.
+        It was imprisoned in the Nexarium (now the Nodrum) after it was used to erase a champion of Lucifer, undoing a pivotal victory and prolonging the old wars.
+        The Triune had been attempting to reprogram it as the "Aegis Mechanism" for defensive purposes, powering it with energy siphoned from Castor's curse.
+        Currently pushed back to a faint outline barely touching reality after the party's intervention.
+      current_holder: "The Nodrum (contained)"
+
+entity_updates:
+  - entity: "Garland yn Greenholt"
+    category: "pc"
+    new_info: |
+      Garland's youth coincided with the fracturing of the Middle Kingdoms; he fought in the wars during Beacon Hold's expansion and was granted a fiefdom in the Ashen Vale for his service.
+      He previously consulted the Triune at the Nodrum about Castor's curse but kept Castor's true identity secret because the sisters' curiosity seemed too eager.
+  - entity: "Castor"
+    category: "pc"
+    new_info: |
+      Castor dates from the transitionary period when Beacon Hold was being established — the fall of the Imperium and rise of the Middle Kingdoms.
+      He was human during that era but has spent far more time as a beaver, and his human memories have grown muddled, replaced by beaver priorities.
+      In human form he appears middle-aged and well preserved; his body did not age while in beaver form.
+      He has never had children that he knows of.
+  - entity: "Sir Roderic Lightbearer"
+    category: "pc"
+    new_info: |
+      Roderic grew up as an orphan at the grand cathedral in Beacon Hold and recognized its architectural signatures on the Nodrum's facade.
+  - entity: "Count Albrecht Marrow"
+    category: "npc"
+    new_info: |
+      He is known as a collector of Whiteglass artifacts; the party was specifically hired to retrieve one for his collection, which turned out to be the Seal of Unmaking.
+  - entity: "Sergeant Iyer"
+    category: "npc"
+    new_info: |
+      Reports from Aureate soldiers indicate Iyer was on duty when half the Crownvale guard walked off the walls in the middle of the night.
+      He told them to go home, saying none of it mattered anymore.
+      The east gate stood unmanned until dawn, suggesting ruin's influence is deepening its hold on Crownvale's defenders.
+  - entity: "Aldric Garlandsson"
+    category: "npc"
+    new_info: |
+      Aldric's livery colors are established as green and gold.
+  - entity: "Seal of Unmaking"
+    category: "item"
+    new_info: |
+      The case broke apart during the ritual at the Nodrum; the Whiteglass seal within absorbed redirected ley line energy and now glows with pulsating new power.
+  - entity: "Whiteglass"
+    category: "item"
+    new_info: |
+      Count Marrow is a collector of Whiteglass artifacts specifically.
+      Edric previously retrieved Whiteglass relics for Marrow on multiple jobs, describing them as "curiosities at best."
+  - entity: "Beaconhold"
+    category: "location"
+    new_info: |
+      Beacon Hold was once at an apex of power, expanding and absorbing neighboring kingdoms from the fracturing Middle Kingdoms, including Aurelion (now Marrow County).
+      It granted fiefdoms in the Ashen Vale to war veterans like Garland, though these were largely ignored in practice.
+      There is a grand cathedral of the Church of Lucifer in the city.
+  - entity: "Marrow County"
+    category: "location"
+    new_info: |
+      Marrow County was once an independent kingdom called Aurelion with a capital city of Arulian.
+      It was absorbed by Beacon Hold during the kingdom's expansion.
+  - entity: "Ashen Vale"
+    category: "location"
+    new_info: |
+      The Ashen Vale was once an agrarian region during the Imperium era.
+      Fiefdoms were granted to war veterans after Beacon Hold's conquest, though largely left to self-govern.
+  - entity: "Beaver Lake"
+    category: "location"
+    new_info: |
+      The great beaver dam has partially collapsed and water has poured into the lower Ashen Flow.
+      Scrying revealed no signs of ruin at the spirit wall or in the river — the cursed water the party witnessed was simply gone.
+      Garland's spirit wall remains standing but appears to be blocking nothing.
+  - entity: "Aurelion"
+    category: "location"
+    new_info: |
+      Aurelion is the capital city of Marrow County, once the seat of an independent kingdom absorbed into Beacon Hold during the kingdom's expansion after the fracturing of the Middle Kingdoms.
+      The kingdom's economic power declined as the ability to extract gold from a hard substrate was lost over generations.
+      The area had sophisticated gold-extraction technology that was lost over generations, leading to decline.
+      There is a grand cathedral of the Church of Lucifer in the city.
+
+      The Nodrum is located not far from Aurelion.
+      The party arrived in Aurelion and witnessed Aureate soldiers beating a performer for violating the anti-storyteller decree.
+      A Harlequin agent named Jimmy was operating in the town disguised as a street performer.
+      The Dark Harlequin manifested briefly inside a water barrel beside a tavern before vanishing.
+      The party plans to seek the Chryseum where they believe a shrine to Renewal may lie beneath.
+
+      ### The Chryseum
+      The cathedral of the Light in Beacon Hold, presided over by Luminary Severin Morrow.
+      Severin has used the Chryseum's pulpit to issue decrees against bards and storytellers.
+      The Triune told the party that beneath it lies an old shrine to the God of Renewal where they might find clues to locating the heralds of renewal.
+      The party plans to seek the shrine beneath the Chryseum as their next major objective.
+
+      ### The Aureate
+      Count Marrow's soldiers and guard force in Marrow County.
+      They patrol the roads and carry out official orders, including the crackdown against bards and storytellers ordered by Luminary Severin Morrow.
+      The party must avoid detection by the Aureate while traveling through Marrow County.
+  - entity: "Bonewall"
+    category: "location"
+    new_info: |
+      The Bonewall has fortresses maintained by the Light that have long kept forces of darkness at bay.
+      These protective wards are now beginning to crumble as ruin's influence spreads, weakened by the corrupted ritual at the Nodrum.
+  - entity: "Old Gods"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    new_info: |
+      A new Old God was revealed: the God of Forgetting, whose domain encompasses letting go, removal of memory, and erasure of existence.
+      The God of Forgetting created the Xan-Kor during the wars between old gods in the first age, before humanity.
+      The old gods commanded mythical armies during these wars.
+  - entity: "The God of Ruin"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The God of Ruin"
+    new_info: |
+      Ruin was never meant to exist in isolation — it had a counterpart in Renewal.
+      Centuries of pent-up ruinous energy were released all at once when the Seal was removed.
+      Ruin's influence is carried by the party themselves (the "heralds of ruin"), destabilizing ancient wards and corrupting ley line energy.
+      The corruption extends to altering reality itself — changing the past so things once protected are now ruined.
+      Ruin targets each person's core identity: protection (Roderic), knowledge (Garland), inspiration (Edric), creation (Castor).
+      Balance can supposedly be restored by reuniting the heralds of ruin with the heralds of renewal.
+  - entity: "The God of Renewal"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The God of Renewal"
+    new_info: |
+      Renewal is ruin's counterpart among the old gods; without it, there is decay without rebirth.
+      Renewal also has heralds who must be found and reunited with the heralds of ruin to restore balance.
+      An old shrine to the God of Renewal exists beneath the Chryseum in Beacon Hold.
+  - entity: "The God of Trickery"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The God of Trickery"
+    new_info: |
+      The God of Trickery is also known as "the Laughing One."
+      The Laughing One does not demand worship — only entertainment.
+      According to the Harlequin Jimmy, the Laughing One has been bored for centuries since the Light sealed away the old gods, but the release of ruin has made things entertaining again.
+      The Laughing One views both Marrow and the party as puppets on his strings, each playing a role in a grand cosmic joke.
+  - entity: "The Harlequins"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The Harlequins"
+    new_info: |
+      The Harlequins have been actively following the party since they descended from Ashbrook, finding dark humor in their unwitting role as heralds of ruin.
+      They attempted to trick the party into turning back toward the Ashen Vale but failed.
+      They planted scraps of Aldric's green-and-gold livery at Beaver Lake and near Ashbrook as a low-effort deception to exploit Garland's paranoia.
+      The Harlequins are led by the Dark Harlequin, who has the power to project disturbing visions into people's minds and can manifest within ordinary objects as a monstrous clown figure with checkered black and white face paint, a purple and white fool's cap, and inhuman teeth.
+  - entity: "The Light"
+    category: "faction"
+    new_info: |
+      The grand cathedral in Beacon Hold has distinctive architectural signatures Roderic recognized on the Nodrum's facade.
+      The Light maintained fortresses along the Bonewall to protect against darkness, but these wards are now crumbling.
+      During the age of the old gods, a champion imbued with Lucifer's light achieved a pivotal victory, but was erased from existence by the Xan-Kor — a loss now retroactively confirmed by the corrupted ritual.
+  - entity: "Imperium Lucis Aeternae"
+    category: "world"
+    new_info: |
+      After the fall of the Imperium, the transition led to the Middle Kingdoms.
+      Castor lived as a human during this transitionary period.
+  - entity: "Middle Kingdoms"
+    category: "world"
+    new_info: |
+      The Middle Kingdoms were a unification attempt after the Imperium's fall — less of an empire, more of unified kingdoms.
+      Further fracturing occurred as kingdoms turned on each other.
+      Beacon Hold expanded during this second transition, absorbing neighboring kingdoms including Aurelion.
+      Garland fought in these wars during his youth.
+  - entity: "The Old Gods"
+    category: "faction"
+    new_info: |
+      New sub-entity: The God of Forgetting — a newly revealed Old God who created the Xan-Kor.
+      Domains include letting go, removal of memory, and erasure of existence.
+
+questions_raised:
+  - "What happened to the God of Renewal? Where did renewal go, and could restoring it be the true solution?"
+  - "What is the God of Forgetting, and what is its current status among the old gods?"
+  - "Can the empowered Whiteglass seal be used to reseal the God of Ruin?"
+  - "Did Luminary Severin conspire with Count Marrow to release the old gods, as Roderic suspects?"
+  - "What are the 'forces of darkness' the Bonewall holds back, and are they connected to the old gods?"
+  - "Were the Whiteglass relics Edric previously collected actually barriers holding back ruin?"
+
+questions_resolved:
+  - question: "Who was wearing Aldric's livery at Beaver Lake and near Ashbrook before the disaster?"
+    answer: |
+      The Harlequin Jimmy confessed that the scraps of Aldric's livery were planted by the Harlequins as a deliberate deception — a "low-effort" trick to exploit Garland's paranoia about his grandson.
+    session_established: 2
+  - question: "Is Aldric connected to the events at Ashbrook, or is someone using his name?"
+    answer: |
+      The Harlequins fabricated the livery evidence, strongly suggesting Aldric himself was not involved.
+      However, this only proves the livery was planted, not that Aldric is entirely uninvolved in broader events.
+    session_established: 2
+  - question: "Is ruin spreading through the river water toward the Ashen Vale?"
+    answer: |
+      Scrying revealed no ruin in the river at Beaver Lake — the corruption appears to travel with the party themselves, not through the waterway.
+      However, this contradicts what the party directly witnessed, leaving the full truth uncertain.
+    session_established: 2
+  - question: "Can the spirit wall hold long enough for the party to find a solution?"
+    answer: |
+      The spirit wall still stands but appears to be blocking nothing — there is no ruin in the water to hold back.
+      The immediate threat to the Ashen Vale may be less dire than feared, though the party themselves remain dangerous carriers.
+    session_established: 2
+
+arc_progress:
+  - arc_name: "Curse of Ruin"
+    arc_type: "group"
+    development: |
+      The party detoured to the Nodrum seeking help from the Triune and learned that ruin had a counterpart — the God of Renewal — whose absence makes the current catastrophe so devastating.
+      Roderic theorized that Whiteglass relics Edric previously collected may have each been barriers weakened one by one until the final seal broke.
+      A crisis at the Nodrum revealed the Triune had secretly siphoned Castor's curse energy to power the Xan-Kor; the party redirected the energy into the Whiteglass seal but corrupted reality in the process.
+      The Triune identified the party as the heralds of ruin — carrying the curse wherever they go, not through the water.
+      The Harlequins revealed they have been following the party since Ashbrook, manipulating events for the Laughing One's entertainment.
+      The path forward requires finding the heralds of renewal; a shrine beneath the Chryseum is their best lead.
+  - arc_name: "Garland yn Greenholt - Uncover the Truth"
+    arc_type: "character"
+    development: |
+      The Aldric livery mystery was resolved: the Harlequins planted it as a trick, largely exonerating Aldric.
+  - arc_name: "Sir Roderic Lightbearer - Redemption"
+    arc_type: "character"
+    development: |
+      Ruin struck at Roderic's core identity as a protector — his door lock crumbled, and ley line energy passing through him emerged corrupted.
+      He learned the Light's ancient protections along the Bonewall are crumbling.
+      Despite this, his faith proved effective: his invocation of Luciferian authority cowed the Aureate into backing down.
+      He attempted to convert Jimmy to the Light with unwavering conviction.
+      He began theorizing about a larger conspiracy involving Severin and Marrow, deepening his understanding of the threat.
+
+notable_quotes:
+  - speaker: "Aurea"
+    line: "Four travelers, one crisis. You came to us. The proportions suggest either wisdom or desperation — I suspect both."
+    context: "Greeting the party at the Nodrum."
+  - speaker: "Venn"
+    line: "You stand at the overlap of many circles — old gods, new faith, curses, counties. Shared space in between is either very safe or very dangerous."
+    context: "Assessing Edric before the Triune examines him."
+  - speaker: "Edric Bloom"
+    line: "Perhaps we are searching for the wrong thing then."
+    context: "Suggesting they seek renewal rather than simply resealing ruin."
+  - speaker: "Garland yn Greenholt"
+    line: "Ladies, you've never been anything but friends to me, but I don't believe this is power that is meant to be wielded by mortal hands, yours or anyone else's."
+    context: "Admonishing the Triune after the ritual nearly went catastrophically wrong."
+  - speaker: "Garland yn Greenholt"
+    line: "I had been feeling good. I had been in a good mood. I had been feeling like this is a situation you're going to be able to handle. And that's gone, and I don't know why it's gone."
+    context: "After losing his memory of Mira during the teleportation."
+  - speaker: "Delta"
+    line: "We think it's you."
+    context: "Telling the party they are the heralds of ruin."
+  - speaker: "Garland yn Greenholt"
+    line: "Somebody wants me to think that my grandson is following us. I don't know what that means."
+    context: "After finding a third piece of deliberately planted Aldric livery."
+  - speaker: "Jimmy"
+    line: "Not realizing that you are the cause of this — oh my God, you have to see the humor in that."
+    context: "Delighting in the irony of the party's unwitting role as heralds of ruin."
+  - speaker: "Jimmy"
+    line: "You are all just puppets on the Laughing One's strings. Marrow has his place. You have your place. But the most important thing is the fun we're having along the way."
+    context: "Explaining the God of Trickery's perspective on events."
+  - speaker: "Edric Bloom"
+    line: "There are humor lines. If you cross the lines, it's not funny anymore."
+    context: "Confronting Jimmy after Garland's disturbing vision of children in danger."
+  - speaker: "Sir Roderic Lightbearer"
+    line: "The old ones were sealed away and shall be again. Lucifer is the light, and without the light, you will only be in darkness."
+    context: "Defiant declaration to Jimmy about the supremacy of the Light."
+
+rules_clarifications: []
+
+filtered_sections:
+  - line_range: "1-120"
+    reason: "Pre-session worldbuilding discussion establishing ages of races, timeline of Garland and Castor, and history of Beacon Hold. Extractable facts captured under entity_updates."
+  - line_range: "121-290"
+    reason: "Session recap mechanics, best-moment sharing, session planning, break announcement, mechanical bookkeeping."
+  - line_range: "455-486"
+    reason: "Mechanical bookkeeping — sparks, suspense points, XP distribution, pool refreshes."
+  - line_range: "797-846"
+    reason: "Rules discussion about lie detection mechanics and how wises work in the system."
+  - line_range: "1143-1177"
+    reason: "Off-topic tangent about childhood FOMO story involving circus seals and clowns."
+  - line_range: "1195-1210"
+    reason: "Discussion of game mechanics for Edric's entangle move."
+  - line_range: "1224-1243"
+    reason: "Discussion about story points and game mechanics."
+  - line_range: "1296-1344"
+    reason: "Extended rules discussion about resource pools, diminishing dice mechanics, and wild shape."
+  - line_range: "1366-1387"
+    reason: "Off-topic political joke about 'the Discombobulator.'"
+  - line_range: "1415-1427"
+    reason: "VTT interface mechanics discussion."
+  - line_range: "1583"
+    reason: "GM stepping away to get water."
+  - line_range: "1914-1916"
+    reason: "Ghostbusters reference to explain game concept."
+  - line_range: "1934-1972"
+    reason: "Off-topic comparison to Marvel's Ultimate Nullifier and Wheel of Time's balefire."
+  - line_range: "2238-2246"
+    reason: "Off-topic Babylon 5 reference images discussion."
+  - line_range: "2439-2447"
+    reason: "Technical audio/headset issues."
+  - line_range: "2716-2770"
+    reason: "AFK break followed by tangent about Claude Code and speech-to-text software."
+  - line_range: "2861-2878"
+    reason: "Real-world player check-in about feeling unwell."
+  - line_range: "3126-3170"
+    reason: "Extended off-topic discussion about AI image generation tools."
+  - line_range: "3619-3843"
+    reason: "Post-session meta discussion — pacing, game mechanics, preparation, and scheduling."
+
+gm_observations:
+  - "The Triune's devices malfunctioning when examining Edric is a significant plot hook, possibly setting up a reveal about Edric's unknown parentage or deeper connection to the old gods."
+  - "The Triune's secret siphoning of Castor's curse energy to power the Aegis Mechanism explains their previous eagerness about Castor and creates a trust issue with Garland."
+  - "The 'reality shift' mechanic is significant: ruin doesn't just decay the present, it retroactively changes the past. The party's very presence near powerful magical sites is dangerous."
+  - "Garland's memory loss of Mira removes his emotional anchor and motivation for protecting the Ashen Vale — other memories seem to be hollowing out as well."
+  - "The God of Forgetting is a newly introduced Old God whose domain (erasure, letting go, removal of memory) is thematically distinct from Ruin but potentially complementary. The Xan-Kor as its creation sets up a complex moral dilemma."
+  - "The contradiction between the party witnessing ruin in the river and the scrying showing no ruin is intentional — the GM confirmed it is 'part of the story,' not an oversight."
+  - "The Triune's claim that the party are heralds of ruin is presented as their best theory, not necessarily the complete truth."
+  - "The Dark Harlequin appears distinct from rank-and-file Harlequins — it has the power to project visions and manifest impossibly, suggesting a hierarchy within the God of Trickery's followers."
+  - "The Harlequins' confession about the Aldric livery resolves a major thread but reveals their intelligence-gathering capabilities and knowledge of the party's psychological vulnerabilities."
+  - "Ruin's influence on Crownvale is accelerating: guards abandoning walls, Sergeant Iyer in despair. This represents a significant escalation from earlier signs."
+  - "The party's plan to seek a temple of Renewal beneath the Chryseum is the Triune's direction, though the GM neither confirmed nor denied additional details in-game."
+  - "The GM confirmed a key choice point: Castor could have been re-cursed, but the party chose to channel the energy into the Seal of Unmaking, which will have consequences."
+
+unresolved_references:
+  - reference: "Lucifer's Champion"
+    context: "An unnamed champion imbued with Lucifer's light who was erased from existence by the Xan-Kor during the old wars, undoing a pivotal victory."
+    likely_match: "Historical figure, possibly relevant to world/old-gods-and-new-gods.md"
+    line_approx: "~1620"
+  - reference: "The grand cathedral"
+    context: "Roderic mentions the grand cathedral in Beacon Hold where he grew up as an orphan. It has distinctive architectural signatures but has not been named."
+    likely_match: "A major Church of Lucifer location in Beacon Hold, possibly the Chryseum or a separate building"
+    line_approx: "~518"

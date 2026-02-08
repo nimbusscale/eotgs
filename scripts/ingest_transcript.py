@@ -13,6 +13,7 @@ from pathlib import Path
 # Allow imports from the scripts directory
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from sync_kb_aliases import main as sync_aliases_main
 from download_transcript import main as download_main
 from prepare_transcript import main as prepare_main
 from chunk_transcript import main as chunk_main
@@ -98,6 +99,9 @@ def default_prepared_path(session):
 
 def main():
     args = parse_args()
+
+    # Sync KB sub-entity aliases before anything else
+    sync_aliases_main()
 
     run_download = not args.prepare_only
     run_prepare = not args.download_only

@@ -22,6 +22,26 @@ CAMPAIGN_INDEX = REPO_ROOT / "exports" / "campaign-index.md"
 
 KB_SUBDIRS = ["pcs", "npcs", "locations", "items", "factions", "sessions", "story-arcs", "world"]
 
+# Structural/template headers to skip when scanning for sub-entity names
+GENERIC_HEADERS = {
+    "overview", "description", "details", "concept", "stats", "personality",
+    "background", "religion", "key traits & abilities", "key traits",
+    "relationships", "current threads", "session appearances", "notable features",
+    "connected locations", "associated npcs", "associated locations", "events here",
+    "key events", "related entries", "sources", "notes", "history", "properties",
+    "role", "methods", "collecting", "history with party", "distinctive features",
+    "terminology", "enforcement by region", "notable members", "summary",
+    "recap-teaser", "major events", "new questions & hooks",
+    "questions answered / arcs advanced", "notable npcs introduced",
+    "notable locations visited", "notable quotes", "open questions",
+    "answered questions", "related entities", "historical periods",
+    "the nature of the kingdom", "status", "type", "category", "hooks",
+    "the faith", "deity", "followers", "clergy", "legacy",
+}
+
+# KB subdirectories to scan for sub-entity headers (skip sessions and story-arcs)
+KB_SCAN_SUBDIRS = ["npcs", "locations", "items", "factions", "world"]
+
 
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
@@ -61,7 +81,54 @@ def load_yaml(path):
         return yaml.safe_load(f) or {}
 
 
-def collect_known_entities(speaker_map_data, entity_aliases_data):
+def _title_from_filename(filename):
+    """Convert a KB filename to a readable title (e.g., 'old-gods.md' → 'Old Gods')."""
+    stem = filename.replace(".md", "")
+    return stem.replace("-", " ").title()
+
+
+def scan_kb_sub_entities():
+    """Scan KB markdown files for ## and ### headers that represent sub-entities.
+
+    Returns:
+        sub_entity_map: dict mapping header name → {"parent_file", "parent_name", "category"}
+        kb_content_hints: dict mapping relative file path → list of sub-entity header names
+    """
+    sub_entity_map = {}
+    kb_content_hints = {}
+    header_re = re.compile(r'^#{2,3}\s+(.+)$')
+
+    for subdir in KB_SCAN_SUBDIRS:
+        dir_path = KB_ROOT / subdir
+        if not dir_path.is_dir():
+            continue
+        for md_file in sorted(dir_path.iterdir()):
+            if not md_file.is_file() or md_file.suffix != ".md" or md_file.name == ".gitkeep":
+                continue
+            rel_path = f"{subdir}/{md_file.name}"
+            parent_name = _title_from_filename(md_file.name)
+            sections = []
+            for line in md_file.read_text(encoding="utf-8").splitlines():
+                m = header_re.match(line)
+                if not m:
+                    continue
+                header_text = m.group(1).strip()
+                if header_text.lower() in GENERIC_HEADERS:
+                    continue
+                sections.append(header_text)
+                if header_text not in sub_entity_map:
+                    sub_entity_map[header_text] = {
+                        "parent_file": rel_path,
+                        "parent_name": parent_name,
+                        "category": subdir,
+                    }
+            if sections:
+                kb_content_hints[rel_path] = sections
+
+    return sub_entity_map, kb_content_hints
+
+
+def collect_known_entities(speaker_map_data, entity_aliases_data, sub_entities=None):
     """Build a dict of known entity names organized by source."""
     entities = {
         "pcs": [],
@@ -93,6 +160,20 @@ def collect_known_entities(speaker_map_data, entity_aliases_data):
         for alias_name in aliases:
             if alias_name not in entities.get("pcs", []):
                 entities[target_key].append(alias_name)
+
+    # Sub-entities from KB file headers
+    if sub_entities:
+        category_map = {
+            "pcs": "pcs",
+            "npcs": "npcs_and_others",
+            "locations": "locations",
+            "items": "items",
+            "factions": "factions",
+            "world": "world",
+        }
+        for name, info in sub_entities.items():
+            target_key = category_map.get(info["category"], "world")
+            entities[target_key].append(name)
 
     # Deduplicate each list while preserving order
     for key in entities:
@@ -191,8 +272,11 @@ def main(argv=None):
     speaker_map_data = load_yaml(DEFAULT_SPEAKER_MAP)
     entity_aliases_data = load_yaml(DEFAULT_ENTITY_ALIASES)
 
-    # Collect entity info
-    known_entities = collect_known_entities(speaker_map_data, entity_aliases_data)
+    # Scan KB sub-entities
+    sub_entity_map, kb_content_hints = scan_kb_sub_entities()
+
+    # Collect entity info (including sub-entities)
+    known_entities = collect_known_entities(speaker_map_data, entity_aliases_data, sub_entities=sub_entity_map)
     kb_filenames = collect_kb_filenames()
     campaign_context = load_campaign_context()
     entity_patterns = build_entity_patterns(known_entities)
@@ -233,6 +317,8 @@ def main(argv=None):
         "chunk_count": len(chunk_infos),
         "known_entities": known_entities,
         "kb_filenames": kb_filenames,
+        "sub_entity_map": sub_entity_map,
+        "kb_content_hints": kb_content_hints,
         "campaign_context": campaign_context,
         "chunks": chunk_infos,
     }
@@ -247,6 +333,7 @@ def main(argv=None):
     print(f"Chunked transcript: {input_path}")
     print(f"  Total lines: {total_lines}")
     print(f"  Chunk size: {args.chunk_size} (overlap: {args.overlap})")
+    print(f"  Sub-entities discovered: {len(sub_entity_map)} (from {len(kb_content_hints)} files)")
     print(f"  Chunks created: {len(chunk_infos)}")
     for info in chunk_infos:
         print(f"    chunk-{info['chunk_index']}: lines {info['line_start']}-{info['line_end']}"

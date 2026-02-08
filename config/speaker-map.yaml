@@ -63,6 +63,10 @@ transcription_corrections:
     replace: "Garland"
   - match: "Edrick"
     replace: "Edric"
+  - match: "Arulian"
+    replace: "Aurelion"
+  - match: "Rulian"
+    replace: "Aurelion"
 
   # Add location/term corrections as discovered
   # - match: "grim wild"

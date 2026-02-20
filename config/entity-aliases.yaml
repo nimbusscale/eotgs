@@ -32,6 +32,11 @@ characters:
   "Severin": "luminary-severin-morrow"
   "Lucifer": "lucifer"
   "The Radiant One": "lucifer"
+  "The Triune": "triune"
+  "Triune": "triune"
+  "Aurea": "triune"
+  "Venn": "triune"
+  "Delta": "triune"
 
 locations:
   "Beaconhold": "beaconhold"
@@ -51,6 +56,12 @@ locations:
   "Beaver Lake": "beaver-lake"
   "Farlands Pass": "farlands-pass"
   "Aurelion": "aurelion"
+  "The Nodrum": "nodrum"
+  "Nodrum": "nodrum"
+  "Nexarium": "nodrum"
+  "Aurelion Vault": "nodrum"
+  "The Chryseum": "aurelion"
+  "Chryseum": "aurelion"
   "Lower Ashen Flow": "ashen-flow"
   "The Fall of Altreth": "altreth"
   "The Great Beaver Dam": "ashen-flow"
@@ -63,6 +74,9 @@ items:
   "Shepherd's Teeth": "witch-stones"
   "Shepherds Teeth": "witch-stones"
   "Whiteglass": "whiteglass"
+  "The Xan-Kor": "xan-kor"
+  "Xan-Kor": "xan-kor"
+  "Aegis Mechanism": "xan-kor"
 
 factions:
   "The Light": "the-light"
@@ -81,6 +95,12 @@ factions:
   "The God of Trickery": "old-gods"
   "The Harlequins": "old-gods"
   "Those Who Honor Ruin": "old-gods"
+  "The God of Forgetting": "old-gods"
+  "The Laughing One": "old-gods"
+  "The Dark Harlequin": "old-gods"
+  "Dark Harlequin": "old-gods"
+  "The Aureate": "the-light"
+  "Aureate": "the-light"
 
 world:
   "Imperium Lucis Aeternae": "imperium-lucis-aeternae"

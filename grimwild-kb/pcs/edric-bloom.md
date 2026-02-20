@@ -66,12 +66,15 @@ He knows that [[Whiteglass|whiteglass]] resists ruin.
 - [[Luminary Severin Morrow]] — Head priest in [[Aurelion]] who despises bards and storytellers
 
 ## Current Threads
-- Carries the [[Seal of Unmaking]] in its warded box — the party has decided not to return it to [[Count Albrecht Marrow|Marrow]]
-- Realizes in hindsight that Marrow knew the relic's true nature
+- Carries the [[Seal of Unmaking]] — the case broke during the ritual at [[The Nodrum]] and the [[Whiteglass]] seal now glows with pulsating new power; [[The Triune]] are repairing the case
+- Previously retrieved [[Whiteglass]] relics for [[Count Albrecht Marrow|Marrow]], described as "curiosities at best" — Roderic theorized each was a barrier weakened one by one until the final seal broke
 - The mystery of his unknown father
-- Experienced a disturbing compulsion in [[Crownvale]] — a vision of [[Sergeant Iyer]]'s marital troubles and an almost irresistible urge to weaponize that knowledge, which he recognized as ruin's influence on his mind
+- [[The Triune]]'s devices malfunctioned when examining him; Venn observed he stands at the overlap of many circles — old gods, new faith, curses, counties
+- Ruin struck at his core identity: his dreams were drained of inspiration, replaced by mundane visions
+- Suggested seeking renewal rather than simply resealing ruin — a key strategic shift
 - Has a pragmatic streak regarding Marrow — willing to steal from his collection if it would help
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Told the dire coyotes a bardic tale to win passage; sang a melody to assist Garland's spirit wall; distracted Aldric's guards and extracted information from Sergeant Iyer; experienced ruin's influence on his mind in the Crownvale tavern
+- [[Session 2]] — Examined by [[The Triune]]'s devices (which seized on contact); suggested seeking renewal instead of resealing ruin; held a lens during the ritual; ley lines passing through him emerged corrupted; confronted Jimmy about crossing humor lines; glimpsed the Dark Harlequin inside a barrel

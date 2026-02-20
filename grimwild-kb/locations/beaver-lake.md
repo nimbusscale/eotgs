@@ -10,10 +10,10 @@ Home to a beaver colony that [[Castor]] knows well — his kin built and maintai
 The beavers were evacuated downstream when the party arrived ahead of the ruin.
 
 ## Notable Features
-- The Great Beaver Dam — a massive beaver-built dam that has stood for over 120 years
+- The Great Beaver Dam — a massive beaver-built dam that has stood for over 120 years; has partially collapsed, with water pouring into the lower [[Ashen Flow]]
 - An abandoned fisher's hut on the lakeshore, where the party rested overnight
-- [[Garland yn Greenholt|Garland]]'s spirit wall erected upstream of the lake to filter the ruin from the water
-- The corruption is pooling at the barrier site, creating a growing concentration of ruinous energy
+- [[Garland yn Greenholt|Garland]]'s spirit wall remains standing but appears to be blocking nothing — scrying from [[The Nodrum]] revealed no signs of ruin at the spirit wall or in the river
+- The cursed water the party witnessed has simply gone; the ruin travels with the party themselves, not through the waterway
 
 ## Connected Locations
 - [[Cinderwall]] — The mountains surrounding the lake
@@ -25,3 +25,4 @@ The beavers were evacuated downstream when the party arrived ahead of the ruin.
 
 ## Events Here
 - [[Session 1]] — Castor evacuated the beaver colony; Garland erected a spirit wall; Roderic's healing failed and horses withered; Garland found a scrap of Aldric's livery in the reeds
+- [[Session 2]] — Scrying from the Nodrum confirmed the spirit wall still stands but blocks nothing; the great beaver dam has partially collapsed; the ruin travels with the party, not through the water

@@ -12,6 +12,7 @@ Grandson of [[Garland yn Greenholt]].
 He rules [[Crownvale]], the seat of power in the [[Ashen Vale]], styling himself as a would-be petty king of the vale.
 He is rebuilding an [[Imperium Lucis Aeternae|Imperium]]-era fort as his keep in Crownvale.
 His guards wear brigandine armor and carry spears topped with his livery.
+His livery colors are green and gold.
 He has a ten-year-old daughter named [[Mira]] and at least one other younger child.
 His consolidation of power relies on [[Garland yn Greenholt|Garland]]'s absence — he would not be happy to see his grandfather in Crownvale.
 
@@ -29,6 +30,7 @@ His seat of power at [[Crownvale]] lies directly in the path of the curse if it 
 ### Key Events
 - [[Session 0]] — Established as ruler of Crownvale; his livery was spotted at Ashbrook before the curse
 - [[Session 1]] — A fresh scrap of his livery was found at [[Beaver Lake]]; [[Edric Bloom|Edric]]'s investigation of [[Sergeant Iyer]] suggests Aldric is not directly involved with the ruin's release; [[Mira]] recognized [[Garland yn Greenholt|Garland]] and was given a warning letter for Aldric
+- [[Session 2]] — Another piece of green-and-gold livery found planted on a branch near [[The Nodrum]]; the Harlequin Jimmy confessed the livery scraps were all planted by the Harlequins as a trick to exploit Garland's paranoia, largely exonerating Aldric; the Dark Harlequin sent Garland a vision of [[Mira]] and children in danger at Aldric's castle
 
 
 ## Captain Eisen Dorn
@@ -48,9 +50,6 @@ He and [[Edric Bloom]] met when Edric successfully talked down a group of peasan
 ### Relationships
 - [[Count Albrecht Marrow]] — Serves under his authority as captain of the guard
 - [[Edric Bloom]] — Acquaintance; respects Edric for defusing the peasant uprising
-
-### Key Events
-- Witnessed [[Edric Bloom]] talk down peasants protesting a grain tax
 
 
 ## Count Albrecht Marrow
@@ -75,17 +74,21 @@ Such individuals soon find themselves unable to secure food, lodging, or meaning
 Confronting Marrow is difficult due to his station, resources, and deep ties to the Church.
 
 ### Collecting
-Marrow is a well-known collector of [[Whiteglass]], the translucent and radiant substance associated with [[Lucifer]].
+Marrow is a well-known collector of [[Whiteglass]] artifacts specifically — the translucent and radiant substance associated with [[Lucifer]].
 The expeditions he funds to retrieve whiteglass relics are normally precise and thoroughly documented.
+[[Edric Bloom]] previously retrieved multiple whiteglass relics for Marrow on separate jobs, describing them as "curiosities at best."
+[[Sir Roderic Lightbearer|Roderic]] theorized that each whiteglass artifact may have been a barrier holding ruin back, weakened one by one until the [[Seal of Unmaking]] was the final clasp.
 
 ### Relationships
-- [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]
+- [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]; previously hired him for multiple [[Whiteglass]] retrieval jobs
 - [[The Light]] — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in [[Marrow County]]
 - [[Beaconhold]] — Rules [[Marrow County]], a strategically placed border county
+- [[The Triune]] — Has an arrangement through [[Mayliss Vane]] where they serve as magical consultants in exchange for autonomy
 
 ### Key Events
 - [[Session 0]] — Commissioned the party to retrieve the Seal of Unmaking from [[Ashbrook]]
 - [[Session 1]] — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold
+- [[Session 2]] — The Harlequin Jimmy claimed both Marrow and the party are "puppets on the Laughing One's strings"; [[Sir Roderic Lightbearer|Roderic]] suspects a conspiracy involving Marrow and [[Luminary Severin Morrow|Severin]]
 
 
 ## Luminary Severin Morrow
@@ -107,9 +110,6 @@ His preaching has turned at least a portion of his flock against performers and 
 - [[Count Albrecht Marrow]] — His father
 - [[The Light]] — His religious affiliation; he serves as a luminary
 
-### Key Events
-- Has been turning his congregation against bards and storytellers
-
 
 ## Mayliss Vane
 
@@ -129,9 +129,6 @@ Edric is ostensibly tasked with returning the Seal to her — though the party h
 ### Relationships
 - [[Count Albrecht Marrow]] — Her lord; she serves as his seneschal
 - [[Edric Bloom]] — Contact and artifact retriever; she hired him to recover the Seal of Unmaking
-
-### Key Events
-- Hired [[Edric Bloom]] to retrieve artifacts including the [[Seal of Unmaking]]
 
 
 ## Mira
@@ -182,10 +179,6 @@ She was [[Garland yn Greenholt|Garland]]'s granddaughter, distinct from [[Aldric
 - [[Garland yn Greenholt]] — Her great-grandfather, whom she called "Da-Gar"
 - [[Aldric Garlandsson]] — Cousin (she spotted his livery on a stranger visiting Ashbrook)
 
-### Key Events
-- [[Session 0]] — Her letter is part of the backstory; she perished when Ashbrook fell
-- [[Session 1]] — Her letter is referenced as evidence connecting Aldric's livery to events before the disaster
-
 
 ## Sergeant Iyer
 
@@ -208,3 +201,40 @@ The information he provided suggests Aldric was not directly involved in the rui
 
 ### Key Events
 - [[Session 1]] — Edric bought him drinks and extracted information about Aldric; Edric experienced a disturbing compulsion to weaponize knowledge of Iyer's personal troubles
+- [[Session 2]] — Reports from Aureate soldiers indicate Iyer was on duty when half the [[Crownvale]] guard walked off the walls in the middle of the night; he told them to go home, saying none of it mattered anymore; the east gate stood unmanned until dawn, suggesting ruin's influence is deepening its hold on Crownvale's defenders
+
+
+## The Triune
+
+**First Appeared:** [[Session 2]]
+**Status:** Active
+**Affiliation:** Independent (magical consultants to [[Count Albrecht Marrow]] through [[Mayliss Vane]])
+
+### Description
+Three halfling sisters — Aurea, Venn, and Delta — who are triplet hedge-wizards practicing a strange geometric art based on mathematical principles.
+They are not aligned with the Wizard's College and operate as independent practitioners from [[The Nodrum]].
+
+**Aurea** wears gold and is inspired by the Golden Ratio.
+She focuses on proportional harmony, alignment, symmetry, and long-term stability.
+She serves as the de facto leader and primary spokesperson, though they all claim equal standing.
+She speaks in mathematical metaphors about balance and proportion.
+
+**Venn** wears violet and silver with overlapping blue.
+She is obsessed with intersections, overlaps, shared spaces, and boundaries — like a Venn diagram.
+She focuses on things that exist between other things.
+
+**Delta** is focused on change, transformation, differentiation, deviations, and thresholds.
+She contributed the key insight about ruin and renewal being counterparts among the [[Old Gods]].
+
+### Role
+The Triune serve as magical consultants and researchers operating from the Nodrum.
+They have an arrangement with [[Count Albrecht Marrow]] through [[Mayliss Vane]], providing magical expertise in exchange for autonomy.
+[[Garland yn Greenholt|Garland]] previously consulted them about [[Castor]]'s curse but kept the druid's true identity secret because their curiosity seemed too eager.
+
+### Relationships
+- [[Garland yn Greenholt]] - Old acquaintance; Aurea greeted him warmly as a friend
+- [[Count Albrecht Marrow]] - Serve as magical consultants through [[Mayliss Vane]]
+- [[Castor]] - Secretly siphoned energy from his curse to power the Aegis Mechanism
+
+### Key Events
+- [[Session 2]] - Examined [[Edric Bloom|Edric]] with geometric devices that seized on contact; confessed to siphoning [[Castor]]'s curse energy to power [[The Xan-Kor]]; helped the party redirect ley line energy into the [[Whiteglass]] seal; declared the party were the heralds of ruin; directed them toward a shrine to the God of Renewal beneath the Chryseum in [[Aurelion]]

@@ -9,6 +9,7 @@ Grandson of [[Garland yn Greenholt]].
 He rules [[Crownvale]], the seat of power in the [[Ashen Vale]], styling himself as a would-be petty king of the vale.
 He is rebuilding an [[Imperium Lucis Aeternae|Imperium]]-era fort as his keep in Crownvale.
 His guards wear brigandine armor and carry spears topped with his livery.
+His livery colors are green and gold.
 He has a ten-year-old daughter named [[Mira]] and at least one other younger child.
 His consolidation of power relies on [[Garland yn Greenholt|Garland]]'s absence — he would not be happy to see his grandfather in Crownvale.
 
@@ -26,4 +27,10 @@ His seat of power at [[Crownvale]] lies directly in the path of the curse if it 
 ## Key Events
 - [[Session 0]] — Established as ruler of Crownvale; his livery was spotted at Ashbrook before the curse
 - [[Session 1]] — A fresh scrap of his livery was found at [[Beaver Lake]]; [[Edric Bloom|Edric]]'s investigation of [[Sergeant Iyer]] suggests Aldric is not directly involved with the ruin's release; [[Mira]] recognized [[Garland yn Greenholt|Garland]] and was given a warning letter for Aldric
+- [[Session 2]] — Another piece of green-and-gold livery found planted on a branch near [[The Nodrum]]; the Harlequin Jimmy confessed the livery scraps were all planted by the Harlequins as a trick to exploit Garland's paranoia, largely exonerating Aldric; the Dark Harlequin sent Garland a vision of [[Mira]] and children in danger at Aldric's castle
+
+## Session Appearances
+- [[Session 0]]
+- [[Session 1]]
+- [[Session 2]]
 

@@ -4,7 +4,10 @@
 
 ## Overview
 A confederacy of kingdoms and city-states that formed after the fall of the [[Imperium Lucis Aeternae]].
-Eventually this confederacy also fell apart, giving rise to the modern kingdoms like [[Beaconhold]].
+The Middle Kingdoms were a unification attempt — less of an empire, more of unified kingdoms.
+Further fracturing occurred as kingdoms turned on each other.
+[[Beaconhold|Beacon Hold]] expanded during this second transition, absorbing neighboring kingdoms including [[Aurelion]] (now [[Marrow County]]).
+[[Garland yn Greenholt|Garland]] fought in these wars during his youth.
 
 ## Legacy
 [[Edric Bloom]] wears a faded yellow scarf bearing the symbols of the Middle Kingdoms — the kings and kingdoms that made up this confederacy.

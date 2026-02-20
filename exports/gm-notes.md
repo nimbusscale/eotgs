@@ -20,6 +20,8 @@ They've become unwitting Heralds of Ruin, spreading decay through every interact
 **The cruel irony:** The more they try to help, the more they spread ruin.
 The more heroic they are, the wider the plague reaches.
 
+---
+
 ### The God of Ruin
 
 See also: [[The Old Gods]]
@@ -47,6 +49,8 @@ The plague spreading through the Heralds may be unintentional — an overflow of
 They're a victim whose trauma is now causing harm they never intended.
 Healing them might be how you stop the plague — not defeating them.
 
+---
+
 ### The God of Renewal
 
 See also: [[The Old Gods]]
@@ -66,6 +70,8 @@ The sealing of Ruin broke something in Renewal too; without endings, there can b
 - A new complication (Renewal is also changed by centuries of dormancy)
 - A reunion that could heal both gods — or go terribly wrong
 - A restoration of the old balance that threatens the Luciferian order
+
+---
 
 ### The God of Trickery
 
@@ -92,6 +98,8 @@ So the Trickster gave them one.
 - Was the one who ensured the party specifically would be hired
 - Set up the "seal" to infect whoever broke it, knowing eventually someone would
 
+---
+
 ### The Harlequins
 
 See also: [[The Old Gods]]
@@ -102,6 +110,8 @@ See also: [[The Old Gods]]
 - A Harlequin who wants to tell the party the truth — but only in riddles
 - A Harlequin who is themselves a pawn, not knowing who they truly serve
 - A Harlequin who has doubts about the Trickster's plan
+
+---
 
 ### The Heralds of Ruin
 
@@ -114,7 +124,7 @@ It happens through interaction, through connection, through the party being pres
 The more meaningful the interaction, the stronger the infection.
 Saving someone's life is more contagious than passing them on the street.
 
-#### Each Herald's Burden
+**Each Herald's Burden:**
 
 The cruel design: each Herald spreads ruin that mirrors their greatest virtue.
 
@@ -139,6 +149,8 @@ His gift is building, community, the deep connection between creature and home.
 What he spreads: Foundations crack; buildings settle wrong; communities fragment; nature unbalances; homes become unhomely.
 The irony: The builder whose beaver-nature drives him to create — he leaves behind a world where nothing holds together.
 
+---
+
 ### The Herald Legend
 
 There's a legend about Heralds who come before an age of ruin.
@@ -157,6 +169,8 @@ Let the players start to suspect before confirmation.
 - They come in the wake of something freed/awakened
 - They don't know what they are
 - There's probably something about how they can be stopped, cleansed, or redeemed — but interpretations vary
+
+---
 
 ### The River Ruse
 
@@ -181,6 +195,8 @@ The Trickster (or their agents) set it up to give the party something to fight.
 - A Harlequin might have been seen near the spring
 - The curse behaves strangely — almost like it's putting on a show
 - Someone might point out that curses don't usually work this way
+
+---
 
 ### Count Marrow's True Motivations
 
@@ -221,6 +237,8 @@ Not defined until you need it.
 - Marrow betrays them (if he has reason to)
 - Marrow's position collapses as the church investigates the crisis
 
+---
+
 ### The Light — What They Know
 
 See also: [[The Light]]
@@ -241,3 +259,52 @@ See also: [[The Light]]
 **Tension with Roderic:** A Luciferian paladin discovering the truth about his faith's history.
 What does he do with that knowledge?
 This is Ramsey's story to tell, but the material is there for drama if he wants it.
+
+---
+
+### Session 2 — GM Observations
+
+**The Triune and Edric:**
+The Triune's devices malfunctioning when examining Edric is a significant plot hook.
+This possibly sets up a reveal about Edric's unknown parentage or deeper connection to the old gods.
+
+**The Triune and Castor:**
+The Triune's secret siphoning of Castor's curse energy to power the Aegis Mechanism explains their previous eagerness about Castor and creates a trust issue with Garland.
+
+**Reality Shift Mechanic:**
+Ruin doesn't just decay the present — it retroactively changes the past.
+The party's very presence near powerful magical sites is dangerous.
+The corrupted ritual at the Nodrum caused real historical changes (a champion of Lucifer erased, the Bonewall's wards weakened).
+
+**Garland's Memory Loss:**
+Garland losing his memory of Mira removes his emotional anchor and motivation for protecting the Ashen Vale.
+Other memories seem to be hollowing out as well.
+
+**The God of Forgetting:**
+A newly introduced Old God whose domain (erasure, letting go, removal of memory) is thematically distinct from Ruin but potentially complementary.
+The Xan-Kor as its creation sets up a complex moral dilemma — the power to erase things from existence is horrifying but potentially useful.
+
+**River Contradiction:**
+The contradiction between the party witnessing ruin in the river and the scrying showing no ruin is intentional — the GM confirmed it is "part of the story," not an oversight.
+
+**Heralds Theory:**
+The Triune's claim that the party are heralds of ruin is presented as their best theory, not necessarily the complete truth.
+
+**The Dark Harlequin:**
+Appears distinct from rank-and-file Harlequins — it has the power to project visions and manifest impossibly.
+This suggests a hierarchy within the God of Trickery's followers.
+
+**Harlequin Intelligence:**
+The Harlequins' confession about the Aldric livery resolves a major thread but reveals their intelligence-gathering capabilities and knowledge of the party's psychological vulnerabilities.
+
+**Crownvale Escalation:**
+Ruin's influence on Crownvale is accelerating: guards abandoning walls, Sergeant Iyer in despair.
+This represents a significant escalation from earlier signs.
+
+**The Chryseum Lead:**
+The party's plan to seek a temple of Renewal beneath the Chryseum is the Triune's direction.
+The GM neither confirmed nor denied additional details in-game.
+
+**Key Choice Point:**
+The GM confirmed a key choice: Castor could have been re-cursed, but the party chose to channel the energy into the Seal of Unmaking.
+This will have consequences.

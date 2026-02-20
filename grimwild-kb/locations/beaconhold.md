@@ -4,7 +4,7 @@
 **First Visited:** [[Session 0]]
 
 ## Description
-A modern city-state kingdom, one of many that emerged after the fall of the [[Middle Kingdoms]].
+A modern city-state kingdom that was once at an apex of power, expanding and absorbing neighboring kingdoms from the fracturing [[Middle Kingdoms]], including [[Aurelion]] (now [[Marrow County]]).
 The kingdom is built around the last known intact [[Farus Lucis]] — a dormant beacon tower that serves as a symbol of ancient connection and inherited legitimacy.
 The [[The Light|Luciferian faith]] is the state religion here — supported but not mandated.
 Other religions are tolerated but not supported, and perhaps frowned upon.
@@ -18,7 +18,9 @@ The kingdom may claim mountains, valleys, and regions, but only truly controls t
 ## Notable Features
 - Last known intact [[Farus Lucis]] (dormant beacon tower)
 - Seat of the crown, ruled by the King of Beaconhold (name TBD)
+- A grand cathedral of the [[The Light|Church of Lucifer]], where [[Sir Roderic Lightbearer|Roderic]] was raised as an orphan
 - The [[Ashen Vale]] and [[Eastern Rivers]] are border or hinterland regions of this kingdom
+- Granted fiefdoms in the [[Ashen Vale]] to war veterans like [[Garland yn Greenholt|Garland]] during its expansion, though these were largely left to self-govern
 
 ## Connected Locations
 - [[Marrow County]] — A minor but strategically placed county bordering the capital

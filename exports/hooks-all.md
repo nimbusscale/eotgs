@@ -5,7 +5,6 @@ These are open story threads and questions that can be developed in future sessi
 
 ## Group Hooks
 
-
 ### The Fall of the Imperium
 **Source:** [[Session 1]]
 **Related:** [[Imperium Lucis Aeternae]], [[Seal of Unmaking]]
@@ -13,13 +12,28 @@ These are open story threads and questions that can be developed in future sessi
 Even with the Unmaker sealed and Lucifer ascendant, the [[Imperium Lucis Aeternae|Imperium]] still fell.
 What brought down the empire despite its advantages is an open question that may illuminate the nature of ruin and the limits of Lucifer's power.
 
+### The God of Forgetting
+**Source:** [[Session 2]]
+**Related:** [[Old Gods]], [[The Xan-Kor]], [[The Nodrum]]
+
+A newly revealed Old God whose domain encompasses letting go, removal of memory, and erasure of existence.
+The God of Forgetting created [[The Xan-Kor]] during the wars of the old gods — a construct capable of erasing things from existence by removing them backward through time.
+The God of Forgetting's current status among the old gods is unknown, and its role in the current crisis is unclear.
+
+### The Bonewall's Darkness
+**Source:** [[Session 2]]
+**Related:** [[Bonewall]], [[The Light]]
+
+[[The Light]] has maintained fortresses along the [[Bonewall]] to keep "forces of darkness" at bay.
+These wards are now crumbling as ruin's influence spreads.
+What these forces of darkness are and whether they are connected to the old gods is unexplored.
+
 
 ## Character Hooks
 
-
 ### Castor
 
-#### The Beaver Curse
+**The Beaver Curse**
 **Source:** [[Session 0]]
 **Related:** [[Castor]], [[Garland yn Greenholt]], [[Ashen Vale]]
 
@@ -28,7 +42,7 @@ Whether it was bad luck or revenge for a forgotten affront, the curse transforme
 [[Garland yn Greenholt|Garland]] only managed to mitigate the curse, not fully remove it.
 The means and motive behind the curse are still to be decided.
 
-#### Castor's Forgotten Family
+**Castor's Forgotten Family**
 **Source:** [[Session 0]]
 **Related:** [[Castor]], [[Ashen Vale]]
 
@@ -39,7 +53,7 @@ What happened to his family line, and why they forgot him, is unresolved.
 
 ### Edric Bloom
 
-#### The Unknown Father
+**The Unknown Father**
 **Source:** [[Session 0]]
 **Related:** [[Edric Bloom]]
 
@@ -47,7 +61,7 @@ What happened to his family line, and why they forgot him, is unresolved.
 Edric has wandered far from home and doesn't really know his mother anymore.
 The identity and story of his father remain a mystery.
 
-#### The Faded Yellow Scarf
+**The Faded Yellow Scarf**
 **Source:** [[Session 0]]
 **Related:** [[Edric Bloom]], [[Middle Kingdoms]]
 
@@ -55,7 +69,7 @@ Edric wears a faded yellow scarf bearing the symbols of the [[Middle Kingdoms]].
 The weave occasionally reveals a broken sunburst ring — an old royal symbol of a fallen line of kings.
 The scarf's origin, how Edric came to possess it, and its connection to a fallen royal line are unexplored.
 
-#### Edric's Private Religion
+**Edric's Private Religion**
 **Source:** [[Session 0]]
 **Related:** [[Edric Bloom]]
 
@@ -63,10 +77,18 @@ Edric was raised in a different, smaller religious tradition — not the Lucifer
 He keeps it private and it's not a big part of his identity.
 What this faith is and whether it becomes relevant remains to be seen.
 
+**Edric at the Overlap of Many Circles**
+**Source:** [[Session 2]]
+**Related:** [[Edric Bloom]], [[The Triune]], [[Old Gods]]
+
+[[The Triune]]'s geometric devices malfunctioned when they attempted to examine Edric — the machinery seized and clockwork spiders emerged to inspect the damage.
+Venn observed that Edric stands at the "overlap of many circles" — old gods, new faith, curses, and counties — a shared space that is "either very safe or very dangerous."
+This reaction, combined with Edric's unknown father and his private religious tradition, suggests a deeper connection to forces beyond what is currently understood.
+
 
 ### Garland yn Greenholt
 
-#### The Witch Stones
+**The Witch Stones**
 **Source:** [[Session 0]]
 **Related:** [[Garland yn Greenholt]], [[Witch Stones]], [[Ashen Vale]]
 
@@ -74,7 +96,7 @@ What this faith is and whether it becomes relevant remains to be seen.
 He would be very interested in investigating other Witch Stones if they exist elsewhere.
 The full nature of the Witch Stones is still to be established in play.
 
-#### Garland's Third Act
+**Garland's Third Act**
 **Source:** [[Session 0]]
 **Related:** [[Garland yn Greenholt]], [[Castor]]
 
@@ -82,7 +104,7 @@ Garland feels he is in his "third act" — near the end of his life.
 He is at peace with this but wants to ensure he understands [[Castor]]'s curse well enough to undo it "just in case" before his own time runs out.
 What Garland wants to accomplish or pass on before the end is an open thread.
 
-#### The Greenholt Bloodline Origin
+**The Greenholt Bloodline Origin**
 **Source:** [[Session 0]]
 **Related:** [[Garland yn Greenholt]], [[Castor]], [[Greenholt Bloodline]]
 
@@ -90,7 +112,7 @@ The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to 
 Whether it connects to actual elven ancestry or something else entirely remains an open question.
 Both Garland and Castor carry this trait.
 
-#### Friction with Aldric
+**Friction with Aldric**
 **Source:** [[Session 1]]
 **Related:** [[Garland yn Greenholt]], [[Aldric Garlandsson]], [[Crownvale]]
 
@@ -101,7 +123,7 @@ This family conflict over succession and legacy could develop into its own chara
 
 ### Sir Roderic Lightbearer
 
-#### Roderic's Lost Battalion
+**Roderic's Lost Battalion**
 **Source:** [[Session 0]]
 **Related:** [[Sir Roderic Lightbearer]], [[The Light]]
 
@@ -109,4 +131,3 @@ On his last campaign, Roderic lost his entire battalion.
 He blamed his insufficient faith for the destruction.
 This tragedy led to his assignment as a knight errant of "The Redeemers of Light," tasked with redemption through deeds.
 What happened on that campaign, and whether the guilt is justified, is unexplored.
-See also: [[Roderic's Redemption]]

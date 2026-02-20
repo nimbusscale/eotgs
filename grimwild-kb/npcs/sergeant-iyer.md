@@ -19,4 +19,9 @@ The information he provided suggests Aldric was not directly involved in the rui
 
 ## Key Events
 - [[Session 1]] — Edric bought him drinks and extracted information about Aldric; Edric experienced a disturbing compulsion to weaponize knowledge of Iyer's personal troubles
+- [[Session 2]] — Reports from Aureate soldiers indicate Iyer was on duty when half the [[Crownvale]] guard walked off the walls in the middle of the night; he told them to go home, saying none of it mattered anymore; the east gate stood unmanned until dawn, suggesting ruin's influence is deepening its hold on Crownvale's defenders
+
+## Session Appearances
+- [[Session 1]]
+- [[Session 2]]
 

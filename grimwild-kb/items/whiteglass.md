@@ -14,8 +14,10 @@ Objects made of whiteglass are treated as doctrinal proof that some wards and bo
 
 ## History
 The rituals required to create whiteglass are known only to the highest ranks of the [[The Light]].
-[[Count Albrecht Marrow]] is a well-known collector of whiteglass relics.
-The [[Seal of Unmaking]] is a whiteglass disc that was used to imprison the God of Ruin.
+[[Count Albrecht Marrow]] is a collector of whiteglass artifacts specifically.
+[[Edric Bloom]] previously retrieved whiteglass relics for Marrow on multiple jobs, describing them as "curiosities at best."
+[[Sir Roderic Lightbearer|Roderic]] theorized that each whiteglass relic may have been a barrier holding ruin back, weakened one by one until the [[Seal of Unmaking]] was the final clasp.
+The Seal is a whiteglass disc that was used to imprison the God of Ruin.
 
 Some Old Gods were sealed away in whiteglass — the very substance of Luciferian permanence.
 

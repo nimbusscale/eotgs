@@ -22,6 +22,11 @@ Brawn 1, Agility 2, Wits 3, Presence 2
 | Rash | ✗ | Wealth | ✗ |
 
 ### Background
+Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
+He was human during that era but has spent far more time as a beaver, and his human memories have grown muddled, replaced by beaver priorities.
+In human form he appears middle-aged and well preserved; his body did not age while in beaver form.
+He has never had children that he knows of.
+
 Years and generations ago, Castor was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
 He was never good with people and seemed uninterested in growing out his own branch of the family.
@@ -82,13 +87,16 @@ Not a believer one way or another now.
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
 
 ### Current Threads
-- The beaver dam and spirit wall holding back cursed water — the ruin is pooling at the barrier
+- The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river
 - Curiosity about the origin and motive of his original curse
+- [[The Triune]] secretly siphoned energy from his curse to power [[The Xan-Kor|the Aegis Mechanism]] — a betrayal of trust
 - Loyalty to the family who never seemed to remember him
+- The party are the heralds of ruin; ruin targets his core identity as a creator (clockwork servants broke down in his presence)
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Evacuated the beaver colony at Beaver Lake; rode double with Garland after surrendering his horse to the dire coyotes; stood watch in giraffe form at the fisher's hut
+- [[Session 2]] — Posed as Garland's grandson to hide his identity from [[The Triune]]; experienced involuntary partial reversion toward beaver form when the Nodrum's wards faltered; opened the [[Seal of Unmaking]]'s case during the ritual; tracked acrobat footprints to find the Harlequin Jimmy
 
 
 ## Edric Bloom
@@ -159,15 +167,18 @@ He knows that [[Whiteglass|whiteglass]] resists ruin.
 - [[Luminary Severin Morrow]] — Head priest in [[Aurelion]] who despises bards and storytellers
 
 ### Current Threads
-- Carries the [[Seal of Unmaking]] in its warded box — the party has decided not to return it to [[Count Albrecht Marrow|Marrow]]
-- Realizes in hindsight that Marrow knew the relic's true nature
+- Carries the [[Seal of Unmaking]] — the case broke during the ritual at [[The Nodrum]] and the [[Whiteglass]] seal now glows with pulsating new power; [[The Triune]] are repairing the case
+- Previously retrieved [[Whiteglass]] relics for [[Count Albrecht Marrow|Marrow]], described as "curiosities at best" — Roderic theorized each was a barrier weakened one by one until the final seal broke
 - The mystery of his unknown father
-- Experienced a disturbing compulsion in [[Crownvale]] — a vision of [[Sergeant Iyer]]'s marital troubles and an almost irresistible urge to weaponize that knowledge, which he recognized as ruin's influence on his mind
+- [[The Triune]]'s devices malfunctioned when examining him; Venn observed he stands at the overlap of many circles — old gods, new faith, curses, counties
+- Ruin struck at his core identity: his dreams were drained of inspiration, replaced by mundane visions
+- Suggested seeking renewal rather than simply resealing ruin — a key strategic shift
 - Has a pragmatic streak regarding Marrow — willing to steal from his collection if it would help
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Told the dire coyotes a bardic tale to win passage; sang a melody to assist Garland's spirit wall; distracted Aldric's guards and extracted information from Sergeant Iyer; experienced ruin's influence on his mind in the Crownvale tavern
+- [[Session 2]] — Examined by [[The Triune]]'s devices (which seized on contact); suggested seeking renewal instead of resealing ruin; held a lens during the ritual; ley lines passing through him emerged corrupted; confronted Jimmy about crossing humor lines; glimpsed the Dark Harlequin inside a barrel
 
 
 ## Garland yn Greenholt
@@ -195,8 +206,9 @@ Brawn 2, Agility 1, Wits 3, Presence 2
 Garland is extremely old — centuries implied — with elven features but human.
 He has the strongest expression of the [[Greenholt Bloodline]] trait, having lived longer than anyone else in his family line.
 
-He served as a soldier in his youth, marching with drum and fife in hand as a child.
-He retired to a barren plot of land earned as spoils of war.
+His youth coincided with the fracturing of the [[Middle Kingdoms]]; he fought in the wars during [[Beaconhold|Beacon Hold]]'s expansion and was granted a fiefdom in the [[Ashen Vale]] for his service.
+He served as a soldier, marching with drum and fife in hand as a child.
+He retired to his barren plot of land earned as spoils of war.
 There he carved out a farm and family, eventually forced to sell and rent out parcels of his land over time.
 He became known locally as Garland yn Greenholt upon the [[Ashen Vale]], an accidental lord in practice though he would never accept the title.
 
@@ -217,7 +229,7 @@ Has never had much use for gods.
 
 **Backgrounds:**
 - Old Soldier (Battlefield intuition, Military customs and obligations, "My sword was a plowshare")
-- Mystic (Ancient prophecies, Leylines, Symbologies)
+- Scion of the Old Blood (Ancient prophecies, Leylines, Symbologies)
 
 **Talents:**
 - **Spellcraft** *(Core Talent)* — 4 spells and 2 potent spells per session; roll Wits to cast
@@ -237,13 +249,17 @@ Has never had much use for gods.
 - Investigate whether other Witch Stones exist elsewhere
 - Understand [[Castor]]'s curse so he can undo it "just in case" before his own time runs out
 - The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]]
-- Suspects [[Aldric Garlandsson|Aldric]] may be connected to the events at Ashbrook — evidence: [[Rowan yn Greenholt|Rowan]]'s letter and a fresh scrap of Aldric's livery found at [[Beaver Lake]]
+- The Aldric livery mystery — resolved as a Harlequin trick, but broader questions about Aldric remain
+- Lost his memory of [[Mira]] during the teleportation at [[The Nodrum]]; feels an unexplained hollow absence
+- The party are the heralds of ruin — carrying the curse wherever they go; the path forward requires finding the heralds of renewal
 - Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
 - Carries foreign candy (butterscotch) as treats for grandchildren
+- Previously consulted [[The Triune]] about [[Castor]]'s curse but kept the druid's true identity secret
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Soothed a horse with illusion before surrendering it to the dire coyotes; erected a spirit wall at Beaver Lake to hold back the ruin; found Aldric's livery at the lake; disguised himself in Crownvale but was recognized by Mira; slipped her a warning letter for Aldric; purchased horses
+- [[Session 2]] — Sought help from [[The Triune]] at [[The Nodrum]]; refused to let Castor be re-cursed; teleported to retrieve the Seal's case but lost his memory of Mira; admonished the Triune for wielding dangerous power; found another piece of Aldric's livery (later revealed as a Harlequin trick); received a disturbing vision of Mira from the Dark Harlequin
 
 
 ## Sir Roderic Lightbearer
@@ -267,7 +283,8 @@ Brawn 3, Agility 2, Wits 1, Presence 2
 | Rash | ✗ | Glory | ✗ |
 
 ### Background
-Sir Roderic was raised by the church as a war orphan in the capital city of [[Beaconhold]].
+Sir Roderic was raised by the church as a war orphan at the grand cathedral in [[Beaconhold|Beacon Hold]].
+He recognizes the cathedral's distinctive architectural signatures and spotted them on the facade of [[The Nodrum]].
 Originally he wanted to be a cleric to heal all the people of the world.
 He grew up in the orphanage and helped the clerics heal, eventually accepted into the Church academy.
 
@@ -313,10 +330,14 @@ He wears recognizable church armor and is identifiable as a paladin.
 - [[Castor]] — Lowkey Doubts
 
 ### Current Threads
-- Crisis of faith deepened — his healing was overwhelmed by ruin's proximity, but his blessings still move people
+- Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted
+- His faith proved effective against mortal authority: his invocation of Luciferian authority cowed the Aureate soldiers into backing down
+- Theorizing about a larger conspiracy involving [[Luminary Severin Morrow|Severin]] and [[Count Albrecht Marrow|Marrow]]
+- The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
 - On assignment as knight errant, tasked with redemption through deeds
-- Headed to [[Beaconhold|Beacon Hold]] to seek counsel from the [[The Light]]
+- Headed to the Chryseum in [[Aurelion]] to seek the shrine of Renewal
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Persuaded the dire coyotes to let the party pass; failed to heal horses (ruin overwhelmed his power); delivered a stirring blessing in Crownvale defending the horse seller Laura
+- [[Session 2]] — Recognized Luciferian architectural signatures on [[The Nodrum]]'s facade; held a mirror during the ritual to contain [[The Xan-Kor]]; ruin corrupted ley lines passing through him; invoked his authority as a knight of [[Lucifer]] to force the Aureate to release Jimmy; attempted to convert Jimmy to the Light

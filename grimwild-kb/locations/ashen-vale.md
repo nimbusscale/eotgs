@@ -5,8 +5,10 @@
 
 ## Description
 A fertile valley enriched by volcanic ash from the [[Cinderwall]].
-An independent region bordering the Kingdom of [[Beaconhold]].
+A border region of the Kingdom of [[Beaconhold]].
 Home to [[Garland yn Greenholt]] and [[Castor]].
+Once an agrarian region during the [[Imperium Lucis Aeternae|Imperium]] era.
+Fiefdoms were granted to war veterans like [[Garland yn Greenholt|Garland]] after [[Beaconhold|Beacon Hold]]'s conquest, though largely left to self-govern.
 
 ## Notable Features
 - Location of the [[Witch Stones]] (also called the Shepherd's Teeth), though their exact location is considered "lost" by locals

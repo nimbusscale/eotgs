@@ -19,6 +19,11 @@ Brawn 1, Agility 2, Wits 3, Presence 2
 | Rash | ✗ | Wealth | ✗ |
 
 ## Background
+Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
+He was human during that era but has spent far more time as a beaver, and his human memories have grown muddled, replaced by beaver priorities.
+In human form he appears middle-aged and well preserved; his body did not age while in beaver form.
+He has never had children that he knows of.
+
 Years and generations ago, Castor was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
 He was never good with people and seemed uninterested in growing out his own branch of the family.
@@ -79,10 +84,13 @@ Not a believer one way or another now.
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
 
 ## Current Threads
-- The beaver dam and spirit wall holding back cursed water — the ruin is pooling at the barrier
+- The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river
 - Curiosity about the origin and motive of his original curse
+- [[The Triune]] secretly siphoned energy from his curse to power [[The Xan-Kor|the Aegis Mechanism]] — a betrayal of trust
 - Loyalty to the family who never seemed to remember him
+- The party are the heralds of ruin; ruin targets his core identity as a creator (clockwork servants broke down in his presence)
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Evacuated the beaver colony at Beaver Lake; rode double with Garland after surrendering his horse to the dire coyotes; stood watch in giraffe form at the fisher's hut
+- [[Session 2]] — Posed as Garland's grandson to hide his identity from [[The Triune]]; experienced involuntary partial reversion toward beaver form when the Nodrum's wards faltered; opened the [[Seal of Unmaking]]'s case during the ritual; tracked acrobat footprints to find the Harlequin Jimmy

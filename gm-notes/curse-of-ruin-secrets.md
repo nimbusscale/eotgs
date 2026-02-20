@@ -254,3 +254,52 @@ See also: [[The Light]]
 **Tension with Roderic:** A Luciferian paladin discovering the truth about his faith's history.
 What does he do with that knowledge?
 This is Ramsey's story to tell, but the material is there for drama if he wants it.
+
+---
+
+## Session 2 — GM Observations
+
+**The Triune and Edric:**
+The Triune's devices malfunctioning when examining Edric is a significant plot hook.
+This possibly sets up a reveal about Edric's unknown parentage or deeper connection to the old gods.
+
+**The Triune and Castor:**
+The Triune's secret siphoning of Castor's curse energy to power the Aegis Mechanism explains their previous eagerness about Castor and creates a trust issue with Garland.
+
+**Reality Shift Mechanic:**
+Ruin doesn't just decay the present — it retroactively changes the past.
+The party's very presence near powerful magical sites is dangerous.
+The corrupted ritual at the Nodrum caused real historical changes (a champion of Lucifer erased, the Bonewall's wards weakened).
+
+**Garland's Memory Loss:**
+Garland losing his memory of Mira removes his emotional anchor and motivation for protecting the Ashen Vale.
+Other memories seem to be hollowing out as well.
+
+**The God of Forgetting:**
+A newly introduced Old God whose domain (erasure, letting go, removal of memory) is thematically distinct from Ruin but potentially complementary.
+The Xan-Kor as its creation sets up a complex moral dilemma — the power to erase things from existence is horrifying but potentially useful.
+
+**River Contradiction:**
+The contradiction between the party witnessing ruin in the river and the scrying showing no ruin is intentional — the GM confirmed it is "part of the story," not an oversight.
+
+**Heralds Theory:**
+The Triune's claim that the party are heralds of ruin is presented as their best theory, not necessarily the complete truth.
+
+**The Dark Harlequin:**
+Appears distinct from rank-and-file Harlequins — it has the power to project visions and manifest impossibly.
+This suggests a hierarchy within the God of Trickery's followers.
+
+**Harlequin Intelligence:**
+The Harlequins' confession about the Aldric livery resolves a major thread but reveals their intelligence-gathering capabilities and knowledge of the party's psychological vulnerabilities.
+
+**Crownvale Escalation:**
+Ruin's influence on Crownvale is accelerating: guards abandoning walls, Sergeant Iyer in despair.
+This represents a significant escalation from earlier signs.
+
+**The Chryseum Lead:**
+The party's plan to seek a temple of Renewal beneath the Chryseum is the Triune's direction.
+The GM neither confirmed nor denied additional details in-game.
+
+**Key Choice Point:**
+The GM confirmed a key choice: Castor could have been re-cursed, but the party chose to channel the energy into the Seal of Unmaking.
+This will have consequences.

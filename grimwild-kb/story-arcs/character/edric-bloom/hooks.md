@@ -23,3 +23,11 @@ The scarf's origin, how Edric came to possess it, and its connection to a fallen
 Edric was raised in a different, smaller religious tradition — not the Luciferians.
 He keeps it private and it's not a big part of his identity.
 What this faith is and whether it becomes relevant remains to be seen.
+
+## Edric at the Overlap of Many Circles
+**Source:** [[Session 2]]
+**Related:** [[Edric Bloom]], [[The Triune]], [[Old Gods]]
+
+[[The Triune]]'s geometric devices malfunctioned when they attempted to examine Edric — the machinery seized and clockwork spiders emerged to inspect the damage.
+Venn observed that Edric stands at the "overlap of many circles" — old gods, new faith, curses, and counties — a shared space that is "either very safe or very dangerous."
+This reaction, combined with Edric's unknown father and his private religious tradition, suggests a deeper connection to forces beyond what is currently understood.

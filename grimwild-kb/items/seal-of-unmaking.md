@@ -1,7 +1,7 @@
 # Seal of Unmaking
 
 **Type:** Artifact
-**Current Holder:** Unknown (released)
+**Current Holder:** [[Edric Bloom]] (carried by the party)
 **First Appeared:** [[Session 0]]
 
 ## Description
@@ -25,5 +25,7 @@ It eventually surfaced in [[Ashbrook]], a town in the [[Cinderwall]].
 He described it as rare but otherwise unremarkable.
 The inclusion of a sealed metal container with warding locks — absent from his previous commissions — suggests he knew its true nature.
 
-## Notes
-The surviving accounts from [[Altreth]] gave it the name "Seal of Unmaking."
+## The Ritual at the Nodrum
+During [[Session 2]], the case broke apart when [[Garland yn Greenholt|Garland]] retrieved it via teleportation and the party used it in a ritual to contain [[The Xan-Kor]].
+The [[Whiteglass]] seal within absorbed redirected ley line energy and now glows with pulsating new power.
+[[The Triune]] agreed to repair the broken case and study whether the empowered seal could be used to reseal the God of Ruin.

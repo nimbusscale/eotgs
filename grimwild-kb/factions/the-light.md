@@ -52,6 +52,7 @@ Enforcement of the faith varies by region:
 
 ## History with Party
 - [[Session 0]] — Roderic is a Luciferian paladin; the Church's history with the Old Gods is central to the story
+- [[Session 2]] — Roderic recognized the grand cathedral's architectural signatures on [[The Nodrum]]'s facade; the Light's fortresses along the [[Bonewall]] are crumbling as ruin's influence spreads; a champion of Lucifer was erased from existence by [[The Xan-Kor]] during the old wars, undoing a pivotal victory
 
 ## Notes
 Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally tolerated in Beaconhold but not in all places.

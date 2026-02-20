@@ -21,6 +21,13 @@ For a broader history of the old religion and its suppression, see [[Old Gods an
 - **The Release** — used by those who honor endings
 - **The Final Kindness** — whispered by those who tend the dying
 
+Ruin was never meant to exist in isolation — it had a counterpart in **Renewal**.
+Without renewal's balance, centuries of pent-up ruinous energy were released all at once when the [[Seal of Unmaking]] was removed.
+Ruin's influence is carried by the party themselves (the "heralds of ruin"), destabilizing ancient wards and corrupting ley line energy.
+The corruption extends to altering reality itself — changing the past so things once protected are now ruined.
+Ruin targets each person's core identity: protection ([[Sir Roderic Lightbearer|Roderic]]), knowledge ([[Garland yn Greenholt|Garland]]), inspiration ([[Edric Bloom|Edric]]), creation ([[Castor]]).
+Balance can supposedly be restored by reuniting the heralds of ruin with the heralds of renewal.
+
 ### Those Who Honor Ruin
 
 Ruinous cultists aren't cackling villains.
@@ -60,6 +67,10 @@ They come to Ruin not from philosophy but from need.
 - **The Returner** — used by those who await the awakening
 - **The Second Chance** — whispered by those seeking redemption
 
+Renewal is ruin's counterpart among the old gods; without it, there is decay without rebirth.
+Renewal also has heralds who must be found and reunited with the heralds of ruin to restore balance.
+An old shrine to the God of Renewal exists beneath the Chryseum in [[Aurelion]], where the party hopes to find clues.
+
 ### Followers of Renewal
 
 Think Celtic/druidic aesthetic.
@@ -67,13 +78,24 @@ They've kept the old ways in secret — hedge witches, hermits, rural communitie
 They know Renewal sleeps and have been waiting for the awakening.
 Some operate openly in the wilds; others hide within cities.
 
+## The God of Forgetting
+
+A newly revealed Old God whose domain encompasses letting go, removal of memory, and erasure of existence.
+Created [[The Xan-Kor]] during the wars between old gods in the first age, before humanity.
+The old gods commanded mythical armies during these wars.
+The Xan-Kor can erase things from existence by removing them backward through time.
+
 ## The God of Trickery
 
 Not evil — none of the Old Gods are.
 A force of chaos, mischief, change, disruption.
 They embody the truth that plans go awry, that certainty is illusion, that the universe has a sense of humor (and it's not always kind).
+Also known as "the Laughing One."
+The Laughing One does not demand worship — only entertainment.
+According to the Harlequin Jimmy, the Laughing One has been bored for centuries since the Light sealed away the old gods, but the release of ruin has made things entertaining again.
+The Laughing One views both [[Count Albrecht Marrow|Marrow]] and the party as puppets on his strings, each playing a role in a grand cosmic joke.
 
-**Possible names/epithets:**
+**Titles and Epithets:**
 - The Laughing One
 - Lord/Lady of Misrule
 - The Crooked Path
@@ -90,6 +112,8 @@ They cause chaos, but sometimes that chaos breaks stagnant systems.
 
 Followers of the Trickster.
 Not a formal cult — more like a loose network of those who've been touched by the Laughing One's influence.
+They have been actively following the party since they descended from [[Ashbrook]], finding dark humor in their unwitting role as heralds of ruin.
+They planted scraps of [[Aldric Garlandsson|Aldric]]'s green-and-gold livery at [[Beaver Lake]] and near Ashbrook as a low-effort deception to exploit [[Garland yn Greenholt|Garland]]'s paranoia.
 
 **Aesthetic:** Motley, masks, bells, patchwork.
 Classic harlequin imagery that can range from theatrical and almost playful to deeply unsettling.
@@ -101,6 +125,13 @@ Classic harlequin imagery that can range from theatrical and almost playful to d
 - Manipulate, misdirect, arrange circumstances
 - Sometimes genuinely help people — but never straightforwardly
 
+**The Dark Harlequin:**
+The Harlequins' monstrous leader.
+A figure with black and white checkered face paint, a purple and white fool's cap, and a mouth full of inhuman teeth stretched into an impossible grin.
+It has the power to project disturbing visions into people's minds and can manifest within ordinary objects.
+It sent [[Garland yn Greenholt|Garland]] an uninvited vision of [[Mira]] and children in danger at [[Aldric Garlandsson|Aldric]]'s castle.
+[[Edric Bloom|Edric]] glimpsed it inside a barrel, where it laughed silently before vanishing.
+
 **Tone options:** Can be played light (mischievous, theatrical, almost likeable) or dark (sinister, alien, wrong laughter).
 Mix both for unsettling effect.
 
@@ -111,6 +142,7 @@ Mix both for unsettling effect.
 
 ## Sources
 - [[Session 0]] — Established during world-building
+- [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
 
 ## Notes
 The Old Gods existed in balance — they weren't at war with each other, they were parts of a whole.

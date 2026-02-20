@@ -12,6 +12,7 @@ Think of it as analogous to Rome.
 The Imperium was a vast empire that spanned the land.
 Remnants of its glory — roads, ruins, towers — still dot the landscape.
 The empire eventually fell, leading to a "dark ages" period.
+[[Castor]] lived as a human during the transitionary period of the Imperium's fall.
 
 After the Imperium's fall, the [[Middle Kingdoms]] emerged — a confederacy of kingdoms and city-states.
 Eventually this confederacy also fell apart, giving rise to the modern kingdoms.

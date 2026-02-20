@@ -20,14 +20,23 @@ Such individuals soon find themselves unable to secure food, lodging, or meaning
 Confronting Marrow is difficult due to his station, resources, and deep ties to the Church.
 
 ## Collecting
-Marrow is a well-known collector of [[Whiteglass]], the translucent and radiant substance associated with [[Lucifer]].
+Marrow is a well-known collector of [[Whiteglass]] artifacts specifically — the translucent and radiant substance associated with [[Lucifer]].
 The expeditions he funds to retrieve whiteglass relics are normally precise and thoroughly documented.
+[[Edric Bloom]] previously retrieved multiple whiteglass relics for Marrow on separate jobs, describing them as "curiosities at best."
+[[Sir Roderic Lightbearer|Roderic]] theorized that each whiteglass artifact may have been a barrier holding ruin back, weakened one by one until the [[Seal of Unmaking]] was the final clasp.
 
 ## Relationships
-- [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]
+- [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]; previously hired him for multiple [[Whiteglass]] retrieval jobs
 - [[The Light]] — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in [[Marrow County]]
 - [[Beaconhold]] — Rules [[Marrow County]], a strategically placed border county
+- [[The Triune]] — Has an arrangement through [[Mayliss Vane]] where they serve as magical consultants in exchange for autonomy
 
 ## Key Events
 - [[Session 0]] — Commissioned the party to retrieve the Seal of Unmaking from [[Ashbrook]]
 - [[Session 1]] — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold
+- [[Session 2]] — The Harlequin Jimmy claimed both Marrow and the party are "puppets on the Laughing One's strings"; [[Sir Roderic Lightbearer|Roderic]] suspects a conspiracy involving Marrow and [[Luminary Severin Morrow|Severin]]
+
+## Session Appearances
+- [[Session 0]]
+- [[Session 1]]
+- [[Session 2]]

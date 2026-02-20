@@ -19,7 +19,8 @@ Brawn 3, Agility 2, Wits 1, Presence 2
 | Rash | ✗ | Glory | ✗ |
 
 ## Background
-Sir Roderic was raised by the church as a war orphan in the capital city of [[Beaconhold]].
+Sir Roderic was raised by the church as a war orphan at the grand cathedral in [[Beaconhold|Beacon Hold]].
+He recognizes the cathedral's distinctive architectural signatures and spotted them on the facade of [[The Nodrum]].
 Originally he wanted to be a cleric to heal all the people of the world.
 He grew up in the orphanage and helped the clerics heal, eventually accepted into the Church academy.
 
@@ -65,10 +66,14 @@ He wears recognizable church armor and is identifiable as a paladin.
 - [[Castor]] — Lowkey Doubts
 
 ## Current Threads
-- Crisis of faith deepened — his healing was overwhelmed by ruin's proximity, but his blessings still move people
+- Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted
+- His faith proved effective against mortal authority: his invocation of Luciferian authority cowed the Aureate soldiers into backing down
+- Theorizing about a larger conspiracy involving [[Luminary Severin Morrow|Severin]] and [[Count Albrecht Marrow|Marrow]]
+- The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
 - On assignment as knight errant, tasked with redemption through deeds
-- Headed to [[Beaconhold|Beacon Hold]] to seek counsel from the [[The Light]]
+- Headed to the Chryseum in [[Aurelion]] to seek the shrine of Renewal
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Persuaded the dire coyotes to let the party pass; failed to heal horses (ruin overwhelmed his power); delivered a stirring blessing in Crownvale defending the horse seller Laura
+- [[Session 2]] — Recognized Luciferian architectural signatures on [[The Nodrum]]'s facade; held a mirror during the ritual to contain [[The Xan-Kor]]; ruin corrupted ley lines passing through him; invoked his authority as a knight of [[Lucifer]] to force the Aureate to release Jimmy; attempted to convert Jimmy to the Light

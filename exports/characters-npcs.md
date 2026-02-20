@@ -32,24 +32,10 @@ His seat of power at [[Crownvale]] lies directly in the path of the curse if it 
 - [[Session 1]] — A fresh scrap of his livery was found at [[Beaver Lake]]; [[Edric Bloom|Edric]]'s investigation of [[Sergeant Iyer]] suggests Aldric is not directly involved with the ruin's release; [[Mira]] recognized [[Garland yn Greenholt|Garland]] and was given a warning letter for Aldric
 - [[Session 2]] — Another piece of green-and-gold livery found planted on a branch near [[The Nodrum]]; the Harlequin Jimmy confessed the livery scraps were all planted by the Harlequins as a trick to exploit Garland's paranoia, largely exonerating Aldric; the Dark Harlequin sent Garland a vision of [[Mira]] and children in danger at Aldric's castle
 
-
-## Captain Eisen Dorn
-
-**First Mentioned:** Pre-session notes
-**Status:** Active
-**Affiliation:** [[Marrow County]] guard
-
-### Description
-Captain of the guard in [[Aurelion]].
-A pragmatic, tired old soldier who has seen enough to value practical solutions over confrontation.
-
-### Role
-Commands the guard forces in [[Marrow County]]'s capital.
-He and [[Edric Bloom]] met when Edric successfully talked down a group of peasants angry about a high grain tax imposed by [[Count Albrecht Marrow]].
-
-### Relationships
-- [[Count Albrecht Marrow]] — Serves under his authority as captain of the guard
-- [[Edric Bloom]] — Acquaintance; respects Edric for defusing the peasant uprising
+### Session Appearances
+- [[Session 0]]
+- [[Session 1]]
+- [[Session 2]]
 
 
 ## Count Albrecht Marrow
@@ -60,6 +46,7 @@ He and [[Edric Bloom]] met when Edric successfully talked down a group of peasan
 
 ### Description
 Lord of a minor but strategically placed county ([[Marrow County]]) bordering the royal capital of [[Beaconhold]].
+Rules from [[Crest Aurelion]], his castle in [[Aurelion]].
 Often overshadowed politically, but deeply entwined with the Church.
 He is a major donor, with several sons holding influential clerical positions.
 
@@ -81,6 +68,7 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 
 ### Relationships
 - [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]; previously hired him for multiple [[Whiteglass]] retrieval jobs
+- [[Mayliss Vane]] — His Assayer Sovereign; handles acquisitions and serves as gatekeeper
 - [[The Light]] — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in [[Marrow County]]
 - [[Beaconhold]] — Rules [[Marrow County]], a strategically placed border county
 - [[The Triune]] — Has an arrangement through [[Mayliss Vane]] where they serve as magical consultants in exchange for autonomy
@@ -90,6 +78,46 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 - [[Session 1]] — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold
 - [[Session 2]] — The Harlequin Jimmy claimed both Marrow and the party are "puppets on the Laughing One's strings"; [[Sir Roderic Lightbearer|Roderic]] suspects a conspiracy involving Marrow and [[Luminary Severin Morrow|Severin]]
 
+### Session Appearances
+- [[Session 0]]
+- [[Session 1]]
+- [[Session 2]]
+
+
+## First Aureate Eisen Dorn
+
+**First Mentioned:** Pre-session notes
+**Status:** Active
+**Title:** First Aureate, Commander of the Aureate
+**Affiliation:** [[Count Albrecht Marrow]]
+
+### Description
+Commander of the Aureate, [[Count Albrecht Marrow]]'s armed guard in [[Aurelion]].
+A pragmatic, tired old soldier who has seen enough to value practical solutions over confrontation.
+He doesn't care about politics or theology — he cares about keeping order and keeping people alive.
+
+### Appearance
+**Colors:** Tarnished gold, weathered leather brown, road dust gray, old iron
+
+- *Sights:* Armor that was once gilded but now shows the steel beneath at the stress points, a face lined by sun and worry, hands that rest on his sword belt out of habit not threat, eyes that scan exits and rooftops without thinking, a cloak that was once fine but has been mended too many times
+- *Sounds:* The creak of well-worn leather, a voice like gravel at the bottom of a dry well, the unconscious jingle of mail when he shifts his weight, sighs he doesn't realize he's making, orders given quietly because he's learned shouting wastes energy
+- *Smells:* Horse, road dust, the metallic tang of armor worn too long, cheap soldier's soap, woodsmoke from garrison fires, the faint sourness of a man who sleeps in his boots more often than not
+
+A man who has been holding a wall for so long he's become part of it.
+Tired down to his bones but still standing because someone has to.
+The gold in his title feels like a weight rather than an honor.
+
+### Role
+Leads the Aureate, [[Count Albrecht Marrow]]'s armed guard that enforces the law in [[Marrow County]].
+He and [[Edric Bloom]] met when Edric successfully talked down a group of peasants angry about a high grain tax imposed by the Count.
+
+### Relationships
+- [[Count Albrecht Marrow]] — Serves under his authority as commander of the Aureate
+- [[Edric Bloom]] — Acquaintance; respects Edric for defusing the peasant uprising
+
+### Key Events
+- Witnessed [[Edric Bloom]] talk down peasants protesting a grain tax
+
 
 ## Luminary Severin Morrow
 
@@ -98,11 +126,21 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 **Affiliation:** [[The Light]]
 
 ### Description
-A severe man who serves as head priest of the church in [[Aurelion]].
+A severe man who runs [[The Chryseum]], the cathedral of [[The Light]] in [[Aurelion]].
 He is the third son of [[Count Albrecht Marrow]].
 
+### Appearance
+**Colors:** Whiteglass pale, liturgical gold, shadow black, candle-flame amber
+
+- *Sights:* Vestments that hang perfectly straight — he adjusts them constantly, unconsciously — a jaw held tight enough to ache, eyes that look *through* you searching for the lie beneath, hands that gesture in precise liturgical patterns even in casual conversation, a [[Whiteglass]] pendant that catches light like a small cold sun
+- *Sounds:* A voice trained to fill the Chryseum without shouting — resonant, certain, with edges — scripture quoted from memory mid-sentence, the soft click of prayer beads he works through his fingers when thinking, a tendency to leave sermons half-finished in conversation as if you should know the rest
+- *Smells:* Temple incense (frankincense and something sharper, like juniper), beeswax candles, the clean astringency of [[Whiteglass]] (which shouldn't have a smell but somehow does around him), starched linen, and beneath it all something faintly scorched — like faith burning too hot
+
+A man who has stared into the light so long he sees shadows everywhere.
+Not cruel, but *certain* — and certainty in the wrong hands cuts deeper than malice.
+
 ### Role
-Leads the congregation in [[Marrow County]]'s capital.
+Leads the congregation in [[Aurelion]].
 He believes all bards and storytellers are liars and charlatans.
 His preaching has turned at least a portion of his flock against performers and tale-tellers.
 
@@ -110,25 +148,43 @@ His preaching has turned at least a portion of his flock against performers and 
 - [[Count Albrecht Marrow]] — His father
 - [[The Light]] — His religious affiliation; he serves as a luminary
 
+### Key Events
+- Has been turning his congregation against bards and storytellers
+
 
 ## Mayliss Vane
 
 **First Mentioned:** Pre-session notes
 **Status:** Active
-**Affiliation:** [[Count Albrecht Marrow]]
+**Title:** Assayer Sovereign to [[Count Albrecht Marrow]]
 
 ### Description
-Seneschal to [[Count Albrecht Marrow]].
-She handles the Count's affairs and serves as his primary contact for matters of acquisition.
+Assayer Sovereign to [[Count Albrecht Marrow]], the highest-ranking appraiser in [[Marrow County]].
+Assayers throughout the county evaluate, appraise, and certify on behalf of local authorities — Mayliss holds the title Sovereign because she performs this role for the Count himself.
+She is the gatekeeper to Marrow and handles his affairs of acquisition.
+
+### Appearance
+**Colors:** Burnished copper, ledger cream, sealing-wax red, ink black
+
+- *Sights:* Fingers stained faintly with ink, a ring of keys at her belt that never jingles — she holds them still by habit — eyes that weigh you before you've finished speaking, clothing practical but immaculately maintained, a small golden scale pin at her collar
+- *Sounds:* The crisp turn of ledger pages, a voice that asks questions like she already knows the answers, the decisive snap of a wax seal being pressed, silences she lets stretch until you fill them
+- *Smells:* Sealing wax (warm and resinous), iron gall ink, the faint mustiness of old records, a hint of something astringent — the chemicals used to test metal purity
+
+Someone who has counted, weighed, and evaluated everything in front of her before you've opened your mouth.
+Not unkind, but nothing gets past her without being assessed.
 
 ### Role
-Mayliss has been [[Edric Bloom]]'s primary contact for retrieving artifacts for Count Marrow.
-She hired Edric to recover several items, including the [[Seal of Unmaking]].
+[[Edric Bloom]]'s direct handler for artifact retrieval on behalf of [[Count Albrecht Marrow]].
+She commissioned the [[Seal of Unmaking]] job and expects it delivered.
 Edric is ostensibly tasked with returning the Seal to her — though the party has decided not to do so.
 
 ### Relationships
-- [[Count Albrecht Marrow]] — Her lord; she serves as his seneschal
-- [[Edric Bloom]] — Contact and artifact retriever; she hired him to recover the Seal of Unmaking
+- [[Count Albrecht Marrow]] — Her lord; she serves as his Assayer Sovereign
+- [[Edric Bloom]] — Contact and artifact retriever; she hired him to recover the [[Seal of Unmaking]]
+- [[The Triune]] — Arranged through her as magical consultants in exchange for autonomy
+
+### Key Events
+- Hired [[Edric Bloom]] to retrieve artifacts including the [[Seal of Unmaking]]
 
 
 ## Mira
@@ -179,6 +235,10 @@ She was [[Garland yn Greenholt|Garland]]'s granddaughter, distinct from [[Aldric
 - [[Garland yn Greenholt]] — Her great-grandfather, whom she called "Da-Gar"
 - [[Aldric Garlandsson]] — Cousin (she spotted his livery on a stranger visiting Ashbrook)
 
+### Key Events
+- [[Session 0]] — Her letter is part of the backstory; she perished when Ashbrook fell
+- [[Session 1]] — Her letter is referenced as evidence connecting Aldric's livery to events before the disaster
+
 
 ## Sergeant Iyer
 
@@ -202,6 +262,10 @@ The information he provided suggests Aldric was not directly involved in the rui
 ### Key Events
 - [[Session 1]] — Edric bought him drinks and extracted information about Aldric; Edric experienced a disturbing compulsion to weaponize knowledge of Iyer's personal troubles
 - [[Session 2]] — Reports from Aureate soldiers indicate Iyer was on duty when half the [[Crownvale]] guard walked off the walls in the middle of the night; he told them to go home, saying none of it mattered anymore; the east gate stood unmanned until dawn, suggesting ruin's influence is deepening its hold on Crownvale's defenders
+
+### Session Appearances
+- [[Session 1]]
+- [[Session 2]]
 
 
 ## The Triune
@@ -238,3 +302,6 @@ They have an arrangement with [[Count Albrecht Marrow]] through [[Mayliss Vane]]
 
 ### Key Events
 - [[Session 2]] - Examined [[Edric Bloom|Edric]] with geometric devices that seized on contact; confessed to siphoning [[Castor]]'s curse energy to power [[The Xan-Kor]]; helped the party redirect ley line energy into the [[Whiteglass]] seal; declared the party were the heralds of ruin; directed them toward a shrine to the God of Renewal beneath the Chryseum in [[Aurelion]]
+
+### Session Appearances
+- [[Session 2]]

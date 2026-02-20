@@ -70,6 +70,8 @@ What's in the wild:
 - The unknown
 
 
+## Races & Bloodlines
+
 ### The Greenholt Bloodline
 
 A hereditary trait found in the Greenholt family that occasionally expresses in family members.
@@ -86,7 +88,25 @@ Garland believes Castor is a relative, though there is no definitive proof.
 The origin of this trait — whether it connects to actual elven ancestry or something else — remains an open question.
 
 
-## Religion
+## Creatures
+
+### Dire Coyotes
+
+A tougher and more aggressive breed of coyote that dominates the lower elevations of the [[Cinderwall]] toward the [[Ashen Vale]].
+Far more dangerous than their pasture-roaming cousins.
+
+To the locals, ordinary coyotes are considered mostly non-threatening and more of a pest to pets and livestock.
+But in the more treacherous mountain areas where people have feared to tread, this aggressive breed has come to dominate.
+Humankind is sparse where they roam, so few know of these keen predators.
+
+Even among the residents of the [[Ashen Vale]], few have ventured far enough to catch sight of a dire coyote.
+[[Castor]] has seen them during his time as a beaver, seeking proof of their existence out of curiosity, and getting little more than a frantic burrowing session in the mountains as a reward.
+
+A local named Phillip once talked a big game about going to the mountains to prove these coyotes existed.
+That's the last anyone heard of Phillip.
+
+
+## Gods & Religion
 
 ### The Old Gods and the New
 
@@ -128,54 +148,7 @@ The cumulative effect of these imbalances is a world that has been slowly sicken
 The Luciferians perceive it as "the darkness pressing in" and redouble their wards — not realizing they caused it.
 
 
-## Creatures
-
-### Dire Coyotes
-
-A tougher and more aggressive breed of coyote that dominates the lower elevations of the [[Cinderwall]] toward the [[Ashen Vale]].
-Far more dangerous than their pasture-roaming cousins.
-
-To the locals, ordinary coyotes are considered mostly non-threatening and more of a pest to pets and livestock.
-But in the more treacherous mountain areas where people have feared to tread, this aggressive breed has come to dominate.
-Humankind is sparse where they roam, so few know of these keen predators.
-
-Even among the residents of the [[Ashen Vale]], few have ventured far enough to catch sight of a dire coyote.
-[[Castor]] has seen them during his time as a beaver, seeking proof of their existence out of curiosity, and getting little more than a frantic burrowing session in the mountains as a reward.
-
-
 ## Factions
-
-### The Light
-
-**Also Known As:** The Church of Lucifer, The Luciferian Faith
-
-The dominant faith of the setting, worshipping [[Lucifer|The Radiant One]], the god-emperor of the [[Imperium Lucis Aeternae|Old Empire]].
-Lucifer is the god of radiance and light.
-The religion has genuinely good tenets — helping people, protecting the weak, bringing light.
-
-When Lucifer rose to power as god-emperor of the Imperium, it became the beacon of light and civilization for all mortalkind.
-The Light enabled people to live and prosper in ways that had never happened before.
-The faith spread through hope rather than conquest.
-
-The Church genuinely believes it is protecting humanity from darkness.
-Its faith has brought real benefits — stability, safety, the foundations of civilization.
-
-**Terminology:**
-- **The Light** — the religious organization and faith itself
-- **The Radiant One** — formal title for [[Lucifer]]
-- **Luminary** — priest; a genderless title
-- **Radiant Luminary** — high priest
-
-**Enforcement by Region:**
-Enforcement of the faith varies by region:
-- Some places mandate worship (Inquisition-style) with other religions forbidden
-- In [[Beaconhold]], it is the state religion — supported but not mandated; other religions are tolerated but not supported
-- Other places vary in tolerance
-
-**Notable Members:** [[Sir Roderic Lightbearer]], [[Count Albrecht Marrow]]
-
-Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally tolerated in Beaconhold but not in all places.
-
 
 ### The Old Gods
 
@@ -184,6 +157,8 @@ Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally 
 The Old Gods are the pre-Luciferian divine forces that once governed the natural cycles of the world.
 They were not worshipped in the Luciferian sense — they were acknowledged, honored in their proper time.
 None of them are evil; they are forces of nature, each governing a necessary part of existence.
+
+For a broader history of the old religion and its suppression, see [[Old Gods and New Gods]].
 
 **The God of Ruin:**
 
@@ -208,10 +183,27 @@ Ruinous cultists aren't cackling villains.
 They come to the god of ruin from different places:
 
 **The Grieving** — People who lost everything and found peace only in accepting that loss is natural.
+"When my children died, only the Gentle Collapse offered comfort.
+Not promises of reunion, not platitudes.
+Just... permission to let go."
+
 **The Exhausted** — People tired of the endless Luciferian labor of preservation.
+"Every day we shore up walls, mend what's broken, fight the tide.
+I'm so tired.
+The Patient Dark offers something the Light never does: an end to the struggle."
+
 **The Philosophical** — Those who believe the natural order has been disrupted.
+"The world is constipated with things that have outlived their purpose.
+The Unmaker isn't evil — they're necessary."
+
 **The Converted** — Once victims of ruin who came to see it as revelation.
-**The Desperate** — Those who want something specific to end.
+"The fire took my home, my shop, my life's work.
+And in the ashes I finally saw clearly.
+I had been holding on so tight.
+The Release showed me I could let go."
+
+**The Desperate** — Those who want something specific to end: a tyrannical ruler, a corrupt institution, an abusive relationship, their own suffering.
+They come to Ruin not from philosophy but from need.
 
 **The God of Renewal:**
 
@@ -251,11 +243,34 @@ The Laughing One does not demand worship — only entertainment.
 According to the Harlequin Jimmy, the Laughing One has been bored for centuries since the Light sealed away the old gods, but the release of ruin has made things entertaining again.
 The Laughing One views both [[Count Albrecht Marrow|Marrow]] and the party as puppets on his strings, each playing a role in a grand cosmic joke.
 
+Titles and Epithets:
+- The Laughing One
+- Lord/Lady of Misrule
+- The Crooked Path
+- The Motley
+- The Unexpected
+- The Reversal
+
+Nature: Amoral, not immoral.
+The Trickster doesn't serve good or evil — they serve change, disruption, the puncturing of certainty.
+They lie, but sometimes their lies reveal deeper truths.
+They cause chaos, but sometimes that chaos breaks stagnant systems.
+
 *The Harlequins:*
 Followers of the Trickster.
 Not a formal cult — more like a loose network of those who've been touched by the Laughing One's influence.
 They have been actively following the party since they descended from [[Ashbrook]], finding dark humor in their unwitting role as heralds of ruin.
 They planted scraps of [[Aldric Garlandsson|Aldric]]'s green-and-gold livery at [[Beaver Lake]] and near Ashbrook as a low-effort deception to exploit [[Garland yn Greenholt|Garland]]'s paranoia.
+
+Aesthetic: Motley, masks, bells, patchwork.
+Classic harlequin imagery that can range from theatrical and almost playful to deeply unsettling.
+
+What they do:
+- Spread chaos, disruption, change
+- Puncture certainties, expose hypocrisies
+- Test people — are you as virtuous as you claim?
+- Manipulate, misdirect, arrange circumstances
+- Sometimes genuinely help people — but never straightforwardly
 
 *The Dark Harlequin:*
 The Harlequins' monstrous leader.
@@ -265,6 +280,43 @@ It sent [[Garland yn Greenholt|Garland]] an uninvited vision of [[Mira]] and chi
 [[Edric Bloom|Edric]] glimpsed it inside a barrel, where it laughed silently before vanishing.
 
 The Old Gods existed in balance — they weren't at war with each other, they were parts of a whole.
+No force was rejected, because all were necessary.
+
+
+### The Light
+
+**Also Known As:** The Church of Lucifer, The Luciferian Faith
+
+The dominant faith of the setting, worshipping [[Lucifer|The Radiant One]], the god-emperor of the [[Imperium Lucis Aeternae|Old Empire]].
+Lucifer is the god of radiance and light.
+The religion has genuinely good tenets — helping people, protecting the weak, bringing light.
+
+When Lucifer rose to power as god-emperor of the Imperium, it became the beacon of light and civilization for all mortalkind.
+The Light enabled people to live and prosper in ways that had never happened before.
+The faith spread through hope rather than conquest.
+
+The Church genuinely believes it is protecting humanity from darkness.
+Its faith has brought real benefits — stability, safety, the foundations of civilization.
+
+**Terminology:**
+- **The Light** — the religious organization and faith itself
+- **The Radiant One** — formal title for [[Lucifer]]
+- **Luminary** — priest; a genderless title used instead of father, brother, sister, etc.
+- **Radiant Luminary** — high priest; high-ranking clergy (cardinals, archbishops, and similar positions)
+
+**Followers:**
+- Casual usage: "I follow the Light" / "I'm of the Light"
+- Formal usage: "The Illuminated"
+
+**Enforcement by Region:**
+Enforcement of the faith varies by region:
+- Some places mandate worship (Inquisition-style) with other religions forbidden
+- In [[Beaconhold]], it is the state religion — supported but not mandated; other religions are tolerated but not supported
+- Other places vary in tolerance
+
+**Notable Members:** [[Sir Roderic Lightbearer]], [[Count Albrecht Marrow]]
+
+Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally tolerated in Beaconhold but not in all places.
 
 
 ## Notable Items
@@ -332,6 +384,9 @@ The full extent of what they do and how their power works is still to be establi
 
 [[Garland yn Greenholt]] discovered them while preparing a well-hidden field for pasture on his land.
 He studied them carefully over the years and guards the secret of their location.
+
+Garland speaks of the [[Ashen Vale]] openly, but doesn't volunteer information about the Witch Stones themselves.
+He would be very interested in investigating other Witch Stones if they exist elsewhere.
 
 
 ### The Xan-Kor

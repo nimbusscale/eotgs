@@ -6,6 +6,7 @@
 
 ## Description
 Lord of a minor but strategically placed county ([[Marrow County]]) bordering the royal capital of [[Beaconhold]].
+Rules from [[Crest Aurelion]], his castle in [[Aurelion]].
 Often overshadowed politically, but deeply entwined with the Church.
 He is a major donor, with several sons holding influential clerical positions.
 
@@ -27,6 +28,7 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 
 ## Relationships
 - [[Edric Bloom]] — Hired him to retrieve the [[Seal of Unmaking]]; previously hired him for multiple [[Whiteglass]] retrieval jobs
+- [[Mayliss Vane]] — His Assayer Sovereign; handles acquisitions and serves as gatekeeper
 - [[The Light]] — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in [[Marrow County]]
 - [[Beaconhold]] — Rules [[Marrow County]], a strategically placed border county
 - [[The Triune]] — Has an arrangement through [[Mayliss Vane]] where they serve as magical consultants in exchange for autonomy

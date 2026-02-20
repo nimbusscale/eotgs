@@ -5,8 +5,6 @@
 
 ## Curse of Ruin — GM Secrets
 
-See also: [[Curse of Ruin]]
-
 ### The Shape of Things
 
 **What the party believes:** They accidentally freed a god of ruin.
@@ -124,7 +122,7 @@ It happens through interaction, through connection, through the party being pres
 The more meaningful the interaction, the stronger the infection.
 Saving someone's life is more contagious than passing them on the street.
 
-**Each Herald's Burden:**
+#### Each Herald's Burden
 
 The cruel design: each Herald spreads ruin that mirrors their greatest virtue.
 

@@ -10,8 +10,9 @@ The area had sophisticated gold-extraction technology that was lost over generat
 [[The Nodrum]] is located not far from the city.
 
 ## Notable Features
+- **[[Crest Aurelion]]** — [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]]
 - **The Chryseum** — The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]]; [[The Triune]] told the party that beneath it lies an old shrine to the God of Renewal
-- The Aureate (Count Marrow's soldiers) enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers
+- The Aureate ([[Count Albrecht Marrow]]'s soldiers, led by [[Captain Eisen Dorn|First Aureate Eisen Dorn]]) enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers
 
 ## Connected Locations
 - [[Marrow County]] — The county of which Aurelion is the capital

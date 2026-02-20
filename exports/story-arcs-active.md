@@ -50,9 +50,23 @@ The path forward requires finding the heralds of renewal; a shrine beneath the C
 - **Is Aldric connected to Ashbrook?** — The Harlequins fabricated the livery evidence, strongly suggesting he was not involved ([[Session 2]])
 
 **Key Events:**
-- [[Session 0]] — Party retrieved the [[Seal of Unmaking]] from [[Ashbrook]], releasing the God of Ruin
-- [[Session 1]] — Party raced ahead of the cursed river; evacuated the beaver colony; erected a spirit wall at [[Beaver Lake]]; encountered ruin's influence on ordinary people and on Edric's mind; departed [[Crownvale]] for [[Beaconhold|Beacon Hold]]
-- [[Session 2]] — Detoured to [[The Nodrum]]; learned ruin has a counterpart in Renewal; Triune confessed to siphoning Castor's curse energy; party identified as heralds of ruin; Harlequins revealed their manipulation; the Chryseum shrine is the next objective
+- [[Session 0]] — Party retrieved the [[Seal of Unmaking]] from [[Ashbrook]], releasing the God of Ruin; curse now spreading via the [[Ashen Flow]]
+- [[Session 1]] — Party raced ahead of the cursed river; evacuated the beaver colony; erected a spirit wall at [[Beaver Lake]] (temporary); encountered ruin's influence on ordinary people and on Edric's mind; departed [[Crownvale]] for [[Beaconhold|Beacon Hold]]
+- [[Session 2]] — Party detoured to [[The Nodrum]] seeking help from [[The Triune]]; learned ruin has a counterpart in Renewal; [[The Triune]] confessed to siphoning [[Castor]]'s curse energy; party redirected energy into the [[Whiteglass]] seal but corrupted reality; the party identified as heralds of ruin; Harlequins revealed their manipulation; the Chryseum shrine is the next objective
+
+**Related Entities:**
+- [[Seal of Unmaking]] — The artifact that imprisoned the God of Ruin; now empowered with ley line energy
+- [[Ashbrook]] — The town destroyed by the curse (now Eld Ashara)
+- [[Ashen Flow]] — The river carrying cursed water downstream
+- [[Beaver Lake]] — Location of Garland's spirit wall barrier (now confirmed empty of ruin)
+- [[Count Albrecht Marrow]] — Commissioned the retrieval; his motives are suspect
+- [[Crownvale]] — At risk as ruin's influence deepens on its defenders
+- [[Rowan yn Greenholt]] — Garland's great-grandchild who perished in Ashbrook
+- [[Dire Coyotes]] — Shapeshifters of the Wild Hunt who confronted the party in the Cinderwall
+- [[The Triune]] — Hedge-wizards who identified the party as heralds of ruin
+- [[The Nodrum]] — Ancient facility where the ritual went awry
+- [[The Xan-Kor]] — Construct of the God of Forgetting, destabilized by the party's arrival
+- [[The Harlequins|Harlequins]] — Followers of the Laughing One who have been manipulating events
 
 
 ## Character Arcs
@@ -80,6 +94,13 @@ The full story behind the [[Seal of Unmaking]]'s retrieval and who truly benefit
 **Key Events:**
 - [[Session 1]] — Garland found Aldric's livery at Beaver Lake; Edric's investigation of Sergeant Iyer suggests Aldric is not directly involved; Garland avoided recognition in Crownvale but was spotted by Mira
 - [[Session 2]] — Found another piece of Aldric's livery near [[The Nodrum]]; the Harlequin Jimmy confessed all the livery was planted as a trick; the Dark Harlequin sent Garland a disturbing vision of [[Mira]] and children at Aldric's castle
+
+**Related Entities:**
+- [[Aldric Garlandsson]] — Garland's grandson, under suspicion
+- [[Rowan yn Greenholt]] — Garland's granddaughter who perished at Ashbrook; her letter is key evidence
+- [[Mira]] — Aldric's daughter who recognized Garland
+- [[Sergeant Iyer]] — Aldric's guard; Edric extracted information from him
+- [[Beaver Lake]] — Where the livery scrap was found
 
 
 ### Sir Roderic Lightbearer — Redemption
@@ -109,3 +130,11 @@ He has begun theorizing about a larger conspiracy involving [[Luminary Severin M
 **Key Events:**
 - [[Session 1]] — Failed to heal horses (ruin overwhelmed his power); successfully delivered a blessing in Crownvale defending the horse seller Laura; warned Edric that endorsing "new beginnings through destruction" feeds ruin's power
 - [[Session 2]] — Recognized Luciferian architecture on [[The Nodrum]]; ley line energy passing through him emerged corrupted during the ritual; ruin crumbled his door lock overnight; invoked his authority as a knight of [[Lucifer]] to free the Harlequin Jimmy from the Aureate; attempted to convert Jimmy to the Light
+
+**Related Entities:**
+- [[The Light]] — His faith and order
+- [[Beaconhold]] — Where he was raised; destination for counsel
+- [[Beaver Lake]] — Where his healing failed
+- [[Crownvale]] — Where his blessing succeeded
+- [[The Nodrum]] — Where the corrupted ritual shook his faith further
+- [[Bonewall]] — Luciferian fortresses now crumbling

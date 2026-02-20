@@ -28,7 +28,7 @@ The path forward requires finding the heralds of renewal; a shrine to the God of
 **Player:** Ken (SiliKen)
 **Concept:** A wandering bard and trader who deals in stories, songs, and "rare and curious goods." He serves as the party's face and information broker.
 **Key Abilities:** Bardsong (storytelling style), Forked Tongue (potent lies), Story Peddler background (Legends & Tales, Who People Listen To), Trader (Rare & Curious Goods)
-**Relationships:** Playful curiosity with Castor; lowkey doubts about Roderic; deep respect for Garland; connected to Mayliss Vane (Marrow's contact) and Captain Eisen Dorn
+**Relationships:** Playful curiosity with Castor; lowkey doubts about Roderic; deep respect for Garland; connected to Mayliss Vane (Marrow's Assayer Sovereign) and First Aureate Eisen Dorn
 **Current Threads:** Carries the Seal of Unmaking — the case broke during the ritual at the Nodrum and the Whiteglass seal now glows with pulsating new power; the Triune's devices malfunctioned when examining him — Venn observed he stands at the overlap of many circles; the mystery of his unknown father; ruin struck at his core identity — his dreams were drained of inspiration; suggested seeking renewal rather than simply resealing ruin
 
 ### Garland yn Greenholt

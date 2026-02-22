@@ -1,4 +1,4 @@
-# Roderic's Redemption
+# Redemption
 
 **Type:** Character ([[Sir Roderic Lightbearer]])
 **Theme:** Make Things Right

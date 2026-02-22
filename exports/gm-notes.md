@@ -3,11 +3,11 @@
 > **GM ONLY** - This file contains secrets and planning material not for player eyes.
 
 
-# Curse of Ruin — GM Secrets
+## Curse of Ruin — GM Secrets
 
 See also: [[Curse of Ruin]]
 
-## The Shape of Things
+### The Shape of Things
 
 **What the party believes:** They accidentally freed a god of ruin.
 The curse is spreading via the river.
@@ -22,7 +22,7 @@ The more heroic they are, the wider the plague reaches.
 
 ---
 
-## The God of Ruin
+### The God of Ruin
 
 See also: [[The Old Gods]]
 
@@ -51,7 +51,7 @@ Healing them might be how you stop the plague — not defeating them.
 
 ---
 
-## The God of Renewal
+### The God of Renewal
 
 See also: [[The Old Gods]]
 
@@ -73,7 +73,7 @@ The sealing of Ruin broke something in Renewal too; without endings, there can b
 
 ---
 
-## The God of Trickery
+### The God of Trickery
 
 See also: [[The Old Gods]]
 
@@ -100,7 +100,7 @@ So the Trickster gave them one.
 
 ---
 
-## The Harlequins
+### The Harlequins
 
 See also: [[The Old Gods]]
 
@@ -113,7 +113,7 @@ See also: [[The Old Gods]]
 
 ---
 
-## The Heralds of Ruin
+### The Heralds of Ruin
 
 When the party broke the seal, they didn't just free the god of ruin — they became carriers of that power.
 The plague doesn't spread through water or air.
@@ -124,7 +124,7 @@ It happens through interaction, through connection, through the party being pres
 The more meaningful the interaction, the stronger the infection.
 Saving someone's life is more contagious than passing them on the street.
 
-### Each Herald's Burden
+#### Each Herald's Burden
 
 The cruel design: each Herald spreads ruin that mirrors their greatest virtue.
 
@@ -151,7 +151,7 @@ The irony: The builder whose beaver-nature drives him to create — he leaves be
 
 ---
 
-## The Herald Legend
+### The Herald Legend
 
 There's a legend about Heralds who come before an age of ruin.
 Edric knows it — this is Ken's territory to define when the time comes.
@@ -172,7 +172,7 @@ Let the players start to suspect before confirmation.
 
 ---
 
-## The River Ruse
+### The River Ruse
 
 The curse on the river is real — but it's a deliberate misdirection.
 The Trickster (or their agents) set it up to give the party something to fight.
@@ -198,7 +198,7 @@ The Trickster (or their agents) set it up to give the party something to fight.
 
 ---
 
-## Count Marrow's True Motivations
+### Count Marrow's True Motivations
 
 See also: [[Count Albrecht Marrow]]
 
@@ -239,7 +239,7 @@ Not defined until you need it.
 
 ---
 
-## The Light — What They Know
+### The Light — What They Know
 
 See also: [[The Light]]
 
@@ -262,7 +262,7 @@ This is Ramsey's story to tell, but the material is there for drama if he wants 
 
 ---
 
-## Session 2 — GM Observations
+### Session 2 — GM Observations
 
 **The Triune and Edric:**
 The Triune's devices malfunctioning when examining Edric is a significant plot hook.
@@ -308,26 +308,3 @@ The GM neither confirmed nor denied additional details in-game.
 **Key Choice Point:**
 The GM confirmed a key choice: Castor could have been re-cursed, but the party chose to channel the energy into the Seal of Unmaking.
 This will have consequences.
-
-
-# Session 3 — GM Observations
-
-## Plot Hooks Planted
-- The Xan-Kor's reality-shifting during the Nodrum ritual erased an unnamed hero from the tale of the Xan-Kor's original defeat; the GM noted this has had repercussions in the world the party hasn't seen yet.
-  See also: [[The Xan-Kor]], [[Curse of Ruin]]
-- Dorn is aware of a potential threat to the city and has tightened security — this could complicate the party's efforts to reach the shrine beneath the Chryseum.
-  See also: [[Captain Eisen Dorn]], [[Aurelion]]
-
-## Environmental Setup
-- Aurelion has a stray dog problem with active dog catchers — set up as a complication for [[Castor]] in dog form.
-- Aurelion is hostile to bards and storytellers, adding pressure on [[Edric Bloom]] beyond the wanted posters.
-- The mine tunnels contain multiple factions and threats — rock rats, undead, guarded passages — suggesting a layered environment with different zones of control.
-
-## Character Threads
-- The exotic beaver pheromone luring [[Castor]] underground is deeply suspicious given how rare beavers are in a mine; may be a lure or trap specifically targeting him.
-- [[Castor]]'s broken vow of celibacy could become a recurring character beat, especially if offspring inherit his druidic curse; the GM confirmed this is "certainly a possibility now."
-  See also: [[Castor]]
-
-## Second Harvest
-- The original name was Halcyrax, the Gilded Ruin — the dread-glow where gold once lay is the omen that drove [[Garland yn Greenholt]] from the [[Ashen Vale]].
-  See also: [[Second Harvest]]

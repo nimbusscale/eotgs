@@ -12,6 +12,7 @@ Wooded slopes, mossy, shrouded in mist and steam.
 - Volcanic; source of the Ashen Vale's fertile ash
 - Home to [[Dire Coyotes]] — a tougher and more aggressive breed that dominates the lower elevations toward the Ashen Vale; humankind is sparse in the higher elevations where they roam, and few have ventured far enough to even catch sight of them
 - Contains [[Ashbrook]] (now the cursed ruins of Eld Ashara)
+- Farlands Pass — A mountain pass used by trade caravans
 - Few mountain passes exist through the range
 
 ## Connected Locations

@@ -83,7 +83,7 @@ He and [[Edric Bloom]] met when Edric successfully talked down a group of peasan
 
 ### Description
 Lord of a minor but strategically placed county ([[Marrow County]]) bordering the royal capital of [[Beaconhold]].
-Rules from [[Crest Aurelion]], his castle in [[Aurelion]].
+Rules from Crest Aurelion, his castle in [[Aurelion]].
 Often overshadowed politically, but deeply entwined with the Church.
 He is a major donor, with several sons holding influential clerical positions.
 

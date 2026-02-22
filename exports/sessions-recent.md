@@ -36,7 +36,7 @@ A farmer stood blank-eyed on a dusty path, unable to remember his own wife and c
 The neighbors could not make anyone believe the truth of what had happened.
 The party rode past in grim silence, recognizing themselves as the cause — [[Garland yn Greenholt|Garland]] the herald of forgetting, [[Castor]] of crumbling foundations, [[Edric Bloom|Edric]] of souring tales, and [[Sir Roderic Lightbearer|Roderic]], traveling separately, of failing wards.
 
-[[Aurelion]] rose before them: the golden dome of the Chryseum still catching light above a city long past its golden age, [[Crest Aurelion]] perched on the hill like a vault rather than a castle, and a countryside of thin fields and abandoned mines.
+[[Aurelion]] rose before them: the golden dome of the Chryseum still catching light above a city long past its golden age, Crest Aurelion perched on the hill like a vault rather than a castle, and a countryside of thin fields and abandoned mines.
 Wanted posters bearing all four of their likenesses lined the road, accusing them of subversion and theft on behalf of [[Count Albrecht Marrow]].
 [[Castor]] shifted into a dog to hide his face, but [[Garland yn Greenholt|Garland]] proposed a different approach entirely — the old mines beneath the city, whose tunnels [[Edric Bloom|Edric]] had learned about during a drunken evening with [[Captain Eisen Dorn]].
 
@@ -322,7 +322,7 @@ The party departed [[Crownvale]] on fresh horses, headed for [[Beaconhold|Beacon
 - [[Beaver Lake]] — Lake formed by the Great Beaver Dam, where the party erected a spirit wall and evacuated the beaver colony
 - [[Ashen Vale]] — Road through the valley where the party encountered the merchant Jacob
 - [[Crownvale]] — Aldric's seat of power, where the party gathered information and resupplied
-- [[Farlands Pass]] — Mountain pass through the Cinderwall
+- Farlands Pass — Mountain pass through the Cinderwall
 
 ### Notable Quotes
 > "This has happened before. Altreth, the city-state on Mount Rapea, was destroyed in a similar way."

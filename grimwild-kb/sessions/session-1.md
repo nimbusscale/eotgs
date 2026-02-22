@@ -86,7 +86,7 @@ The party departed [[Crownvale]] on fresh horses, headed for [[Beaconhold|Beacon
 - [[Beaver Lake]] — Lake formed by the Great Beaver Dam, where the party erected a spirit wall and evacuated the beaver colony
 - [[Ashen Vale]] — Road through the valley where the party encountered the merchant Jacob
 - [[Crownvale]] — Aldric's seat of power, where the party gathered information and resupplied
-- [[Farlands Pass]] — Mountain pass through the Cinderwall
+- Farlands Pass — Mountain pass through the Cinderwall
 
 ## Notable Quotes
 > "This has happened before. Altreth, the city-state on Mount Rapea, was destroyed in a similar way."

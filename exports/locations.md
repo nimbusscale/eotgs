@@ -160,10 +160,10 @@ The city employs dog catchers to deal with a stray dog problem.
 The party is wanted in Aurelion — posters accuse them of subverting the county and stealing goods on behalf of [[Count Albrecht Marrow]].
 
 ### Notable Features
-- **[[Crest Aurelion]]** — [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle
+- **Crest Aurelion** — [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle
 - **The Chryseum** — The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]]; features a massive gold dome that dominates the skyline — the last prominent reminder of the city's golden past; [[The Triune]] told the party that beneath it lies an old shrine to the God of Renewal; the Chryseum district is accessible via the underground tunnel network
 - **The Mendrath Baths** — A gilded bathhouse built by dwarves, accessible via the underground tunnels
-- **Underground Tunnel Network** — Beneath the city lies a network of old mine tunnels and smuggler passages through abandoned gold mines that honeycomb the ground; infested with rock rats and prone to cave-ins; a central junction — possibly a shrine or royal passage built by the city's first king — branches toward the Chryseum, [[Crest Aurelion]], and the Mendrath Baths; the Aureate patrol the tunnels but typically assign their lowest-ranking soldiers to general duty; the critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command; [[Tufa]] the rock rat warned of undead deeper in the passages
+- **Underground Tunnel Network** — Beneath the city lies a network of old mine tunnels and smuggler passages through abandoned gold mines that honeycomb the ground; infested with rock rats and prone to cave-ins; a central junction — possibly a shrine or royal passage built by the city's first king — branches toward the Chryseum, Crest Aurelion, and the Mendrath Baths; the Aureate patrol the tunnels but typically assign their lowest-ranking soldiers to general duty; the critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command; [[Tufa]] the rock rat warned of undead deeper in the passages
 - The Aureate ([[Count Albrecht Marrow]]'s soldiers, led by [[Captain Eisen Dorn|First Aureate Eisen Dorn]]) enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers
 
 ### Connected Locations
@@ -291,6 +291,7 @@ Wooded slopes, mossy, shrouded in mist and steam.
 - Volcanic; source of the Ashen Vale's fertile ash
 - Home to [[Dire Coyotes]] — a tougher and more aggressive breed that dominates the lower elevations toward the Ashen Vale; humankind is sparse in the higher elevations where they roam, and few have ventured far enough to even catch sight of them
 - Contains [[Ashbrook]] (now the cursed ruins of Eld Ashara)
+- Farlands Pass — A mountain pass used by trade caravans
 - Few mountain passes exist through the range
 
 ### Connected Locations
@@ -323,26 +324,6 @@ The [[Eastern Rivers]] cut through, providing the only reliable passage.
 
 ### Events Here
 - [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Great Lake
-
-
-## Crest Aurelion
-
-**Type:** Building
-**First Mentioned:** Pre-session notes
-
-### Description
-[[Count Albrecht Marrow]]'s castle in [[Aurelion]], sitting atop the city hill.
-The seat of power for [[Marrow County]].
-It resembles a vault or bank more than a traditional castle, reflecting Aurelion's identity as a gold-producing city.
-It is accessible via the underground tunnel network from the central junction beneath the city.
-
-### Connected Locations
-- [[Aurelion]] — The capital city surrounding the castle
-- [[Marrow County]] — The county ruled from here
-
-### Associated NPCs
-- [[Count Albrecht Marrow]] — Rules from here
-- [[Mayliss Vane]] — Assayer Sovereign to the Count
 
 
 ## Crownvale
@@ -407,28 +388,6 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Great Lake]]
 
 ### Events Here
 - [[Session 0]] — Established as Edric's homeland
-
-
-## Farlands Pass
-
-**Type:** Landmark
-**First Visited:** [[Session 1]]
-
-### Description
-A mountain pass through the [[Cinderwall]] connecting the [[Ashen Vale]] region to lands beyond.
-Used by trade caravans.
-
-### Notable Features
-- Trade route through the Cinderwall mountains
-
-### Connected Locations
-- [[Cinderwall]] — The mountain range the pass cuts through
-- [[Ashen Vale]] — Accessible from the pass
-
-### Associated NPCs
-
-### Events Here
-- [[Session 1]] — Established as a named location via story point
 
 
 ## The Great Lake

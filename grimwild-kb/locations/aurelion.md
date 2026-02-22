@@ -15,10 +15,10 @@ The city employs dog catchers to deal with a stray dog problem.
 The party is wanted in Aurelion — posters accuse them of subverting the county and stealing goods on behalf of [[Count Albrecht Marrow]].
 
 ## Notable Features
-- **[[Crest Aurelion]]** — [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle
+- **Crest Aurelion** — [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle
 - **The Chryseum** — The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]]; features a massive gold dome that dominates the skyline — the last prominent reminder of the city's golden past; [[The Triune]] told the party that beneath it lies an old shrine to the God of Renewal; the Chryseum district is accessible via the underground tunnel network
 - **The Mendrath Baths** — A gilded bathhouse built by dwarves, accessible via the underground tunnels
-- **Underground Tunnel Network** — Beneath the city lies a network of old mine tunnels and smuggler passages through abandoned gold mines that honeycomb the ground; infested with rock rats and prone to cave-ins; a central junction — possibly a shrine or royal passage built by the city's first king — branches toward the Chryseum, [[Crest Aurelion]], and the Mendrath Baths; the Aureate patrol the tunnels but typically assign their lowest-ranking soldiers to general duty; the critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command; [[Tufa]] the rock rat warned of undead deeper in the passages
+- **Underground Tunnel Network** — Beneath the city lies a network of old mine tunnels and smuggler passages through abandoned gold mines that honeycomb the ground; infested with rock rats and prone to cave-ins; a central junction — possibly a shrine or royal passage built by the city's first king — branches toward the Chryseum, Crest Aurelion, and the Mendrath Baths; the Aureate patrol the tunnels but typically assign their lowest-ranking soldiers to general duty; the critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command; [[Tufa]] the rock rat warned of undead deeper in the passages
 - The Aureate ([[Count Albrecht Marrow]]'s soldiers, led by [[Captain Eisen Dorn|First Aureate Eisen Dorn]]) enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers
 
 ## Connected Locations

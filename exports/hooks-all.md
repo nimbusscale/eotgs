@@ -1,18 +1,17 @@
 # Story Hooks
 
-These are open story threads and questions that can be developed in future sessions. They represent unresolved mysteries, unexplored character backstory, and potential plot directions for brainstorming.
-
+These are open threads and unresolved mysteries that could develop into future story arcs.
 
 ## Group Hooks
 
-#### The Fall of the Imperium
+### The Fall of the Imperium
 **Source:** [[Session 1]]
 **Related:** [[Imperium Lucis Aeternae]], [[Seal of Unmaking]]
 
 Even with the Unmaker sealed and Lucifer ascendant, the [[Imperium Lucis Aeternae|Imperium]] still fell.
 What brought down the empire despite its advantages is an open question that may illuminate the nature of ruin and the limits of Lucifer's power.
 
-#### The God of Forgetting
+### The God of Forgetting
 **Source:** [[Session 2]]
 **Related:** [[Old Gods]], [[The Xan-Kor]], [[The Nodrum]]
 
@@ -20,7 +19,7 @@ A newly revealed Old God whose domain encompasses letting go, removal of memory,
 The God of Forgetting created [[The Xan-Kor]] during the wars of the old gods — a construct capable of erasing things from existence by removing them backward through time.
 The God of Forgetting's current status among the old gods is unknown, and its role in the current crisis is unclear.
 
-#### Lucifer's Champion
+### Lucifer's Champion
 **Source:** [[Session 2]]
 **Related:** [[The Light]], [[The Xan-Kor]], [[Imperium Lucis Aeternae]]
 
@@ -28,7 +27,7 @@ An unnamed champion imbued with Lucifer's light fought during the wars of the ol
 The [[Xan-Kor]] erased the champion from existence, undoing that victory entirely.
 Who this champion was, what they achieved, and whether their erasure contributed to the Imperium's eventual fall are open questions.
 
-#### The Bonewall's Darkness
+### The Bonewall's Darkness
 **Source:** [[Session 2]]
 **Related:** [[Bonewall]], [[The Light]]
 
@@ -36,6 +35,13 @@ Who this champion was, what they achieved, and whether their erasure contributed
 These wards are now crumbling as ruin's influence spreads.
 What these forces of darkness are and whether they are connected to the old gods is unexplored.
 
+### The Tunnels Beneath Aurelion
+**Source:** [[Session 3]]
+**Related:** [[Aurelion]], [[Imperium Lucis Aeternae]]
+
+The underground tunnel network beneath [[Aurelion]] runs through abandoned gold mines that honeycomb the ground.
+A central junction may have been a shrine or royal passage built by the city's first king.
+The tunnels' original purpose, their connection to the Imperium's lost gold-extraction technology, and what else lies buried in the depths are all unexplored.
 
 ## Character Hooks
 
@@ -57,6 +63,14 @@ The means and motive behind the curse are still to be decided.
 Castor's family never seemed to remember him after he was cursed.
 His loyalty to them persists despite this.
 What happened to his family line, and why they forgot him, is unresolved.
+
+#### Castor's Offspring
+**Source:** [[Session 3]]
+**Related:** [[Castor]], [[Tufa]]
+
+[[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
+He had avoided reproduction since becoming a beaver, unwilling to watch short-lived children grow old and die.
+Whether his druidic curse can be transmitted to offspring is an open question that could become a recurring character thread.
 
 ### Edric Bloom
 
@@ -136,3 +150,4 @@ On his last campaign, Roderic lost his entire battalion.
 He blamed his insufficient faith for the destruction.
 This tragedy led to his assignment as a knight errant of "The Redeemers of Light," tasked with redemption through deeds.
 What happened on that campaign, and whether the guilt is justified, is unexplored.
+See also: [[Roderic's Redemption]]

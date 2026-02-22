@@ -25,7 +25,7 @@ Brawn 1, Agility 2, Wits 3, Presence 2
 Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
 He was human during that era but has spent far more time as a beaver, and his human memories have grown muddled, replaced by beaver priorities.
 In human form he appears middle-aged and well preserved; his body did not age while in beaver form.
-He has never had children that he knows of.
+He had taken a vow of celibacy upon first becoming a beaver, not wanting to watch short-lived children grow old and die.
 
 Years and generations ago, Castor was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
@@ -63,8 +63,11 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 **Shapeshifting Notes:**
 All of Castor's animal forms retain subtle beaver characteristics — a beaver tail on a horse, beaver feet on a giraffe.
 His true form is beaver.
-He can shift into various animals (giraffe, horse, mule, etc.) based on his extensive travels.
+He can shift into various animals (giraffe, horse, mule, dog, etc.) based on his extensive travels.
+In dog form he retains obvious beaver features — a flat wide tail and large buck teeth.
 He has traveled across the continent as a beaver, including to regions with savannah climates, giving him knowledge of exotic fauna.
+In animal form he can speak.
+His beaver sense of smell is specialized — excellent for beaver-specific scents like pheromones and territorial markers, but less effective for general tracking.
 
 ### The Beaver Dam
 Castor is connected to a beaver community and a dam on the [[Ashen Flow]] at [[Beaver Lake]] that has stood for 120+ years.
@@ -91,12 +94,15 @@ Not a believer one way or another now.
 - Curiosity about the origin and motive of his original curse
 - [[The Triune]] secretly siphoned energy from his curse to power [[The Xan-Kor|the Aegis Mechanism]] — a betrayal of trust
 - Loyalty to the family who never seemed to remember him
-- The party are the heralds of ruin; ruin targets his core identity as a creator (clockwork servants broke down in his presence)
+- The party are the heralds of ruin; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay, break, and turn to dust
+- Broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat in exchange for intelligence about the tunnels beneath [[Aurelion]]; concern that his druidic curse could be transmitted to offspring
+- Wanted in [[Aurelion]] alongside the rest of the party
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Evacuated the beaver colony at Beaver Lake; rode double with Garland after surrendering his horse to the dire coyotes; stood watch in giraffe form at the fisher's hut
 - [[Session 2]] — Posed as Garland's grandson to hide his identity from [[The Triune]]; experienced involuntary partial reversion toward beaver form when the Nodrum's wards faltered; opened the [[Seal of Unmaking]]'s case during the ritual; tracked acrobat footprints to find the Harlequin Jimmy
+- [[Session 3]] — Shifted into dog form to avoid recognition from wanted posters; scouted the mine tunnels in beaver form; broke his vow of celibacy with [[Tufa]] the rock rat in exchange for tunnel intelligence; took a rock rat bite to the throat, losing his voice; grappled a rat off [[Garland yn Greenholt|Garland]] during the breakthrough
 
 
 ## Edric Bloom
@@ -157,6 +163,10 @@ His bardic instrument is storytelling rather than music — he tells short tales
 **Knowledge:**
 He knows about [[Altreth]], a city-state destroyed in a manner similar to [[Ashbrook]] — people who entered aged rapidly and died, and the story itself was "unmade" from memory.
 He knows that [[Whiteglass|whiteglass]] resists ruin.
+He knows the layout of [[Aurelion]]'s underground tunnel network — learned from [[Captain Eisen Dorn]] during a drunken evening of truth-telling games.
+
+**Equipment:**
+Carries adventuring gear including climbing equipment, torches, and an intricate hand crossbow.
 
 ### Relationships
 - [[Castor]] — Playful Curiosity
@@ -171,14 +181,17 @@ He knows that [[Whiteglass|whiteglass]] resists ruin.
 - Previously retrieved [[Whiteglass]] relics for [[Count Albrecht Marrow|Marrow]], described as "curiosities at best" — Roderic theorized each was a barrier weakened one by one until the final seal broke
 - The mystery of his unknown father
 - [[The Triune]]'s devices malfunctioned when examining him; Venn observed he stands at the overlap of many circles — old gods, new faith, curses, counties
-- Ruin struck at his core identity: his dreams were drained of inspiration, replaced by mundane visions
+- His herald curse — the herald of souring tales — causes stories to twist, reputations to decline, deals to go bad, and communication to break down; during the ritual at the Nodrum, his curse erased an unnamed hero from the tale of the Xan-Kor's original defeat
 - Suggested seeking renewal rather than simply resealing ruin — a key strategic shift
 - Has a pragmatic streak regarding Marrow — willing to steal from his collection if it would help
+- Well known in [[Aurelion]]; both [[Captain Eisen Dorn]] and [[Mayliss Vane]] would recognize him
+- Wanted in [[Aurelion]] alongside the rest of the party
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Told the dire coyotes a bardic tale to win passage; sang a melody to assist Garland's spirit wall; distracted Aldric's guards and extracted information from Sergeant Iyer; experienced ruin's influence on his mind in the Crownvale tavern
 - [[Session 2]] — Examined by [[The Triune]]'s devices (which seized on contact); suggested seeking renewal instead of resealing ruin; held a lens during the ritual; ley lines passing through him emerged corrupted; confronted Jimmy about crossing humor lines; glimpsed the Dark Harlequin inside a barrel
+- [[Session 3]] — Recalled the tunnel layout from Dorn's drunken confession; scouted invisible past Aureate guards; killed a rock rat with his hand crossbow; slipped through the guarded door using Garland's illusion as cover
 
 
 ## Garland yn Greenholt
@@ -206,10 +219,11 @@ Brawn 2, Agility 1, Wits 3, Presence 2
 Garland is extremely old — centuries implied — with elven features but human.
 He has the strongest expression of the [[Greenholt Bloodline]] trait, having lived longer than anyone else in his family line.
 
-His youth coincided with the fracturing of the [[Middle Kingdoms]]; he fought in the wars during [[Beaconhold|Beacon Hold]]'s expansion and was granted a fiefdom in the [[Ashen Vale]] for his service.
+His youth coincided with the fracturing of the [[Middle Kingdoms]]; he fought in the wars during [[Beaconhold|Beacon Hold]]'s expansion — including the war that brought [[Aurelion]] under Beaconhold's control — and was granted a fiefdom in the [[Ashen Vale]] for his service, though Beaconhold has never enforced its authority there.
 He served as a soldier, marching with drum and fife in hand as a child.
 He retired to his barren plot of land earned as spoils of war.
 There he carved out a farm and family, eventually forced to sell and rent out parcels of his land over time.
+He has visited [[Aurelion]] many times and knows multiple ways into the city.
 He became known locally as Garland yn Greenholt upon the [[Ashen Vale]], an accidental lord in practice though he would never accept the title.
 
 While preparing a well-hidden field for pasture, he discovered a set of standing stones known variously as the [[Witch Stones|Shepherd's Teeth]] and the [[Witch Stones]], which he studied carefully over the years.
@@ -252,7 +266,10 @@ Has never had much use for gods.
 - The Aldric livery mystery — resolved as a Harlequin trick, but broader questions about Aldric remain
 - Lost his memory of [[Mira]] during the teleportation at [[The Nodrum]]; feels an unexplained hollow absence
 - The party are the heralds of ruin — carrying the curse wherever they go; the path forward requires finding the heralds of renewal
+- His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity
 - Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
+- Wears ancient plate armor beneath his tattered riding cloak — dusty, rusty, dented, and damaged from centuries of use, clanking as he walks
+- Wields [[Second Harvest]], a legendary great sword with a storied past
 - Carries foreign candy (butterscotch) as treats for grandchildren
 - Previously consulted [[The Triune]] about [[Castor]]'s curse but kept the druid's true identity secret
 
@@ -260,6 +277,7 @@ Has never had much use for gods.
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Soothed a horse with illusion before surrendering it to the dire coyotes; erected a spirit wall at Beaver Lake to hold back the ruin; found Aldric's livery at the lake; disguised himself in Crownvale but was recognized by Mira; slipped her a warning letter for Aldric; purchased horses
 - [[Session 2]] — Sought help from [[The Triune]] at [[The Nodrum]]; refused to let Castor be re-cursed; teleported to retrieve the Seal's case but lost his memory of Mira; admonished the Triune for wielding dangerous power; found another piece of Aldric's livery (later revealed as a Harlequin trick); received a disturbing vision of Mira from the Dark Harlequin
+- [[Session 3]] — Witnessed his herald curse devastating a farmer's memory; proposed entering [[Aurelion]] through the old mines; conjured light, wards, and illusions to navigate the tunnels; knocked out an elite Aureate guard with [[Second Harvest]] to breach past the guarded junction
 
 
 ## Sir Roderic Lightbearer

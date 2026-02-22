@@ -117,6 +117,8 @@ He and [[Edric Bloom]] met when Edric successfully talked down a group of peasan
 
 ### Key Events
 - Witnessed [[Edric Bloom]] talk down peasants protesting a grain tax
+- Confided to [[Edric Bloom|Edric]] during a drunken evening that [[Aurelion]]'s underground is riddled with smuggler tunnels, revealing the entrance location and the layout of the central junction; warned Edric never to use this knowledge, admitting he felt unusually comfortable confiding in the bard
+- [[Session 3]] — Arrived at the guarded tunnel junction to replace idle guards with elite soldiers, warning of a threat to the city; tightened security at the critical passage leading toward the Chryseum district
 
 
 ## Luminary Severin Morrow
@@ -305,3 +307,24 @@ They have an arrangement with [[Count Albrecht Marrow]] through [[Mayliss Vane]]
 
 ### Session Appearances
 - [[Session 2]]
+
+
+## Tufa
+
+**First Appeared:** [[Session 3]]
+**Status:** Active
+**Affiliation:** Independent
+
+### Description
+A large mother rock rat living in the mine tunnels beneath [[Aurelion]].
+She has had at least three litters and her teeth can gnaw through solid rock.
+
+### Role
+Provided [[Castor]] with intelligence about the tunnels beneath [[Aurelion]] — including warnings about undead deeper in the passages and rock rat ambush tactics — in exchange for his companionship.
+[[Castor]] can speak with animals, which enabled the negotiation.
+
+### Relationships
+- [[Castor]] — Mate; traded intelligence for companionship
+
+### Key Events
+- [[Session 3]] — Encountered [[Castor]] in beaver form in her burrow; bargained intelligence about the tunnels for his company

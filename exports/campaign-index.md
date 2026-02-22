@@ -14,6 +14,9 @@ The Triune also revealed that ruin had a counterpart — the God of Renewal — 
 The Harlequins, followers of the God of Trickery, have been following the party since Ashbrook, manipulating events for the Laughing One's entertainment.
 The path forward requires finding the heralds of renewal; a shrine to the God of Renewal beneath the Chryseum in Aurelion is their best lead.
 
+The party is now wanted in Aurelion — posters accuse them of subverting the county and stealing goods.
+They entered the city covertly through old mine tunnels beneath Aurelion, fought through rock rat ambushes and Aureate guards, and have breached past a critical junction leading toward the Chryseum district.
+
 
 ## Player Characters
 
@@ -22,21 +25,21 @@ The path forward requires finding the heralds of renewal; a shrine to the God of
 **Concept:** A druid who spent an extraordinarily long time cursed as a beaver, now more beaver-in-human-skin than human. He carries the Greenholt Bloodline and serves as the party's scout, utility caster, and shapeshifter.
 **Key Abilities:** Wild Shape (beaver is his True Shape), Vagabond background (Faraway tales, Lay of the land), Longtime Animal/Hunter (Survival, Wildlife Behavior)
 **Relationships:** Views Garland as a father figure despite being technically older; lowkey camaraderie with Edric; growing respect for Roderic
-**Current Threads:** The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river; curiosity about the origin of his original curse; the Triune secretly siphoned energy from his curse to power the Aegis Mechanism; loyalty to the family who never seemed to remember him; the party are the heralds of ruin, and ruin targets his core identity as a creator
+**Current Threads:** The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river; curiosity about the origin of his original curse; the Triune secretly siphoned energy from his curse to power the Aegis Mechanism; loyalty to the family who never seemed to remember him; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay; broke his vow of celibacy with Tufa the rock rat in exchange for tunnel intelligence; concern his druidic curse could be transmitted to offspring; wanted in Aurelion
 
 ### Edric Bloom
 **Player:** Ken (SiliKen)
 **Concept:** A wandering bard and trader who deals in stories, songs, and "rare and curious goods." He serves as the party's face and information broker.
 **Key Abilities:** Bardsong (storytelling style), Forked Tongue (potent lies), Story Peddler background (Legends & Tales, Who People Listen To), Trader (Rare & Curious Goods)
 **Relationships:** Playful curiosity with Castor; lowkey doubts about Roderic; deep respect for Garland; connected to Mayliss Vane (Marrow's Assayer Sovereign) and First Aureate Eisen Dorn
-**Current Threads:** Carries the Seal of Unmaking — the case broke during the ritual at the Nodrum and the Whiteglass seal now glows with pulsating new power; the Triune's devices malfunctioned when examining him — Venn observed he stands at the overlap of many circles; the mystery of his unknown father; ruin struck at his core identity — his dreams were drained of inspiration; suggested seeking renewal rather than simply resealing ruin
+**Current Threads:** Carries the Seal of Unmaking — the case broke during the ritual at the Nodrum and the Whiteglass seal now glows with pulsating new power; the Triune's devices malfunctioned when examining him — Venn observed he stands at the overlap of many circles; the mystery of his unknown father; his herald curse — the herald of souring tales — causes stories to twist, reputations to decline, and communication to break down; during the Nodrum ritual his curse erased an unnamed hero from history; well known in Aurelion and wanted alongside the party; knows the layout of Aurelion's underground tunnel network from Captain Dorn
 
 ### Garland yn Greenholt
 **Player:** Jay (regular human faits)
 **Concept:** An extraordinarily old wizard entering his "third act," who carries the Greenholt Bloodline that grants elven features and an extended lifespan. He is a former soldier, accidental lord, and guardian of the Witch Stones. He serves as the party's wise elder and primary spellcaster.
 **Key Abilities:** Spellcraft (Spirit Wall, Phantom Hand, Grasping Gate, Mesmerizing Aura), Joyful Warrior, Old Soldier background (Battlefield intuition), Scion of the Old Blood (Ancient prophecies, Leylines)
 **Relationships:** Complex guardianship of Castor; growing camaraderie with Roderic; lowkey affection for Edric; grandson Aldric rules Crownvale; great-grandchild Rowan perished in Ashbrook; great-great-grandchild Mira calls him "Pappy"
-**Current Threads:** Lost his memory of Mira during the teleportation at the Nodrum — feels an unexplained hollow absence; the Aldric livery mystery resolved as a Harlequin trick but broader questions about Aldric remain; the party are the heralds of ruin — carrying the curse wherever they go; the path forward requires finding the heralds of renewal; previously consulted the Triune about Castor's curse
+**Current Threads:** Lost his memory of Mira during the teleportation at the Nodrum — feels an unexplained hollow absence; the Aldric livery mystery resolved as a Harlequin trick but broader questions about Aldric remain; the party are the heralds of ruin — carrying the curse wherever they go; his herald curse — the herald of forgetting — causes knowledge to be lost and people to forget; wields Second Harvest, a legendary great sword (once called Halcyrax, the Gilded Ruin); the path forward requires finding the heralds of renewal
 
 ### Sir Roderic Lightbearer
 **Player:** Ramsey (feklars)
@@ -60,11 +63,15 @@ Centuries of pent-up ruinous energy were released all at once.
 The Triune identified the party as the heralds of ruin — carrying the curse wherever they go, not through the water.
 Ruin targets each person's core identity: protection (Roderic), knowledge (Garland), inspiration (Edric), creation (Castor).
 The Harlequins — followers of the God of Trickery — revealed they have been following the party since Ashbrook, manipulating events for the Laughing One's entertainment.
+The party witnessed their herald curses devastating the countryside in synergy: a farmer forgot his family, his house crumbled, and no one could believe the truth.
+Count Marrow has issued wanted posters for the party he originally hired.
+The party entered Aurelion covertly through old mine tunnels and breached past Aureate guards at a critical junction leading toward the Chryseum district.
 The path forward requires finding the heralds of renewal; a shrine beneath the Chryseum in Aurelion is their best lead.
 
 **Open Questions:**
 - Who or what is the God of Ruin?
 - Why did Count Albrecht Marrow want the seal broken?
+- Why has Count Albrecht Marrow issued wanted posters for the party he originally hired?
 - How can the curse be stopped? Can restoring the God of Renewal be the true solution?
 - Can the empowered Whiteglass seal be used to reseal the God of Ruin?
 - Were the Whiteglass relics Edric previously collected actually barriers holding back ruin?
@@ -73,6 +80,7 @@ The path forward requires finding the heralds of renewal; a shrine beneath the C
 - What will happen to Crownvale as ruin's influence deepens? (Guards abandoning walls, Sergeant Iyer in despair)
 - What lies in the shrine to the God of Renewal beneath the Chryseum in Aurelion?
 - What happened to the Imperium that even with the Unmaker sealed and Lucifer ascendant, the empire still fell?
+- What is Dorn's awareness of the "threat to the city" and does it relate to the party's mission?
 
 ### Character: Garland yn Greenholt - Uncover the Truth
 **Theme:** Discover the Truth

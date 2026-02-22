@@ -34,6 +34,7 @@ The path forward requires finding the heralds of renewal; a shrine beneath the C
 **Open Questions:**
 - Who or what is the God of Ruin?
 - Why did [[Count Albrecht Marrow]] want the seal broken?
+- Why has [[Count Albrecht Marrow]] issued wanted posters for the party he originally hired?
 - How can the curse be stopped? Can restoring the God of Renewal be the true solution?
 - Can the empowered [[Whiteglass]] seal be used to reseal the God of Ruin?
 - Were the Whiteglass relics [[Edric Bloom|Edric]] previously collected actually barriers holding back ruin?
@@ -42,6 +43,7 @@ The path forward requires finding the heralds of renewal; a shrine beneath the C
 - What will happen to [[Crownvale]] as ruin's influence deepens? (Guards abandoning walls, [[Sergeant Iyer]] in despair)
 - What lies in the shrine to the God of Renewal beneath the Chryseum in [[Aurelion]]?
 - What happened to the [[Imperium Lucis Aeternae|Imperium]] that even with the Unmaker sealed and Lucifer ascendant, the empire still fell?
+- What is Dorn's awareness of the "threat to the city" and does it relate to the party's mission?
 
 **Answered Questions:**
 - **Who was wearing Aldric's livery?** — The Harlequin Jimmy confessed the scraps were planted by the Harlequins as a trick to exploit Garland's paranoia ([[Session 2]])
@@ -53,6 +55,7 @@ The path forward requires finding the heralds of renewal; a shrine beneath the C
 - [[Session 0]] — Party retrieved the [[Seal of Unmaking]] from [[Ashbrook]], releasing the God of Ruin; curse now spreading via the [[Ashen Flow]]
 - [[Session 1]] — Party raced ahead of the cursed river; evacuated the beaver colony; erected a spirit wall at [[Beaver Lake]] (temporary); encountered ruin's influence on ordinary people and on Edric's mind; departed [[Crownvale]] for [[Beaconhold|Beacon Hold]]
 - [[Session 2]] — Party detoured to [[The Nodrum]] seeking help from [[The Triune]]; learned ruin has a counterpart in Renewal; [[The Triune]] confessed to siphoning [[Castor]]'s curse energy; party redirected energy into the [[Whiteglass]] seal but corrupted reality; the party identified as heralds of ruin; Harlequins revealed their manipulation; the Chryseum shrine is the next objective
+- [[Session 3]] — The party witnessed their herald curses devastating the countryside in devastating synergy; [[Count Albrecht Marrow|Marrow]] issued wanted posters for the party; the party entered [[Aurelion]] covertly through old mine tunnels, fought through rock rat ambushes, and breached past Aureate guards at a critical junction leading toward the Chryseum district
 
 **Related Entities:**
 - [[Seal of Unmaking]] — The artifact that imprisoned the God of Ruin; now empowered with ley line energy

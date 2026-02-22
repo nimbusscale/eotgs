@@ -2,7 +2,7 @@
 
 **Purpose:** Filter non-game content and extract structured session data from a prepared transcript, producing a small YAML file that the `incorporate-session` skill can efficiently process.
 
-**Input:** A prepared transcript from `inbox/transcripts/prepared/`
+**Input:** Session number (ingest pipeline runs automatically)
 
 **Output:** A structured YAML file in `inbox/transcripts/extracted/`
 
@@ -12,7 +12,7 @@
 
 ## Workflow
 
-### Step 1 — Parse arguments & discover transcript
+### Step 1 — Parse arguments
 
 `$ARGUMENTS` format:
 ```
@@ -25,21 +25,20 @@
 - Date is optional — if omitted, it will be extracted from the transcript by a subagent.
 - If session number is missing, prompt the user and stop.
 
-List files in `inbox/transcripts/prepared/`.
-Exclude `.gitkeep`.
-If no prepared transcripts exist, report that and stop.
-If multiple prepared transcripts exist, ask the user which one to process.
+### Step 2 — Ingest transcript
 
-### Step 2 — Load chunks
+Run the ingest pipeline to download, prepare, and chunk the transcript:
 
-Check if `inbox/transcripts/chunks/session-{N}-manifest.json` already exists (created by `ingest_transcript.py`).
-
-If not, run the chunker as fallback:
 ```bash
-python3 scripts/chunk_transcript.py --session N --input <prepared-transcript-path>
+python3 scripts/ingest_transcript.py --session {session_number}
 ```
 
-Read the manifest JSON. It contains:
+- If this succeeds, the prepared transcript (`inbox/transcripts/prepared/session-{N}.txt`) and chunk manifest both exist — proceed to Step 3.
+- If it fails, report the error and stop. Common failure: missing `DISCORD_TOKEN` env var.
+
+### Step 3 — Load chunks
+
+Read `inbox/transcripts/chunks/session-{N}-manifest.json`. It contains:
 - `session` — session number
 - `source_transcript` — path to the prepared transcript
 - `total_lines` — total line count
@@ -53,7 +52,7 @@ Read the manifest JSON. It contains:
 
 Also read `config/speaker-map.yaml` for the PC list and transcription corrections (needed for subagent prompts).
 
-### Step 3 — Spawn subagents (one per chunk)
+### Step 4 — Spawn subagents (one per chunk)
 
 Launch one Task subagent per chunk using `subagent_type: "general-purpose"`. Launch as many in parallel as possible (the Task tool supports multiple parallel calls in a single message).
 
@@ -241,7 +240,7 @@ unresolved_references:
 Use empty lists `[]` for categories with no entries. Omit the `session_date` field entirely for chunks other than chunk 0.
 ````
 
-### Step 4 — Consolidate
+### Step 5 — Consolidate
 
 After all subagents complete, read all per-chunk result YAML files:
 `inbox/transcripts/chunks/session-{N}-result-{i}.yaml` for i in 0..chunk_count-1.
@@ -270,7 +269,7 @@ Merge the results across all chunks:
     - **If provided by user:** use it directly as the `recap_teaser` value. Verify it follows narrative voice rules — flag to the user if it doesn't, but do NOT rewrite it.
     - **If not provided:** generate a dramatic 1-2 sentence hook for next session's opening.
 
-### Step 5 — Write final YAML
+### Step 6 — Write final YAML
 
 Write the consolidated data to:
 
@@ -280,7 +279,7 @@ inbox/transcripts/extracted/session-{NUMBER}.yaml
 
 Use the output format defined in the Output Format section below.
 
-### Step 6 — Cleanup & report
+### Step 7 — Cleanup & report
 
 Delete all chunk files and result files from `inbox/transcripts/chunks/` for this session:
 ```bash

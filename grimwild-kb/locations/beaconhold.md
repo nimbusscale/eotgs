@@ -4,7 +4,9 @@
 **First Visited:** [[Session 0]]
 
 ## Description
-A modern city-state kingdom that was once at an apex of power, expanding and absorbing neighboring kingdoms from the fracturing [[Middle Kingdoms]], including [[Aurelion]] (now [[Marrow County]]).
+A modern city-state kingdom that consolidated power through wars, expanding and absorbing neighboring city-states from the fracturing [[Middle Kingdoms]], including [[Aurelion]] (now [[Marrow County]]).
+[[Garland yn Greenholt|Garland]] fought for Beaconhold in these consolidation wars.
+Beaconhold has reached the practical limits of its expansion.
 The kingdom is built around the last known intact [[Farus Lucis]] — a dormant beacon tower that serves as a symbol of ancient connection and inherited legitimacy.
 The [[The Light|Luciferian faith]] is the state religion here — supported but not mandated.
 Other religions are tolerated but not supported, and perhaps frowned upon.

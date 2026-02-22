@@ -11,7 +11,7 @@ Feeds the [[Eastern Rivers]] through deep springs and aquifers.
 Less snow than the [[Cinderwall]] despite being cold.
 Forms the eastern arm of the L-shaped mountain border, contrasting with the wet and volcanic Cinderwall to the south.
 
-## Fortresses and Wards
+## Fortresses
 [[The Light]] maintains fortresses along the Bonewall that have long kept forces of darkness at bay.
 These ancient protective wards are now beginning to crumble as ruin's influence spreads, weakened by the corrupted ritual at [[The Nodrum]].
 

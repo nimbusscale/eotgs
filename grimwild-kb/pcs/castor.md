@@ -22,7 +22,7 @@ Brawn 1, Agility 2, Wits 3, Presence 2
 Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
 He was human during that era but has spent far more time as a beaver, and his human memories have grown muddled, replaced by beaver priorities.
 In human form he appears middle-aged and well preserved; his body did not age while in beaver form.
-He has never had children that he knows of.
+He had taken a vow of celibacy upon first becoming a beaver, not wanting to watch short-lived children grow old and die.
 
 Years and generations ago, Castor was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
@@ -60,8 +60,11 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 **Shapeshifting Notes:**
 All of Castor's animal forms retain subtle beaver characteristics — a beaver tail on a horse, beaver feet on a giraffe.
 His true form is beaver.
-He can shift into various animals (giraffe, horse, mule, etc.) based on his extensive travels.
+He can shift into various animals (giraffe, horse, mule, dog, etc.) based on his extensive travels.
+In dog form he retains obvious beaver features — a flat wide tail and large buck teeth.
 He has traveled across the continent as a beaver, including to regions with savannah climates, giving him knowledge of exotic fauna.
+In animal form he can speak.
+His beaver sense of smell is specialized — excellent for beaver-specific scents like pheromones and territorial markers, but less effective for general tracking.
 
 ## The Beaver Dam
 Castor is connected to a beaver community and a dam on the [[Ashen Flow]] at [[Beaver Lake]] that has stood for 120+ years.
@@ -88,9 +91,12 @@ Not a believer one way or another now.
 - Curiosity about the origin and motive of his original curse
 - [[The Triune]] secretly siphoned energy from his curse to power [[The Xan-Kor|the Aegis Mechanism]] — a betrayal of trust
 - Loyalty to the family who never seemed to remember him
-- The party are the heralds of ruin; ruin targets his core identity as a creator (clockwork servants broke down in his presence)
+- The party are the heralds of ruin; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay, break, and turn to dust
+- Broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat in exchange for intelligence about the tunnels beneath [[Aurelion]]; concern that his druidic curse could be transmitted to offspring
+- Wanted in [[Aurelion]] alongside the rest of the party
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Evacuated the beaver colony at Beaver Lake; rode double with Garland after surrendering his horse to the dire coyotes; stood watch in giraffe form at the fisher's hut
 - [[Session 2]] — Posed as Garland's grandson to hide his identity from [[The Triune]]; experienced involuntary partial reversion toward beaver form when the Nodrum's wards faltered; opened the [[Seal of Unmaking]]'s case during the ritual; tracked acrobat footprints to find the Harlequin Jimmy
+- [[Session 3]] — Shifted into dog form to avoid recognition from wanted posters; scouted the mine tunnels in beaver form; broke his vow of celibacy with [[Tufa]] the rock rat in exchange for tunnel intelligence; took a rock rat bite to the throat, losing his voice; grappled a rat off [[Garland yn Greenholt|Garland]] during the breakthrough

@@ -101,7 +101,7 @@ def main():
     args = parse_args()
 
     # Sync KB sub-entity aliases before anything else
-    sync_aliases_main()
+    sync_aliases_main(argv=[])
 
     run_download = not args.prepare_only
     run_prepare = not args.download_only

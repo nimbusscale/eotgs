@@ -56,6 +56,10 @@ His bardic instrument is storytelling rather than music — he tells short tales
 **Knowledge:**
 He knows about [[Altreth]], a city-state destroyed in a manner similar to [[Ashbrook]] — people who entered aged rapidly and died, and the story itself was "unmade" from memory.
 He knows that [[Whiteglass|whiteglass]] resists ruin.
+He knows the layout of [[Aurelion]]'s underground tunnel network — learned from [[Captain Eisen Dorn]] during a drunken evening of truth-telling games.
+
+**Equipment:**
+Carries adventuring gear including climbing equipment, torches, and an intricate hand crossbow.
 
 ## Relationships
 - [[Castor]] — Playful Curiosity
@@ -70,11 +74,14 @@ He knows that [[Whiteglass|whiteglass]] resists ruin.
 - Previously retrieved [[Whiteglass]] relics for [[Count Albrecht Marrow|Marrow]], described as "curiosities at best" — Roderic theorized each was a barrier weakened one by one until the final seal broke
 - The mystery of his unknown father
 - [[The Triune]]'s devices malfunctioned when examining him; Venn observed he stands at the overlap of many circles — old gods, new faith, curses, counties
-- Ruin struck at his core identity: his dreams were drained of inspiration, replaced by mundane visions
+- His herald curse — the herald of souring tales — causes stories to twist, reputations to decline, deals to go bad, and communication to break down; during the ritual at the Nodrum, his curse erased an unnamed hero from the tale of the Xan-Kor's original defeat
 - Suggested seeking renewal rather than simply resealing ruin — a key strategic shift
 - Has a pragmatic streak regarding Marrow — willing to steal from his collection if it would help
+- Well known in [[Aurelion]]; both [[Captain Eisen Dorn]] and [[Mayliss Vane]] would recognize him
+- Wanted in [[Aurelion]] alongside the rest of the party
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Told the dire coyotes a bardic tale to win passage; sang a melody to assist Garland's spirit wall; distracted Aldric's guards and extracted information from Sergeant Iyer; experienced ruin's influence on his mind in the Crownvale tavern
 - [[Session 2]] — Examined by [[The Triune]]'s devices (which seized on contact); suggested seeking renewal instead of resealing ruin; held a lens during the ritual; ley lines passing through him emerged corrupted; confronted Jimmy about crossing humor lines; glimpsed the Dark Harlequin inside a barrel
+- [[Session 3]] — Recalled the tunnel layout from Dorn's drunken confession; scouted invisible past Aureate guards; killed a rock rat with his hand crossbow; slipped through the guarded door using Garland's illusion as cover

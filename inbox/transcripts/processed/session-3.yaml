@@ -1,0 +1,354 @@
+session_number: 3
+date_played: "2026-02-21"
+source_transcript: "inbox/transcripts/prepared/session-3.txt"
+
+recap_teaser: |
+  Deep in the Nodrum, the Triune delivered a truth no one wanted to hear.
+  The corruption is not in the river.
+  It is not in the soil.
+  It is in you.
+  You are the heralds of ruin, and everywhere you ride, the world rots a little faster.
+  But the sisters offered more than despair.
+  They spoke of a counterpart: a God of Renewal, long absent, whose return might restore the balance shattered when the Seal of Unmaking was broken.
+  And they pointed the way.
+  A forgotten shrine, buried beneath the holiest cathedral in Marrow County — the Chryseum.
+
+  Then came the laughter.
+  A Harlequin named Jimmy confessed that the Laughing One has been watching since Ashbrook.
+  The scraps of Aldric's livery, the paranoia, the feeling of being followed.
+  All of it was entertainment.
+  And the Dark Harlequin, that thing with the checkered face and the mouth full of teeth, sent Garland a vision of children daring each other to leap from the parapets of Aldric's castle.
+  It wanted him to turn back.
+  But old Garland pressed forward, even as something precious began to slip from his memory like water through cupped hands.
+
+  Now the road leads to Aurelion.
+  The seat of Count Marrow's power, where Luminary Severin preaches that storytellers are the enemy and the Aureate enforce his word in tarnished golden armor.
+  Somewhere beneath that cathedral lies a shrine to a god the church buried and forgot.
+  Four plague-carriers, walking into the most heavily guarded city in the county, seeking a forbidden temple beneath the feet of a priest who would see them silenced.
+  What could possibly go wrong?
+
+summary: |
+  The road to Aurelion offered the party their first true glimpse of what they carry.
+  A farmer stood blank-eyed on a dusty path, unable to remember his own wife and child while his farmhouse sagged and splintered behind him.
+  The neighbors could not make anyone believe the truth of what had happened.
+  The party rode past in grim silence, recognizing themselves as the cause — Garland the herald of forgetting, Castor of crumbling foundations, Edric of souring tales, and Roderic, traveling separately, of failing wards.
+
+  Aurelion rose before them: the golden dome of the Chryseum still catching light above a city long past its golden age, Crest Aurelion perched on the hill like a vault rather than a castle, and a countryside of thin fields and abandoned mines.
+  Wanted posters bearing all four of their likenesses lined the road, accusing them of subversion and theft on behalf of Count Marrow.
+  Castor shifted into a dog to hide his face, but Garland proposed a different approach entirely — the old mines beneath the city, whose tunnels Edric had learned about during a drunken evening with Captain Eisen Dorn.
+
+  They entered the mines and descended into darkness, Garland conjuring light and wards while Castor shifted into beaver form to scout.
+  At a fork in the tunnels, Castor caught the unmistakable scent of a beaver in heat — impossibly out of place underground — and followed it to a burrow where he struck a bargain with a rock rat named Tufa, trading his long-held vow of celibacy for intelligence about the tunnels ahead.
+  Tufa warned of undead deeper in the passages and of rock rats that ambush anyone carrying light.
+  Undeterred, the party pressed on with torches lit, ready to face whatever came — and face it they did: rats dropped from the ceiling, wounding Garland through his ancient armor and biting deep into Castor's throat, stealing his voice to a ragged whisper.
+
+  Pressing on, the party discovered a new wooden door guarded by Aureate soldiers — and then watched from the shadows as First Aureate Eisen Dorn himself arrived to replace the idle guards with his best soldiers, warning of a threat to the city.
+  Edric, invisible under Garland's spell, failed to slip through behind Dorn and alerted the new guards.
+  Garland conjured an illusion of glowing rock rats to split the sentries, allowing Edric to finally dart through.
+  When a rock rat attacked from behind, Castor grappled it off Garland, who then stepped from the shadows, conjured a halo of light behind his head, and knocked an elite Aureate guard unconscious with a single blow from Second Harvest — his ancient sword that ignores armor.
+  All three stumbled through the door to rejoin Edric on the far side, battered but alive, one step closer to the shrine of Renewal beneath the Chryseum.
+
+major_events:
+  - description: |
+      As the party rode through the countryside toward Aurelion, the curse of ruin manifested around them.
+      A farmer stood lost on a dusty road, unable to remember his own wife and child who wept behind him.
+      His farmhouse sagged and splintered, its foundations giving way.
+      The neighbors could not convey the truth of the disaster to anyone who would believe them.
+      The party watched in grim silence, recognizing themselves as the cause.
+    entities_involved: ["Garland yn Greenholt", "Edric Bloom", "Castor"]
+    location: "Marrow County"
+  - description: |
+      The party approached Aurelion and took in the city for the first time.
+      The golden dome of the Chryseum dominated the skyline, the last vestige of the city's former wealth as a gold-producing jewel of the Imperium.
+      Crest Aurelion sat atop the hill like a vault rather than a castle.
+      The surrounding countryside showed decline: thin fields, sparse orchards, and a once-grand imperial road now sparsely traveled.
+      Wanted posters bearing all four party members' likenesses lined the road, accusing them of subverting the county and stealing goods on behalf of Count Marrow.
+    entities_involved: ["Garland yn Greenholt", "Edric Bloom", "Castor", "Sir Roderic Lightbearer", "Count Albrecht Marrow"]
+    location: "Aurelion"
+  - description: |
+      Castor shapeshifted into a dog with beaver-like features — a flat wide tail and large buck teeth — to avoid recognition from the wanted posters.
+      Garland proposed entering through the old gold mines rather than the gates, given his distinctive elven features and Edric's notoriety in the city.
+      Edric recalled a drunken evening with Captain Eisen Dorn during which Dorn revealed that beneath Aurelion lay a network of smuggler tunnels through old mines.
+      At a central junction — possibly a shrine or royal passage built by the city's first king — the tunnels branched toward the Chryseum district, Crest Aurelion, and the Gilded Bathhouse.
+      Dorn had warned Edric never to use the tunnels, but Edric remembered every detail.
+    entities_involved: ["Castor", "Garland yn Greenholt", "Edric Bloom", "Captain Eisen Dorn"]
+    location: "Aurelion"
+  - description: |
+      The party entered the mine entrance outside Aurelion.
+      Garland conjured a floating ball of light and wove a protective ward against falling debris.
+      Castor, in dog form, immediately detected heavy recent traffic — the tunnels were not as secret as the Aureate believed.
+      Garland described his signature weapon: a great sword called Second Harvest, originally a legendary blade called Houseracks the Gilded Ruin taken as a spoil of war.
+      He had beaten it into a ploughshare to build his farm, melted out its gold inlay during a harsh winter to feed the vale, and reforged it into a sword when he left home again.
+      Where the gold once lay, the blade now glowed with a sense of dread — the omen that compelled Garland to leave his home.
+    entities_involved: ["Garland yn Greenholt", "Edric Bloom", "Castor"]
+    location: "Aurelion Tunnels"
+  - description: |
+      At a fork in the tunnels, Castor shifted from dog to beaver form.
+      The alluring sweet scent from the right passage transformed into something unmistakable: the pheromone trail of a beaver in heat, exotic and impossible in a mine.
+      Garland cast invisibility on Castor and sent the beaver ahead as a scout.
+      Castor discovered a small hole in the tunnel wall — large enough for a beaver but far too small for a human — where the scent was strongest.
+    entities_involved: ["Castor", "Garland yn Greenholt"]
+    location: "Aurelion Tunnels"
+  - description: |
+      Castor, invisible and in beaver form, encountered a large rock rat named Tufa in a small burrow — a mother of three litters with teeth that could gnaw through stone.
+      Tufa agreed to share intelligence about the tunnels in exchange for Castor's company, a bargain that broke Castor's self-imposed vow of celibacy — one he had held since first being transformed into a beaver, unwilling to watch short-lived children grow old and die.
+      Tufa revealed that undead lurked deeper in the tunnels — people long dead who still walked — and that rock rats ambush anyone carrying light by dropping from ceiling holes.
+    entities_involved: ["Castor"]
+    location: "Aurelion Tunnels"
+  - description: |
+      Rock rats ambushed the party by dropping from the ceiling.
+      Garland stood firm as two rats landed on him, his ancient plate armor absorbing the initial blow as claws tore through buckles and straps.
+      He drew Second Harvest and dispatched both, flinging a dead one into the rat clinging to Castor's throat.
+      A rock rat had sunk its teeth deep into Castor's neck, leaving him barely able to speak above a whisper.
+      Edric spun and killed a rat with his hand crossbow but his leg fell into a burrow hole, leaving him off-balance.
+    entities_involved: ["Garland yn Greenholt", "Castor", "Edric Bloom"]
+    location: "Aurelion Tunnels"
+  - description: |
+      Garland made Edric invisible, and the bard crept forward to scout.
+      He discovered two guards stationed at a barrel near a wooden door — notably made of new wood, not the rotting timber found elsewhere, suggesting an active and maintained passage beyond.
+      Then First Aureate Eisen Dorn emerged from behind the door with two senior guards.
+      He reprimanded the recruits for gambling on duty, warning them of the importance of the location and a potential threat to the city.
+      He replaced them with his best soldiers and sent the recruits to clean latrines.
+    entities_involved: ["Edric Bloom", "Garland yn Greenholt", "Eisen Dorn"]
+    location: "Aurelion Tunnels"
+  - description: |
+      Edric attempted to dart through the door before it closed but slammed against it, alerting the elite guards.
+      Still invisible, he fled back to regroup with Garland and Castor.
+      Garland conjured a glowing illusion of mating rock rats down a side tunnel to lure one guard away.
+      Edric, still invisible, slipped past the remaining guard and lit a torch on the far side of the door.
+    entities_involved: ["Edric Bloom", "Garland yn Greenholt"]
+    location: "Aurelion Tunnels"
+  - description: |
+      A rock rat leapt onto Garland, but Castor launched himself at the creature, grappling it off and driving it away despite taking wounds.
+      Garland stepped from the shadows, conjured a halo of light behind his head, and advanced on the remaining guard.
+      He struck the soldier with the flat of Second Harvest — an enchanted blade that ignores armor — and knocked the guard unconscious with a single blow, though the guard slashed him in return.
+      Garland grabbed Castor and they rushed through the door to rejoin Edric on the other side.
+    entities_involved: ["Garland yn Greenholt", "Castor", "Edric Bloom"]
+    location: "Aurelion Tunnels"
+
+new_entities:
+  npcs:
+    - name: "Tufa"
+      description: |
+        A mother rock rat living in the mine tunnels beneath Aurelion.
+        She has had at least three litters and her teeth can gnaw through solid rock.
+        She provided intelligence about the tunnels — including warnings about undead and rock rat ambush tactics — in exchange for Castor's companionship.
+      first_location: "Mine tunnels beneath Aurelion"
+      notes: "Minor animal NPC. Castor can speak with animals, which enabled the negotiation."
+  locations: []
+  items:
+    - name: "Second Harvest"
+      description: |
+        Garland's signature weapon, a great two-handed sword.
+        Originally a legendary blade called Halcyrax, the Gilded Ruin, taken as a spoil of war in a far-off land.
+        Garland beat it into a ploughshare when he settled in the Ashen Vale, melted out its gold inlay during a harsh winter to feed the vale, then reforged it into a sword when he left home again.
+        Where the gold once lay, the blade now glows with a sense of dread — the omen that drove Garland from the vale.
+        The enchanted weapon ignores armor and has a forceful knockback quality.
+      current_holder: "Garland yn Greenholt"
+  factions: []
+
+entity_updates:
+  - entity: "Garland yn Greenholt"
+    category: "pc"
+    new_info: |
+      Garland fought for Beaconhold during the consolidation wars that absorbed Aurelion and neighboring city-states.
+      As a reward, he was granted a fiefdom in the Ashen Vale, though Beaconhold has never enforced its authority there.
+      He has visited Aurelion many times and knows multiple ways into the city.
+      His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity.
+      He wears ancient plate armor beneath his tattered riding cloak — dusty, rusty, dented, and damaged from centuries of use, clanking as he walks.
+      Despite his age, he proved a formidable combatant — dispatching rock rats with Second Harvest and knocking out an elite Aureate guard in close quarters.
+  - entity: "Edric Bloom"
+    category: "pc"
+    new_info: |
+      Edric is well known in Aurelion; both Captain Eisen Dorn and Mayliss Vane would recognize him.
+      His herald curse — the herald of souring tales — causes stories to twist, reputations to decline, deals to go bad, and communication to break down.
+      During the ritual at the Nodrum, his curse caused the tale of the Xan-Kor's defeat to shift, erasing a well-known but unnamed hero from history entirely.
+      He extracted intelligence about Aurelion's underground tunnel network from Captain Dorn during a drunken evening of truth-telling games.
+      He carries adventuring gear including climbing equipment, torches, and an intricate hand crossbow.
+  - entity: "Castor"
+    category: "pc"
+    new_info: |
+      Castor's herald curse — the herald of crumbling foundations — causes physical structures and objects to decay, break, and turn to dust.
+      He can shapeshift into dog form (retaining beaver features — flat tail, buck teeth) and beaver form (roughly two feet tall).
+      In animal form he can speak.
+      His beaver sense of smell is specialized — excellent for beaver-specific scents like pheromones and territorial markers, but less effective for general tracking.
+      He had taken a vow of celibacy upon first becoming a beaver, not wanting to watch short-lived children grow old and die.
+      He broke this vow by mating with Tufa the rock rat in exchange for intelligence about the tunnels.
+      There is concern his druidic curse could be transmitted to offspring.
+  - entity: "Aurelion"
+    category: "location"
+    new_info: |
+      Aurelion was once a crown jewel of the Imperium, famed for its gold production.
+      The Imperium possessed magical or technological means to extract gold from substrate rock, knowledge lost since the Imperium's fall.
+      When the gold ran out, Aurelion declined into relative unimportance, leaving it vulnerable to Beaconhold's expansion.
+      Garland fought in the war that brought Aurelion under Beaconhold's control.
+      The city's countryside shows decline: thin fields, sparse orchards, and a once-grand imperial road now lightly traveled.
+      The city employs dog catchers to deal with a stray dog problem.
+      The party is wanted in Aurelion: posters accuse them of subverting the county and stealing goods.
+      Beneath the city lies a network of old mine tunnels and smuggler passages, running through abandoned gold mines that honeycomb the ground.
+      Infested with rock rats and prone to cave-ins, the passages are also used by smugglers.
+      A central junction — possibly a shrine or royal passage built by the city's first king — branches toward the Chryseum, Crest Aurelion, and the Mendrath Baths.
+      The Mendrath Baths are a gilded bathhouse built by dwarves, accessible via the tunnels.
+      The Aureate patrol the tunnels but typically assign their lowest-ranking soldiers to the duty, except when the city is on high alert.
+      The Aureate tolerates smugglers in other parts of the tunnels but keeps this junction locked down.
+      Dorn revealed the entrance and layout to Edric during a drinking session; the tunnels are not as secret as the Aureate believes.
+      Tufa the rock rat warned of undead deeper in the passages.
+  - entity: "Crest Aurelion"
+    category: "location"
+    new_info: |
+      Crest Aurelion sits atop the city hill and serves as Count Marrow's seat.
+      It resembles a vault or bank more than a traditional castle, reflecting Aurelion's identity as a gold-producing city.
+      It is accessible via the underground tunnel network from the central junction.
+  - entity: "The Chryseum"
+    category: "location"
+    new_info: |
+      The Chryseum features a massive gold dome that dominates Aurelion's skyline — the last prominent reminder of the city's golden past.
+      The Chryseum district is accessible via the underground tunnel network from the central junction, branching to the left.
+  - entity: "Captain Eisen Dorn"
+    category: "npc"
+    new_info: |
+      Dorn once confided to Edric during a drunken evening that Aurelion's underground is riddled with smuggler tunnels, revealing the entrance location and the layout of the central junction.
+      He warned Edric never to use this knowledge, admitting he felt unusually comfortable confiding in the bard.
+      His once-gilded armor now shows bare steel at stress points, and his fine cloak has been mended multiple times — signs of long service without resupply.
+      His face is lined by sun and worry.
+  - entity: "Beaconhold"
+    category: "location"
+    new_info: |
+      Beaconhold consolidated power through wars, absorbing neighboring city-states including Aurelion.
+      Garland and Castor fought for Beaconhold in these consolidation wars.
+      After the wars, Beaconhold granted Garland a fiefdom in the Ashen Vale but has never enforced its authority there.
+      Beaconhold has reached the practical limits of its expansion.
+  - entity: "The Aureate"
+    category: "faction"
+    new_info: |
+      The Aureate patrol the underground tunnel network beneath Aurelion, assigning their worst soldiers — drunks and those being punished — to general tunnel duty.
+      They are aware of the tunnel network but unable to fully seal it.
+      The critical junction is guarded by elite soldiers under Dorn's direct command.
+  - entity: "Imperium Lucis Aeternae"
+    category: "world"
+    new_info: |
+      Aurelion was one of the Imperium's crown jewels, a major gold producer.
+      The Imperium possessed magical or technological means to extract gold from substrate rock — knowledge lost since its fall.
+  - entity: "Middle Kingdoms"
+    category: "world"
+    new_info: |
+      After the Imperium fell, the Middle Kingdoms existed as allied city-states in relative stability until a period of turmoil brought wars and consolidation.
+      During this turmoil, Beaconhold absorbed its neighbors including Aurelion.
+
+questions_raised:
+  - "Why has Count Marrow issued wanted posters for the party he originally hired?"
+  - "Were the tunnels beneath Aurelion truly built by the city's first king, and what was their original purpose?"
+  - "Could Castor's druidic curse be transmitted to offspring?"
+
+arc_progress:
+  - arc_name: "Curse of Ruin"
+    arc_type: "group"
+    development: |
+      The party witnessed firsthand the devastating synergy of their herald curses: a farmer forgot his family (Garland's curse), his house crumbled (Castor's curse), and no one could believe the truth (Edric's curse).
+      Count Marrow issued wanted posters for all four party members, complicating their mission to reach the shrine of Renewal beneath the Chryseum.
+      The party entered Aurelion covertly through the old mine tunnels, fought through rock rat ambushes, and breached past Aureate guards at a critical junction that leads toward the Chryseum district.
+      Dorn's awareness of a "threat to the city" and his tightened security suggest the Aureate may know something about the dangers the party seeks to address.
+
+notable_quotes:
+  - speaker: "Captain Eisen Dorn"
+    line: "I shouldn't have told you this, but I just feel so comfortable talking to you."
+    context: "After drunkenly revealing the tunnel network beneath Aurelion to Edric."
+  - speaker: "Castor"
+    line: "I took a vow of chastity as soon as I was first transformed into a beaver. I didn't want to live through the pain of watching my children come and die."
+    context: "Explaining to the party why he has never reproduced, prompted by the alluring beaver scent in the tunnels."
+  - speaker: "Garland yn Greenholt"
+    line: "In a far off land it was known as Halcyrax, the Gilded Ruin. When I returned to the Ashen Vale and started my farm, I beat it into a ploughshare. This legendary weapon became my farming implement that I built my farm with."
+    context: "Garland describing the history of Second Harvest before entering the mines."
+  - speaker: "Garland yn Greenholt"
+    line: "My children and their children and their children have been both my greatest sadness and my greatest joy."
+    context: "Garland reflecting on parenthood and outliving descendants, speaking to Castor."
+  - speaker: "Garland yn Greenholt"
+    line: "I've stuck my hand in many strange holes in my long, long years, and sometimes it's rewarding, and sometimes it's not, and the lesson to learn is that you never know until you put your hand in that hole."
+    context: "Garland offering dubious wisdom to Edric about investigating the rock rat burrow."
+  - speaker: "Eisen Dorn"
+    line: "Do you understand how important this place is? We're okay with the smugglers getting through to the other parts of the city, but you can't be here jerking off like this. We think there might be a threat to the city."
+    context: "Dorn reprimanding lazy guards at the mine junction before replacing them with elite soldiers."
+  - speaker: "Edric Bloom"
+    line: "As much as I love an auspicious entrance, I think not showing my face is a pretty good idea for now. I'd rather have to talk my way out of being arrested as few times as possible."
+    context: "Agreeing to enter Aurelion through the mines after seeing the wanted posters."
+
+rules_clarifications: []
+
+filtered_sections:
+  - line_range: "1-60"
+    reason: "GM recap summarizing previous session events."
+  - line_range: "61-110"
+    reason: "GM recap of Harlequin events and meta-discussion about Jimmy."
+  - line_range: "146-167"
+    reason: "Out-of-character discussion about Edric's character sheet changes."
+  - line_range: "233-239"
+    reason: "Out-of-character jokes about AI-generated art."
+  - line_range: "330-528"
+    reason: "Extended rules discussion about shapeshift mechanics, PbtA framework, suspense spending, and system comparisons."
+  - line_range: "615-758"
+    reason: "Extended meta-discussion about Ponder move mechanics, storied knowledge triggers, and Edric's knowledge framing."
+  - line_range: "811-879"
+    reason: "Break discussion, bathroom break, off-topic tangent about food and personal stories."
+  - line_range: "893-899"
+    reason: "Meta discussion about story points and game mechanics."
+  - line_range: "914-965"
+    reason: "Extended rules discussion about spell mechanics, character sheets, and D&D comparisons."
+  - line_range: "1017-1020"
+    reason: "Meta discussion about adventuring gear mechanics."
+  - line_range: "1054-1160"
+    reason: "Extended rules discussion about weapon properties, spell mechanics, armor, and casting limitations."
+  - line_range: "1123-1145"
+    reason: "Meta discussion about adventuring gear justification and ChatGPT references."
+  - line_range: "1302-1400"
+    reason: "Extended meta discussion about shapeshifting rules, beaver vs dog senses, consulting ChatGPT."
+  - line_range: "1558"
+    reason: "Player breaks fourth wall addressing GM about game direction."
+  - line_range: "1643-1655"
+    reason: "Mechanical discussion about rolling at disadvantage."
+  - line_range: "1683-1684"
+    reason: "Off-topic video game reference."
+  - line_range: "1691-1697"
+    reason: "Out-of-character safety tools discussion."
+  - line_range: "1805-1855"
+    reason: "Out-of-character discussion about game mechanics and celibacy vow implications."
+  - line_range: "1857-1871"
+    reason: "Scheduling discussion about whether to continue or wrap up."
+  - line_range: "1937-1977"
+    reason: "Extended mechanical discussion about armor conditions and game system rules."
+  - line_range: "1991-2038"
+    reason: "Extended mechanical discussion about momentum, engage moves, and harm."
+  - line_range: "2055-2067"
+    reason: "Mechanical discussion about the examine move."
+  - line_range: "2104-2113"
+    reason: "Mechanical discussion about disadvantage forward vs ongoing."
+  - line_range: "2200-2205"
+    reason: "Meta joke about GM moves."
+  - line_range: "2217-2248"
+    reason: "Extended mechanical discussion about bardsong removing conditions."
+  - line_range: "2345-2374"
+    reason: "Out-of-character banter about AI artwork and reference images."
+  - line_range: "2376-2377"
+    reason: "GM bathroom break."
+  - line_range: "2386-2400"
+    reason: "Out-of-character jokes about guard helmet images."
+  - line_range: "2402-2415"
+    reason: "Mechanical discussion about spell slots and rolling."
+  - line_range: "2497-2499"
+    reason: "Out-of-character discussion comparing TTRPG systems."
+  - line_range: "2616-2620"
+    reason: "Reference to character from a previous game."
+  - line_range: "2796-3081"
+    reason: "End-of-session wrap-up: XP calculations, drive fulfillment, scheduling, system feedback, and goodbyes."
+
+gm_observations:
+  - "The GM explicitly named each PC's herald curse domain: Roderic = failing wards (protection fails), Edric = souring tales (communication/reputation decays), Garland = forgetting (knowledge lost), Castor = crumbling foundations (physical structures decay). These are ruin-counterparts of each character's core identity."
+  - "The Xan-Kor's reality-shifting during the Nodrum ritual erased an unnamed hero from the tale of the Xan-Kor's original defeat. The GM noted this has had repercussions in the world the party hasn't seen yet — a planted plot hook."
+  - "Aurelion has a stray dog problem with active dog catchers — set up as a complication for Castor in dog form."
+  - "Aurelion is hostile to bards and storytellers, adding pressure on Edric beyond the wanted posters."
+  - "Castor's vow of celibacy and the exotic beaver pheromone create strong dramatic tension — the scent may be a lure or trap specifically targeting a beaver, deeply suspicious given how rare beavers are underground."
+  - "Second Harvest's original name was Halcyrax, the Gilded Ruin — its dread-glow where gold once lay."
+  - "The mine tunnels contain multiple factions and threats — rock rats, undead, guarded passages — suggesting a layered environment with different zones of control."
+  - "Castor's broken vow of celibacy could become a recurring character beat, especially if offspring inherit his druidic curse. The GM confirmed this is 'certainly a possibility now.'"
+  - "Dorn is aware of a potential threat to the city and has tightened security — this could complicate the party's efforts to reach the shrine beneath the Chryseum."
+  - "The party's route through the mines was player-driven and unplanned by the GM, who admitted not expecting them to go through the mines."
+  - "Players found the system more intuitive by session 3; the GM felt more comfortable running it."

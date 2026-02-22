@@ -31,3 +31,5 @@ He and [[Edric Bloom]] met when Edric successfully talked down a group of peasan
 
 ## Key Events
 - Witnessed [[Edric Bloom]] talk down peasants protesting a grain tax
+- Confided to [[Edric Bloom|Edric]] during a drunken evening that [[Aurelion]]'s underground is riddled with smuggler tunnels, revealing the entrance location and the layout of the central junction; warned Edric never to use this knowledge, admitting he felt unusually comfortable confiding in the bard
+- [[Session 3]] — Arrived at the guarded tunnel junction to replace idle guards with elite soldiers, warning of a threat to the city; tightened security at the critical passage leading toward the Chryseum district

@@ -30,3 +30,11 @@ Who this champion was, what they achieved, and whether their erasure contributed
 [[The Light]] has maintained fortresses along the [[Bonewall]] to keep "forces of darkness" at bay.
 These wards are now crumbling as ruin's influence spreads.
 What these forces of darkness are and whether they are connected to the old gods is unexplored.
+
+## The Tunnels Beneath Aurelion
+**Source:** [[Session 3]]
+**Related:** [[Aurelion]], [[Imperium Lucis Aeternae]]
+
+The underground tunnel network beneath [[Aurelion]] runs through abandoned gold mines that honeycomb the ground.
+A central junction may have been a shrine or royal passage built by the city's first king.
+The tunnels' original purpose, their connection to the Imperium's lost gold-extraction technology, and what else lies buried in the depths are all unexplored.

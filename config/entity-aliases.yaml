@@ -30,6 +30,7 @@ characters:
   "Eisen Dorn": "captain-eisen-dorn"
   "Captain Dorn": "captain-eisen-dorn"
   "Dorn": "captain-eisen-dorn"
+  "Tufa": "tufa"
   "Luminary Severin Morrow": "luminary-severin-morrow"
   "Severin Morrow": "luminary-severin-morrow"
   "Severin": "luminary-severin-morrow"
@@ -40,6 +41,7 @@ characters:
   "Aurea": "triune"
   "Venn": "triune"
   "Delta": "triune"
+  "Appearance": "captain-eisen-dorn"
 
 locations:
   "Beaconhold": "beaconhold"
@@ -63,6 +65,9 @@ locations:
   "The Nodrum": "nodrum"
   "Nodrum": "nodrum"
   "Nexarium": "nodrum"
+  "Aurelion Tunnels": "aurelion"
+  "Mendrath Baths": "aurelion"
+  "The Mendrath Baths": "aurelion"
   "Aurelion Vault": "nodrum"
   "The Chryseum": "aurelion"
   "Chryseum": "aurelion"
@@ -70,6 +75,8 @@ locations:
   "The Fall of Altreth": "altreth"
   "The Great Beaver Dam": "ashen-flow"
   "Upper Ashen Flow": "ashen-flow"
+  "Fortresses and Wards": "bonewall"
+  "Fortresses": "bonewall"
 
 items:
   "Seal of Unmaking": "seal-of-unmaking"
@@ -80,7 +87,12 @@ items:
   "Whiteglass": "whiteglass"
   "The Xan-Kor": "xan-kor"
   "Xan-Kor": "xan-kor"
+  "Second Harvest": "second-harvest"
+  "Halcyrax": "second-harvest"
+  "Halcyrax, the Gilded Ruin": "second-harvest"
+  "The Gilded Ruin": "second-harvest"
   "Aegis Mechanism": "xan-kor"
+  "The Ritual at the Nodrum": "seal-of-unmaking"
 
 factions:
   "The Light": "the-light"

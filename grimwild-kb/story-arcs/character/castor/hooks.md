@@ -16,3 +16,11 @@ The means and motive behind the curse are still to be decided.
 Castor's family never seemed to remember him after he was cursed.
 His loyalty to them persists despite this.
 What happened to his family line, and why they forgot him, is unresolved.
+
+## Castor's Offspring
+**Source:** [[Session 3]]
+**Related:** [[Castor]], [[Tufa]]
+
+[[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
+He had avoided reproduction since becoming a beaver, unwilling to watch short-lived children grow old and die.
+Whether his druidic curse can be transmitted to offspring is an open question that could become a recurring character thread.

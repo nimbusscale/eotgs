@@ -11,6 +11,7 @@ Think of it as analogous to Rome.
 ## History
 The Imperium was a vast empire that spanned the land.
 Remnants of its glory — roads, ruins, towers — still dot the landscape.
+[[Aurelion]] was one of the Imperium's crown jewels, a major gold producer; the Imperium possessed magical or technological means to extract gold from substrate rock — knowledge lost since its fall.
 The empire eventually fell, leading to a "dark ages" period.
 [[Castor]] lived as a human during the transitionary period of the Imperium's fall.
 

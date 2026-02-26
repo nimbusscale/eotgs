@@ -19,6 +19,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 KB_DIR = REPO_ROOT / "grimwild-kb"
 SITE_DIR = REPO_ROOT / "site"
 CONTENT_DIR = SITE_DIR / "content"
+CONTENT_SRC_DIR = REPO_ROOT / "content"
 SITE_CONFIG_DIR = Path(__file__).resolve().parent / "site-config"
 ALIASES_FILE = REPO_ROOT / "config" / "entity-aliases.yaml"
 INDEX_SOURCE = REPO_ROOT / "exports" / "campaign-index.md"
@@ -159,8 +160,75 @@ def build_content(alias_map):
     return copied, warnings
 
 
+def extract_pc_cards():
+    """Read PC files and build character card markdown blocks.
+
+    Extracts the title and concept section from each PC file.
+    Returns a single markdown string with all cards.
+    """
+    pcs_dir = KB_DIR / "pcs"
+    if not pcs_dir.exists():
+        return ""
+
+    cards = []
+    for pc_file in sorted(pcs_dir.glob("*.md")):
+        text = pc_file.read_text(encoding="utf-8")
+
+        # Extract title from first heading
+        title = extract_title(text)
+        if not title:
+            title = slugname_to_title(pc_file.stem)
+
+        # Extract concept section — lines between ## Concept and the next ##
+        concept_match = re.search(
+            r"^## Concept\n(.+?)(?=\n## |\Z)", text, re.MULTILINE | re.DOTALL
+        )
+        concept = concept_match.group(1).strip() if concept_match else ""
+
+        card = f"### [[{title}]]\n{concept}"
+        cards.append(card)
+
+    return "\n\n".join(cards)
+
+
+def copy_site_content():
+    """Copy content/*.md (except home.md) to site/content/, injecting frontmatter."""
+    if not CONTENT_SRC_DIR.exists():
+        return 0
+
+    copied = 0
+    for md_file in CONTENT_SRC_DIR.glob("*.md"):
+        if md_file.name == "home.md":
+            continue
+
+        text = md_file.read_text(encoding="utf-8")
+        title = extract_title(text) or slugname_to_title(md_file.stem)
+        text = inject_frontmatter(text, title, [], None)
+
+        dest = CONTENT_DIR / md_file.name
+        dest.write_text(text, encoding="utf-8")
+        copied += 1
+
+    return copied
+
+
 def create_index():
-    """Copy campaign-index.md as the landing page."""
+    """Build the landing page from content/home.md with character cards.
+
+    Falls back to campaign-index.md if content/home.md doesn't exist.
+    """
+    home_src = CONTENT_SRC_DIR / "home.md"
+    if home_src.exists():
+        text = home_src.read_text(encoding="utf-8")
+        # Replace character cards placeholder
+        cards = extract_pc_cards()
+        text = text.replace("<!-- CHARACTER_CARDS -->", cards)
+        title = extract_title(text) or "Echoes of the Godstorm"
+        text = inject_frontmatter(text, title, [], None)
+        (CONTENT_DIR / "index.md").write_text(text, encoding="utf-8")
+        return True
+
+    # Fallback: use campaign-index.md
     if not INDEX_SOURCE.exists():
         print(f"Warning: {INDEX_SOURCE} not found, skipping index generation")
         return False
@@ -237,9 +305,15 @@ def main(argv=None):
     copied, warnings = build_content(alias_map)
     print(f"Copied {copied} files to {CONTENT_DIR.relative_to(REPO_ROOT)}")
 
+    # Copy hand-authored site content
+    content_copied = copy_site_content()
+    if content_copied:
+        print(f"Copied {content_copied} content files from content/")
+
     # Create landing page
     if create_index():
-        print("Created index.md from campaign-index.md")
+        src = "content/home.md" if (CONTENT_SRC_DIR / "home.md").exists() else "campaign-index.md"
+        print(f"Created index.md from {src}")
 
     # Create Session 0 stub
     create_session_zero_stub()

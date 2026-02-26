@@ -102,13 +102,21 @@ def disambiguate_hooks_title(rel_path):
     return "Story Hooks"
 
 
-def inject_frontmatter(text, title, aliases, tag):
+def extract_date_played(text):
+    """Extract the date from a **Date Played:** line, if present."""
+    m = re.search(r"\*\*Date Played:\*\*\s*(\d{4}-\d{2}-\d{2})", text)
+    return m.group(1) if m else None
+
+
+def inject_frontmatter(text, title, aliases, tag, date=None):
     """Prepend YAML frontmatter to markdown content."""
     fm = {"title": title}
     if aliases:
         fm["aliases"] = aliases
     if tag:
         fm["tags"] = [tag]
+    if date:
+        fm["date"] = date
 
     fm_str = yaml.dump(fm, default_flow_style=False, allow_unicode=True, sort_keys=False).strip()
     return f"---\n{fm_str}\n---\n\n{text}"
@@ -146,8 +154,11 @@ def build_content(alias_map):
         # Get tag from directory
         tag = resolve_tag(rel)
 
+        # Extract date for session files
+        date = extract_date_played(text) if tag == "session" else None
+
         # Inject frontmatter
-        text = inject_frontmatter(text, title, aliases, tag)
+        text = inject_frontmatter(text, title, aliases, tag, date)
 
         dest.write_text(text, encoding="utf-8")
         copied += 1
@@ -239,21 +250,6 @@ def create_index():
     return True
 
 
-def create_session_zero_stub():
-    """Create a stub for Session 0, which is referenced but has no file."""
-    stub = (
-        "# Session 0\n\n"
-        "Session 0 covers character creation and the backstory established "
-        "before the campaign began.\n"
-        "Events referenced from Session 0 are woven into character histories "
-        "and early story hooks.\n"
-    )
-    stub = inject_frontmatter(stub, "Session 0", ["Session 0"], "session")
-    dest = CONTENT_DIR / "sessions" / "session-0.md"
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(stub, encoding="utf-8")
-
-
 def bootstrap_quartz():
     """Clone Quartz and apply our customizations if site/ doesn't exist."""
     if (SITE_DIR / "package.json").exists():
@@ -314,10 +310,6 @@ def main(argv=None):
     if create_index():
         src = "content/home.md" if (CONTENT_SRC_DIR / "home.md").exists() else "campaign-index.md"
         print(f"Created index.md from {src}")
-
-    # Create Session 0 stub
-    create_session_zero_stub()
-    print("Created session-0.md stub")
 
     # Print warnings
     if warnings:

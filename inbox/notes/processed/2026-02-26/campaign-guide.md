@@ -40,7 +40,7 @@ The New Gods didn't just offer an alternative to the Old — they actively displ
 
 The suppression worked through a combination of forces. The New Gods fought and sealed the emanations directly — decisive battles where Lucifer's champions and the champions of other New Gods confronted the physical manifestations of the Old. Meanwhile, mortal worship shifted en masse toward the New Gods, weakening the Old Gods' natural influence. As worship declined, the Old Gods became more dependent on their emanations — and as those were sealed, the Old Gods were doubly diminished. Some mortals still kept the old ways, but they became marginal.
 
-The emanations, like the Old Gods themselves, cannot be destroyed. They can only be contained, buried, sealed. The Xan-Kor was sealed in the Aurelion Vault (now the Nodrum) after Lucifer's champion defeated it in a decisive battle — a battle made possible because the God of Forgetting's power had already waned as its worshippers turned to the New Gods.
+The emanations, like the Old Gods themselves, cannot be destroyed. They can only be contained, buried, sealed. The Xan-Kor was sealed in the Eurulian Vaults (now the Nodrum) after Lucifer's champion defeated it in a decisive battle — a battle made possible because the God of Forgetting's power had already waned as its worshippers turned to the New Gods.
 
 There was a shared arrogance in this — across the New Gods, good and evil alike. All of them believed they could replace the natural order with something better, something more controlled. Lucifer thought sealing Ruin wouldn't affect anything else. But without Ruin, Renewal had no counterpart and went dormant on its own. Without the old god of natural death, the cycle of dying was replaced by something harsher. Every suppression created an imbalance, and those imbalances have been compounding for centuries.
 
@@ -70,19 +70,6 @@ Now that Ruin is free and Renewal stirs, the Old Gods' domains are reasserting t
 
 **The nature of the threat:** The Old Gods don't hate humanity. They don't notice humanity. An emanation waking beneath the Ashen Vale is like an earthquake — it doesn't care about the town on top of it. The Xan-Kor erases things from existence because that's what it does, not because it wants to. The danger is impersonal, geological, elemental. You can't negotiate with a landslide.
 
-**What stories come from this layer:**
-
-- Emanations stirring beneath the earth, threatening regions and civilizations
-- Old God followers emerging from hiding as their patrons regain influence
-- The natural world behaving strangely — cycles resuming that haven't turned in centuries
-- Ancient sites, artifacts, and constructs reactivating
-- Moral questions about whether the Old Gods *should* be restored — they're necessary, but their return is devastating
-- The tension between the old natural order and the civilization mortals built to escape it
-- The Xan-Kor and similar instruments operating on logic that doesn't account for mortal lives
-- What caused the Godstorm in the first place — and whether the same forces are at work again
-- Castor's druidic nature and connection to these forces
-- Garland's magic drawn from an Old God entity he didn't know about
-
 ### The New Gods
 
 The world waking up destabilizes the New Gods as much as anyone. Whatever rival lurks beyond the Bonewall tests the Light's wards and fortifications along the range. The Light's institutional foundations crack as the erased champion leaves gaps in their history and theology. The New Gods are not unified — their rivalries with each other are as dangerous as anything the Old Gods might do. And the open question of how mortals became gods in the first place hangs over everything — especially now that Renewal makes new things possible again.
@@ -91,19 +78,6 @@ If Lucifer returns, that changes everything. But so does Lucifer *not* returning
 
 **The nature of the threat:** Unlike the Old Gods, the New Gods have *intentions*. Whatever rival waits beyond the Bonewall wants something. Lucifer wanted something. Their conflicts play out through armies, churches, politics, and believers. This layer is about war, faith, institutions, and power — divine conflict filtered through mortal structures.
 
-**What stories come from this layer:**
-
-- The Light's fortifications along the Bonewall weakening, and whatever rival New God waits beyond pushing through
-- The Light fracturing as its history unravels — factions, schisms, inquisitions
-- Rivalries between New Gods spilling into the mortal world — their followers, armies, and agendas clashing
-- Evil New Gods exploiting the chaos — seizing territory, converting followers, filling power vacuums
-- Mortal institutions that depend on the New Gods (kingdoms, armies, churches) losing their foundations or being weaponized
-- Roderic's faith tested, challenged, and potentially redefined
-- The question of where Lucifer went and whether Lucifer can or should return
-- How mortals became New Gods — and whether it could happen again
-- The original purpose of the New Gods (mortal champions) versus what they've become (a power bloc with their own agenda)
-- Edric's position at the "overlap of many circles" between old and new divine orders
-- Political and military crises driven by divine-level conflict
 
 ### The Mortals
 
@@ -114,43 +88,3 @@ When the world wakes up, that inertia breaks. Renewal doesn't just affect gods a
 This is a renaissance and a crisis simultaneously. The stagnation was suffocating, but it was stable. What replaces it is alive but unpredictable.
 
 **The nature of the threat:** Mortal conflicts are personal, political, and immediate. Lords scheme for advantage. Military commanders struggle to hold order. Religious authorities enforce orthodoxy while the ground shifts beneath them. The crown must respond to crises it doesn't understand. Refugees flee dangers that didn't exist a month ago. Trade routes become unsafe. Alliances shift.
-
-**What stories come from this layer:**
-
-- Political intrigue — lords jockeying for advantage, religious authorities tightening control, the crown's weakness exposed
-- Diplomacy between factions, kingdoms, and power brokers
-- Communities dealing with change — some embracing renewal, some resisting it
-- The party's personal relationships tested by shifting circumstances (Aldric, Mira, Dorn, the Triune)
-- Allies and enemies turning out to be something other than what they appeared
-- Economic disruption as old trade networks break and new ones form
-- Refugee crises, border disputes, succession conflicts
-- The human cost of divine conflict — ordinary people caught in extraordinary events
-- The players' own drives, backgrounds, and relationships
-
----
-
-## How the Layers Interact
-
-The three layers are not separate — they overlap and compound each other.
-
-- The Light's wards along the Bonewall fail (New Gods) → refugees flood the Eastern Rivers (Mortals) → displaced communities settle near Witch Stone sites (Old Gods) → the emanation stirs faster
-- The Light fractures (New Gods) → Aldric loses his legitimacy in Crownvale (Mortals) → without maintained wards, an Old God site in the vale goes uncontained (Old Gods)
-- An emanation stirs beneath the Ashen Vale (Old Gods) → Crownvale is destroyed (Mortals) → the New Gods' faithful demand action, accelerating divine conflict (New Gods)
-
-Any story arc can touch multiple layers. The best ones will.
-
----
-
-## Why the Player Characters Matter
-
-The PCs are not chosen ones. They are the people who were *there* — at every intersection point, touching every layer.
-
-- **They broke the seal** that freed Ruin and set the whole chain in motion
-- **They will restore Renewal**, completing the catalyst that wakes the world
-- **They were at the Nodrum** when the Xan-Kor nearly broke free and the champion was erased
-- **They carry the herald curses**, giving them firsthand understanding of the Old Gods' power
-- **They have relationships across every layer** — Roderic in the Light, Garland in the old world, Edric between circles, Castor in the natural order
-
-No one else has the full picture. Plenty of people are more powerful — gods, kings, armies. But the party is the only group that understands what's actually happening across all three layers. That understanding is their real power.
-
-And they are becoming something more. The stagnation robbed the world of its capacity to produce heroes of legend — the kind of figures who once sealed emanations and shaped the course of history. Renewal is restoring that capacity, and the PCs are the first to benefit. They are not yet the equal of Lucifer's erased champion, but they are on that trajectory. The campaign is, in part, the story of ordinary people becoming extraordinary — not through prophecy, but through being in the right place, making hard choices, and growing into what the world needs them to be.

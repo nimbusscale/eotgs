@@ -3,8 +3,85 @@
 **Date Played:** 2026-01-24
 
 ## Recap-Teaser
-> Behind them, Ashbrook crumbles to dust. Before them, a cursed river
-> races toward the Great Beaver Dam — and beyond it, everything they love.
+> Behind you, Ashbrook dies.
+> What stands now — what falls now — the old tongues would call Eld Ashara: the place of unmaking.
+> Stone groans and splits.
+> Timber blackens without fire, crumbling as if centuries pass in moments.
+> A bell tower folds in on itself with a sound like breaking bones.
+>
+> The air tastes of ash and something wrong.
+> Not rot — rot is natural.
+> This is the absence of what held things together.
+>
+> The warded box sits heavy in your pack, sealed tight, humming with contained wrongness.
+> When you placed that whiteglass disc upon it — the Seal of Unmaking, resting on its altar above the underground spring — the wards held.
+> And then the world lurched.
+> Whatever was in that seal is out now.
+> You set it free.
+>
+> Below the ruins, the spring continues to flow — but the water carries something with it now.
+> Where it touches, things fail.
+> Trees along the banks curl inward, bark cracking and peeling.
+> Stones fracture.
+> A wooden footbridge sags and splits as you watch.
+> The curse moves with the current.
+> Slow. Patient. Inexorable.
+>
+> And downstream — perhaps a day's hard travel — lies the great beaver dam.
+> Castor, you know this place.
+> Your kin built it.
+> It has stood longer than living memory, filtering the murk of the upper waters, letting only clean water flow into the Ashen Vale below.
+>
+> Garland, beyond that dam lies Crownvale — your grandson Aldric's seat.
+> And you received word from Rowan just weeks ago, settling here in Ashbrook.
+> She wrote of strange stonework that changed by night, of water that tasted too sweet, of fish that wouldn't linger in the shallows.
+> She is gone now — dust and silence, like everyone else who called this place home.
+>
+> Count Marrow sent you to retrieve a "rare but unremarkable" whiteglass relic.
+> He gave you a warded box you'd never seen on previous commissions.
+> He offered coin that was too generous and asked too few questions.
+>
+> Edric, you took the job — certainty of coin over uncertainty of consequence.
+> Marrow knew exactly what he was sending you for.
+> The Seal of Unmaking, the relic of Altreth, the disc that sat on an altar while a city collapsed around it.
+>
+> Roderic, you know the scriptures.
+> The Unmaker — demon of decay, entropy given malevolent will.
+> The Light drove it into shadow in the early days of the Imperium, sealing it away so civilization could flourish.
+> It is one of the Church's great victories, proof that the wards hold, that darkness can be contained.
+> And yet.
+> The Imperium still fell.
+> Even with the Unmaker sealed, even with the Light ascendant, the god-emperor's domain crumbled to dust and memory.
+> The priests don't dwell on that part.
+> They speak of the sealing as triumph, not as... what? A delay? A wound that festered elsewhere?
+> If the Unmaker walks free now, what fate befalls the kingdoms that remain?
+>
+> But Garland, you've lived long enough to know the priests don't have all the answers.
+> You've seen traditions they've forgotten.
+> And Castor, you've been something outside of human faith entirely.
+> The beaver knows nothing of gods — but knows that autumn follows summer, that nothing is permanent, that endings make room for beginnings.
+> In the old traditions, they called this force the Gentle Collapse.
+> Not a demon, but a necessity.
+> Perhaps the Luciferians locked away something never meant to be caged.
+> Perhaps centuries in a whiteglass prison drove it mad.
+> Perhaps it no longer remembers how to be gentle.
+>
+> You stand on the mountainside.
+> Eld Ashara crumbles behind you.
+> The cursed river spreads below.
+> Marrow used you.
+> The why can wait.
+> The dam cannot.
+>
+> If you move fast — racing the current through the Cinderwall — you might reach it first.
+> You might warn them.
+> You might hold the line.
+> Or you might learn that some things, once freed, cannot be stopped.
+>
+> The Light teaches that some things must be preserved at any cost.
+> The old ways whisper that some things must be allowed to end.
+> You stand between them now, whether you meant to or not.
+> What do you do?
 
 ## Summary
 The party stood on the mountainside above the ruins of [[Ashbrook]] — once called [[Eld Ashara|Ashbrook]], the Place of Unmaking — watching the town collapse into decay behind them.

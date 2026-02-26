@@ -1,5 +1,3 @@
-# Echoes of the Godstorm
-
 *A Chasing Adventure campaign of ancient curses, warring gods, and reluctant heroes.*
 
 ## The World

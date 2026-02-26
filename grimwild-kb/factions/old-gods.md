@@ -7,6 +7,7 @@
 The Old Gods are the pre-Luciferian divine forces that once governed the natural cycles of the world.
 They were not worshipped in the Luciferian sense — they were acknowledged, honored in their proper time.
 None of them are evil; they are forces of nature, each governing a necessary part of existence.
+Where an Old God's nature concentrates, it can produce emanations — physical manifestations of divine force in the world (see [[Old Gods and New Gods]]).
 
 For a broader history of the old religion and its suppression, see [[Old Gods and New Gods]].
 
@@ -81,8 +82,8 @@ Some operate openly in the wilds; others hide within cities.
 ## The God of Forgetting
 
 A newly revealed Old God whose domain encompasses letting go, removal of memory, and erasure of existence.
-Created [[The Xan-Kor]] during the wars between old gods in the first age, before humanity.
-The old gods commanded mythical armies during these wars.
+Its primary emanation is [[The Xan-Kor]] — a physical manifestation of the God of Forgetting's power that emerged during the [[Old Gods and New Gods|Godstorm]].
+The old gods commanded mythical armies and their emanations clashed during these wars.
 The Xan-Kor can erase things from existence by removing them backward through time.
 
 ## The God of Trickery
@@ -145,5 +146,7 @@ Mix both for unsettling effect.
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
 
 ## Notes
-The Old Gods existed in balance — they weren't at war with each other, they were parts of a whole.
+For most of history, the Old Gods existed in tension with each other — sometimes balanced, sometimes in conflict.
+That tension was the natural order.
 No force was rejected, because all were necessary.
+Eventually the balance broke down entirely in the event known as the [[Old Gods and New Gods|Godstorm]], which threatened mortal civilization and catalyzed the rise of the New Gods.

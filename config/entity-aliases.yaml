@@ -34,8 +34,8 @@ characters:
   "Luminary Severin Morrow": "luminary-severin-morrow"
   "Severin Morrow": "luminary-severin-morrow"
   "Severin": "luminary-severin-morrow"
-  "Lucifer": "lucifer"
-  "The Radiant One": "lucifer"
+  "Lucifer": "the-light"
+  "The Radiant One": "the-light"
   "The Triune": "triune"
   "Triune": "triune"
   "Aurea": "triune"
@@ -76,6 +76,7 @@ locations:
   "Upper Ashen Flow": "ashen-flow"
   "Fortresses and Wards": "bonewall"
   "Fortresses": "bonewall"
+  "Eurulian Vaults": "nodrum"
 
 items:
   "Seal of Unmaking": "seal-of-unmaking"
@@ -116,6 +117,8 @@ factions:
   "Dark Harlequin": "old-gods"
   "The Aureate": "the-light"
   "Aureate": "the-light"
+  "The Fallow One": "old-gods"
+  "The Wild Hunt": "old-gods"
 
 world:
   "Imperium Lucis Aeternae": "imperium-lucis-aeternae"
@@ -131,3 +134,9 @@ world:
   "The Modern Era": "middle-kingdoms"
   "The Suppression": "old-gods-and-new-gods"
   "What Was Lost": "old-gods-and-new-gods"
+  "The Godstorm": "old-gods-and-new-gods"
+  "Godstorm": "old-gods-and-new-gods"
+  "Emanations": "old-gods-and-new-gods"
+  "New Gods": "old-gods-and-new-gods"
+  "The New Gods": "old-gods-and-new-gods"
+  "The Stagnation": "old-gods-and-new-gods"

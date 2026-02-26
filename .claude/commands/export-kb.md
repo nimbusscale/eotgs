@@ -77,9 +77,18 @@ Write `exports/campaign-index.md` following this structure:
 - One sentence per line for all narrative prose
 - Do NOT include an "Export Files" section (RAG handles finding other files)
 
-### Step 4 — Report summary
+### Step 4 — Publish website
+
+Build and deploy the KB as a searchable website:
+
+```bash
+bash scripts/publish_site.sh
+```
+
+### Step 5 — Report summary
 
 After all files are generated, report the complete summary:
 - Include the summary table from Step 1
 - Add campaign-index.md with its size
 - Note total export size and any issues
+- Include the website URL from the publish step

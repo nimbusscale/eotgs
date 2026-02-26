@@ -36,8 +36,7 @@ python scripts/ingest_transcript.py --session N
 - `/extract-session` - Filter non-game content from prepared transcripts, output structured YAML
 - `/incorporate-session` - Process extracted YAML into KB files, create/update entities
 - `/incorporate-notes` - Incorporate planning notes from Claude Mobile sessions
-- `/export-kb` - Generate consolidated export files for Claude Project Knowledge
-- `/publish-kb` - Build and deploy the KB as a searchable website
+- `/export-kb` - Generate consolidated export files for Claude Project Knowledge, then build and deploy the website
 
 ## Architecture
 

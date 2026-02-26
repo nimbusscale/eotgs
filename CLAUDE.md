@@ -37,6 +37,7 @@ python scripts/ingest_transcript.py --session N
 - `/incorporate-session` - Process extracted YAML into KB files, create/update entities
 - `/incorporate-notes` - Incorporate planning notes from Claude Mobile sessions
 - `/export-kb` - Generate consolidated export files for Claude Project Knowledge
+- `/publish-kb` - Build and deploy the KB as a searchable website
 
 ## Architecture
 
@@ -51,6 +52,7 @@ python scripts/ingest_transcript.py --session N
 - `templates/` - Markdown templates for each entity type
 - `knowledge/` - Grimwild game system reference material
 - `review/` - Conflicts and questions flagged for human review
+- `site/` - Quartz static site generator (content/ and public/ are gitignored, built by `/publish-kb`)
 
 ### Key Configuration Files
 

@@ -1,0 +1,495 @@
+session_number: 4
+date_played: "2026-03-07"
+source_transcript: "inbox/transcripts/prepared/session-4.txt"
+
+recap_teaser: |
+  Beneath the Chryseum, a cocoon of light holds the sleeping God of Renewal — and the heralds felt its pull like a half-remembered prayer.
+  But the missing piece is Count Marrow himself, and the Eclipse Sword has come to drag him away in chains.
+
+summary: |
+  Beneath the Chryseum in Aurelion, Roderic languished in a church dungeon — captured by the Aureate after sending a Luciferian priest to carry word to Beaconhold about the return of the old gods and Count Marrow's corruption.
+  The dungeon held dozens of prisoners: bards, performers, and suspected followers of the Laughing One, all imprisoned under Luminary Severin's orders.
+  Garland and Castor tracked Captain Dorn through the tunnels to find Roderic, and Castor shapeshifted into a mouse — retaining beaver-like features from his imperfect transformation — to steal the guards' keys.
+  In the chaos that followed, Harlequin prisoners were freed and promptly ordered back into their cells by Roderic's divine decree, while Garland shattered a guard's sword with Second Harvest.
+  The party reunited, though Edric remained missing, having vanished while under an invisibility spell during the approach through the tunnels.
+
+  After barricading the cell block, the party emerged into the Chryseum's grand nave, where signs of both ruin and renewal manifested simultaneously: cracks formed in the stone while moss pushed up through the fractures, and torches dimmed before reigniting with a soft white holy light.
+  Dawnwarden Brenn and her Order of the First Dawn confronted them, but Roderic negotiated passage by invoking his honor as a Luciferian knight.
+  Brenn shared a radical theology — that Lucifer's suppression of ruin centuries ago had caused renewal to go dormant, leading to an age of stagnation with civilizations crumbling and nothing rising to replace them.
+
+  Luminary Severin Morrow then appeared and revealed the truth the party had been seeking: the Morrow family have been secret worshippers of renewal for generations, and he, his father Count Marrow, and Dawnwarden Brenn may be the heralds of renewal — the counterparts to the party's heralds of ruin.
+  He opened a hidden spiral staircase beneath the Chryseum floor, leading the party down into an ancient, pre-Luciferian chamber where a translucent cocoon held the sleeping form of the God of Renewal.
+  The heralds felt an interlocking connection — like puzzle pieces drawn together — but the pattern was incomplete; they needed Count Marrow to complete the balance.
+  Garland's spellbook responded to the residual renewal energy, its pages growing slightly stronger, offering the first real hope that his lost knowledge could be recovered.
+  As the combined heralds traveled back through the tunnels, a fragile equilibrium emerged — cracks sealed, moss grew to fill gaps — proof that ruin and renewal could coexist.
+  Yet as they emerged near Crest Aurelion to retrieve Marrow, they discovered the Eclipse Sword, the Church of Lucifer's own military order, had arrived to arrest the very man they needed most.
+
+major_events:
+  - description: |
+      Before his capture, Roderic found a Luciferian priest in Aurelion and relayed critical intelligence: the God of Ruin has been unleashed, the old gods' seals are failing, the God of Trickery is also loose, and Count Marrow has been corrupted by ruin.
+      He asked the priest to bypass Luminary Severin and send word directly to the main church at Beaconhold, requesting reinforcements.
+    entities_involved: ["Sir Roderic Lightbearer", "Luminary Severin Morrow", "Count Albrecht Marrow"]
+    location: "Aurelion"
+  - description: |
+      Roderic was captured by the Aureate and thrown into a church dungeon beneath the Chryseum.
+      As he was taken underground, he spotted an older man wearing the garb of the Corona Vigil — the inquisitorial order of the Church of Lucifer — observing the Chryseum from across the way.
+    entities_involved: ["Sir Roderic Lightbearer", "The Aureate"]
+    location: "The Chryseum"
+  - description: |
+      The church dungeon held Roderic alongside numerous imprisoned bards, performers, and entertainers arrested under Luminary Severin's orders.
+      Among them were suspected followers of the Laughing One, including one performer with a painted red nose and white face paint whom the guards specifically identified as a Harlequin.
+    entities_involved: ["Sir Roderic Lightbearer", "The Harlequins", "Luminary Severin Morrow"]
+    location: "The Chryseum"
+  - description: |
+      Garland and Castor followed Captain Dorn through the tunnels and reached a mezzanine walkway overlooking the sunken dungeon courtyard, spotting Roderic locked in a cell below with half a dozen Aureate guards.
+    entities_involved: ["Garland yn Greenholt", "Castor", "Sir Roderic Lightbearer", "Captain Eisen Dorn"]
+    location: "The Chryseum"
+  - description: |
+      Castor resisted his beaver instincts and shapeshifted into a mouse, retaining a beaver-like head from the imperfect transformation.
+      He scurried down to the courtyard, gnawed through a chair leg to topple a guard, then snatched the keys and ran to Roderic's cell.
+      The cost of this transformation is that Castor cannot return to beaver form until he fulfills his instinct to reshape the world around him.
+    entities_involved: ["Castor"]
+    location: "The Chryseum"
+  - description: |
+      Roderic used his authority as a Luciferian knight to decree the guards to release the prisoners, but they refused, citing Luminary Severin's orders.
+      When he opened his cell and confronted the guards unarmed, they overpowered him — he refused to seriously harm them even when outnumbered four to one.
+    entities_involved: ["Sir Roderic Lightbearer"]
+    location: "The Chryseum"
+  - description: |
+      Castor climbed unnoticed onto a guard's armor and gnawed through the leather strap holding the cell keys, then freed a Harlequin prisoner who began unlocking other cells.
+      Every prisoner in the block turned out to be a follower of the Laughing One, and they erupted in cheers that resonated with a larger commotion from the city streets above.
+    entities_involved: ["Castor", "The Harlequins"]
+    location: "The Chryseum"
+  - description: |
+      Garland confronted an Aureate guard, telling him "Son, this is not your day," and shattered the man's sword with Second Harvest in a single blow.
+      He later knocked another guard unconscious with the pommel to help free Roderic.
+    entities_involved: ["Garland yn Greenholt", "Second Harvest"]
+    location: "The Chryseum"
+  - description: |
+      Roderic issued a divine decree while wrestling with the guards, his voice booming through the cell block with radiant light blazing behind him like a halo.
+      He commanded the Harlequin prisoners to surrender and remain in their cells.
+      The lead Harlequin performer's face fell into a comical frown as he shuffled back into his cell, and the rest followed, dejected but obedient.
+    entities_involved: ["Sir Roderic Lightbearer", "The Harlequins"]
+    location: "The Chryseum"
+  - description: |
+      The surviving guards fled through the stairway doors.
+      The party locked the injured guards in a cell, confiscated their weapons, and reunited.
+      Castor used his beaver teeth to gnaw wood into wedges and barricade materials, securing the doors while they searched for the shrine to the God of Renewal.
+    entities_involved: ["Castor", "Sir Roderic Lightbearer", "Garland yn Greenholt"]
+    location: "The Chryseum"
+  - description: |
+      Roderic learned that Edric had vanished while under Garland's invisibility spell during the approach through the tunnels.
+      Garland explained they had called for him and even tried to drop the spell, but Edric was simply gone.
+      His knowledge of the tunnel layout only extended as far as this cell block, leaving the party without a guide for deeper exploration.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Edric Bloom"]
+    location: "The Chryseum"
+  - description: |
+      The party emerged onto an upper gallery of the Chryseum's grand nave, observing a massive Whiteglass window radiating clean light, soaring vaults of white gold and candlelight, and a mysterious swirling pattern on the floor below.
+      As they descended, signs of ruin and renewal manifested simultaneously: cracks formed in the stone, moss pushed up through the fractures, and torches dimmed before reigniting with a soft white holy light.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Castor"]
+    location: "The Chryseum"
+  - description: |
+      Dawnwarden Brenn and the Order of the First Dawn confronted the party, accusing them of bringing ruin to a holy place.
+      Roderic stood his ground and explained they were unwilling heralds of ruin seeking the heralds of renewal.
+      Brenn remained wary but acknowledged that the guards' reports corroborated his story.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Castor"]
+    location: "The Chryseum"
+  - description: |
+      Brenn shared a radical theological perspective: Lucifer's suppression of ruin centuries ago was well-intentioned but led to catastrophic stagnation, as renewal cannot exist without ruin.
+      Without renewal, the world has been slowly dying since the fall of the Imperium — civilizations crumbling one after another with nothing rising to replace them.
+      She revealed that the Church's Inquisition had dispatched the Order of the Eclipse Sword, its military arm, which had made camp outside Aurelion to arrest Luminary Severin and his father.
+    entities_involved: ["Sir Roderic Lightbearer"]
+    location: "The Chryseum"
+  - description: |
+      Luminary Severin Morrow appeared and addressed the party directly, claiming that the Morrow family have been worshippers of renewal since Beaconhold's founding.
+      He identified himself, his father Count Marrow, and Dawnwarden Brenn as the heralds of renewal, and acknowledged the Laughing One has manipulated events to pit them against each other.
+      When Garland challenged him to prove his claim, Severin admitted he could not bring renewal while the god remained dormant, offering only faith.
+    entities_involved: ["Luminary Severin Morrow", "Garland yn Greenholt", "Sir Roderic Lightbearer", "Castor"]
+    location: "The Chryseum"
+  - description: |
+      Severin knelt at the center of the swirling pattern, placed his hands on the floor with a greenish glow, and opened a hidden spiral staircase leading down to the ancient Temple of Renewal beneath the Chryseum.
+      He explained that the Chryseum, like many Luciferian churches, was built directly over older places of worship dedicated to the old gods.
+    entities_involved: ["Luminary Severin Morrow", "Garland yn Greenholt", "Sir Roderic Lightbearer", "Castor"]
+    location: "The Chryseum"
+  - description: |
+      The party descended into a chamber far older than anything they had encountered save the Nodrum and the Witch Stones.
+      Where the Chryseum above was precise geometry, this space was organic — shaped rather than constructed, dormant but not dead.
+      At the center lay a translucent cocoon containing the faintest suggestion of a sleeping form, never clearly resolved.
+      The cocoon inspired an immediate, almost parental impulse to protect it in all who beheld it.
+      Garland felt a deep recognition — the same ancient resonance he had felt at the Witch Stones.
+    entities_involved: ["Garland yn Greenholt", "Sir Roderic Lightbearer", "Castor", "Luminary Severin Morrow"]
+    location: "Shrine of Renewal"
+  - description: |
+      Standing before the cocoon, Garland opened his spellbook and felt the residual renewal energy begin to counteract the ruin that had eroded his knowledge.
+      The pages seemed slightly stronger, and he sensed that if renewal were fully released, the knowledge stolen by the forgetting curse could be recovered.
+    entities_involved: ["Garland yn Greenholt"]
+    location: "Shrine of Renewal"
+  - description: |
+      All five heralds — Roderic, Garland, and Castor along with Severin and Dawnwarden Brenn — felt themselves as interlocking pieces of an incomplete puzzle.
+      The connection was tangible but insufficient; they needed at least one more herald to unlock the cocoon.
+      Severin identified his father, Count Marrow, as the missing piece, acknowledging the mutual distrust but pointing to the undeniable connection they all felt.
+      Castor's presence as a third herald among the party was revealed through this shared resonance.
+    entities_involved: ["Luminary Severin Morrow", "Sir Roderic Lightbearer", "Garland yn Greenholt", "Castor", "Count Albrecht Marrow", "Dawnwarden Brenn"]
+    location: "Shrine of Renewal"
+  - description: |
+      As the five heralds traveled back through the tunnels, the effects of ruin were visible everywhere they had passed — Castor's curse had cracked foundations, Roderic's had deteriorated locks and wards, and Garland's had faded inscriptions and signs.
+      Yet with all five heralds together, the decay found a fragile balance — cracks sealed, moss grew to fill gaps, and the deterioration slowed, though nothing was fully renewed.
+    entities_involved: ["Castor", "Sir Roderic Lightbearer", "Garland yn Greenholt", "Luminary Severin Morrow", "Dawnwarden Brenn"]
+    location: "Aurelion Tunnels"
+  - description: |
+      The group emerged near Crest Aurelion to discover the Eclipse Sword — the military arm of the Luciferian Inquisition — had arrived and was attempting to arrest Count Marrow.
+      Roderic recognized the sounds of Luciferian military commands, placing him in direct conflict between his mission and his faith's own forces.
+    entities_involved: ["Sir Roderic Lightbearer", "Count Albrecht Marrow"]
+    location: "Crest Aurelion"
+
+new_entities:
+  npcs:
+    - name: "Dawnwarden Brenn"
+      description: |
+        Leader of the Order of the First Dawn, a small but respected paladin order stationed at the Chryseum in Aurelion.
+        A woman who commands respect among other paladinic orders.
+        She holds a complex faith: loyal to Lucifer as the light of civilization, but believes his suppression of ruin was a well-intentioned mistake that caused the world to stagnate.
+        She views ruin and renewal as natural forces that must coexist.
+        She and her order are protecting Luminary Severin from the Church's Inquisition.
+        She is one of the five heralds who felt the interlocking connection at the Shrine of Renewal, making her a herald of renewal.
+      first_location: "The Chryseum"
+      notes: "Also transcribed as 'Brend' in some passages. Lead paladin of the Chryseum garrison and confirmed herald of renewal."
+
+  locations:
+    - name: "Shrine of Renewal"
+      type: "Landmark"
+      description: |
+        An ancient, pre-Luciferian chamber hidden beneath the Chryseum in Aurelion, accessible via a concealed spiral staircase activated by renewal-aligned power.
+        The space is organic rather than constructed — shaped by forces older than the Imperium, older than everything the party has encountered save the Nodrum and the Witch Stones.
+        At its center rests a translucent cocoon containing the faintest suggestion of a sleeping form — the dormant God of Renewal.
+        The shrine inspires an instinctive, parental urge to protect the cocoon.
+        Those with herald connections feel an interlocking resonance in this place.
+        Residual renewal energy within the shrine can partially counteract the effects of ruin.
+      notes: "Also referred to as the Temple of Renewal. The Chryseum was built over this site as a testament to Lucifer's dominion over nature."
+
+  items: []
+
+  factions:
+    - name: "Order of the First Dawn"
+      description: |
+        A small but respected Luciferian paladinic order stationed at the Chryseum in Aurelion.
+        Led by Dawnwarden Brenn, they bear a rising sun emblem and consist of about four paladins.
+        They are known for their benevolence among other paladinic orders.
+        Secretly, they share the Morrows' belief that renewal must be restored alongside ruin, placing them at odds with the Church's orthodox position.
+        They are currently protecting Luminary Severin from the Inquisition.
+    - name: "Corona Vigil"
+      description: |
+        The inquisitorial order of the Church of Lucifer, responsible for investigating heresy and heterodox beliefs.
+        Agents of the Corona Vigil have been investigating the Morrow family for their divided faith between the Light and renewal.
+        They have dispatched the Order of the Eclipse Sword as their military enforcement arm.
+        Roderic spotted an older member of the Corona Vigil observing the Chryseum in Aurelion before his capture.
+    - name: "Order of the Eclipse Sword"
+      description: |
+        The military arm of the Luciferian Inquisition (Corona Vigil).
+        They arrived at Crest Aurelion and are attempting to arrest Count Albrecht Marrow and Luminary Severin Morrow for their heterodox beliefs about ruin and renewal.
+
+entity_updates:
+  - entity: "Sir Roderic Lightbearer"
+    category: "pc"
+    new_info: |
+      Sent a Luciferian priest to relay word to the main church at Beaconhold about Count Marrow's corruption and the return of the old gods, specifically bypassing Luminary Severin's authority.
+      Was captured by the Aureate and imprisoned in the church dungeon beneath the Chryseum.
+      Spotted a member of the Corona Vigil observing the Chryseum before being taken underground.
+      Fought four Aureate guards unarmed but refused to seriously harm them, choosing a stalemate over violence.
+      Issued a divine decree with radiant light blazing behind his head like a halo, commanding the Harlequin prisoners to surrender — the decree worked immediately.
+      Recognized the Order of the First Dawn as a benevolent paladinic order and negotiated with Dawnwarden Brenn rather than fight.
+      Attempted to scrutinize the Order and Severin for moral wrongdoing but could not, confirming their sincerity.
+      Reframed Brenn's theological challenge: Lucifer's light guided him here, and restoring renewal is part of divine wisdom.
+      Observed that moss growing through cracks of ruin might be evidence of renewal's proximity.
+      Belongs to the Redeemers of the Light as a knight errant.
+      His drive is "Endanger yourself to save or protect someone else."
+      At Crest Aurelion, recognized the Eclipse Sword's military commands, placing him in direct conflict between his mission and his faith's own forces.
+  - entity: "Castor"
+    category: "pc"
+    new_info: |
+      Shapeshifted from beaver into a mouse form with a beaver-like head due to imperfect transformation.
+      Cannot return to beaver form until he fulfills his beaver instinct to reshape the world around him.
+      Successfully stole cell keys twice — first by gnawing through a chair leg to create a distraction, then by climbing onto a guard's armor and gnawing through the leather strap.
+      Freed a Harlequin prisoner who began unlocking other cells.
+      Used his beaver teeth to gnaw wood into wedges and barricade materials, fulfilling his beaver instincts while helping secure the cell block.
+      Remained hidden and quiet during negotiations with the Order of the First Dawn and Severin.
+      His presence as a third herald among the party was revealed through the shared resonance felt in the Shrine of Renewal.
+      His herald curse visibly cracked foundations and structures throughout the tunnels the party traversed.
+  - entity: "Garland yn Greenholt"
+    category: "pc"
+    new_info: |
+      Followed Captain Dorn through the tunnels to reach the church dungeon beneath the Chryseum.
+      Encountered an escaping Harlequin prisoner but chose to ignore him, prioritizing the rescue of Roderic.
+      Despite carrying injuries from previous fights, shattered an Aureate guard's sword with Second Harvest and later knocked another guard unconscious with the pommel.
+      Confirmed that Edric vanished while invisible during the tunnel approach and could not be found.
+      Challenged Severin directly, demanding proof of his claim to be a herald of renewal — expressed skepticism at Severin's answer of faith alone.
+      Rushed ahead of everyone down the hidden stairs to the Shrine of Renewal, singing an old traveling song: "The land hungers, the land bides, and when men fall, the land takes them inside."
+      Felt deep recognition in the Shrine — the same ancient resonance as the Witch Stones — and identified the presence as something greater than an emanation.
+      His spellbook responded to the residual renewal energy, pages seeming slightly stronger, suggesting his lost knowledge could be recovered if renewal were fully released.
+      His drive is "Step forward where others hesitate."
+  - entity: "Edric Bloom"
+    category: "pc"
+    new_info: |
+      Disappeared while under Garland's invisibility spell during the approach through the tunnels beneath the Chryseum.
+      The party called for him and Garland tried to drop the spell, but Edric could not be found.
+      His knowledge of the tunnel network only extended as far as the Aureate cell block.
+      His absence left the party without a guide for deeper exploration and without their face for negotiations.
+  - entity: "Luminary Severin Morrow"
+    category: "npc"
+    new_info: |
+      Ordered the imprisonment of bards, performers, and suspected Harlequin followers in the church dungeon beneath the Chryseum.
+      Appeared in person at the Chryseum wearing the Whiteglass pendant of a Luminary.
+      Claimed the Morrow family have been worshippers of renewal since Beaconhold's founding, and that he, his father, and Dawnwarden Brenn may be the heralds of renewal.
+      Stated that his father has searched his entire life for a way to release ruin so that renewal could return.
+      Acknowledged the Laughing One has manipulated events to pit the heralds of ruin and renewal against each other.
+      Believes ruin is not acting within its nature — behaving like a wounded animal rather than a natural force.
+      Demonstrated the ability to open the hidden entrance to the Shrine of Renewal beneath the Chryseum, his hands glowing green as he activated the mechanism.
+      Identified Count Marrow as the missing herald needed to complete the connection and unlock the cocoon of renewal.
+      The Inquisition's Corona Vigil and Order of the Eclipse Sword are preparing to arrest him and his father.
+  - entity: "Count Albrecht Marrow"
+    category: "npc"
+    new_info: |
+      According to Severin, Count Marrow has been searching his entire life to release ruin so that renewal could return, continuing a family tradition stretching back generations.
+      The Morrow family have been secret worshippers of renewal since Beaconhold's founding.
+      Identified by Severin as a herald of renewal — the missing piece needed to complete the puzzle and unlock the cocoon beneath the Chryseum.
+      The Eclipse Sword has arrived at Crest Aurelion to arrest him.
+  - entity: "Captain Eisen Dorn"
+    category: "npc"
+    new_info: |
+      Observed by Garland and Castor moving through the tunnels beneath Aurelion; they shadowed him at a distance as he led them toward the dungeon area beneath the Chryseum.
+  - entity: "The Chryseum"
+    category: "location"
+    new_info: |
+      Contains a church dungeon below it — a sunken courtyard lined with cells on three sides, accessed via a mezzanine walkway and stairs.
+      The dungeon connects to the tunnel network beneath Aurelion through multiple doors.
+      Currently holds numerous bards, performers, and suspected Harlequin followers imprisoned under Luminary Severin's orders.
+      A member of the Corona Vigil was observed watching the Chryseum from a building across the way.
+      The interior features a massive Whiteglass stained-glass window that radiates clean light, rows of pews, soaring vaults of white gold and candlelight, and a mysterious swirling pattern on the nave floor.
+      The church was built over an older, pre-Luciferian temple dedicated to the God of Renewal — a testament to Lucifer's dominion over nature.
+      A hidden spiral staircase beneath the swirling floor pattern leads down to the ancient Shrine of Renewal.
+      The entrance is activated by placing hands on the floor with renewal-aligned power, producing a greenish glow.
+      The Order of the First Dawn serves as the Chryseum's paladinic order.
+      The cathedral doors began to give way under assault from outside forces including the Corona Vigil and possibly Harlequin-bolstered crowds.
+  - entity: "Aurelion"
+    category: "location"
+    new_info: |
+      Chaos is audible in the streets above the tunnels beneath the Chryseum.
+      Ruinous crowds have been appearing across the city since the party's arrival.
+      The Order of the Eclipse Sword has made camp outside the city walls.
+  - entity: "Aurelion Tunnels"
+    category: "location"
+    new_info: |
+      The tunnels showed visible signs of ruin's effects after the heralds passed through — cracked foundations from Castor's curse, deteriorated locks and ward cells from Roderic's curse, and faded inscriptions from Garland's curse.
+      When all five heralds of ruin and renewal traveled together, the decay found a fragile balance — cracks partially sealed and moss grew in them, though nothing was fully renewed.
+      The tunnels connect to an exit near Crest Aurelion.
+  - entity: "Beaconhold"
+    category: "location"
+    new_info: |
+      Roderic sent a priest to deliver a message to the main Luciferian church at Beaconhold, requesting reinforcements to combat the spreading corruption of ruin in Marrow County.
+  - entity: "The Harlequins"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The Harlequins"
+    new_info: |
+      Multiple Harlequin followers have been arrested and imprisoned in the church dungeon beneath the Chryseum.
+      At least one prisoner — a performer with a painted red nose and white face paint in patchwork reds, oranges, and purples — was identified as a confirmed follower of the Laughing One.
+      Every prisoner in the Aureate holding cells turned out to be a follower of the Laughing One.
+      When freed, the lead performer did a backflip and dance before beginning to unlock other cells, announcing "My fellow Harlequins!" to cheers from the entire block.
+      Their celebration resonated with a massive crowd forming in the streets above, suggesting a broader Harlequin presence or uprising in Aurelion.
+      They complied with Roderic's divine decree, returning to their cells with comical dejection.
+      At least one Harlequin picked his cell lock and escaped during the commotion, wearing bells on his feet.
+      Both Brenn and Severin independently identified the Laughing One as having manipulated events to pit the heralds of ruin against the heralds of renewal.
+      The imprisoned Harlequins remained in their cells even as Roderic's curse weakened the locks and wards, still obeying his earlier command.
+  - entity: "The Aureate"
+    category: "faction"
+    new_info: |
+      Six Aureate guards were stationed in the holding cells beneath the Chryseum, serving as jailers on Luminary Severin's orders.
+      They follow the Light but obey Severin's authority over Roderic's Luciferian decrees.
+      When the party overpowered them, the surviving guards fled rather than continue fighting.
+  - entity: "The God of Ruin"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The God of Ruin"
+    new_info: |
+      According to both Dawnwarden Brenn and Luminary Severin, ruin is not behaving as it should — acting like a wounded animal rather than a cunning natural force.
+      Something has corrupted its release, and they suspect the Laughing One's interference.
+      Brenn stated that Lucifer locked ruin away long ago, which started a chain reaction that caused renewal to go dormant, leading to centuries of stagnation and civilizational decline.
+  - entity: "The God of Renewal"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The God of Renewal"
+    new_info: |
+      The God of Renewal sleeps within a translucent cocoon in an ancient shrine beneath the Chryseum in Aurelion.
+      The cocoon inspires an instinctive, parental urge to protect it in all who behold it.
+      The sleeping form within is never clearly resolved — just a curve, a shadow suggesting dormant but living presence.
+      Renewal cannot be active without ruin — when Lucifer locked ruin away, renewal went dormant.
+      The Morrow family has maintained worship of renewal for generations, believing the world has been slowly dying from stagnation without it.
+      Signs of renewal's proximity manifested in the Chryseum: moss growing through cracks of ruin, and torches reigniting with soft white light after being dimmed.
+      Unlocking the cocoon requires the presence of multiple heralds who feel an interlocking connection like puzzle pieces.
+      Residual renewal energy can partially counteract the effects of ruin.
+  - entity: "The Light"
+    category: "faction"
+    new_info: |
+      The Church of Lucifer has an inquisitorial branch called the Corona Vigil, which investigates heresy.
+      The Corona Vigil's military arm is the Order of the Eclipse Sword.
+      The Inquisition has been investigating the Morrow family's heterodox beliefs about ruin and renewal and is preparing to arrest Luminary Severin and Count Marrow.
+      There is theological division within the faith: orthodox Luciferians believe ruin should remain suppressed, while the Morrows and the Order of the First Dawn believe ruin and renewal must coexist as natural forces.
+  - entity: "Second Harvest"
+    category: "item"
+    new_info: |
+      Garland used Second Harvest to shatter an Aureate guard's sword in a single blow beneath the Chryseum, and later used its pommel to knock another guard unconscious.
+  - entity: "Witch Stones"
+    category: "item"
+    new_info: |
+      Garland originally learned spellcraft by deciphering carvings on the Witch Stones and listening to them speak through the sounds of grinding earth over centuries.
+      He recorded this knowledge in his spellbook before losing it during the events at the Nodrum.
+      The Shrine of Renewal evoked the same ancient resonance Garland felt at the Witch Stones.
+
+questions_raised:
+  - "What is the Corona Vigil doing at the Chryseum, and why is a member observing the building?"
+  - "Will the Luciferian priest successfully deliver Roderic's message to Beaconhold?"
+  - "How many Harlequins have infiltrated Aurelion, and what is their purpose in the city?"
+  - "Where has Edric disappeared to while invisible in the tunnels beneath the Chryseum?"
+  - "What is causing the large crowd commotion in the streets of Aurelion?"
+  - "Are the Harlequins staging some kind of uprising or event in Aurelion?"
+  - "Are the Morrows truly the heralds of renewal, or are they self-appointed?"
+  - "Will the Order of the Eclipse Sword breach the city before the party can awaken renewal?"
+  - "Why is ruin acting like a wounded animal rather than a natural force — what did the Laughing One do?"
+  - "Was Count Marrow's original hiring of the party to retrieve the Seal of Unmaking part of a deliberate plan to release ruin and thereby awaken renewal?"
+  - "How will Roderic reconcile his Luciferian faith with the revelation that Lucifer's suppression of ruin may have caused centuries of stagnation?"
+  - "Can the five heralds retrieve Count Marrow from the Eclipse Sword without violence against the Light's own forces?"
+  - "Will the fragile balancing effect observed when heralds of ruin and renewal travel together be enough to stabilize the region?"
+
+questions_resolved:
+  - question: "What lies in the shrine to the God of Renewal beneath the Chryseum in Aurelion?"
+    answer: |
+      An ancient, pre-Luciferian organic chamber containing a translucent cocoon with the dormant God of Renewal sleeping inside.
+      The cocoon requires multiple heralds — at least five — to unlock.
+    session_established: 4
+  - question: "Does Marrow's son in the church hierarchy mean the church in Marrow County cannot be trusted?"
+    answer: |
+      Luminary Severin Morrow shares his father's belief in renewal and has been secretly maintaining worship of the old god.
+      He appears to be an ally rather than an enemy, though the Church's Inquisition considers him a heretic.
+    session_established: 4
+  - question: "How can the curse be stopped? Can restoring the God of Renewal be the true solution?"
+    answer: |
+      Partial answer — ruin is acting like a wounded animal, not within its true nature.
+      The God of Renewal sleeps in a cocoon beneath the Chryseum and can potentially be awakened by the heralds, which would restore balance.
+      Residual renewal energy already partially counteracts ruin's effects.
+    session_established: 4
+
+arc_progress:
+  - arc_name: "Curse of Ruin"
+    arc_type: "group"
+    development: |
+      The party located each other beneath the Chryseum — Garland and Castor found Roderic imprisoned in the church dungeon.
+      They freed Roderic, secured the area, and began searching for the shrine to the God of Renewal.
+      Roderic sent word to Beaconhold about the old gods' return and Marrow's corruption.
+      Dawnwarden Brenn revealed that Lucifer's suppression of ruin caused renewal to go dormant, leading to centuries of stagnation.
+      Luminary Severin claimed the Morrow family are the heralds of renewal and opened the hidden staircase to the Shrine of Renewal.
+      The party discovered the dormant God of Renewal sleeping in a cocoon beneath the Chryseum.
+      They confirmed that heralds feel an interlocking connection and need Count Marrow to complete the balance.
+      When heralds of ruin and renewal travel together, decay partially stabilizes — cracks seal, moss grows.
+      The plan to retrieve Marrow hit an immediate obstacle: the Eclipse Sword has arrived at Crest Aurelion to arrest him.
+  - arc_name: "Sir Roderic Lightbearer - Redemption"
+    arc_type: "character"
+    development: |
+      Roderic demonstrated his commitment to protecting life by refusing to seriously harm the Aureate guards even when outnumbered four to one.
+      His divine decree successfully commanded the Harlequin prisoners, showing his faith remains potent against mortal forces.
+      He proactively sent intelligence about the old gods and Marrow's corruption to Beaconhold.
+      He faced a theological challenge when Brenn called Lucifer's suppression of ruin hubris, but reframed it: Lucifer's light guided him here, and restoring renewal is part of divine wisdom.
+      He attempted to scrutinize the Order for moral wrongdoing but could not, confirming their sincerity.
+      Now he faces his most direct crisis — the Eclipse Sword, a military order of his own faith, stands between the party and the man they need to awaken renewal.
+  - arc_name: "Garland yn Greenholt - Uncover the Truth"
+    arc_type: "character"
+    development: |
+      Garland felt the Shrine of Renewal's energy partially counteract the forgetting curse on his spellbook, offering the first tangible hope that his lost knowledge could be recovered.
+      He confirmed that his spellcraft originated from the Witch Stones — deciphering their carvings and listening to their ancient voices — knowledge that was erased at the Nodrum.
+      He challenged Severin's claims directly, demanding proof rather than faith.
+
+notable_quotes:
+  - speaker: "Sir Roderic Lightbearer"
+    line: "The ancient god of ruin has come back to the land, along with the other old gods. The seals that are binding all these ancient gods are coming apart. We are seeking out the God of Renewal, to hopefully nullify the God of Ruin and bring things back to harmony."
+    context: "Roderic explaining the situation to a Luciferian priest before his capture, asking the priest to send word to Beaconhold."
+  - speaker: "Sir Roderic Lightbearer"
+    line: "I have been through several battles for our Lord and savior. If you honor yourself and your lives in his service, I suggest that you surrender and repent."
+    context: "Roderic confronting the dungeon guards unarmed after escaping his cell."
+  - speaker: "Garland yn Greenholt"
+    line: "Son, this is not your day."
+    context: "Garland confronting an Aureate guard who drew his sword in the cell block beneath the Chryseum."
+  - speaker: "Castor"
+    line: "What the fuck, dude? I'm trying to get you out of a jail!"
+    context: "Castor's reaction after Roderic's divine decree ordered all the Harlequin prisoners back into their cells, undoing Castor's effort to free them."
+  - speaker: "Garland yn Greenholt"
+    line: "The Greenholt bloodline is strong. I populated that whole hill on my own by accident."
+    context: "Garland joking about Castor's concern about his liaison with Tufa."
+  - speaker: "Dawnwarden Brenn"
+    line: "Don't you see? Destroying ruin is why we're in this mess."
+    context: "Reacting when Roderic said he wanted to destroy ruin, revealing her belief that suppressing ruin was the original mistake."
+  - speaker: "Dawnwarden Brenn"
+    line: "The hubris of Lucifer brought this upon us. You cannot lock away forces of nature and expect the world to continue to operate the way that it should."
+    context: "Explaining her heterodox belief that Lucifer's suppression of ruin caused the world's stagnation."
+  - speaker: "Luminary Severin Morrow"
+    line: "I believe that we are actually allies. The Laughing One has pit us against each other."
+    context: "Severin appealing to the party after revealing himself."
+  - speaker: "Garland yn Greenholt"
+    line: "Prove it. If you're a herald of renewal, you'll have brought renewal in your wake. What have you renewed?"
+    context: "Garland challenging Severin's claim to be a herald of renewal."
+  - speaker: "Luminary Severin Morrow"
+    line: "I do not offer proof, only faith."
+    context: "Severin's response to Garland's demand for evidence."
+  - speaker: "Sir Roderic Lightbearer"
+    line: "I believe Lucifer's light shall guide us all, and he's guided me here already."
+    context: "Roderic resolving his crisis of faith by interpreting his journey as divinely guided."
+  - speaker: "Luminary Severin Morrow"
+    line: "This was built as a testament to Lucifer's might over nature. And while Lucifer is mighty, nature and the light should exist together."
+    context: "Severin explaining why the Chryseum was built over the older temple of Renewal."
+  - speaker: "Garland yn Greenholt"
+    line: "The land hungers, the land bides, and when men fall, the land takes them inside."
+    context: "Garland's old traveling song, sung as he descended into the Shrine of Renewal ahead of everyone else."
+  - speaker: "Luminary Severin Morrow"
+    line: "Ruin is acting upon the world as a wounded animal might — not as a cunning wolf or a house cat. It is not acting within its nature."
+    context: "Severin clarifying that ruin is behaving abnormally."
+  - speaker: "Luminary Severin Morrow"
+    line: "I am aware that neither of us has any reason to believe the other, but I think we can all feel the connection here. There is an imbalance — three of you and two of us. Without that balance, this world cannot be healed."
+    context: "Severin acknowledging mutual distrust while arguing for the need to retrieve Count Marrow."
+
+rules_clarifications: []
+
+filtered_sections:
+  - line_range: "1-12"
+    reason: "Technical audio check — players testing Discord connection"
+  - line_range: "13-50"
+    reason: "Rules discussion about rejoining mechanics, XP gains, and how the rejoin move works"
+  - line_range: "1031-1057"
+    reason: "Technical audio issues — players unable to hear each other on Discord"
+  - line_range: "1354-1433"
+    reason: "AFK break followed by extended off-topic conversation about encyclopedias, Discord AI chatbots, time zone scheduling, and dinner plans"
+  - line_range: "1756-1779"
+    reason: "Technical issues — GM's internet connection dropping, router restart"
+  - line_range: "1784-1833"
+    reason: "Real-world chit-chat during technical break — weekend plans, babysitting, restaurants"
+  - line_range: "1917-1944"
+    reason: "Out-of-game discussion about lost character sheet data and order name lookup"
+  - line_range: "2481-2496"
+    reason: "Technical discussion about VTT journal access and sharing pictures"
+  - line_range: "2547-2965"
+    reason: "Post-session debrief — meta-discussion about session quality, pacing feedback, game mechanics, scheduling, and personal conversation"
+
+gm_observations:
+  - "Luminary Severin appears to be consolidating control in Aurelion — imprisoning bards, performers, and suspected Harlequin followers suggests a crackdown on dissent or cultural expression, not just religious enforcement."
+  - "The Corona Vigil presence at the Chryseum suggests the broader Church of Lucifer may already be aware that something is wrong in Aurelion, independent of Roderic's message."
+  - "The Harlequins have a significant and organized presence in Aurelion — multiple followers arrested, at least one successfully escaping, and celebration resonating with crowds above."
+  - "The simultaneous manifestation of ruin (cracks) and renewal (moss, white light) in the Chryseum when the party arrives suggests the proximity of both herald groups triggers visible interactions between the two forces."
+  - "Severin's claim that the Morrows are the heralds of renewal, combined with Count Marrow hiring the party to retrieve the Seal of Unmaking, implies a coordinated plan to release ruin and then awaken renewal — though the Laughing One's interference has corrupted the process."
+  - "Brenn's theology presents a nuanced faction within the Luciferian faith that is neither heretical nor orthodox — they honor Lucifer but acknowledge the limits of his ascension."
+  - "The balancing effect when heralds of ruin and renewal travel together is a significant development — it suggests the endgame requires cooperation between both sets of heralds."
+  - "Roderic's reluctance to fight the Eclipse Sword at Crest Aurelion sets up a compelling moral dilemma for next session."
+  - "Garland's spellbook responding to renewal energy provides a personal stake in awakening the God of Renewal beyond the global threat."
+  - "The Harlequins obeying Roderic's command even as their cells deteriorate is an interesting detail — suggests either genuine compliance or strategic patience."
+
+unresolved_references:
+  - reference: "Dawnwarden Brenn / Brend"
+    context: "Leader of the Order of the First Dawn at the Chryseum, confirmed herald of renewal"
+    likely_match: "Same person — transcription inconsistency between 'Brenn' and 'Brend'"
+    line_approx: "~line 1850 and ~line 2350"

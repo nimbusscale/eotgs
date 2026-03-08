@@ -132,6 +132,44 @@ Outside the cities and main roads lies the wild — a "points of light" setting.
 - [[Session 0]] — Established during world-building
 
 
+## Moldrex
+
+**Category:** Gods (New Gods)
+
+### Overview
+A New God — once mortal, ascended to divinity during the [[Old Gods and New Gods|Godstorm]], and sealed behind the [[Bonewall]] by [[Lucifer]]'s forces.
+Moldrex is evil — not indifferent like the [[Old Gods]], not merely opposed to Lucifer, but malicious in intent and purpose.
+Where Lucifer represents light, radiance, guidance, and civilization, Moldrex represents something that actively seeks to corrupt and consume.
+
+### History
+Like all New Gods, Moldrex was once mortal — a figure who ascended during the chaotic period when the Old Gods' balance collapsed and mortals seized divine power for themselves.
+Who Moldrex was before ascending, and the specific nature of their grudge against Lucifer, is unknown.
+During the [[Imperium Lucis Aeternae|Imperium]] era, Lucifer's forces drove Moldrex beyond the [[Bonewall]] and erected the [[Thirteen Spines]] — a network of ward towers — to keep Moldrex's influence contained.
+Moldrex has been sealed in [[Öuth Krelt]] for centuries — long enough to plan, build followers, and prepare.
+
+### Nature
+Unlike the Old Gods, who are impersonal forces of nature that do not notice humanity, Moldrex has intentions.
+Moldrex acts through armies, followers, strategy, and purpose.
+The forces of Öuth Krelt are not a tide of mindless darkness — they are directed, intelligent, and pursuing specific goals.
+Moldrex wants something from the [[Solivum]] and has been waiting for an opportunity to reach it.
+
+### Current Situation
+The ancient wards of the [[Thirteen Spines]] are weakening — destabilized by the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
+For the first time in living memory, the barrier that has held Moldrex's forces at bay is failing.
+[[The Light]] is aware that the wards are weakening but is hampered by internal disputes, theological confusion caused by gaps in their own history, and the general institutional decay of centuries of stagnation.
+
+### Related Entries
+- [[Lucifer]] — The god who sealed Moldrex behind the Bonewall
+- [[Bonewall]] — The mountain range that serves as the barrier
+- [[Thirteen Spines]] — The ward towers holding Moldrex's forces at bay
+- [[Öuth Krelt]] — The land beyond the Bonewall where Moldrex rules
+- [[The Light]] — The faith responsible for maintaining the wards
+- [[Solivum]] — The great lake that Moldrex's forces appear to be targeting
+
+### Sources
+- [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established
+
+
 ## The Old Gods and the New
 
 **Category:** Gods
@@ -218,6 +256,8 @@ The cumulative effect of the suppression is a world that has been slowly sickeni
 | **The Fallow One** | Rest, dormancy, the necessary pause | Exhaustion everywhere. Endless labor. No respite. |
 | **The Forgetting** | Release of memory, moving on | Obsession with history. Ghosts. Inability to heal from the past. |
 
+#### The Stagnation
+
 With the Old Gods suppressed and their emanations sealed, the world entered a long, slow decline.
 Not dramatic collapse — just entropy without renewal.
 Each era smaller than the last.
@@ -273,6 +313,44 @@ What's in the wild:
 - [[Session 0]] — Established during world-building
 
 
+## Sariel
+
+**Category:** Historical Figure / Angel
+
+### Overview
+A champion imbued with [[Lucifer]]'s light who fought during the wars of the [[Old Gods and New Gods|Old Gods]].
+Known as the Angel of Guidance — Lucifer's guiding hand in the mortal world during the age of the [[Imperium Lucis Aeternae|Imperium]].
+Sariel won a pivotal victory against [[The Xan-Kor]], defeating the emanation of the God of Forgetting in a decisive battle and sealing it in the Aurelion Vault (now [[The Nodrum]]).
+That battle was only possible because the God of Forgetting's power had already waned as worshippers turned to the New Gods.
+
+### Erasure
+[[The Xan-Kor]] erased Sariel from existence — not killed, but removed backward through time, undoing Sariel's actions and influence entirely.
+This erasure is retroactive: in the current reality, the battle that imprisoned the Xan-Kor never happened.
+Reality is slowly catching up to this fact, which is why the Xan-Kor's prison is weakening — not through force, but because the victory that created the prison is being unmade.
+
+No living person in the world remembers Sariel.
+The party has fragmented awareness due to their proximity to the corrupted ritual at [[The Nodrum]] — they experienced the reality shift firsthand when ley line energy passing through [[Edric Bloom|Edric]] and [[Sir Roderic Lightbearer|Roderic]] caused historical events to retroactively change.
+[[The Light]]'s records and theology have developed gaps and contradictions where Sariel's influence should be, but scholars have no framework for understanding why.
+
+### Significance
+Without Sariel — the Angel of Guidance — [[The Light]] has been slowly losing its institutional direction for centuries.
+The faith still functions, still produces paladins and clergy, but there is a hollowness at its core that nobody can diagnose.
+This loss of direction compounds with the general stagnation of the world: the Light's inability to produce champions of the caliber needed to face the threats now awakening.
+
+Sariel may still exist — wherever erased things go, they are not necessarily destroyed.
+The nature of the Xan-Kor's erasure suggests it shifts reality rather than annihilating, leaving what it removes stranded in some other state of existence.
+
+### Related Entries
+- [[The Xan-Kor]] — The emanation that erased Sariel from existence
+- [[The Light]] — The faith Sariel served and guided
+- [[Lucifer]] — The god who empowered Sariel
+- [[The Nodrum]] — The prison Sariel's victory created, now weakening
+- [[Imperium Lucis Aeternae]] — The empire during which Sariel fought
+
+### Sources
+- [[Session 2]] — The erasure was established during the Nodrum ritual, though Sariel was not named at the time
+
+
 ## Factions
 
 ### The Old Gods
@@ -304,7 +382,10 @@ Without renewal's balance, centuries of pent-up ruinous energy were released all
 Ruin's influence is carried by the party themselves (the "heralds of ruin"), destabilizing ancient wards and corrupting ley line energy.
 The corruption extends to altering reality itself — changing the past so things once protected are now ruined.
 Ruin targets each person's core identity: protection ([[Sir Roderic Lightbearer|Roderic]]), knowledge ([[Garland yn Greenholt|Garland]]), inspiration ([[Edric Bloom|Edric]]), creation ([[Castor]]).
-Balance can supposedly be restored by reuniting the heralds of ruin with the heralds of renewal.
+According to both [[Dawnwarden Brenn]] and [[Luminary Severin Morrow]], ruin is not behaving as it should — acting like a wounded animal rather than a cunning natural force.
+Something has corrupted its release, and they suspect the Laughing One's interference.
+Brenn stated that Lucifer locked ruin away long ago, which started a chain reaction that caused renewal to go dormant, leading to centuries of stagnation and civilizational decline.
+Balance can be restored by reuniting the heralds of ruin with the heralds of renewal.
 
 ##### Those Who Honor Ruin
 
@@ -347,7 +428,14 @@ They come to Ruin not from philosophy but from need.
 
 Renewal is ruin's counterpart among the old gods; without it, there is decay without rebirth.
 Renewal also has heralds who must be found and reunited with the heralds of ruin to restore balance.
-An old shrine to the God of Renewal exists beneath the Chryseum in [[Aurelion]], where the party hopes to find clues.
+The God of Renewal sleeps within a translucent cocoon in the [[Shrine of Renewal]], an ancient chamber beneath the Chryseum in [[Aurelion]].
+The cocoon inspires an instinctive, parental urge to protect it in all who behold it.
+The sleeping form within is never clearly resolved — just a curve, a shadow suggesting dormant but living presence.
+Renewal cannot be active without ruin — when Lucifer locked ruin away, renewal went dormant, leading to centuries of stagnation.
+The Morrow family has maintained worship of renewal for generations; [[Luminary Severin Morrow]], [[Count Albrecht Marrow]], and [[Dawnwarden Brenn]] are identified as heralds of renewal.
+Signs of renewal's proximity manifest when both herald groups are near: moss grows through cracks of ruin, torches reignite with soft white light.
+Unlocking the cocoon requires the presence of multiple heralds who feel an interlocking connection like puzzle pieces.
+Residual renewal energy can partially counteract the effects of ruin.
 
 ##### Followers of Renewal
 
@@ -421,12 +509,39 @@ Mix both for unsettling effect.
 #### Sources
 - [[Session 0]] — Established during world-building
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
+- [[Session 4]] — The dormant God of Renewal discovered in the [[Shrine of Renewal]]; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer's suppression revealed as cause of renewal's dormancy
 
-#### Notes
-For most of history, the Old Gods existed in tension with each other — sometimes balanced, sometimes in conflict.
-That tension was the natural order.
-No force was rejected, because all were necessary.
-Eventually the balance broke down entirely in the event known as the [[Old Gods and New Gods|Godstorm]], which threatened mortal civilization and catalyzed the rise of the New Gods.
+
+### The Starfall Caravan Company
+
+**Type:** Organization
+**Status:** Active
+
+#### Overview
+A merchant consortium and overland caravan network that began as a single caravan outfit moving grain, salt, and other goods between [[Beaconhold]] and frontier territories.
+[[Garland yn Greenholt]] invested in the original caravan after a devastating winter famine that starved the [[Ashen Vale]], intending to guarantee the Vale could import food if another famine came.
+Over the generations, the single caravan expanded into a major guild with an expansive trade network.
+
+#### History
+The company was founded in the aftermath of a starving winter in the [[Ashen Vale]].
+Garland's original investment was a single caravan outfit, meant as a lifeline connecting the Vale to outside supply lines.
+For decades, the company provided a valuable tie to the outside world for the Vale's inhabitants.
+Their routes haven't entered the Vale in some time, though Garland felt secure knowing his ownership stake meant he could call on them if starvation ever closed in again.
+
+#### Modern Situation
+The company is now run by a wealthy merchant family who assumed their silent founding partner died generations ago.
+Garland technically owns an ancient founding share of the company.
+He possesses documents proving his ownership and a founder's challenge coin.
+
+#### Notable Members
+- [[Garland yn Greenholt]] — Founding investor and silent partner
+
+#### Relationships
+- [[Garland yn Greenholt]] — Founding shareholder; believed dead by current management
+
+#### Associated Locations
+- [[Beaconhold]] — Major trade hub on their routes
+- [[Ashen Vale]] — Original region the company was meant to serve
 
 
 ### The Light
@@ -463,30 +578,102 @@ Its faith has brought real benefits — stability, safety, the foundations of ci
 - **Luminary** — priest; a genderless title used instead of father, brother, sister, etc.
 - **Radiant Luminary** — high priest; high-ranking clergy (cardinals, archbishops, and similar positions)
 
+#### History
+
+##### The Luciferian Ascent
+[[Lucifer]] was the first mortal to become a god, carving out a bastion of civilization during the [[Old Gods and New Gods#The Godstorm|Godstorm]].
+The promise of shelter from the storm is why the Light spread so quickly and so willingly.
+See [[Old Gods and New Gods#The Luciferian Ascent]] for the full account.
+
+##### The Imperium
+Lucifer founded the [[Imperium Lucis Aeternae]], a vast empire — the height of civilized power.
+The Farus Lucis towers symbolized its reach; most are now destroyed, with [[Beaconhold]]'s tower the last known intact example.
+The empire eventually fell, leading to the [[Middle Kingdoms]] and then the fractured modern era.
+
+##### The Suppression
+Lucifer sealed Ruin in [[Whiteglass]] and his champions defeated the [[Old Gods]]' emanations, while the mass shift in worship weakened the old faith.
+See [[Old Gods and New Gods#The Suppression]] for the full account.
+
+##### The Stagnation
+The Light still produces paladins and knights, but not the kind of figures who once sealed [[The Xan-Kor]].
+The Luciferians perceive the decline as "the darkness pressing in" and redouble their wards — not realizing they caused it.
+The Church calcified during the stagnation; people follow the Light not because they chose it, but because it's all they've ever known.
+See [[Old Gods and New Gods#The Stagnation]] for the broader decline.
+
+##### The Current Crisis
+Whatever rival lurks beyond the [[Bonewall]] tests the Light's wards and fortifications along the range.
+The erased champion leaves gaps in the Church's history and theology — institutional foundations are cracking.
+As the world wakes up, the inertia that sustained the Light's dominance is breaking.
+
+#### Theological Division
+There is deep division within the faith regarding ruin and renewal.
+
+**Orthodox position:** Ruin must remain suppressed.
+The Light's duty is to protect civilization from uncontrolled endings, as Lucifer intended.
+The stagnation is perceived as darkness pressing in from outside — a threat to be resisted with stronger wards and stricter faith.
+
+**Heterodox / Morrow position:** Ruin and renewal must coexist as natural forces.
+Lucifer's suppression of ruin, while well-intentioned, caused renewal to go dormant, leading to centuries of stagnation.
+The Morrows and the Order of the First Dawn hold this view, placing them at odds with the Church's orthodoxy.
+The [[Corona Vigil]] considers this position heretical and has dispatched the [[Order of the Eclipsed Sword]] to arrest [[Luminary Severin Morrow]] and [[Count Albrecht Marrow]].
+
+#### Organizations
+
+##### Corona Vigil
+The Church's inquisitorial branch, responsible for investigating heresy and heterodox beliefs.
+Agents of the Corona Vigil have been investigating the Morrow family for their divided faith between the Light and renewal.
+They have dispatched the Order of the Eclipsed Sword as their military enforcement arm.
+An older man in Corona Vigil garb was observed watching the Chryseum in [[Aurelion]] before [[Sir Roderic Lightbearer|Roderic]]'s capture.
+
+##### Order of the Eclipsed Sword
+The military enforcement arm of the Corona Vigil.
+They arrived at Crest Aurelion to arrest [[Count Albrecht Marrow]] and [[Luminary Severin Morrow]] for their heterodox beliefs about ruin and renewal.
+Their arrival directly threatens the party's mission, as Count Marrow is the missing herald needed to complete the connection at the [[Shrine of Renewal]].
+
+##### Order of the First Dawn
+A small but respected Luciferian paladinic order stationed at the Chryseum in [[Aurelion]].
+Led by [[Dawnwarden Brenn]], they bear a rising sun emblem and consist of about four paladins.
+They are known for their benevolence among other paladinic orders.
+Secretly, they share the Morrows' belief that renewal must be restored alongside ruin, placing them at odds with the Church's orthodox position.
+They are currently protecting [[Luminary Severin Morrow]] from the Inquisition.
+
+##### The Redeemers of Light
+A knightly order within the Church focused on redemption through deeds.
+[[Sir Roderic Lightbearer]] serves as a knight errant of this order, on assignment to prove his faith through protecting others.
+
+#### Notable Religious Sites
+- **The Chryseum** — The cathedral of the Light in [[Aurelion]], presided over by [[Luminary Severin Morrow]]; features a massive gold dome and a [[Whiteglass]] stained-glass window; built over an older, pre-Luciferian temple that conceals the [[Shrine of Renewal]]
+- **The Farus Lucis** — Great towers that symbolized the [[Imperium Lucis Aeternae|Imperium]]'s reach across the known world; most are now destroyed, with [[Beaconhold]]'s tower the last known intact example
+- **The Aurelion Vault** — Now known as [[The Nodrum]]; originally a facility used by the Light to contain [[The Xan-Kor]], a construct of the God of Forgetting, during the wars against the [[Old Gods]]; eventually abandoned by the Church and later rediscovered by [[The Triune]]
+- **The Bonewall** — Luciferian fortresses and wards along the mountain range, built to hold back threats from beyond; their protections are now crumbling as ruin's influence spreads
+
 #### Enforcement by Region
 Enforcement of the faith varies by region:
 - Some places mandate worship (Inquisition-style) with other religions forbidden
 - In [[Beaconhold]], it is the state religion — supported but not mandated; other religions are tolerated but not supported
 - Other places vary in tolerance
 
+#### Associated Locations
+- [[Beaconhold]] — Kingdom where the Church is the state religion; home of the last intact Farus Lucis
+- [[Aurelion]] — The Chryseum cathedral; site of the current theological conflict between orthodox and heterodox factions
+- [[Bonewall]] — Luciferian fortresses and wards along the mountain range, now crumbling as ruin's influence spreads
+- [[The Nodrum]] — Originally the Aurelion Vault, used by the Light to contain [[The Xan-Kor]] during the wars against the Old Gods
+- [[Marrow County]] — Deeply entwined with the Church through Count Marrow
+
 #### Notable Members
-- [[Sir Roderic Lightbearer]] — Paladin, devoted worshipper
-- [[Count Albrecht Marrow]] — Major donor with sons in influential clerical positions
+- [[Sir Roderic Lightbearer]] — Paladin, devoted worshipper, knight errant of the Redeemers of Light
+- [[Count Albrecht Marrow]] — Major donor with sons in influential clerical positions; secretly a worshipper of renewal
+- [[Luminary Severin Morrow]] — Leads the Chryseum in [[Aurelion]]; secretly a herald of renewal
+- [[Dawnwarden Brenn]] — Leader of the Order of the First Dawn; herald of renewal
 
 #### Relationships
 - [[Beaconhold]] — The Church is the state religion here
 - [[Old Gods and New Gods|The Old Gods]] — The Church suppressed and reframed the old faith
 
-#### Associated Locations
-- [[Beaconhold]] — Kingdom where the Church is the state religion
-- [[Marrow County]] — Deeply entwined with the Church through Count Marrow
-
 #### History with Party
 - [[Session 0]] — Roderic is a Luciferian paladin; the Church's history with the Old Gods is central to the story
 - [[Session 2]] — Roderic recognized the grand cathedral's architectural signatures on [[The Nodrum]]'s facade; the Light's fortresses along the [[Bonewall]] are crumbling as ruin's influence spreads; a champion of Lucifer was erased from existence by [[The Xan-Kor]] during the old wars, undoing a pivotal victory
-
-#### Notes
-Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally tolerated in Beaconhold but not in all places.
+- [[Session 4]] — The Corona Vigil was observed investigating the Chryseum; [[Dawnwarden Brenn]] shared heterodox theology about ruin and renewal and accompanied the heralds to the [[Shrine of Renewal]]; [[Luminary Severin Morrow|Severin]] revealed the Morrows as worshippers of renewal; the Order of the Eclipsed Sword arrived at Crest Aurelion to arrest the Morrows; Roderic's invocation of Luciferian authority cowed Aureate soldiers
 
 
 ## Notable Items
@@ -574,30 +761,6 @@ Some Old Gods were sealed away in whiteglass — the very substance of Luciferia
 #### Notes
 Whiteglass represents the Luciferian ideal of preservation and permanence.
 It is both a symbol of the faith's power and, ironically, the instrument used to suppress the [[Old Gods and New Gods|Old Gods]].
-
-
-### Witch Stones
-
-**Type:** Artifact (Standing Stones)
-**Current Holder:** Hidden in the [[Ashen Vale]]
-**First Appeared:** [[Session 0]]
-
-#### Description
-A set of standing stones hidden in the [[Ashen Vale]].
-Also known as the Shepherd's Teeth.
-Local legends know the Witch Stones exist somewhere in the Ashen Vale, but their location is considered "lost."
-
-#### Properties
-The Witch Stones are the source of [[Garland yn Greenholt]]'s magical power.
-The full extent of what they do and how their power works is still to be established in play.
-
-#### History
-[[Garland yn Greenholt]] discovered them while preparing a well-hidden field for pasture on his land.
-He studied them carefully over the years and guards the secret of their location.
-
-#### Notes
-Garland speaks of the [[Ashen Vale]] openly, but doesn't volunteer information about the Witch Stones themselves.
-He would be very interested in investigating other Witch Stones if they exist elsewhere.
 
 
 ### The Xan-Kor

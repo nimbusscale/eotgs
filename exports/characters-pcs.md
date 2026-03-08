@@ -96,6 +96,7 @@ Not a believer one way or another now.
 - Loyalty to the family who never seemed to remember him
 - The party are the heralds of ruin; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay, break, and turn to dust
 - Broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat in exchange for intelligence about the tunnels beneath [[Aurelion]]; concern that his druidic curse could be transmitted to offspring
+- Cannot return to beaver form until he fulfills his instinct to reshape the world around him — a cost of his imperfect mouse transformation
 - Wanted in [[Aurelion]] alongside the rest of the party
 
 ### Session Appearances
@@ -103,6 +104,7 @@ Not a believer one way or another now.
 - [[Session 1]] — Evacuated the beaver colony at Beaver Lake; rode double with Garland after surrendering his horse to the dire coyotes; stood watch in giraffe form at the fisher's hut
 - [[Session 2]] — Posed as Garland's grandson to hide his identity from [[The Triune]]; experienced involuntary partial reversion toward beaver form when the Nodrum's wards faltered; opened the [[Seal of Unmaking]]'s case during the ritual; tracked acrobat footprints to find the Harlequin Jimmy
 - [[Session 3]] — Shifted into dog form to avoid recognition from wanted posters; scouted the mine tunnels in beaver form; broke his vow of celibacy with [[Tufa]] the rock rat in exchange for tunnel intelligence; took a rock rat bite to the throat, losing his voice; grappled a rat off [[Garland yn Greenholt|Garland]] during the breakthrough
+- [[Session 4]] — Shapeshifted into a mouse with a beaver-like head to steal dungeon keys and free [[Sir Roderic Lightbearer|Roderic]]; gnawed through a chair leg, a guard's key strap, and wood for barricades; freed Harlequin prisoners; the mouse transformation locked him out of beaver form; felt the interlocking herald connection at the [[Shrine of Renewal]]
 
 
 ## Edric Bloom
@@ -182,7 +184,7 @@ Carries adventuring gear including climbing equipment, torches, and an intricate
 - The mystery of his unknown father
 - [[The Triune]]'s devices malfunctioned when examining him; Venn observed he stands at the overlap of many circles — old gods, new faith, curses, counties
 - His herald curse — the herald of souring tales — causes stories to twist, reputations to decline, deals to go bad, and communication to break down; during the ritual at the Nodrum, his curse erased an unnamed hero from the tale of the Xan-Kor's original defeat
-- Suggested seeking renewal rather than simply resealing ruin — a key strategic shift
+- Disappeared mysteriously while under [[Garland yn Greenholt|Garland]]'s invisibility spell during the approach through the tunnels beneath the Chryseum — the party called for him and Garland tried to drop the spell, but Edric was simply gone
 - Has a pragmatic streak regarding Marrow — willing to steal from his collection if it would help
 - Well known in [[Aurelion]]; both [[Captain Eisen Dorn]] and [[Mayliss Vane]] would recognize him
 - Wanted in [[Aurelion]] alongside the rest of the party
@@ -192,6 +194,7 @@ Carries adventuring gear including climbing equipment, torches, and an intricate
 - [[Session 1]] — Told the dire coyotes a bardic tale to win passage; sang a melody to assist Garland's spirit wall; distracted Aldric's guards and extracted information from Sergeant Iyer; experienced ruin's influence on his mind in the Crownvale tavern
 - [[Session 2]] — Examined by [[The Triune]]'s devices (which seized on contact); suggested seeking renewal instead of resealing ruin; held a lens during the ritual; ley lines passing through him emerged corrupted; confronted Jimmy about crossing humor lines; glimpsed the Dark Harlequin inside a barrel
 - [[Session 3]] — Recalled the tunnel layout from Dorn's drunken confession; scouted invisible past Aureate guards; killed a rock rat with his hand crossbow; slipped through the guarded door using Garland's illusion as cover
+- [[Session 4]] — Vanished while under [[Garland yn Greenholt|Garland]]'s invisibility spell in the tunnels beneath the Chryseum; his whereabouts are unknown
 
 
 ## Garland yn Greenholt
@@ -227,6 +230,7 @@ He has visited [[Aurelion]] many times and knows multiple ways into the city.
 He became known locally as Garland yn Greenholt upon the [[Ashen Vale]], an accidental lord in practice though he would never accept the title.
 
 While preparing a well-hidden field for pasture, he discovered a set of standing stones known variously as the [[Witch Stones|Shepherd's Teeth]] and the [[Witch Stones]], which he studied carefully over the years.
+He originally learned spellcraft by deciphering the carvings on the Witch Stones and listening to them speak through the sounds of grinding earth over centuries.
 He guarded the secret of their location carefully once he learned the power that dwelt there.
 
 With his wife long gone (and several of his children having passed as well), and tired of being called lord, he left the farm in the hands of the ever-growing clan he begat, and set off with fife and drum in hand.
@@ -259,25 +263,29 @@ Has never had much use for gods.
 - [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
 
 ### Current Threads
-- Understand the [[Witch Stones]] better — what they do, how their power works
+- His drive is "Step forward where others hesitate"
+- Understand the [[Witch Stones]] better — what they do, how their power works; his spellcraft originated from deciphering their carvings
 - Investigate whether other Witch Stones exist elsewhere
 - Understand [[Castor]]'s curse so he can undo it "just in case" before his own time runs out
 - The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]]
 - The Aldric livery mystery — resolved as a Harlequin trick, but broader questions about Aldric remain
 - Lost his memory of [[Mira]] during the teleportation at [[The Nodrum]]; feels an unexplained hollow absence
-- The party are the heralds of ruin — carrying the curse wherever they go; the path forward requires finding the heralds of renewal
+- The party are the heralds of ruin — carrying the curse wherever they go
 - His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity
+- His spellbook responded to residual renewal energy at the [[Shrine of Renewal]], growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered
 - Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
 - Wears ancient plate armor beneath his tattered riding cloak — dusty, rusty, dented, and damaged from centuries of use, clanking as he walks
 - Wields [[Second Harvest]], a legendary great sword with a storied past
 - Carries foreign candy (butterscotch) as treats for grandchildren
 - Previously consulted [[The Triune]] about [[Castor]]'s curse but kept the druid's true identity secret
+- Holds an ancient founding share in [[The Starfall Caravan Company]], a merchant consortium he invested in after a devastating winter famine in the Vale; carries documents and a founder's challenge coin as proof of ownership
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Soothed a horse with illusion before surrendering it to the dire coyotes; erected a spirit wall at Beaver Lake to hold back the ruin; found Aldric's livery at the lake; disguised himself in Crownvale but was recognized by Mira; slipped her a warning letter for Aldric; purchased horses
 - [[Session 2]] — Sought help from [[The Triune]] at [[The Nodrum]]; refused to let Castor be re-cursed; teleported to retrieve the Seal's case but lost his memory of Mira; admonished the Triune for wielding dangerous power; found another piece of Aldric's livery (later revealed as a Harlequin trick); received a disturbing vision of Mira from the Dark Harlequin
 - [[Session 3]] — Witnessed his herald curse devastating a farmer's memory; proposed entering [[Aurelion]] through the old mines; conjured light, wards, and illusions to navigate the tunnels; knocked out an elite Aureate guard with [[Second Harvest]] to breach past the guarded junction
+- [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
 
 
 ## Sir Roderic Lightbearer
@@ -349,13 +357,16 @@ He wears recognizable church armor and is identifiable as a paladin.
 
 ### Current Threads
 - Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted
-- His faith proved effective against mortal authority: his invocation of Luciferian authority cowed the Aureate soldiers into backing down
-- Theorizing about a larger conspiracy involving [[Luminary Severin Morrow|Severin]] and [[Count Albrecht Marrow|Marrow]]
+- His faith proved effective against mortal authority: divine decrees command obedience from both Aureate soldiers and Harlequin prisoners
+- Sent word directly to [[Beaconhold]] about the old gods' return and [[Count Albrecht Marrow|Marrow]]'s corruption, bypassing [[Luminary Severin Morrow|Severin]]'s authority
 - The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
-- On assignment as knight errant, tasked with redemption through deeds
-- Headed to the Chryseum in [[Aurelion]] to seek the shrine of Renewal
+- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds; his drive is "Endanger yourself to save or protect someone else"
+- Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
+- The [[Order of the Eclipsed Sword]] — his own faith's military order — has arrived to arrest the herald the party needs most, creating a direct conflict between his mission and his faith
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Persuaded the dire coyotes to let the party pass; failed to heal horses (ruin overwhelmed his power); delivered a stirring blessing in Crownvale defending the horse seller Laura
 - [[Session 2]] — Recognized Luciferian architectural signatures on [[The Nodrum]]'s facade; held a mirror during the ritual to contain [[The Xan-Kor]]; ruin corrupted ley lines passing through him; invoked his authority as a knight of [[Lucifer]] to force the Aureate to release Jimmy; attempted to convert Jimmy to the Light
+- [[Session 3]] — Separated from the party while entering [[Aurelion]] through the mine tunnels
+- [[Session 4]] — Sent intelligence to [[Beaconhold]] via a Luciferian priest; captured by the Aureate and imprisoned beneath the Chryseum; freed by [[Castor]] and [[Garland yn Greenholt|Garland]]; issued a divine decree commanding freed Harlequins back into their cells; negotiated passage with [[Dawnwarden Brenn]]; used Eyes of the Faithful to confirm Brenn and Severin's sincerity; descended into the [[Shrine of Renewal]] and felt the interlocking herald connection; resolved his theological crisis by interpreting his journey as divinely guided

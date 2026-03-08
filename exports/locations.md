@@ -123,9 +123,28 @@ Once an agrarian region during the [[Imperium Lucis Aeternae|Imperium]] era.
 Fiefdoms were granted to war veterans like [[Garland yn Greenholt|Garland]] after [[Beaconhold|Beacon Hold]]'s conquest, though largely left to self-govern.
 
 ### Notable Features
-- Location of the [[Witch Stones]] (also called the Shepherd's Teeth), though their exact location is considered "lost" by locals
 - Fed by the [[Ashen Flow|Lower Ashen Flow]], which runs clean after being filtered by the great beaver dam upstream
 - Fertile farmland enriched by volcanic ash
+
+### Greenholt
+
+[[Garland yn Greenholt]]'s fiefdom, granted after [[Beaconhold|Beacon Hold]]'s conquest and largely left to self-govern.
+Garland serves as its accidental lord, with his grandson [[Aldric Garlandsson]] now ruling from [[Crownvale]].
+
+#### Witch Stones
+
+A set of standing stones hidden somewhere on Garland's land, also known as the Shepherd's Teeth.
+Local legends know the [[Witch Stones]] exist somewhere in the Ashen Vale, but their exact location is considered "lost."
+[[Garland yn Greenholt|Garland]] discovered them while preparing a well-hidden field for pasture.
+He studied them carefully over the years and guards the secret of their location.
+
+The Witch Stones are the source of Garland's magical power.
+He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries.
+The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, suggesting a connection between these ancient sites.
+The full extent of what they do and how their power works is still to be established in play.
+
+Garland speaks of the Ashen Vale openly, but doesn't volunteer information about the Witch Stones themselves.
+He would be very interested in investigating other Witch Stones if they exist elsewhere.
 
 ### Connected Locations
 - [[Beaconhold]] — The kingdom to the north that the vale borders
@@ -133,6 +152,7 @@ Fiefdoms were granted to war veterans like [[Garland yn Greenholt|Garland]] afte
 - [[Cinderwall]] — The mountain range to the south, source of the vale's fertile ash
 - [[Ashbrook]] — Former town in the [[Cinderwall]] above the vale, now cursed ruins ([[Eld Ashara]])
 - [[Ashen Flow]] — The river that flows through the vale
+- Greenholt — [[Garland yn Greenholt]]'s fiefdom, home to the [[Witch Stones]]
 
 ### Associated NPCs
 - [[Garland yn Greenholt]] — Long-time resident, accidental lord of Greenholt
@@ -159,27 +179,63 @@ The surrounding countryside shows decline: thin fields, sparse orchards, and a o
 The city employs dog catchers to deal with a stray dog problem.
 The party is wanted in Aurelion — posters accuse them of subverting the county and stealing goods on behalf of [[Count Albrecht Marrow]].
 
-### Notable Features
-- **Crest Aurelion** — [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle
-- **The Chryseum** — The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]]; features a massive gold dome that dominates the skyline — the last prominent reminder of the city's golden past; [[The Triune]] told the party that beneath it lies an old shrine to the God of Renewal; the Chryseum district is accessible via the underground tunnel network
-- **The Mendrath Baths** — A gilded bathhouse built by dwarves, accessible via the underground tunnels
-- **Underground Tunnel Network** — Beneath the city lies a network of old mine tunnels and smuggler passages through abandoned gold mines that honeycomb the ground; infested with rock rats and prone to cave-ins; a central junction — possibly a shrine or royal passage built by the city's first king — branches toward the Chryseum, Crest Aurelion, and the Mendrath Baths; the Aureate patrol the tunnels but typically assign their lowest-ranking soldiers to general duty; the critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command; [[Tufa]] the rock rat warned of undead deeper in the passages
-- The Aureate ([[Count Albrecht Marrow]]'s soldiers, led by [[Captain Eisen Dorn|First Aureate Eisen Dorn]]) enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers
+### Crest Aurelion
+[[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle.
+
+### The Chryseum
+The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]].
+Features a massive gold dome that dominates the skyline — the last prominent reminder of the city's golden past.
+The interior features a massive [[Whiteglass]] stained-glass window radiating clean light, rows of pews, soaring vaults of white gold and candlelight, and a mysterious swirling pattern on the nave floor.
+The church was built over an older, pre-Luciferian temple — a hidden spiral staircase beneath the swirling floor pattern leads down to the ancient Shrine of Renewal, activated by renewal-aligned power.
+A church dungeon lies below — a sunken courtyard lined with cells on three sides, accessed via a mezzanine walkway and stairs, connecting to the tunnel network through multiple doors.
+The [[Order of the First Dawn]] serves as the Chryseum's paladinic order.
+The Chryseum district is accessible via the underground tunnel network.
+
+#### The Shrine of Renewal
+An ancient, pre-Luciferian chamber hidden beneath the Chryseum, accessible via a concealed spiral staircase activated by renewal-aligned power.
+The space is organic rather than constructed — shaped by forces older than the [[Imperium Lucis Aeternae|Imperium]], older than everything the party has encountered save [[The Nodrum]] and the [[Witch Stones]].
+At its center rests a translucent cocoon containing the faintest suggestion of a sleeping form — the dormant God of Renewal.
+The cocoon inspires an instinctive, parental urge to protect it in all who behold it.
+Those with herald connections feel an interlocking resonance in this place.
+Residual renewal energy within the shrine can partially counteract the effects of ruin.
+
+- **The Cocoon** — A translucent cocoon at the chamber's center containing the sleeping God of Renewal; the form within is never clearly resolved, just a curve and shadow suggesting dormant but living presence
+- **Hidden Entrance** — Concealed beneath the swirling pattern on the Chryseum's nave floor; activated by placing hands on the floor with renewal-aligned power, producing a greenish glow
+- **Renewal Energy** — Residual energy in the shrine partially counteracts ruin; [[Garland yn Greenholt|Garland]]'s spellbook pages grew slightly stronger in its presence
+- **Herald Resonance** — Multiple heralds feel an interlocking connection here, like puzzle pieces drawn together; at least five heralds are needed to unlock the cocoon, but even five proved insufficient without [[Count Albrecht Marrow|Count Marrow]]
+
+### The Mendrath Baths
+A gilded bathhouse built by dwarves, accessible via the underground tunnels.
+
+### Underground Tunnel Network
+Beneath the city lies a network of old mine tunnels and smuggler passages through abandoned gold mines that honeycomb the ground.
+Infested with rock rats and prone to cave-ins.
+A central junction — possibly a shrine or royal passage built by the city's first king — branches toward the Chryseum, Crest Aurelion, and the Mendrath Baths.
+The Aureate patrol the tunnels but typically assign their lowest-ranking soldiers to general duty.
+The critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command.
+[[Tufa]] the rock rat warned of undead deeper in the passages.
+
+### The Aureate
+[[Count Albrecht Marrow]]'s soldiers, led by [[Captain Eisen Dorn|First Aureate Eisen Dorn]].
+They enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers.
 
 ### Connected Locations
 - [[Marrow County]] — The county of which Aurelion is the capital
-- [[The Nodrum]] — Located not far from the city
+- [[The Nodrum]] — Located not far from the city; the shrine evokes the same ancient resonance
+- [[Witch Stones]] — [[Garland yn Greenholt|Garland]] felt the same deep recognition in the Shrine of Renewal as at the Witch Stones
 
 ### Associated NPCs
-- [[Count Albrecht Marrow]] — Ruler of Marrow County
+- [[Count Albrecht Marrow]] — Ruler of Marrow County; the missing herald needed to complete the renewal connection
 - [[Mayliss Vane]] — Seneschal to Count Marrow
 - [[Captain Eisen Dorn]] — Captain of the guard
-- [[Luminary Severin Morrow]] — Head priest of the Chryseum
+- [[Luminary Severin Morrow]] — Head priest of the Chryseum; can open the shrine's hidden entrance; his family has maintained the shrine for generations
+- [[Dawnwarden Brenn]] — Leader of the [[Order of the First Dawn]] at the Chryseum; herald of renewal who guards the Chryseum above
 
 ### Events Here
 - [[Edric Bloom]] talked down angry peasants protesting a grain tax, earning [[Captain Eisen Dorn]]'s respect
 - [[Session 2]] — The party arrived and witnessed Aureate soldiers beating a performer; [[Sir Roderic Lightbearer|Roderic]] invoked his authority to free the performer (Jimmy, a Harlequin); the Dark Harlequin manifested briefly inside a water barrel; the party plans to seek the shrine of Renewal beneath the Chryseum
 - [[Session 3]] — The party entered covertly through the old mine tunnels to avoid wanted posters; fought through rock rat ambushes and breached past Aureate guards at the tunnel junction leading toward the Chryseum district
+- [[Session 4]] — [[Sir Roderic Lightbearer|Roderic]] was captured and imprisoned in the Chryseum dungeon; the party freed him and discovered the Shrine of Renewal beneath the Chryseum; [[Luminary Severin Morrow|Severin]] and [[Dawnwarden Brenn]] revealed as heralds of renewal; the [[Order of the Eclipsed Sword]] arrived at Crest Aurelion to arrest [[Count Albrecht Marrow|Count Marrow]]; five heralds felt the interlocking connection at the shrine but could not unlock the cocoon without Marrow; Garland's spellbook responded to the renewal energy
 
 
 ## Beaconhold
@@ -212,7 +268,7 @@ The kingdom may claim mountains, valleys, and regions, but only truly controls t
 - [[Marrow County]] — A minor but strategically placed county bordering the capital
 - [[Ashen Vale]] — Border region to the south
 - [[Eastern Rivers]] — Border region to the east
-- Port City (name TBD) — Located on the border between the kingdom, the Eastern Rivers, and the [[Great Lake]]
+- [[Havens Reach]] — Port town on the border between the kingdom, the [[Eastern Rivers]], and the [[Solivum]]
 
 ### Associated NPCs
 - [[Sir Roderic Lightbearer]] — Raised in the capital city
@@ -265,13 +321,20 @@ Feeds the [[Eastern Rivers]] through deep springs and aquifers.
 Less snow than the [[Cinderwall]] despite being cold.
 Forms the eastern arm of the L-shaped mountain border, contrasting with the wet and volcanic Cinderwall to the south.
 
-### Fortresses
-[[The Light]] maintains fortresses along the Bonewall that have long kept forces of darkness at bay.
-These ancient protective wards are now beginning to crumble as ruin's influence spreads, weakened by the corrupted ritual at [[The Nodrum]].
+### The Thirteen Spines
+Thirteen towers built along the Bonewall during the [[Imperium Lucis Aeternae|Imperium]] era.
+They rise from the mountain slopes like spines along a ridge — tall enough to peer over the crest of the Bonewall, but built on the slopes facing [[Beaconhold]] rather than at the very summit.
+The towers serve as both physical fortifications and magical wards, maintained by [[The Light]] to hold back forces of darkness on the far side of the mountains.
+
+Each Spine has its own local nickname based on its appearance, history, or reputation — names given by the soldiers and scholars who have garrisoned them over the centuries.
+The formal [[Imperium Lucis Aeternae|Imperium]]-era designation for the tower network may exist in old records but has fallen out of common use; everyone simply calls them the Spines.
+
+The ancient wards are now beginning to weaken as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
 
 ### Connected Locations
 - [[Eastern Rivers]] — Fed by springs and snowmelt from this range
 - [[Cinderwall]] — The other arm of the L-shaped border range
+- [[Öuth Krelt]] — The land beyond the Bonewall, held at bay by the Thirteen Spines
 
 ### Events Here
 - [[Session 0]] — Established as the eastern mountain range
@@ -313,17 +376,17 @@ Wooded slopes, mossy, shrouded in mist and steam.
 
 ### Description
 An independent region of cliffs, ravines, and treacherous terrain.
-Lies between [[Beaconhold]]'s environs and the [[Great Lake]].
+Lies between [[Beaconhold]]'s environs and the [[Solivum]].
 A labyrinth of broken rock — confusing and dangerous to navigate.
 The [[Eastern Rivers]] cut through, providing the only reliable passage.
 
 ### Connected Locations
 - [[Beaconhold]] — The kingdom to the west
-- [[Great Lake]] — The lake to the east, accessible through the river passages
+- [[Solivum]] — The great lake to the east, accessible through the river passages
 - [[Eastern Rivers]] — Cut through the Cragmarr, providing passage
 
 ### Events Here
-- [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Great Lake
+- [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Solivum
 
 
 ## Crownvale
@@ -369,7 +432,7 @@ Aldric styles himself a lord here, basing his authority on the [[Greenholt Blood
 An independent region bordering the Kingdom of [[Beaconhold]].
 Fed by springs and snowmelt from the [[Bonewall]].
 Remote enough that tax collectors don't visit.
-The rivers cut through the [[Cragmarr]], providing passage to the [[Great Lake]].
+The rivers cut through the [[Cragmarr]], providing passage to the [[Solivum]].
 
 ### Notable Features
 - [[Edric Bloom]]'s homeland
@@ -380,8 +443,8 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Great Lake]]
 - [[Beaconhold]] — The kingdom to the west
 - [[Bonewall]] — The mountain range that feeds the rivers
 - [[Cragmarr]] — The rivers cut through this region, providing the only reliable passage to the lake
-- [[Great Lake]] — Destination of the rivers
-- Port City (name TBD) — Located on the border between Beaconhold, the Eastern Rivers, and the Great Lake
+- [[Solivum]] — The great lake the rivers feed into
+- [[Havens Reach]] — Port town where the Eastern Rivers meet the Solivum
 
 ### Associated NPCs
 - [[Edric Bloom]] — Born in a small village here
@@ -390,31 +453,32 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Great Lake]]
 - [[Session 0]] — Established as Edric's homeland
 
 
-## The Great Lake
+## Havens Reach
 
-**Type:** Region (Body of Water)
-**First Visited:** [[Session 0]]
+**Type:** Town
+**First Visited:** Not yet visited
 
 ### Description
-A large freshwater lake fed by the [[Eastern Rivers]].
-Multiple city-states and kingdoms line its shores.
-[[Beaconhold]]'s port city provides access to lake trade.
-Accessible through the [[Cragmarr]] via the river passages.
-Multiple other kingdoms and city-states exist around the lake and beyond, none yet established.
+A port town on the shores of the [[Solivum]], at the border between the Kingdom of [[Beaconhold]], the [[Eastern Rivers]], and the lake.
+Built on the ruins of a larger [[Imperium Lucis Aeternae|Imperium]]-era settlement that was razed during the fall of the Imperium.
+The town was rebuilt and had been growing into its own before the stagnation set in; it never grew past that point.
+The old ruins are still visible beneath and around the current settlement — foundations too large for the buildings sitting on them, streets that lead to nothing, the outline of walls that once enclosed a much larger city.
+
+### Name
+Whether the name is possessive ("Haven's Reach" — named after a person called Haven) or plural ("Havens Reach" — the reach of many havens, referencing the multiple safe harbors along the shoreline) is a matter of local debate.
+Nobody in the current era remembers the origin with certainty.
+The Imperium-era name of the original settlement has been largely forgotten.
 
 ### Notable Features
-- Name TBD
-- Hub of trade between multiple political entities
-- Fed by the [[Eastern Rivers]]
+- [[Beaconhold]]'s primary access point to trade on the [[Solivum]]
+- Built on Imperium-era ruins; the old settlement was significantly larger
+- The town has been stagnant for centuries — never declining, never growing
 
 ### Connected Locations
-- [[Eastern Rivers]] — The rivers that feed the lake
-- [[Cragmarr]] — The terrain between the lake and Beaconhold
-- [[Beaconhold]] — Connected via the port city
-- Port City (name TBD) — Located on the border between Beaconhold, the Eastern Rivers, and the lake
-
-### Events Here
-- [[Session 0]] — Established as a major geographical feature
+- [[Solivum]] — The great lake it sits upon
+- [[Eastern Rivers]] — The river region to its north and east
+- [[Cragmarr]] — The broken terrain connecting it to Beaconhold proper
+- [[Beaconhold]] — The kingdom it belongs to
 
 
 ## Marrow County
@@ -478,3 +542,57 @@ The facade bears geometric glyphs of immense age, overlaid with Luciferian archi
 
 ### Events Here
 - [[Session 2]] - The party sought the Triune's help with the ruin crisis; the Triune examined [[Edric Bloom|Edric]], revealed the old gods' history of ruin and renewal, and confessed to siphoning [[Castor]]'s curse energy; a ritual to contain the Xan-Kor succeeded but corrupted ley lines and reality itself; the Triune declared the party were the heralds of ruin
+
+
+## Öuth Krelt
+
+**Type:** Region (Beyond the Bonewall)
+**First Visited:** Not yet visited
+
+### Description
+The land beyond the [[Bonewall]].
+Whatever lies on the far side of the mountains has been kept at bay by the [[Thirteen Spines]] and their wards for as long as anyone can remember.
+The name "Öuth Krelt" appears in a handful of ancient texts and military records maintained by [[The Light]], always in reference to what the wards are holding back.
+The name does not belong to any known human language — scholars believe it is a transliteration from whatever is spoken on the other side, recorded by Imperium-era soldiers or missionaries and never translated.
+
+Almost nothing is known about Öuth Krelt in the current era.
+The Light's official position is that the Bonewall wards exist to contain "forces of darkness," but specifics have been lost, suppressed, or classified within the church hierarchy.
+Old maps sometimes mark the region with warnings or simply leave it blank.
+
+### Connected Locations
+- [[Bonewall]] — The mountain range that separates Öuth Krelt from [[Beaconhold]]'s territory
+- [[Thirteen Spines]] — The ward towers that hold its forces at bay
+
+
+## The Solivum
+
+**Type:** Region (Body of Water)
+**First Visited:** [[Session 0]]
+
+### Description
+A vast freshwater inland sea fed by the [[Eastern Rivers]].
+So large it functions as an inland ocean — the far shores are not visible from any single vantage point.
+Multiple city-states and kingdoms line its shores.
+[[Beaconhold]]'s port town of [[Havens Reach]] provides access to lake trade.
+Accessible through the [[Cragmarr]] via the river passages.
+Multiple other kingdoms and city-states exist around the Solivum and beyond, none yet established.
+
+### Name
+The name "Solivum" is of [[Imperium Lucis Aeternae|Imperium]]-era origin.
+Its meaning is debated — possibly derived from *solus* (alone) or *solvere* (to release).
+Sailors and scholars disagree on the etymology.
+Some believe it reflects the feeling of isolation experienced on its vast surface; others suspect the name predates common usage and holds deeper significance lost to history.
+
+### Notable Features
+- Hub of trade between multiple political entities
+- Fed by the [[Eastern Rivers]]
+- Once a major artery of [[Imperium Lucis Aeternae|Imperium]] trade, connecting distant provinces
+
+### Connected Locations
+- [[Eastern Rivers]] — The rivers that feed the lake
+- [[Cragmarr]] — The terrain between the lake and Beaconhold
+- [[Beaconhold]] — Connected via [[Havens Reach]]
+- [[Havens Reach]] — Port town on the border between Beaconhold, the Eastern Rivers, and the Solivum
+
+### Events Here
+- [[Session 0]] — Established as a major geographical feature

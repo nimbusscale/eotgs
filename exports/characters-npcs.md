@@ -91,6 +91,10 @@ He is a major donor, with several sons holding influential clerical positions.
 Marrow commissioned [[Edric Bloom]] and the party to retrieve the [[Seal of Unmaking]] from [[Ashbrook]], describing it as a rare but otherwise unremarkable [[Whiteglass]] holy symbol.
 In hindsight, the inclusion of a sealed metal container with warding locks — absent from his previous commissions — and the near total lack of information about the local populace made it clear he knew the relic's true nature.
 
+According to [[Luminary Severin Morrow|Severin]], the Morrow family have been secret worshippers of renewal since [[Beaconhold]]'s founding.
+Count Marrow has been searching his entire life for a way to release ruin so that renewal could return, continuing a family tradition stretching back generations.
+Severin identified him as a herald of renewal — the missing piece needed to complete the puzzle and unlock the cocoon at the [[Shrine of Renewal]] beneath the Chryseum.
+
 ### Methods
 Those who cross Marrow are rarely punished openly.
 Instead, sermons and homilies begin to reference their moral failings, and their reputations quietly erode until the common folk turn against them.
@@ -114,11 +118,44 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 - [[Session 0]] — Commissioned the party to retrieve the Seal of Unmaking from [[Ashbrook]]
 - [[Session 1]] — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold
 - [[Session 2]] — The Harlequin Jimmy claimed both Marrow and the party are "puppets on the Laughing One's strings"; [[Sir Roderic Lightbearer|Roderic]] suspects a conspiracy involving Marrow and [[Luminary Severin Morrow|Severin]]
+- [[Session 4]] — [[Luminary Severin Morrow|Severin]] revealed Marrow as a herald of renewal and the missing piece needed to unlock the cocoon; the [[Order of the Eclipsed Sword]] arrived at Crest Aurelion to arrest him
 
 ### Session Appearances
 - [[Session 0]]
 - [[Session 1]]
 - [[Session 2]]
+- [[Session 4]]
+
+
+## Dawnwarden Brenn
+
+**First Appeared:** [[Session 4]]
+**Status:** Active
+**Affiliation:** [[Order of the First Dawn]], [[The Light]]
+
+### Description
+Leader of the [[Order of the First Dawn]], a small but respected Luciferian paladinic order stationed at the Chryseum in [[Aurelion]].
+A woman who commands respect among other paladinic orders.
+She holds a complex faith: loyal to [[Lucifer]] as the light of civilization, but believes his suppression of ruin was a well-intentioned mistake that caused the world to stagnate.
+She views ruin and renewal as natural forces that must coexist.
+
+### Role
+Brenn and her order are protecting [[Luminary Severin Morrow]] from the Church's Inquisition.
+She is one of the five heralds who felt the interlocking connection at the [[Shrine of Renewal]], confirming her as a herald of renewal.
+She shared a radical theology with the party — that Lucifer's suppression of ruin caused renewal to go dormant, leading to centuries of civilizational decline with nothing rising to replace what crumbled.
+
+### Relationships
+- [[Order of the First Dawn]] — Her paladinic order; she leads them
+- [[Luminary Severin Morrow]] — Ally; she protects him from the Inquisition
+- [[The Light]] — Complex loyalty; honors Lucifer but acknowledges the limits of his ascension
+- [[Sir Roderic Lightbearer]] — Fellow paladin; negotiated passage with him at the Chryseum
+- [[Corona Vigil]] — The Inquisition investigating Severin; Brenn stands against them
+
+### Key Events
+- [[Session 4]] — Confronted the party in the Chryseum's grand nave; shared her heterodox theology about ruin and renewal; confirmed as a herald of renewal at the [[Shrine of Renewal]]; traveled with the combined heralds through the tunnels where their presence created a fragile equilibrium
+
+### Session Appearances
+- [[Session 4]]
 
 
 ## Luminary Severin Morrow
@@ -128,8 +165,9 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 **Affiliation:** [[The Light]]
 
 ### Description
-A severe man who runs [[The Chryseum]], the cathedral of [[The Light]] in [[Aurelion]].
+A severe man who runs the Chryseum, the cathedral of [[The Light]] in [[Aurelion]].
 He is the third son of [[Count Albrecht Marrow]].
+Wears the [[Whiteglass]] pendant of a Luminary.
 
 ### Appearance
 **Colors:** Whiteglass pale, liturgical gold, shadow black, candle-flame amber
@@ -145,13 +183,29 @@ Not cruel, but *certain* — and certainty in the wrong hands cuts deeper than m
 Leads the congregation in [[Aurelion]].
 He believes all bards and storytellers are liars and charlatans.
 His preaching has turned at least a portion of his flock against performers and tale-tellers.
+Ordered the imprisonment of bards, performers, and suspected Harlequin followers in the church dungeon beneath the Chryseum.
+
+Claimed the Morrow family have been worshippers of renewal since [[Beaconhold]]'s founding.
+He identified himself, his father [[Count Albrecht Marrow]], and [[Dawnwarden Brenn]] as the heralds of renewal — the counterparts to the party's heralds of ruin.
+Stated that his father has searched his entire life for a way to release ruin so that renewal could return.
+Acknowledged the Laughing One has manipulated events to pit the heralds of ruin and renewal against each other.
+Believes ruin is not acting within its nature — behaving like a wounded animal rather than a natural force.
+Demonstrated the ability to open the hidden entrance to the [[Shrine of Renewal]] beneath the Chryseum, his hands glowing green as he activated the mechanism.
+Identified [[Count Albrecht Marrow|Count Marrow]] as the missing herald needed to complete the connection and unlock the cocoon of renewal.
 
 ### Relationships
-- [[Count Albrecht Marrow]] — His father
-- [[The Light]] — His religious affiliation; he serves as a luminary
+- [[Count Albrecht Marrow]] — His father; they share the family's secret worship of renewal
+- [[The Light]] — His religious affiliation; he serves as a luminary, but holds heterodox views
+- [[Dawnwarden Brenn]] — Ally and fellow herald of renewal; she and the [[Order of the First Dawn]] protect him
+- [[Corona Vigil]] — The Inquisition is investigating him for heterodox beliefs
+- [[Order of the Eclipsed Sword]] — The Inquisition's military arm, arrived to arrest him
 
 ### Key Events
 - Has been turning his congregation against bards and storytellers
+- [[Session 4]] — Imprisoned suspected Harlequins beneath the Chryseum; revealed himself to the party as a herald of renewal; opened the hidden staircase to the [[Shrine of Renewal]]; led the party to the dormant God of Renewal; argued for cooperation between heralds of ruin and renewal; identified his father as the missing herald
+
+### Session Appearances
+- [[Session 4]]
 
 
 ## Mayliss Vane

@@ -399,3 +399,46 @@ The GM neither confirmed nor denied additional details in-game.
 **Key Choice Point:**
 The GM confirmed a key choice: Castor could have been re-cursed, but the party chose to channel the energy into the Seal of Unmaking.
 This will have consequences.
+
+---
+
+### Session 4 — GM Observations
+
+**Severin's Crackdown:**
+Severin's imprisonment of bards and performers suggests a crackdown on dissent or cultural expression beyond religious enforcement — he may be consolidating control in Aurelion.
+
+**Church Awareness:**
+The Corona Vigil presence at the Chryseum suggests the broader Church may already be aware that something is wrong in Aurelion, independent of Roderic's message to Beaconhold.
+
+**Harlequin Presence:**
+The Harlequins have a significant and organized presence in Aurelion — multiple followers arrested, at least one escaping, and celebration resonating with crowds above.
+
+**The Morrow Plan:**
+Severin's claim that the Morrows are heralds of renewal, combined with Count Marrow hiring the party to retrieve the Seal of Unmaking, implies a coordinated plan to release ruin and then awaken renewal — though the Laughing One's interference has corrupted the process.
+
+**Brenn's Faction:**
+Dawnwarden Brenn's theology presents a nuanced faction within the Luciferian faith that is neither heretical nor orthodox — they honor Lucifer but acknowledge the limits of his ascension.
+
+**Roderic's Dilemma:**
+Roderic's reluctance to fight the Order of the Eclipsed Sword sets up a compelling moral dilemma for next session.
+
+**Harlequin Compliance:**
+The Harlequins obeying Roderic's command is interesting — suggests either genuine compliance or strategic patience.
+
+
+## The Starfall Caravan Company — GM Secrets
+
+See also: [[The Starfall Caravan Company]]
+
+### Cassian Vellor
+Ambitious second son of one of the current directors of the Starfall Caravan Company.
+Cassian has become aware that someone appeared at the home office recently with papers proving a founding stake in the company, which initially caused quite a stir.
+The old man asked for very little and has thus far been allowed to draw down on petty funds when visiting Starfall trading posts.
+
+Eager to prove his worth, Cassian suspects that Garland is a fraud — some kind of necromancer wearing the founder's identity, or maybe even something worse.
+He is out to prove it.
+
+### Potential Story Beats
+- Cassian could confront the party or hire investigators to expose Garland
+- The company's resources could become a plot asset or liability depending on how the ownership dispute plays out
+- Cassian's investigation could draw unwanted attention to the party at a time when they are already wanted

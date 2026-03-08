@@ -59,6 +59,11 @@ def extract_title(text):
     return m.group(1).strip() if m else None
 
 
+def strip_title_heading(text):
+    """Remove the first H1 heading line from markdown text."""
+    return re.sub(r"^# .+\n?", "", text, count=1)
+
+
 def build_reverse_alias_map():
     """Read entity-aliases.yaml, return {slug: [alias1, alias2, ...]}."""
     if not ALIASES_FILE.exists():
@@ -157,6 +162,9 @@ def build_content(alias_map):
         # Extract date for session files
         date = extract_date_played(text) if tag == "session" else None
 
+        # Strip H1 heading (Quartz renders title from frontmatter)
+        text = strip_title_heading(text)
+
         # Inject frontmatter
         text = inject_frontmatter(text, title, aliases, tag, date)
 
@@ -214,6 +222,7 @@ def copy_site_content():
 
         text = md_file.read_text(encoding="utf-8")
         title = extract_title(text) or slugname_to_title(md_file.stem)
+        text = strip_title_heading(text)
         text = inject_frontmatter(text, title, [], None)
 
         dest = CONTENT_DIR / md_file.name
@@ -235,6 +244,7 @@ def create_index():
         cards = extract_pc_cards()
         text = text.replace("<!-- CHARACTER_CARDS -->", cards)
         title = extract_title(text) or "Echoes of the Godstorm"
+        text = strip_title_heading(text)
         text = inject_frontmatter(text, title, [], None)
         (CONTENT_DIR / "index.md").write_text(text, encoding="utf-8")
         return True
@@ -245,6 +255,7 @@ def create_index():
         return False
     text = INDEX_SOURCE.read_text(encoding="utf-8")
     title = extract_title(text) or "Echoes of the Godstorm"
+    text = strip_title_heading(text)
     text = inject_frontmatter(text, title, [], None)
     (CONTENT_DIR / "index.md").write_text(text, encoding="utf-8")
     return True

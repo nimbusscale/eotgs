@@ -167,6 +167,30 @@ All narrative content must read like fiction. A reader should never be able to t
 
 Include only when the GM was explicitly uncertain, said "let's rule it this way for now," or said they need to check the book later. Do NOT include confident rules explanations or character fiction establishment.
 
+### Entity update scope
+
+Entity updates should contain only **durable facts** that would belong on the entity's wiki page and matter beyond this session. Think of it as updating a reference card, not narrating what happened.
+
+**Include in entity_updates:**
+- New relationships, contacts, or affiliations established
+- Abilities, constraints, or ongoing conditions (especially new limitations or unlocked powers)
+- Backstory or lore revelations about the entity
+- Drives, motivations, or character traits revealed
+- Architectural details, lore, or structural facts about locations
+- Faction structure, theology, or organizational information
+- Durable status changes that persist until explicitly resolved (e.g., "is now wanted", "lost access to beaver form", "has been imprisoned") — as distinct from in-progress situations like "soldiers are approaching" or "camped outside the walls"
+
+**Do NOT include in entity_updates (use major_events instead or omit):**
+- Combat actions or tactical choices already described in major_events
+- Temporary states that resolve within the session (captured then freed, fought then won)
+- Transient situational facts that will resolve in the next session or two — in-progress threats ("preparing to arrest him"), temporary positioning ("has made camp outside the walls"), and cliffhanger states. These belong in major_events or the session summary. The test: is this a *status change* (durable until explicitly resolved) or a *situation in progress* (will naturally resolve as events continue)?
+- Session-specific behavior ("remained hidden", "chose to ignore a fleeing prisoner")
+- Information already captured in a major_event, another entity's update, or a location/faction entry
+- Environmental observations that belong in a location entry, not a character entry
+- Blow-by-blow action sequences — summarize the lasting consequence, not the play-by-play
+
+**Test:** Would a reader preparing for the *next* session need this on the entity's reference page? If it only matters for understanding *this* session's story, it belongs in major_events or the summary, not entity_updates.
+
 ### Date extraction (chunk 0 only)
 
 If this is chunk 0, extract the session date from the first timestamped line. Expected format: `[M/DD/YYYY H:MM AM/PM]`. Report it in `session_date` field as YYYY-MM-DD.
@@ -254,6 +278,12 @@ Merge the results across all chunks:
 3. **Deduplicate entities** — Same NPC/location/item appearing in multiple chunks? Merge to one entry with combined description and notes.
 
 4. **Merge entity updates** — Same entity updated in multiple chunks? Combine `new_info` into one entry.
+
+   After merging, triage each entity update entry:
+   - **Keep** items that are durable reference facts (new contacts, abilities, constraints, lore, drives, faction info).
+   - **Drop** items that are session-specific actions already covered by major_events, temporary states, or blow-by-blow combat details.
+   - **Promote to major_event** any item that describes a significant plot moment rather than a durable fact (e.g., "used Eyes of the Faithful to confirm Severin's sincerity" is a plot event, not a wiki fact — though its *consequence* like "now trusts Severin" could remain as an entity update).
+   - Apply the test: would someone preparing for the next session need this on the entity's reference page?
 
 5. **Resolve cross-chunk references** — If "the old wizard" in chunk 1 becomes clearly identifiable as Garland by chunk 3, resolve it. Move resolved items from `unresolved_references` to the appropriate category. Flag truly ambiguous items in `unresolved_references`.
 

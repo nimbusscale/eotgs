@@ -24,6 +24,14 @@ The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to 
 Whether it connects to actual elven ancestry or something else entirely remains an open question.
 Both Garland and Castor carry this trait.
 
+## The Starfall Caravan Company
+**Source:** Background notes
+**Related:** [[Garland yn Greenholt]], [[The Starfall Caravan Company]], [[Beaconhold]]
+
+Garland holds an ancient founding share in [[The Starfall Caravan Company]], but the current management assumed their silent partner died generations ago.
+His reappearance with proof of ownership caused a stir at the company's home office.
+How the company reacts to a centuries-old founder returning to claim his stake remains to be seen.
+
 ## Friction with Aldric
 **Source:** [[Session 1]]
 **Related:** [[Garland yn Greenholt]], [[Aldric Garlandsson]], [[Crownvale]]

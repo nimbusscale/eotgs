@@ -79,6 +79,7 @@ Has never had much use for gods.
 - Wields [[Second Harvest]], a legendary great sword with a storied past
 - Carries foreign candy (butterscotch) as treats for grandchildren
 - Previously consulted [[The Triune]] about [[Castor]]'s curse but kept the druid's true identity secret
+- Holds an ancient founding share in [[The Starfall Caravan Company]], a merchant consortium he invested in after a devastating winter famine in the Vale; carries documents and a founder's challenge coin as proof of ownership
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation

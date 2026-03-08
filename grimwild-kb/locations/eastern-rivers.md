@@ -7,7 +7,7 @@
 An independent region bordering the Kingdom of [[Beaconhold]].
 Fed by springs and snowmelt from the [[Bonewall]].
 Remote enough that tax collectors don't visit.
-The rivers cut through the [[Cragmarr]], providing passage to the [[Great Lake]].
+The rivers cut through the [[Cragmarr]], providing passage to the [[Solivum]].
 
 ## Notable Features
 - [[Edric Bloom]]'s homeland
@@ -18,8 +18,8 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Great Lake]]
 - [[Beaconhold]] — The kingdom to the west
 - [[Bonewall]] — The mountain range that feeds the rivers
 - [[Cragmarr]] — The rivers cut through this region, providing the only reliable passage to the lake
-- [[Great Lake]] — Destination of the rivers
-- Port City (name TBD) — Located on the border between Beaconhold, the Eastern Rivers, and the Great Lake
+- [[Solivum]] — The great lake the rivers feed into
+- [[Havens Reach]] — Port town where the Eastern Rivers meet the Solivum
 
 ## Associated NPCs
 - [[Edric Bloom]] — Born in a small village here

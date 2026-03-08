@@ -44,6 +44,123 @@ SMALL_WORDS = {
 }
 
 
+def slugify_name(name):
+    """Convert a display name to a filename slug (lowercase, hyphens, no articles/punctuation)."""
+    s = name.lower().strip()
+    # Drop leading articles
+    s = re.sub(r"^(the|a|an)\s+", "", s)
+    # Remove punctuation except hyphens
+    s = re.sub(r"[^\w\s-]", "", s)
+    # Replace whitespace with hyphens
+    s = re.sub(r"\s+", "-", s)
+    return s
+
+
+def build_wikilink_map():
+    """Build a lookup from display names to content-relative paths for wiki-link resolution."""
+    # 1. Scan KB_DIR for all .md files → {slug: "subdir/slug"} (no .md extension)
+    slug_to_path = {}
+    slug_to_title = {}
+    for md_file in KB_DIR.rglob("*.md"):
+        rel = md_file.relative_to(KB_DIR)
+        # Path without .md extension, using forward slashes
+        rel_path = str(rel.with_suffix("")).replace("\\", "/")
+        slug = md_file.stem
+        slug_to_path[slug] = rel_path
+
+        # Extract H1 title from file
+        text = md_file.read_text(encoding="utf-8")
+        title = extract_title(text)
+        if title:
+            slug_to_title[slug] = title
+
+    # 2. Build the wikilink map: {display_name: relative_path}
+    wikilink_map = {}
+
+    # Load the forward alias map from entity-aliases.yaml
+    if ALIASES_FILE.exists():
+        with open(ALIASES_FILE, encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+        for category in data.values():
+            if not isinstance(category, dict):
+                continue
+            for alias, slug in category.items():
+                if slug in slug_to_path:
+                    wikilink_map[alias] = slug_to_path[slug]
+
+    # Also map article-stripped forms of aliases (e.g., "Farus Lucis" from "The Farus Lucis")
+    for alias in list(wikilink_map):
+        stripped = re.sub(r"^(?:The|A|An)\s+", "", alias)
+        if stripped != alias and stripped not in wikilink_map:
+            wikilink_map[stripped] = wikilink_map[alias]
+
+    # Map each slug directly (e.g., "nodrum" → "locations/nodrum")
+    for slug, path in slug_to_path.items():
+        if slug not in wikilink_map:
+            wikilink_map[slug] = path
+
+    # Map each file's H1 title (e.g., "The Nodrum" → "locations/nodrum")
+    for slug, title in slug_to_title.items():
+        if title not in wikilink_map and slug in slug_to_path:
+            wikilink_map[title] = slug_to_path[slug]
+
+    # Build a case-insensitive slugified lookup as fallback
+    # Maps slugified form of name → path (e.g., "session-2" → "sessions/session-2")
+    slug_form_map = {}
+    for slug, path in slug_to_path.items():
+        slug_form_map[slug] = path
+    # Don't overwrite explicit entries — this is only used as fallback in resolve_wikilinks
+
+    return wikilink_map, slug_form_map
+
+
+_WIKILINK_RE = re.compile(r"\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]")
+
+
+def resolve_wikilinks(text, wikilink_map, slug_form_map):
+    """Resolve wiki-links to full content-relative paths for Quartz."""
+
+    def _replace(m):
+        raw_target = m.group(1).strip()
+        alias = m.group(2)
+
+        # Already has a path separator — leave it alone
+        if "/" in raw_target:
+            return m.group(0)
+
+        # Split off anchor (e.g., "Old Gods and New Gods#The Suppression")
+        if "#" in raw_target:
+            target, anchor = raw_target.split("#", 1)
+            target = target.strip()
+            anchor = "#" + anchor.strip()
+        else:
+            target = raw_target
+            anchor = ""
+
+        display = alias.strip() if alias else target  # use target (without anchor), not raw_target
+
+        # Lookup priority:
+        # 1. Exact match in wikilink_map (aliases + titles)
+        path = wikilink_map.get(target)
+        # 2. Slugified form lookup
+        if path is None:
+            path = slug_form_map.get(slugify_name(target))
+        # 3. Lowercase exact match (handles case mismatches)
+        if path is None:
+            target_lower = target.lower()
+            for key, val in wikilink_map.items():
+                if key.lower() == target_lower:
+                    path = val
+                    break
+
+        if path is None:
+            return m.group(0)  # Leave unresolved
+
+        return f"[[{path}{anchor}|{display}]]"
+
+    return _WIKILINK_RE.sub(_replace, text)
+
+
 def slugname_to_title(slug):
     """Convert a filename slug to title case."""
     words = slug.split("-")
@@ -62,6 +179,11 @@ def extract_title(text):
 def strip_title_heading(text):
     """Remove the first H1 heading line from markdown text."""
     return re.sub(r"^# .+\n?", "", text, count=1)
+
+
+def strip_summary_section(text):
+    """Remove the ## Summary section from markdown text."""
+    return re.sub(r"^## Summary\n.*?(?=^## |\Z)", "", text, flags=re.MULTILINE | re.DOTALL)
 
 
 def build_reverse_alias_map():
@@ -127,7 +249,7 @@ def inject_frontmatter(text, title, aliases, tag, date=None):
     return f"---\n{fm_str}\n---\n\n{text}"
 
 
-def build_content(alias_map):
+def build_content(alias_map, wikilink_map, slug_form_map):
     """Copy KB files to content dir, injecting frontmatter. Returns stats."""
     copied = 0
     warnings = []
@@ -161,6 +283,13 @@ def build_content(alias_map):
 
         # Extract date for session files
         date = extract_date_played(text) if tag == "session" else None
+
+        # Strip summary section from session files (kept in KB exports for AI context)
+        if tag == "session":
+            text = strip_summary_section(text)
+
+        # Resolve wiki-links to full paths before stripping headings
+        text = resolve_wikilinks(text, wikilink_map, slug_form_map)
 
         # Strip H1 heading (Quartz renders title from frontmatter)
         text = strip_title_heading(text)
@@ -210,7 +339,7 @@ def extract_pc_cards():
     return "\n\n".join(cards)
 
 
-def copy_site_content():
+def copy_site_content(wikilink_map, slug_form_map):
     """Copy content/*.md (except home.md) to site/content/, injecting frontmatter."""
     if not CONTENT_SRC_DIR.exists():
         return 0
@@ -222,6 +351,7 @@ def copy_site_content():
 
         text = md_file.read_text(encoding="utf-8")
         title = extract_title(text) or slugname_to_title(md_file.stem)
+        text = resolve_wikilinks(text, wikilink_map, slug_form_map)
         text = strip_title_heading(text)
         text = inject_frontmatter(text, title, [], None)
 
@@ -232,7 +362,7 @@ def copy_site_content():
     return copied
 
 
-def create_index():
+def create_index(wikilink_map, slug_form_map):
     """Build the landing page from content/home.md with character cards.
 
     Falls back to campaign-index.md if content/home.md doesn't exist.
@@ -244,6 +374,7 @@ def create_index():
         cards = extract_pc_cards()
         text = text.replace("<!-- CHARACTER_CARDS -->", cards)
         title = extract_title(text) or "Echoes of the Godstorm"
+        text = resolve_wikilinks(text, wikilink_map, slug_form_map)
         text = strip_title_heading(text)
         text = inject_frontmatter(text, title, [], None)
         (CONTENT_DIR / "index.md").write_text(text, encoding="utf-8")
@@ -255,6 +386,7 @@ def create_index():
         return False
     text = INDEX_SOURCE.read_text(encoding="utf-8")
     title = extract_title(text) or "Echoes of the Godstorm"
+    text = resolve_wikilinks(text, wikilink_map, slug_form_map)
     text = strip_title_heading(text)
     text = inject_frontmatter(text, title, [], None)
     (CONTENT_DIR / "index.md").write_text(text, encoding="utf-8")
@@ -308,17 +440,21 @@ def main(argv=None):
     alias_map = build_reverse_alias_map()
     print(f"Loaded {sum(len(v) for v in alias_map.values())} aliases across {len(alias_map)} entities")
 
+    # Build wiki-link resolution map
+    wikilink_map, slug_form_map = build_wikilink_map()
+    print(f"Built wikilink map with {len(wikilink_map)} entries")
+
     # Copy and transform KB files
-    copied, warnings = build_content(alias_map)
+    copied, warnings = build_content(alias_map, wikilink_map, slug_form_map)
     print(f"Copied {copied} files to {CONTENT_DIR.relative_to(REPO_ROOT)}")
 
     # Copy hand-authored site content
-    content_copied = copy_site_content()
+    content_copied = copy_site_content(wikilink_map, slug_form_map)
     if content_copied:
         print(f"Copied {content_copied} content files from content/")
 
     # Create landing page
-    if create_index():
+    if create_index(wikilink_map, slug_form_map):
         src = "content/home.md" if (CONTENT_SRC_DIR / "home.md").exists() else "campaign-index.md"
         print(f"Created index.md from {src}")
 

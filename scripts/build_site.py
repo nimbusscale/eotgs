@@ -154,7 +154,7 @@ def resolve_wikilinks(text, wikilink_map, slug_form_map):
                     break
 
         if path is None:
-            return m.group(0)  # Leave unresolved
+            return display  # Render as plain text, not a broken link
 
         return f"[[{path}{anchor}|{display}]]"
 

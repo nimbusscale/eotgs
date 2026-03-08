@@ -5,8 +5,9 @@
 **Affiliation:** [[The Light]]
 
 ## Description
-A severe man who runs [[The Chryseum]], the cathedral of [[The Light]] in [[Aurelion]].
+A severe man who runs the Chryseum, the cathedral of [[The Light]] in [[Aurelion]].
 He is the third son of [[Count Albrecht Marrow]].
+Wears the [[Whiteglass]] pendant of a Luminary.
 
 ## Appearance
 **Colors:** Whiteglass pale, liturgical gold, shadow black, candle-flame amber
@@ -22,10 +23,26 @@ Not cruel, but *certain* — and certainty in the wrong hands cuts deeper than m
 Leads the congregation in [[Aurelion]].
 He believes all bards and storytellers are liars and charlatans.
 His preaching has turned at least a portion of his flock against performers and tale-tellers.
+Ordered the imprisonment of bards, performers, and suspected Harlequin followers in the church dungeon beneath the Chryseum.
+
+Claimed the Morrow family have been worshippers of renewal since [[Beaconhold]]'s founding.
+He identified himself, his father [[Count Albrecht Marrow]], and [[Dawnwarden Brenn]] as the heralds of renewal — the counterparts to the party's heralds of ruin.
+Stated that his father has searched his entire life for a way to release ruin so that renewal could return.
+Acknowledged the Laughing One has manipulated events to pit the heralds of ruin and renewal against each other.
+Believes ruin is not acting within its nature — behaving like a wounded animal rather than a natural force.
+Demonstrated the ability to open the hidden entrance to the [[Shrine of Renewal]] beneath the Chryseum, his hands glowing green as he activated the mechanism.
+Identified [[Count Albrecht Marrow|Count Marrow]] as the missing herald needed to complete the connection and unlock the cocoon of renewal.
 
 ## Relationships
-- [[Count Albrecht Marrow]] — His father
-- [[The Light]] — His religious affiliation; he serves as a luminary
+- [[Count Albrecht Marrow]] — His father; they share the family's secret worship of renewal
+- [[The Light]] — His religious affiliation; he serves as a luminary, but holds heterodox views
+- [[Dawnwarden Brenn]] — Ally and fellow herald of renewal; she and the [[Order of the First Dawn]] protect him
+- [[Corona Vigil]] — The Inquisition is investigating him for heterodox beliefs
+- [[Order of the Eclipsed Sword]] — The Inquisition's military arm, arrived to arrest him
 
 ## Key Events
 - Has been turning his congregation against bards and storytellers
+- [[Session 4]] — Imprisoned suspected Harlequins beneath the Chryseum; revealed himself to the party as a herald of renewal; opened the hidden staircase to the [[Shrine of Renewal]]; led the party to the dormant God of Renewal; argued for cooperation between heralds of ruin and renewal; identified his father as the missing herald
+
+## Session Appearances
+- [[Session 4]]

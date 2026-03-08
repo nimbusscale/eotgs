@@ -11,6 +11,8 @@ Local legends know the Witch Stones exist somewhere in the Ashen Vale, but their
 
 ## Properties
 The Witch Stones are the source of [[Garland yn Greenholt]]'s magical power.
+He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries.
+The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, suggesting a connection between these ancient sites.
 The full extent of what they do and how their power works is still to be established in play.
 
 ## History

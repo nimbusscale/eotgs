@@ -41,6 +41,8 @@ characters:
   "Aurea": "triune"
   "Venn": "triune"
   "Delta": "triune"
+  "Dawnwarden Brenn": "dawnwarden-brenn"
+  "Brenn": "dawnwarden-brenn"
   "Appearance": "captain-eisen-dorn"
 
 locations:
@@ -69,6 +71,8 @@ locations:
   "Mendrath Baths": "aurelion"
   "The Mendrath Baths": "aurelion"
   "Aurelion Vault": "nodrum"
+  "Shrine of Renewal": "shrine-of-renewal"
+  "Temple of Renewal": "shrine-of-renewal"
   "The Chryseum": "aurelion"
   "Chryseum": "aurelion"
   "Lower Ashen Flow": "ashen-flow"
@@ -120,6 +124,13 @@ factions:
   "Aureate": "the-light"
   "The Fallow One": "old-gods"
   "The Wild Hunt": "old-gods"
+  "Order of the First Dawn": "order-of-first-dawn"
+  "The Order of the First Dawn": "order-of-first-dawn"
+  "Corona Vigil": "corona-vigil"
+  "The Corona Vigil": "corona-vigil"
+  "Order of the Eclipsed Sword": "order-of-eclipsed-sword"
+  "The Order of the Eclipsed Sword": "order-of-eclipsed-sword"
+  "Eclipsed Sword": "order-of-eclipsed-sword"
 
 world:
   "Imperium Lucis Aeternae": "imperium-lucis-aeternae"

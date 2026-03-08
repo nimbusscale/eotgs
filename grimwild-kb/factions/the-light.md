@@ -38,9 +38,22 @@ Enforcement of the faith varies by region:
 - In [[Beaconhold]], it is the state religion — supported but not mandated; other religions are tolerated but not supported
 - Other places vary in tolerance
 
+## Internal Orders
+- **[[Corona Vigil]]** — The Church's inquisitorial branch, responsible for investigating heresy and heterodox beliefs
+- **[[Order of the Eclipsed Sword]]** — The Corona Vigil's military enforcement arm
+- **[[Order of the First Dawn]]** — A small but respected paladinic order stationed at the Chryseum in [[Aurelion]], led by [[Dawnwarden Brenn]]
+
+## Theological Division
+There is division within the faith regarding ruin and renewal.
+Orthodox Luciferians believe ruin should remain suppressed.
+The Morrows and the [[Order of the First Dawn]] believe ruin and renewal must coexist as natural forces — that Lucifer's suppression of ruin, while well-intentioned, caused renewal to go dormant, leading to centuries of stagnation.
+The [[Corona Vigil]] considers this position heretical and has dispatched the [[Order of the Eclipsed Sword]] to arrest [[Luminary Severin Morrow]] and [[Count Albrecht Marrow]].
+
 ## Notable Members
 - [[Sir Roderic Lightbearer]] — Paladin, devoted worshipper
-- [[Count Albrecht Marrow]] — Major donor with sons in influential clerical positions
+- [[Count Albrecht Marrow]] — Major donor with sons in influential clerical positions; secretly a worshipper of renewal
+- [[Luminary Severin Morrow]] — Leads the Chryseum in [[Aurelion]]; secretly a herald of renewal
+- [[Dawnwarden Brenn]] — Leader of the [[Order of the First Dawn]]; herald of renewal
 
 ## Relationships
 - [[Beaconhold]] — The Church is the state religion here
@@ -53,6 +66,4 @@ Enforcement of the faith varies by region:
 ## History with Party
 - [[Session 0]] — Roderic is a Luciferian paladin; the Church's history with the Old Gods is central to the story
 - [[Session 2]] — Roderic recognized the grand cathedral's architectural signatures on [[The Nodrum]]'s facade; the Light's fortresses along the [[Bonewall]] are crumbling as ruin's influence spreads; a champion of Lucifer was erased from existence by [[The Xan-Kor]] during the old wars, undoing a pivotal victory
-
-## Notes
-Other smaller faiths exist (like [[Edric Bloom]]'s private religion), generally tolerated in Beaconhold but not in all places.
+- [[Session 4]] — The [[Corona Vigil]] was observed investigating the Chryseum; [[Dawnwarden Brenn]] shared heterodox theology about ruin and renewal; [[Luminary Severin Morrow|Severin]] revealed the Morrows as worshippers of renewal; the [[Order of the Eclipsed Sword]] arrived to arrest the Morrows

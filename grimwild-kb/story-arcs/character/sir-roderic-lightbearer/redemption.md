@@ -15,19 +15,28 @@ His successful blessings in the [[Crownvale]] tavern and his commanding invocati
 
 Ruin struck at Roderic's core identity as a protector — his door lock crumbled in his hands, and ley line energy passing through him emerged corrupted.
 He learned the Light's ancient protections along the [[Bonewall]] are crumbling.
-He has begun theorizing about a larger conspiracy involving [[Luminary Severin Morrow|Severin]] and [[Count Albrecht Marrow|Marrow]], deepening his understanding of the threat.
+
+Beneath the Chryseum, Roderic demonstrated his commitment to protecting life by refusing to seriously harm the Aureate guards even when outnumbered.
+His divine decree successfully commanded the Harlequin prisoners, showing his faith remains potent.
+He proactively sent intelligence about the old gods and [[Count Albrecht Marrow|Marrow]]'s corruption to [[Beaconhold]].
+He faced a theological challenge when [[Dawnwarden Brenn]] called Lucifer's suppression of ruin hubris, but resolved it by interpreting his journey as divinely guided: "I believe Lucifer's light shall guide us all, and he's guided me here already."
+He used his Eyes of the Faithful to scrutinize Brenn and [[Luminary Severin Morrow|Severin]], confirming their sincerity.
+Now he faces his most direct crisis — the [[Order of the Eclipsed Sword]], a military order of his own faith, stands between the party and the man they need to awaken renewal.
 
 ## Open Questions
 - Can Roderic's faith overcome the influence of ruin, or is Lucifer's power insufficient against the old gods?
 - What happened to Roderic's battalion, and was his faith truly to blame?
-- Will the shrine of Renewal beneath the Chryseum challenge or strengthen his faith?
-- Is there a conspiracy between [[Luminary Severin Morrow|Severin]] and [[Count Albrecht Marrow|Marrow]]?
+- How will Roderic reconcile his Luciferian faith with the revelation that Lucifer's suppression of ruin may have caused centuries of stagnation?
+- Can Roderic retrieve [[Count Albrecht Marrow|Count Marrow]] from the [[Order of the Eclipsed Sword]] — his own faith's military order — without betraying his vows?
 
 ## Answered Questions
+- **Will the shrine of Renewal beneath the Chryseum challenge or strengthen his faith?** — Both; [[Dawnwarden Brenn]]'s theology challenged him, but he resolved it by interpreting his journey as divinely guided ([[Session 4]])
+- **Is there a conspiracy between Severin and Marrow?** — Yes, but they are heralds of renewal, not villains; the Morrows believed releasing ruin was necessary to awaken renewal ([[Session 4]])
 
 ## Key Events
 - [[Session 1]] — Failed to heal horses (ruin overwhelmed his power); successfully delivered a blessing in Crownvale defending the horse seller Laura; warned Edric that endorsing "new beginnings through destruction" feeds ruin's power
 - [[Session 2]] — Recognized Luciferian architecture on [[The Nodrum]]; ley line energy passing through him emerged corrupted during the ritual; ruin crumbled his door lock overnight; invoked his authority as a knight of [[Lucifer]] to free the Harlequin Jimmy from the Aureate; attempted to convert Jimmy to the Light
+- [[Session 4]] — Sent intelligence to [[Beaconhold]] before his capture; refused to harm guards even outnumbered; his divine decree commanded Harlequin prisoners; negotiated passage with [[Dawnwarden Brenn]]; resolved his theological crisis; confirmed Brenn and Severin's sincerity with Eyes of the Faithful; discovered the [[Shrine of Renewal]]; now faces the [[Order of the Eclipsed Sword]] blocking access to Count Marrow
 
 ## Related Entities
 - [[The Light]] — His faith and order
@@ -36,3 +45,7 @@ He has begun theorizing about a larger conspiracy involving [[Luminary Severin M
 - [[Crownvale]] — Where his blessing succeeded
 - [[The Nodrum]] — Where the corrupted ritual shook his faith further
 - [[Bonewall]] — Luciferian fortresses now crumbling
+- [[Dawnwarden Brenn]] — Fellow paladin; challenged his theology but confirmed as sincere
+- [[Luminary Severin Morrow]] — Revealed as herald of renewal; confirmed sincere by Eyes of the Faithful
+- [[Shrine of Renewal]] — Where the dormant God of Renewal sleeps
+- [[Order of the Eclipsed Sword]] — His own faith's military order, now blocking the mission

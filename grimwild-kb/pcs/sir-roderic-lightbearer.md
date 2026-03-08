@@ -67,13 +67,16 @@ He wears recognizable church armor and is identifiable as a paladin.
 
 ## Current Threads
 - Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted
-- His faith proved effective against mortal authority: his invocation of Luciferian authority cowed the Aureate soldiers into backing down
-- Theorizing about a larger conspiracy involving [[Luminary Severin Morrow|Severin]] and [[Count Albrecht Marrow|Marrow]]
+- His faith proved effective against mortal authority: divine decrees command obedience from both Aureate soldiers and Harlequin prisoners
+- Sent word directly to [[Beaconhold]] about the old gods' return and [[Count Albrecht Marrow|Marrow]]'s corruption, bypassing [[Luminary Severin Morrow|Severin]]'s authority
 - The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
-- On assignment as knight errant, tasked with redemption through deeds
-- Headed to the Chryseum in [[Aurelion]] to seek the shrine of Renewal
+- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds; his drive is "Endanger yourself to save or protect someone else"
+- Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
+- The [[Order of the Eclipsed Sword]] — his own faith's military order — has arrived to arrest the herald the party needs most, creating a direct conflict between his mission and his faith
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Persuaded the dire coyotes to let the party pass; failed to heal horses (ruin overwhelmed his power); delivered a stirring blessing in Crownvale defending the horse seller Laura
 - [[Session 2]] — Recognized Luciferian architectural signatures on [[The Nodrum]]'s facade; held a mirror during the ritual to contain [[The Xan-Kor]]; ruin corrupted ley lines passing through him; invoked his authority as a knight of [[Lucifer]] to force the Aureate to release Jimmy; attempted to convert Jimmy to the Light
+- [[Session 3]] — Separated from the party while entering [[Aurelion]] through the mine tunnels
+- [[Session 4]] — Sent intelligence to [[Beaconhold]] via a Luciferian priest; captured by the Aureate and imprisoned beneath the Chryseum; freed by [[Castor]] and [[Garland yn Greenholt|Garland]]; issued a divine decree commanding freed Harlequins back into their cells; negotiated passage with [[Dawnwarden Brenn]]; used Eyes of the Faithful to confirm Brenn and Severin's sincerity; descended into the [[Shrine of Renewal]] and felt the interlocking herald connection; resolved his theological crisis by interpreting his journey as divinely guided

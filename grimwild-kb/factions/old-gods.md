@@ -27,7 +27,10 @@ Without renewal's balance, centuries of pent-up ruinous energy were released all
 Ruin's influence is carried by the party themselves (the "heralds of ruin"), destabilizing ancient wards and corrupting ley line energy.
 The corruption extends to altering reality itself — changing the past so things once protected are now ruined.
 Ruin targets each person's core identity: protection ([[Sir Roderic Lightbearer|Roderic]]), knowledge ([[Garland yn Greenholt|Garland]]), inspiration ([[Edric Bloom|Edric]]), creation ([[Castor]]).
-Balance can supposedly be restored by reuniting the heralds of ruin with the heralds of renewal.
+According to both [[Dawnwarden Brenn]] and [[Luminary Severin Morrow]], ruin is not behaving as it should — acting like a wounded animal rather than a cunning natural force.
+Something has corrupted its release, and they suspect the Laughing One's interference.
+Brenn stated that Lucifer locked ruin away long ago, which started a chain reaction that caused renewal to go dormant, leading to centuries of stagnation and civilizational decline.
+Balance can be restored by reuniting the heralds of ruin with the heralds of renewal.
 
 ### Those Who Honor Ruin
 
@@ -70,7 +73,14 @@ They come to Ruin not from philosophy but from need.
 
 Renewal is ruin's counterpart among the old gods; without it, there is decay without rebirth.
 Renewal also has heralds who must be found and reunited with the heralds of ruin to restore balance.
-An old shrine to the God of Renewal exists beneath the Chryseum in [[Aurelion]], where the party hopes to find clues.
+The God of Renewal sleeps within a translucent cocoon in the [[Shrine of Renewal]], an ancient chamber beneath the Chryseum in [[Aurelion]].
+The cocoon inspires an instinctive, parental urge to protect it in all who behold it.
+The sleeping form within is never clearly resolved — just a curve, a shadow suggesting dormant but living presence.
+Renewal cannot be active without ruin — when Lucifer locked ruin away, renewal went dormant, leading to centuries of stagnation.
+The Morrow family has maintained worship of renewal for generations; [[Luminary Severin Morrow]], [[Count Albrecht Marrow]], and [[Dawnwarden Brenn]] are identified as heralds of renewal.
+Signs of renewal's proximity manifest when both herald groups are near: moss grows through cracks of ruin, torches reignite with soft white light.
+Unlocking the cocoon requires the presence of multiple heralds who feel an interlocking connection like puzzle pieces.
+Residual renewal energy can partially counteract the effects of ruin.
 
 ### Followers of Renewal
 
@@ -144,6 +154,7 @@ Mix both for unsettling effect.
 ## Sources
 - [[Session 0]] — Established during world-building
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
+- [[Session 4]] — The dormant God of Renewal discovered in the [[Shrine of Renewal]]; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer's suppression revealed as cause of renewal's dormancy
 
 ## Notes
 For most of history, the Old Gods existed in tension with each other — sometimes balanced, sometimes in conflict.

@@ -14,6 +14,10 @@ He is a major donor, with several sons holding influential clerical positions.
 Marrow commissioned [[Edric Bloom]] and the party to retrieve the [[Seal of Unmaking]] from [[Ashbrook]], describing it as a rare but otherwise unremarkable [[Whiteglass]] holy symbol.
 In hindsight, the inclusion of a sealed metal container with warding locks — absent from his previous commissions — and the near total lack of information about the local populace made it clear he knew the relic's true nature.
 
+According to [[Luminary Severin Morrow|Severin]], the Morrow family have been secret worshippers of renewal since [[Beaconhold]]'s founding.
+Count Marrow has been searching his entire life for a way to release ruin so that renewal could return, continuing a family tradition stretching back generations.
+Severin identified him as a herald of renewal — the missing piece needed to complete the puzzle and unlock the cocoon at the [[Shrine of Renewal]] beneath the Chryseum.
+
 ## Methods
 Those who cross Marrow are rarely punished openly.
 Instead, sermons and homilies begin to reference their moral failings, and their reputations quietly erode until the common folk turn against them.
@@ -37,8 +41,10 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 - [[Session 0]] — Commissioned the party to retrieve the Seal of Unmaking from [[Ashbrook]]
 - [[Session 1]] — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold
 - [[Session 2]] — The Harlequin Jimmy claimed both Marrow and the party are "puppets on the Laughing One's strings"; [[Sir Roderic Lightbearer|Roderic]] suspects a conspiracy involving Marrow and [[Luminary Severin Morrow|Severin]]
+- [[Session 4]] — [[Luminary Severin Morrow|Severin]] revealed Marrow as a herald of renewal and the missing piece needed to unlock the cocoon; the [[Order of the Eclipsed Sword]] arrived at Crest Aurelion to arrest him
 
 ## Session Appearances
 - [[Session 0]]
 - [[Session 1]]
 - [[Session 2]]
+- [[Session 4]]

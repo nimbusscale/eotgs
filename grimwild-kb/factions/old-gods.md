@@ -155,9 +155,3 @@ Mix both for unsettling effect.
 - [[Session 0]] — Established during world-building
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
 - [[Session 4]] — The dormant God of Renewal discovered in the [[Shrine of Renewal]]; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer's suppression revealed as cause of renewal's dormancy
-
-## Notes
-For most of history, the Old Gods existed in tension with each other — sometimes balanced, sometimes in conflict.
-That tension was the natural order.
-No force was rejected, because all were necessary.
-Eventually the balance broke down entirely in the event known as the [[Old Gods and New Gods|Godstorm]], which threatened mortal civilization and catalyzed the rise of the New Gods.

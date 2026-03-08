@@ -84,6 +84,8 @@ The cumulative effect of the suppression is a world that has been slowly sickeni
 | **The Fallow One** | Rest, dormancy, the necessary pause | Exhaustion everywhere. Endless labor. No respite. |
 | **The Forgetting** | Release of memory, moving on | Obsession with history. Ghosts. Inability to heal from the past. |
 
+### The Stagnation
+
 With the Old Gods suppressed and their emanations sealed, the world entered a long, slow decline.
 Not dramatic collapse — just entropy without renewal.
 Each era smaller than the last.

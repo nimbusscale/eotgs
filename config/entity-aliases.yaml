@@ -82,13 +82,13 @@ locations:
   "Fortresses and Wards": "bonewall"
   "Fortresses": "bonewall"
   "Eurulian Vaults": "nodrum"
+  "Witch Stones": "ashen-vale"
+  "Witchstones": "ashen-vale"
+  "Shepherd's Teeth": "ashen-vale"
+  "Shepherds Teeth": "ashen-vale"
 
 items:
   "Seal of Unmaking": "seal-of-unmaking"
-  "Witch Stones": "witch-stones"
-  "Witchstones": "witch-stones"
-  "Shepherd's Teeth": "witch-stones"
-  "Shepherds Teeth": "witch-stones"
   "Whiteglass": "whiteglass"
   "The Xan-Kor": "xan-kor"
   "Xan-Kor": "xan-kor"

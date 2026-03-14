@@ -4,20 +4,18 @@
 **Status:** Active
 
 ## Concept
-An extraordinarily old wizard entering his "third act," who carries the [[Greenholt Bloodline]] that grants elven features and an extended lifespan.
+An extraordinarily old warrior-sage entering his "third act," who carries the [[Greenholt Bloodline]] that grants elven features and an extended lifespan.
 He is a former soldier, accidental lord, and guardian of the [[Witch Stones]].
-He serves as the party's wise elder and primary spellcaster.
+He once knew deep magic, but the Curse of Ruin — his burden as the herald of forgetting — stripped most of it away, leaving a frontline fighter who is slowly recovering his arcane knowledge.
 
 ## Stats
-Brawn 2, Agility 1, Wits 3, Presence 2
+STR 2, DEX -1, INT 1, WIS 1, CHA 0
 
-## Personality
+## Playbook
+Fighter (with cross-class Wizard moves)
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Protective | ✓ | Thrills | ✓ |
-| Gentle | ✓ | Wisdom | ✓ |
-| Rash | ✗ | Power | ✗ |
+## Drive
+Step forward where others hesitate.
 
 ## Background
 Garland is extremely old — centuries implied — with elven features but human.
@@ -46,14 +44,18 @@ Has never had much use for gods.
 
 ## Key Traits & Abilities
 
-**Backgrounds:**
-- Old Soldier (Battlefield intuition, Military customs and obligations, "My sword was a plowshare")
-- Scion of the Old Blood (Ancient prophecies, Leylines, Symbologies)
+**Background:** Veteran — Trust your gut; ask the GM one question about how to avoid or prepare for danger; +1 Momentum if the advice is followed
 
-**Talents:**
-- **Spellcraft** *(Core Talent)* — 4 spells and 2 potent spells per session; roll Wits to cast
-- **Spell Theorems:** Phantom Hand (Conjuration), Spirit Wall (Abjuration), Grasping Gate (Conjuration), Mesmerizing Aura (Illusion)
-- **Joyful Warrior** — On a critical or when bloodied in battle, take spark; can clear one mark from each ally or bring a dropped (not dead) ally back into the scene
+**Fighter Moves:**
+- **Signature Weapon** — [[Second Harvest]], a legendary great sword with a storied past
+- **Battle Momentum** — Build momentum in combat to fuel powerful follow-up actions
+- **Particular Set of Skills** — Specialized combat expertise honed over centuries of fighting
+
+**Cross-Class Wizard Moves:**
+- **Evoke a Spell** — Roll+WIS to cast a known spell
+- **Prestidigitation** — Minor magical tricks and cantrips, fragments of his former mastery
+
+**Known Spells:** Immunity, Invisibility
 
 ## Relationships
 - [[Castor]] — Complex Guardianship; believes Castor is a relative (same [[Greenholt Bloodline]], same origin in the [[Ashen Vale]]); helped lift Castor's curse, giving him back his humanity (whether Castor wanted it or not); views himself as the "elder" figure despite Castor being technically older
@@ -64,7 +66,6 @@ Has never had much use for gods.
 - [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
 
 ## Current Threads
-- His drive is "Step forward where others hesitate"
 - Understand the [[Witch Stones]] better — what they do, how their power works; his spellcraft originated from deciphering their carvings
 - Investigate whether other Witch Stones exist elsewhere
 - Understand [[Castor]]'s curse so he can undo it "just in case" before his own time runs out

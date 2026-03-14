@@ -6,11 +6,20 @@
 ## Concept
 [Brief character concept]
 
+## Stats
+STR X, DEX X, INT X, WIS X, CHA X
+
+## Playbook
+[Playbook name] — Level X
+
+## Drive
+[Drive text]
+
 ## Background
 [Character backstory]
 
 ## Key Traits & Abilities
-[Notable capabilities, talents, gear]
+[Notable capabilities, moves, assets]
 
 ## Relationships
 - [[Entity]] - [Relationship description]

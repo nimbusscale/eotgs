@@ -8,15 +8,13 @@ A druid who spent an extraordinarily long time cursed as a beaver, now more beav
 He carries the [[Greenholt Bloodline]] and serves as the party's scout, utility caster, and shapeshifter.
 
 ## Stats
-Brawn 1, Agility 2, Wits 3, Presence 2
+STR 0, DEX 1, INT 1, WIS 2, CHA -1
 
-## Personality
+## Playbook
+Druid
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Protective | ✓ | Belonging | ✓ |
-| Stubborn | ✓ | Harmony | ✓ |
-| Rash | ✗ | Wealth | ✗ |
+## Drive
+Stubbornly protect something others think is not worth saving.
 
 ## Background
 Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
@@ -49,13 +47,20 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 
 ## Key Traits & Abilities
 
-**Backgrounds:**
-- Vagabond (Chance meetings, Faraway tales, Lay of the land)
-- Longtime Animal/Hunter (Survival, Tracks, Wildlife Behavior)
+**Background:** Old Wild — can Shapeshift into any creature he has encountered, not only Attuned creatures
 
-**Talents:**
-- **Wild Shape** *(Core Talent)* — 4d resource pool (replenishes each scene); shift into any beast you're familiar with; take on the form's physical qualities and feral instincts
-- **True Shape** — Choose 1 beast form (beaver); shift without rolling wild shape, even at 0d; beaver is his "true form"
+**Moves:**
+- **Shapeshift** — Transform into an Attuned creature (or any encountered creature via Old Wild background)
+- **Attunement** — Bond with a creature to add it to his Attuned list
+- **Resist Instinct** — Fight the animal instincts that come with a shifted form
+- **Commune** — Speak with the natural world to gain insight
+- **At One With The World** — Deep connection to the natural order
+
+**Attuned Creatures:**
+- Beaver (instinct: reshape the world)
+- Giraffe (TBD)
+
+**Asset:** Home — Beaver Dam (+1 Armor when Settling In at home)
 
 **Shapeshifting Notes:**
 All of Castor's animal forms retain subtle beaver characteristics — a beaver tail on a horse, beaver feet on a giraffe.

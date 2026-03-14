@@ -8,15 +8,13 @@ A Luciferian paladin and war orphan turned knight-errant, devoted to protecting 
 He serves as the party's moral anchor and frontline defender.
 
 ## Stats
-Brawn 3, Agility 2, Wits 1, Presence 2
+STR 1, DEX 0, INT -1, WIS 1, CHA 2
 
-## Personality
+## Playbook
+Paladin
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Brave | ✓ | Justice | ✓ |
-| Confident | ✓ | Wisdom | ✓ |
-| Rash | ✗ | Glory | ✗ |
+## Drive
+Endanger yourself to save or protect someone.
 
 ## Background
 Sir Roderic was raised by the church as a war orphan at the grand cathedral in [[Beaconhold|Beacon Hold]].
@@ -41,24 +39,25 @@ He is fanatical about the tenets of the religion — helping people, protecting 
 However, he is tolerant of other religions and practitioners.
 This reflects the attitude of [[Beaconhold]] — the faith is good and right, but not forced on others.
 
-His three tenets are:
-- *I swear to offer the Light before I strike, because only those who refuse it deserve judgment.*
-- *I swear to answer every cry for help, because a Knight-Errant cannot choose who deserves protection.*
-- *I swear to spare those who yield, because my blade was meant for protection, not slaughter.*
-
 ## Key Traits & Abilities
 
-**Backgrounds:**
-- Knight-Errant of the Redeemer's of Light (Battlefield Discipline, Armor Maintenance & Repair, Holding the Line)
-- Acolyte of the Sacred Oath (Undead Lore & Profane Signs, Consecration Rights & Blessings, Sin Redemption & Penance)
+**Background:** Guardian — Healing Hands chooses two effects instead of one
 
-**Talents:**
-- **Oathsworn** *(Core Talent)* — 3 Smite per session; three tenets dictate behavior; doesn't take thorns from bloodied/rattled, takes +1d instead; can give spark to players who engage with tenets
-- **Divine Blessing, Healing** *(Minor Domain — 4d)* — God: Lucifer, Healing Light; can drop 1d to cast potent spells; a grim result exhausts the pool for the session and the GM makes an impact move; pool returns at next session start
+**Devout Virtues:**
+- **Courage** — Vow and boon tied to facing danger without hesitation
+- **Honor** — Vow and boon tied to keeping one's word and acting with integrity
+- **Mercy** — Vow and boon tied to sparing the defeated and offering redemption
+- **Purity** — Vow and boon tied to resisting corruption and temptation
 
-**Spiritual Perception:**
-He possesses the ability to sense when people are contemplating sin — body language and spiritual perception developed from his years as an acolyte.
-He wears recognizable church armor and is identifiable as a paladin.
+**Moves:**
+- **Devout Virtues** — Gain boons by upholding vows; break a vow to lose its boon
+- **Decree** — Roll+CHA to issue a divine command that compels obedience
+- **Chains of Faith** — Bind enemies or restrain evil through the power of faith
+- **Armed and Ready** — Always prepared for battle; never caught without weapon or armor
+- **Healing Hands** — Lay on hands to heal; Guardian background allows choosing two effects
+- **Eyes of the Faithful** *(Advanced)* — Perceive truth, sin, and spiritual nature in others
+
+**Asset:** Organization — The Church of Light
 
 ## Relationships
 - [[Edric Bloom]] — Playful Camaraderie; views Edric's rashness as immaturity — "He should be mature already... maybe he'll grow up."
@@ -70,7 +69,7 @@ He wears recognizable church armor and is identifiable as a paladin.
 - His faith proved effective against mortal authority: divine decrees command obedience from both Aureate soldiers and Harlequin prisoners
 - Sent word directly to [[Beaconhold]] about the old gods' return and [[Count Albrecht Marrow|Marrow]]'s corruption, bypassing [[Luminary Severin Morrow|Severin]]'s authority
 - The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
-- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds; his drive is "Endanger yourself to save or protect someone else"
+- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds
 - Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
 - The [[Order of the Eclipsed Sword]] — his own faith's military order — has arrived to arrest the herald the party needs most, creating a direct conflict between his mission and his faith
 

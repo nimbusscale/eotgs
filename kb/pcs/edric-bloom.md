@@ -8,15 +8,13 @@ A wandering bard and trader who deals in stories, songs, and "rare and curious g
 He serves as the party's face and information broker.
 
 ## Stats
-Brawn 1, Agility 2, Wits 2, Presence 3
+STR -1, DEX 1, INT 1, WIS 0, CHA 2
 
-## Personality
+## Playbook
+Bard
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Confident | ✓ | Renown | ✓ |
-| Rash | ✓ | Knowledge | ✓ |
-| Honest | ✗ | Certainty | ✗ |
+## Drive
+Endanger or sacrifice something for the sake of your art.
 
 ## Background
 Edric was born in a small village along the [[Eastern Rivers]] — a hamlet on the edge of the kingdom where tax collectors don't bother going.
@@ -42,13 +40,15 @@ It's not a big part of his identity; he keeps it private.
 
 ## Key Traits & Abilities
 
-**Backgrounds:**
-- Story Peddler (Legends & Tales, Places I Could Have Been, Who People Listen To)
-- Trader (Rare & Curious Goods, People Who Want Something, What People Want)
+**Background:** Traveling Artist — +1 Awe on Perform even on a 6-; 4 Art instead of 3
 
-**Talents:**
-- **Bardsong** *(Core Talent)* — 3 bardsongs per session (potent emotional influence); 3 melodies per session (assist without risk, calm/intensify vex, clear marks); roll Presence; compose with style, tune, and impact
-- **Forked Tongue** — When given time, can tell potent lies (like claiming to be royalty or delivering false prophecies); push yourself to do it on the spot
+**Moves:**
+- **Perform** — Use art to inspire, move, or manipulate an audience
+- **Expressive Conflict** — 4 Art; heal a condition, distract or stun an enemy through performance
+- **Storied Knowledge** — Draw on a vast repertoire of tales and legends for useful information
+- **Forked Tongue** — Tell potent lies with conviction; push yourself to do it on the spot
+
+**Asset:** Connections — Spread word about unusual needs; roll+CHA to find what you need through your network
 
 **Bardic Style:**
 His bardic instrument is storytelling rather than music — he tells short tales and parables to produce his bardic effects.
@@ -57,9 +57,6 @@ His bardic instrument is storytelling rather than music — he tells short tales
 He knows about [[Altreth]], a city-state destroyed in a manner similar to [[Ashbrook]] — people who entered aged rapidly and died, and the story itself was "unmade" from memory.
 He knows that [[Whiteglass|whiteglass]] resists ruin.
 He knows the layout of [[Aurelion]]'s underground tunnel network — learned from [[Captain Eisen Dorn]] during a drunken evening of truth-telling games.
-
-**Equipment:**
-Carries adventuring gear including climbing equipment, torches, and an intricate hand crossbow.
 
 ## Relationships
 - [[Castor]] — Playful Curiosity

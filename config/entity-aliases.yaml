@@ -43,7 +43,6 @@ characters:
   "Delta": "triune"
   "Dawnwarden Brenn": "dawnwarden-brenn"
   "Brenn": "dawnwarden-brenn"
-  "Appearance": "captain-eisen-dorn"
 
 locations:
   "Beaconhold": "beaconhold"
@@ -103,7 +102,6 @@ items:
   "Halcyrax, the Gilded Ruin": "second-harvest"
   "The Gilded Ruin": "second-harvest"
   "Aegis Mechanism": "xan-kor"
-  "The Ritual at the Nodrum": "seal-of-unmaking"
 
 factions:
   "The Light": "the-light"
@@ -129,10 +127,10 @@ factions:
   "The Starfall Caravan Company": "starfall-caravan-company"
   "Starfall Caravan Company": "starfall-caravan-company"
   "Starfall Caravan": "starfall-caravan-company"
-  "Cassian Vellor": "cassian-vellor"
-  "Cassian": "cassian-vellor"
-  "The Aureate": "the-light"
-  "Aureate": "the-light"
+  "Cassian Vellor": "starfall-caravan-company"
+  "Cassian": "starfall-caravan-company"
+  "The Aureate": "aurelion"
+  "Aureate": "aurelion"
   "The Fallow One": "old-gods"
   "The Wild Hunt": "old-gods"
   "Order of the First Dawn": "the-light"

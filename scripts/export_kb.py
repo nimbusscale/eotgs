@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export the Grimwild KB into consolidated files for Claude Projects.
+"""Export the campaign KB into consolidated files for Claude Projects.
 
 Generates 8 mechanical export files from the knowledge base:
   characters-pcs.md      characters-npcs.md    locations.md
@@ -16,7 +16,7 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-KB_DIR = REPO_ROOT / "grimwild-kb"
+KB_DIR = REPO_ROOT / "kb"
 GM_DIR = REPO_ROOT / "gm-notes"
 EXPORTS_DIR = REPO_ROOT / "exports"
 
@@ -28,7 +28,7 @@ SMALL_WORDS = {
 
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
-        description="Export Grimwild KB to consolidated files for Claude Projects.",
+        description="Export campaign KB to consolidated files for Claude Projects.",
     )
     parser.add_argument(
         "--sessions", type=int, default=5,

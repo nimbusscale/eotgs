@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Build the Grimwild KB as a static site and deploy to production.
+# Build the campaign KB as a static site and deploy to production.
 # Usage: bash scripts/publish_site.sh
 set -euo pipefail
 

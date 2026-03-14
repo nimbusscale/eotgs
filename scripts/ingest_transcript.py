@@ -23,7 +23,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Download, prepare, and chunk a Grimwild voice channel transcript.",
+        description="Download, prepare, and chunk a campaign voice channel transcript.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='examples:\n'
                '  %(prog)s --session 3\n'

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the Quartz site content from the Grimwild KB.
+"""Build the Quartz site content from the campaign KB.
 
 Copies KB files into site/content/, injects YAML frontmatter with aliases
 and tags, and generates the landing page index. Does NOT build the static
@@ -16,7 +16,7 @@ from pathlib import Path
 import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-KB_DIR = REPO_ROOT / "grimwild-kb"
+KB_DIR = REPO_ROOT / "kb"
 SITE_DIR = REPO_ROOT / "site"
 CONTENT_DIR = SITE_DIR / "content"
 CONTENT_SRC_DIR = REPO_ROOT / "content"

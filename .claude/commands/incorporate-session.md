@@ -1,6 +1,6 @@
 # Skill: Incorporate Session
 
-**Purpose:** Process an extracted session YAML from `inbox/transcripts/extracted/` into the Grimwild campaign knowledge base — creating a session file, updating entities, tracking story arcs, and extracting hooks.
+**Purpose:** Process an extracted session YAML from `inbox/transcripts/extracted/` into the campaign knowledge base — creating a session file, updating entities, tracking story arcs, and extracting hooks.
 
 **Writing convention:** All generated prose in KB files uses **one sentence per line** (semantic linebreaks).
 This produces cleaner git diffs and makes review easier.
@@ -56,11 +56,11 @@ Minimize context usage by loading only what is needed:
 | `config/entity-aliases.yaml` | Read in full (small config) |
 | `config/speaker-map.yaml` | Read in full (small config) |
 | `review/pending-changes.md` | Read in full (small file) |
-| KB directories (`grimwild-kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
+| KB directories (`kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
 | `gm-notes/` | **List filenames only** (`ls`) |
 | Individual entity files | **Read on-demand** — only when you need to check or update a specific entity |
 | Template files in `templates/` | **Read on-demand** — only when creating a new entity of that type |
-| `grimwild-kb/sessions/` | Check for duplicate session number collision — if `session-{N}.md` already exists, warn and stop |
+| `kb/sessions/` | Check for duplicate session number collision — if `session-{N}.md` already exists, warn and stop |
 
 This approach keeps context small and scales as the KB grows.
 
@@ -105,8 +105,8 @@ The extraction step pre-identified entities. This step validates them:
 2. **Verify `new_entities` targets don't already exist** — For each entry in `new_entities`, confirm no existing KB file matches. If a match exists, convert to an `entity_updates` operation instead.
 3. **Cross-check `unresolved_references`** — Check each entry against the full KB filename index. If you can now resolve one, move it to the appropriate category. If still ambiguous, keep it for `pending-changes.md`.
 4. **Check `config/speaker-map.yaml`** to distinguish PCs from NPCs:
-   - Any character listed under a player's `characters:` list is a **PC** → route to `grimwild-kb/pcs/`.
-   - All other characters are **NPCs** → route to `grimwild-kb/npcs/`.
+   - Any character listed under a player's `characters:` list is a **PC** → route to `kb/pcs/`.
+   - All other characters are **NPCs** → route to `kb/npcs/`.
 
 ### Step 6 — Create session file
 
@@ -125,7 +125,7 @@ Fill in:
 - **Notable Locations Visited:** from `new_entities.locations` plus locations mentioned in `major_events`, with `[[wiki-links]]`
 - **Notable Quotes:** from `notable_quotes`, cleaned up with speaker attribution
 
-Save to `grimwild-kb/sessions/session-{N}.md`.
+Save to `kb/sessions/session-{N}.md`.
 
 **Quote rules:**
 
@@ -192,8 +192,8 @@ These belong in the relevant arc file's "Open Questions" section.
 ✗ NOT A HOOK: "Is Marrow involved in releasing the ruin?" → Investigation thread within the current arc
 
 **Classification:**
-- **Group hooks** affect the whole party or world → `grimwild-kb/story-arcs/group/hooks.md`
-- **Character hooks** are tied to a specific PC → `grimwild-kb/story-arcs/character/{character-slug}/hooks.md`
+- **Group hooks** affect the whole party or world → `kb/story-arcs/group/hooks.md`
+- **Character hooks** are tied to a specific PC → `kb/story-arcs/character/{character-slug}/hooks.md`
 
 **Attribution rules — avoid duplicates and misclassification:**
 - Attribute a hook to the character the hook is **about** (the subject), not every character who cares about it. If Character A has a personal goal related to Character B's mystery, that is part of Character A's motivation — not a separate hook. Do not create duplicate hooks covering the same underlying mystery from different character perspectives.
@@ -202,9 +202,9 @@ These belong in the relevant arc file's "Open Questions" section.
 
 **Directory structure:**
 - Always create a subdirectory for every PC listed in `speaker-map.yaml` under `story-arcs/character/` (using the character's filename slug)
-- `grimwild-kb/story-arcs/group/hooks.md`
-- `grimwild-kb/story-arcs/character/castor/hooks.md`
-- `grimwild-kb/story-arcs/character/edric-bloom/hooks.md`
+- `kb/story-arcs/group/hooks.md`
+- `kb/story-arcs/character/castor/hooks.md`
+- `kb/story-arcs/character/edric-bloom/hooks.md`
 - etc.
 
 **Hooks file format:**
@@ -226,8 +226,8 @@ Append new hooks to an existing `hooks.md` if one already exists. Do not duplica
 
 When the YAML shows progress on an existing hook (via `arc_progress` or `questions_resolved`), consider promoting it to a full arc.
 Remove the hook entry from `hooks.md` and create a dedicated arc file:
-- Group: `grimwild-kb/story-arcs/group/{arc-slug}.md`
-- Character: `grimwild-kb/story-arcs/character/{character-slug}/{arc-slug}.md`
+- Group: `kb/story-arcs/group/{arc-slug}.md`
+- Character: `kb/story-arcs/character/{character-slug}/{arc-slug}.md`
 
 The arc file uses `templates/story-arc.md`. Until activated, hooks remain as entries in `hooks.md`.
 
@@ -313,11 +313,11 @@ Route content based on sensitivity:
 
 | Content | Destination |
 |---|---|
-| Published world facts, PC backstories, known NPC info | `grimwild-kb/` (player-visible) |
+| Published world facts, PC backstories, known NPC info | `kb/` (player-visible) |
 | GM session prep, encounter plans, secret motivations | `gm-notes/` |
-| Story arc — player-visible elements (open questions, known events) | `grimwild-kb/story-arcs/` |
+| Story arc — player-visible elements (open questions, known events) | `kb/story-arcs/` |
 | Story arc — secret answers, future reveals, planned twists | `gm-notes/` (reference the arc file with a link) |
-| Story hooks (open questions, mysteries the players know about) | `grimwild-kb/story-arcs/` (player-visible) |
+| Story hooks (open questions, mysteries the players know about) | `kb/story-arcs/` (player-visible) |
 | GM answers to hooks, planned reveals for hooks | `gm-notes/` (reference the hooks file) |
 | NPC secrets the players haven't learned | `gm-notes/` |
 | `gm_observations` from YAML | Session file (Session Notes) for pacing/engagement observations; `gm-notes/` for plot-direction notes |
@@ -367,7 +367,7 @@ After processing, report:
 **Filtered sections:** {count from filtered_sections} ({total lines} lines skipped during extraction)
 
 **Files created:**
-- grimwild-kb/sessions/session-{N}.md
+- kb/sessions/session-{N}.md
 - ...
 
 **Files updated:**
@@ -407,7 +407,7 @@ If a character is not in the speaker map and the YAML doesn't clarify, default t
 
 **Story arcs with secrets:**
 Split the arc into two parts:
-- Player-visible arc file in `grimwild-kb/story-arcs/` with known facts and open questions.
+- Player-visible arc file in `kb/story-arcs/` with known facts and open questions.
 - GM-private file in `gm-notes/` with answers, planned reveals, and secret motivations.
 The GM-private file should reference the arc: `See also: [[Arc Name]]`.
 
@@ -424,5 +424,5 @@ If an entity appears in `unresolved_references` and only shows up as a passing m
 Only create files for entities in `new_entities`.
 
 **Duplicate session number:**
-If `grimwild-kb/sessions/session-{N}.md` already exists, warn the user and stop.
+If `kb/sessions/session-{N}.md` already exists, warn the user and stop.
 Do not overwrite existing session files.

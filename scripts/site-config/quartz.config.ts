@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Echoes of the Godstorm",
-    pageTitleSuffix: " | Grimwild",
+    pageTitleSuffix: " | Echoes of the Godstorm",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

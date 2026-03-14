@@ -24,16 +24,16 @@ Review the summary table it prints.
 
 Read the following files to synthesize `campaign-index.md`:
 
-- All PC files from `grimwild-kb/pcs/`
-- All active story arc files from `grimwild-kb/story-arcs/group/` and `grimwild-kb/story-arcs/character/*/` (exclude `hooks.md` files; filter to **Status:** Active)
-- The last 2 session summaries from `grimwild-kb/sessions/`
+- All PC files from `kb/pcs/`
+- All active story arc files from `kb/story-arcs/group/` and `kb/story-arcs/character/*/` (exclude `hooks.md` files; filter to **Status:** Active)
+- The last 2 session summaries from `kb/sessions/`
 
 ### Step 3 — Generate campaign-index.md
 
 Write `exports/campaign-index.md` following this structure:
 
 ```markdown
-# Grimwild - Campaign Index
+# Echoes of the Godstorm - Campaign Index
 
 ## Campaign Overview
 [2-3 paragraph synthesis of the campaign premise and current state]

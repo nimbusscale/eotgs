@@ -2,7 +2,7 @@
 
 **Purpose:** Generate a dramatic recap-teaser for the next session, written in pulp radio "next time on" style, to jog players' memories and build excitement.
 
-**Output:** A new session file in `grimwild-kb/sessions/` with the recap-teaser ready for the GM to read aloud.
+**Output:** A new session file in `kb/sessions/` with the recap-teaser ready for the GM to read aloud.
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### Step 1 — Determine next session number
 
-Glob `grimwild-kb/sessions/session-*.md` to find the highest session number N. The next session is N+1.
+Glob `kb/sessions/session-*.md` to find the highest session number N. The next session is N+1.
 
 ### Step 2 — Check for GM plans
 
@@ -54,7 +54,7 @@ Write 2-3 paragraphs in the following style:
 
 ### Step 5 — Write the session file
 
-Create `grimwild-kb/sessions/session-{N+1}.md` with this structure:
+Create `kb/sessions/session-{N+1}.md` with this structure:
 
 ```markdown
 # Session {N+1}: [Evocative Title]

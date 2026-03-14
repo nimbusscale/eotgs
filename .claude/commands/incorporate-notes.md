@@ -1,6 +1,6 @@
 # Skill: Incorporate Notes
 
-**Purpose:** Process markdown notes from `inbox/notes/` into the Grimwild campaign knowledge base, one file at a time.
+**Purpose:** Process markdown notes from `inbox/notes/` into the campaign knowledge base, one file at a time.
 
 **Writing convention:** All generated prose in KB files uses **one sentence per line** (semantic linebreaks).
 This produces cleaner git diffs and makes review easier.
@@ -41,7 +41,7 @@ Minimize context usage by loading only what is needed:
 | `config/entity-aliases.yaml` | Read in full (small config) |
 | `config/speaker-map.yaml` | Read in full (small config) |
 | `review/pending-changes.md` | Read in full (small file) |
-| KB directories (`grimwild-kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
+| KB directories (`kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
 | `gm-notes/` | **List filenames only** (`ls`) |
 | Individual entity files | **Read on-demand** — only when the note references that entity and you need to check or update it |
 | Template files in `templates/` | **Read on-demand** — only when creating a new entity of that type |
@@ -57,17 +57,17 @@ Break the note into logical sections and classify each:
 | Content type | Primary destination | Template |
 |---|---|---|
 | Session prep / GM plans | `gm-notes/` | — (freeform) |
-| World-building (geography, history, gods, cultures) | `grimwild-kb/world/` | `templates/world-entry.md` |
-| New PC info | `grimwild-kb/pcs/` | `templates/pc.md` |
-| New NPC info | `grimwild-kb/npcs/` | `templates/npc.md` |
+| World-building (geography, history, gods, cultures) | `kb/world/` | `templates/world-entry.md` |
+| New PC info | `kb/pcs/` | `templates/pc.md` |
+| New NPC info | `kb/npcs/` | `templates/npc.md` |
 | Updates to existing characters | Existing file in `pcs/` or `npcs/` | — (append to existing) |
-| New location | `grimwild-kb/locations/` | `templates/location.md` |
-| New item | `grimwild-kb/items/` | `templates/item.md` |
-| New faction | `grimwild-kb/factions/` | `templates/faction.md` |
-| Story arc (player-visible) | `grimwild-kb/story-arcs/group/` or `story-arcs/character/` | `templates/story-arc.md` |
+| New location | `kb/locations/` | `templates/location.md` |
+| New item | `kb/items/` | `templates/item.md` |
+| New faction | `kb/factions/` | `templates/faction.md` |
+| Story arc (player-visible) | `kb/story-arcs/group/` or `story-arcs/character/` | `templates/story-arc.md` |
 | Story arc (GM secrets) | `gm-notes/` | — (freeform, reference the arc) |
-| Story hooks (potential arcs not yet in play) | `grimwild-kb/story-arcs/group/hooks.md` or `story-arcs/character/{character-slug}/hooks.md` | — (see Step 5b) |
-| Session recap or summary | `grimwild-kb/sessions/` | `templates/session.md` |
+| Story hooks (potential arcs not yet in play) | `kb/story-arcs/group/hooks.md` or `story-arcs/character/{character-slug}/hooks.md` | — (see Step 5b) |
+| Session recap or summary | `kb/sessions/` | `templates/session.md` |
 
 ### Step 4 — Resolve entity references
 
@@ -76,8 +76,8 @@ For every entity name mentioned in the note:
 1. Check `config/entity-aliases.yaml` for a canonical match.
 2. Check KB directory filenames for a slug match (e.g., "Edric Bloom" → `edric-bloom.md` in `pcs/`).
 3. Check `config/speaker-map.yaml` to distinguish PCs from NPCs:
-   - Any character listed under a player's `characters:` list is a **PC** → route to `grimwild-kb/pcs/`.
-   - All other characters are **NPCs** → route to `grimwild-kb/npcs/`.
+   - Any character listed under a player's `characters:` list is a **PC** → route to `kb/pcs/`.
+   - All other characters are **NPCs** → route to `kb/npcs/`.
 4. If no match is found, flag the reference as unresolved (see Step 7).
 
 ### Step 5 — Create new entity files
@@ -110,8 +110,8 @@ A **hook** is a potential story arc that hasn't been activated in play yet — a
 - World events that could draw the party in
 
 **Classification:**
-- **Group hooks** affect the whole party or world → `grimwild-kb/story-arcs/group/hooks.md`
-- **Character hooks** are tied to a specific PC → `grimwild-kb/story-arcs/character/{character-slug}/hooks.md`
+- **Group hooks** affect the whole party or world → `kb/story-arcs/group/hooks.md`
+- **Character hooks** are tied to a specific PC → `kb/story-arcs/character/{character-slug}/hooks.md`
 
 **Attribution rules — avoid duplicates and misclassification:**
 - Attribute a hook to the character the hook is **about** (the subject), not every character who cares about it. If Character A has a personal goal related to Character B's mystery, that is part of Character A's motivation — not a separate hook. Do not create duplicate hooks covering the same underlying mystery from different character perspectives.
@@ -120,9 +120,9 @@ A **hook** is a potential story arc that hasn't been activated in play yet — a
 
 **Directory structure:**
 - Always create a subdirectory for every PC listed in `speaker-map.yaml` under `story-arcs/character/` (using the character's filename slug)
-- `grimwild-kb/story-arcs/group/hooks.md`
-- `grimwild-kb/story-arcs/character/castor/hooks.md`
-- `grimwild-kb/story-arcs/character/edric-bloom/hooks.md`
+- `kb/story-arcs/group/hooks.md`
+- `kb/story-arcs/character/castor/hooks.md`
+- `kb/story-arcs/character/edric-bloom/hooks.md`
 - etc.
 
 **Hooks file format:**
@@ -143,8 +143,8 @@ Append new hooks to an existing `hooks.md` if one already exists. Do not duplica
 **Hook → Arc lifecycle:**
 
 When a hook is activated in play (session transcript shows the party engaging with it), remove the hook entry from `hooks.md` and create a dedicated arc file:
-- Group: `grimwild-kb/story-arcs/group/{arc-slug}.md`
-- Character: `grimwild-kb/story-arcs/character/{character-slug}/{arc-slug}.md`
+- Group: `kb/story-arcs/group/{arc-slug}.md`
+- Character: `kb/story-arcs/character/{character-slug}/{arc-slug}.md`
 
 The arc file uses `templates/story-arc.md`. Until activated, hooks remain as entries in `hooks.md`.
 
@@ -214,11 +214,11 @@ Route content based on sensitivity:
 
 | Content | Destination |
 |---|---|
-| Published world facts, PC backstories, known NPC info | `grimwild-kb/` (player-visible) |
+| Published world facts, PC backstories, known NPC info | `kb/` (player-visible) |
 | GM session prep, encounter plans, secret motivations | `gm-notes/` |
-| Story arc — player-visible elements (open questions, known events) | `grimwild-kb/story-arcs/` |
+| Story arc — player-visible elements (open questions, known events) | `kb/story-arcs/` |
 | Story arc — secret answers, future reveals, planned twists | `gm-notes/` (reference the arc file with a link) |
-| Story hooks (open questions, mysteries the players know about) | `grimwild-kb/story-arcs/` (player-visible) |
+| Story hooks (open questions, mysteries the players know about) | `kb/story-arcs/` (player-visible) |
 | GM answers to hooks, planned reveals for hooks | `gm-notes/` (reference the hooks file) |
 | NPC secrets the players haven't learned | `gm-notes/` |
 
@@ -258,11 +258,11 @@ After processing each note, report:
 ## Processed: {filename}
 
 **Files created:**
-- grimwild-kb/pcs/edric-bloom.md
-- grimwild-kb/locations/ashen-vale.md
+- kb/pcs/edric-bloom.md
+- kb/locations/ashen-vale.md
 
 **Files updated:**
-- grimwild-kb/pcs/castor.md (added backstory details)
+- kb/pcs/castor.md (added backstory details)
 
 **Aliases proposed:**
 - "Edric" → edric-bloom (characters)
@@ -296,7 +296,7 @@ If a character is not in the speaker map and the note doesn't clarify, default t
 
 **Story arcs with secrets:**
 Split the arc into two parts:
-- Player-visible arc file in `grimwild-kb/story-arcs/` with known facts and open questions.
+- Player-visible arc file in `kb/story-arcs/` with known facts and open questions.
 - GM-private file in `gm-notes/` with answers, planned reveals, and secret motivations.
 The GM-private file should reference the arc: `See also: [[Arc Name]]`.
 

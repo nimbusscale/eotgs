@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download and clean a raw Discord transcript from the Grimwild voice channel.
+"""Download and clean a raw Discord transcript from the campaign voice channel.
 
 Uses DiscordChatExporter.Cli to download, then strips bot noise and
 deduplicates progressive transcription updates from SeaVoice. Outputs a
@@ -30,7 +30,7 @@ CHANNEL_RE = re.compile(r"^Channel:\s+.+/\s*(.+)$")
 
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
-        description="Download and clean a Grimwild voice channel transcript.",
+        description="Download and clean a campaign voice channel transcript.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='examples:\n'
                '  %(prog)s --after "2026-01-10 14:00" --before "2026-01-10 18:00"\n'
@@ -69,7 +69,7 @@ def download_transcript(after: str, before: str) -> str:
         print(f"Error: {BOT_TOKEN_ENV} environment variable not set.", file=sys.stderr)
         sys.exit(1)
 
-    tmp = tempfile.NamedTemporaryFile(suffix=".txt", delete=False, prefix="grimwild_")
+    tmp = tempfile.NamedTemporaryFile(suffix=".txt", delete=False, prefix="echoes_")
     tmp.close()
 
     cmd = [

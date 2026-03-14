@@ -17,7 +17,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SPEAKER_MAP = REPO_ROOT / "config" / "speaker-map.yaml"
 DEFAULT_ENTITY_ALIASES = REPO_ROOT / "config" / "entity-aliases.yaml"
 CHUNKS_DIR = REPO_ROOT / "inbox" / "transcripts" / "chunks"
-KB_ROOT = REPO_ROOT / "grimwild-kb"
+KB_ROOT = REPO_ROOT / "kb"
 CAMPAIGN_INDEX = REPO_ROOT / "exports" / "campaign-index.md"
 
 KB_SUBDIRS = ["pcs", "npcs", "locations", "items", "factions", "sessions", "story-arcs", "world"]
@@ -45,7 +45,7 @@ KB_SCAN_SUBDIRS = ["npcs", "locations", "items", "factions", "world"]
 
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
-        description="Split a prepared Grimwild transcript into chunks for extraction.",
+        description="Split a prepared transcript into chunks for extraction.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='examples:\n'
                '  %(prog)s --session 2 --input inbox/transcripts/prepared/session-2.txt\n'

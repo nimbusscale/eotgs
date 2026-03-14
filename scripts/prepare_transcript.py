@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prepare a raw Grimwild transcript: map Discord speaker names to character
+"""Prepare a raw campaign transcript: map Discord speaker names to character
 names and apply transcription corrections.
 
 Reads a raw transcript (output of download_transcript.py) where each line is:
@@ -26,7 +26,7 @@ LINE_RE = re.compile(r"^(\[.+?\])\s+(.+?):\s+(.+)$")
 
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
-        description="Process a raw Grimwild transcript: map speakers and fix transcription errors.",
+        description="Process a raw campaign transcript: map speakers and fix transcription errors.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='examples:\n'
                '  %(prog)s --input inbox/transcripts/raw/session-1.txt --session 1\n'

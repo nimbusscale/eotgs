@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Grimwild KB is a campaign knowledge base system for managing a TTRPG campaign. It processes Discord voice channel transcripts into a structured markdown knowledge base optimized for Claude Projects. The workflow is semi-automated with human review via git diff before committing.
+Echoes of the Godstorm is a campaign knowledge base system for managing a TTRPG campaign. It processes Discord voice channel transcripts into a structured markdown knowledge base optimized for Claude Projects. The workflow is semi-automated with human review via git diff before committing.
 
 Summary of the current campaign can be found at @exports/campaign-index.md
 
@@ -42,14 +42,14 @@ python scripts/ingest_transcript.py --session N
 
 ### Directory Structure
 
-- `grimwild-kb/` - Main knowledge base (sessions/, pcs/, npcs/, locations/, items/, factions/, story-arcs/, world/)
+- `kb/` - Main knowledge base (sessions/, pcs/, npcs/, locations/, items/, factions/, story-arcs/, world/)
 - `gm-notes/` - Private GM notes (excluded from player-visible exports)
 - `inbox/transcripts/` - Processing pipeline: raw/ → prepared/ → chunks/ (temp) → extracted/ → processed/
 - `inbox/notes/` - Planning notes awaiting incorporation
 - `config/` - speaker-map.yaml (Discord→character mapping), entity-aliases.yaml (name→filename mapping)
 - `exports/` - Generated files for Claude Projects
 - `templates/` - Markdown templates for each entity type
-- `knowledge/` - Grimwild game system reference material
+- `knowledge/` - Chasing Adventure game system reference material
 - `review/` - Conflicts and questions flagged for human review
 - `site/` - Quartz static site generator (content/ and public/ are gitignored, built by `/publish-kb`)
 
@@ -74,14 +74,14 @@ Lowercase, hyphens for spaces, drop leading articles, remove punctuation:
 
 ### Entity Types
 
-PCs go in `grimwild-kb/pcs/`, NPCs in `grimwild-kb/npcs/`. Distinguish using `config/speaker-map.yaml` which lists all player characters.
+PCs go in `kb/pcs/`, NPCs in `kb/npcs/`. Distinguish using `config/speaker-map.yaml` which lists all player characters.
 
 ## Workflow Principles
 
 1. **Semi-automated with human review**: Claude proposes changes, user reviews via `git diff` before committing
 2. **Context efficiency**: List KB filenames rather than reading all content; read only when needed
 3. **Conflict handling**: Flag ambiguous updates in `review/pending-changes.md` for human decision
-4. **Private content routing**: GM-only observations go to `gm-notes/`, not `grimwild-kb/`
+4. **Private content routing**: GM-only observations go to `gm-notes/`, not `kb/`
 
 ## Development Reference
 

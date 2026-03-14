@@ -18,30 +18,28 @@ Stubbornly protect something others think is not worth saving.
 
 ## Background
 Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
-He was human during that era but has spent far more time as a beaver, and his human memories have grown muddled, replaced by beaver priorities.
-In human form he appears middle-aged and well preserved; his body did not age while in beaver form.
-He had taken a vow of celibacy upon first becoming a beaver, not wanting to watch short-lived children grow old and die.
-
-Years and generations ago, Castor was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
+He carries the [[Greenholt Bloodline]], which gives him elven features despite being human.
+In those days he was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
 He was never good with people and seemed uninterested in growing out his own branch of the family.
 
 His ancestral land came under a curse — a curse that seemed to pick on him in particular.
-Whether bad luck or revenge for a forgotten affront, Castor took the brunt of the curse far worse than his brethren.
-He was originally a human carpenter before being transformed into a beaver and left to wander the land.
+Whether bad luck or revenge for a forgotten affront, Castor took the brunt far worse than his brethren.
+The curse transformed him into a beaver and left him to wander the land.
 
-While cursed, he wasn't a "human trapped in a beaver body" — he truly was a beaver, with only repressed and dormant humanity.
-The curse lasted longer than [[Garland yn Greenholt]] has been alive.
+He wasn't a "human trapped in a beaver body" — he truly was a beaver, with only repressed and dormant humanity.
+The curse lasted longer than [[Garland yn Greenholt]] has been alive, and his body did not age while in that form.
 He grew to know his local beavers and found satisfaction in a dam well built.
-Seemingly untouched by time in this form, he explored the world and became enamored with his new perspective.
+Seemingly untouched by time, he explored the world and became enamored with his new perspective.
+He took a vow of celibacy, not wanting to watch short-lived children grow old and die.
 
 Growing tired of his travels and curious about what made him what he is, Castor returned to the cursed homelands.
 There he found an elderly descendant — [[Garland yn Greenholt]] — trying to make the most of the land.
 With self-taught magic, Garland stumbled across an insight into the curse and attempted to lift it.
 The curse was only mitigated, not fully removed.
 Castor could once again assume his original form, but after so long as a beaver he found himself more comfortable in that shape.
-
-He has elven features but is human, sharing the same [[Greenholt Bloodline]] as Garland.
+In human form he appears middle-aged and well preserved.
+His human memories have grown muddled, replaced by beaver priorities.
 He is happy with where things are and doesn't want the curse "fixed" or things to change.
 He still builds dams out of furniture and still thinks like a beaver in many ways.
 

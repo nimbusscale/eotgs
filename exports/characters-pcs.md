@@ -11,54 +11,57 @@ A druid who spent an extraordinarily long time cursed as a beaver, now more beav
 He carries the [[Greenholt Bloodline]] and serves as the party's scout, utility caster, and shapeshifter.
 
 ### Stats
-Brawn 1, Agility 2, Wits 3, Presence 2
+STR 0, DEX 1, INT 1, WIS 2, CHA -1
 
-### Personality
+### Playbook
+Druid
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Protective | ✓ | Belonging | ✓ |
-| Stubborn | ✓ | Harmony | ✓ |
-| Rash | ✗ | Wealth | ✗ |
+### Drive
+Stubbornly protect something others think is not worth saving.
 
 ### Background
 Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
-He was human during that era but has spent far more time as a beaver, and his human memories have grown muddled, replaced by beaver priorities.
-In human form he appears middle-aged and well preserved; his body did not age while in beaver form.
-He had taken a vow of celibacy upon first becoming a beaver, not wanting to watch short-lived children grow old and die.
-
-Years and generations ago, Castor was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
+He carries the [[Greenholt Bloodline]], which gives him elven features despite being human.
+In those days he was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
 He was never good with people and seemed uninterested in growing out his own branch of the family.
 
 His ancestral land came under a curse — a curse that seemed to pick on him in particular.
-Whether bad luck or revenge for a forgotten affront, Castor took the brunt of the curse far worse than his brethren.
-He was originally a human carpenter before being transformed into a beaver and left to wander the land.
+Whether bad luck or revenge for a forgotten affront, Castor took the brunt far worse than his brethren.
+The curse transformed him into a beaver and left him to wander the land.
 
-While cursed, he wasn't a "human trapped in a beaver body" — he truly was a beaver, with only repressed and dormant humanity.
-The curse lasted longer than [[Garland yn Greenholt]] has been alive.
+He wasn't a "human trapped in a beaver body" — he truly was a beaver, with only repressed and dormant humanity.
+The curse lasted longer than [[Garland yn Greenholt]] has been alive, and his body did not age while in that form.
 He grew to know his local beavers and found satisfaction in a dam well built.
-Seemingly untouched by time in this form, he explored the world and became enamored with his new perspective.
+Seemingly untouched by time, he explored the world and became enamored with his new perspective.
+He took a vow of celibacy, not wanting to watch short-lived children grow old and die.
 
 Growing tired of his travels and curious about what made him what he is, Castor returned to the cursed homelands.
 There he found an elderly descendant — [[Garland yn Greenholt]] — trying to make the most of the land.
 With self-taught magic, Garland stumbled across an insight into the curse and attempted to lift it.
 The curse was only mitigated, not fully removed.
 Castor could once again assume his original form, but after so long as a beaver he found himself more comfortable in that shape.
-
-He has elven features but is human, sharing the same [[Greenholt Bloodline]] as Garland.
+In human form he appears middle-aged and well preserved.
+His human memories have grown muddled, replaced by beaver priorities.
 He is happy with where things are and doesn't want the curse "fixed" or things to change.
 He still builds dams out of furniture and still thinks like a beaver in many ways.
 
 ### Key Traits & Abilities
 
-**Backgrounds:**
-- Vagabond (Chance meetings, Faraway tales, Lay of the land)
-- Longtime Animal/Hunter (Survival, Tracks, Wildlife Behavior)
+**Background:** Old Wild — can Shapeshift into any creature he has encountered, not only Attuned creatures
 
-**Talents:**
-- **Wild Shape** *(Core Talent)* — 4d resource pool (replenishes each scene); shift into any beast you're familiar with; take on the form's physical qualities and feral instincts
-- **True Shape** — Choose 1 beast form (beaver); shift without rolling wild shape, even at 0d; beaver is his "true form"
+**Moves:**
+- **Shapeshift** — Transform into an Attuned creature (or any encountered creature via Old Wild background)
+- **Attunement** — Bond with a creature to add it to his Attuned list
+- **Resist Instinct** — Fight the animal instincts that come with a shifted form
+- **Commune** — Speak with the natural world to gain insight
+- **At One With The World** — Deep connection to the natural order
+
+**Attuned Creatures:**
+- Beaver (instinct: reshape the world)
+- Giraffe (TBD)
+
+**Asset:** Home — Beaver Dam (+1 Armor when Settling In at home)
 
 **Shapeshifting Notes:**
 All of Castor's animal forms retain subtle beaver characteristics — a beaver tail on a horse, beaver feet on a giraffe.
@@ -117,15 +120,13 @@ A wandering bard and trader who deals in stories, songs, and "rare and curious g
 He serves as the party's face and information broker.
 
 ### Stats
-Brawn 1, Agility 2, Wits 2, Presence 3
+STR -1, DEX 1, INT 1, WIS 0, CHA 2
 
-### Personality
+### Playbook
+Bard
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Confident | ✓ | Renown | ✓ |
-| Rash | ✓ | Knowledge | ✓ |
-| Honest | ✗ | Certainty | ✗ |
+### Drive
+Endanger or sacrifice something for the sake of your art.
 
 ### Background
 Edric was born in a small village along the [[Eastern Rivers]] — a hamlet on the edge of the kingdom where tax collectors don't bother going.
@@ -151,13 +152,15 @@ It's not a big part of his identity; he keeps it private.
 
 ### Key Traits & Abilities
 
-**Backgrounds:**
-- Story Peddler (Legends & Tales, Places I Could Have Been, Who People Listen To)
-- Trader (Rare & Curious Goods, People Who Want Something, What People Want)
+**Background:** Traveling Artist — +1 Awe on Perform even on a 6-; 4 Art instead of 3
 
-**Talents:**
-- **Bardsong** *(Core Talent)* — 3 bardsongs per session (potent emotional influence); 3 melodies per session (assist without risk, calm/intensify vex, clear marks); roll Presence; compose with style, tune, and impact
-- **Forked Tongue** — When given time, can tell potent lies (like claiming to be royalty or delivering false prophecies); push yourself to do it on the spot
+**Moves:**
+- **Perform** — Use art to inspire, move, or manipulate an audience
+- **Expressive Conflict** — 4 Art; heal a condition, distract or stun an enemy through performance
+- **Storied Knowledge** — Draw on a vast repertoire of tales and legends for useful information
+- **Forked Tongue** — Tell potent lies with conviction; push yourself to do it on the spot
+
+**Asset:** Connections — Spread word about unusual needs; roll+CHA to find what you need through your network
 
 **Bardic Style:**
 His bardic instrument is storytelling rather than music — he tells short tales and parables to produce his bardic effects.
@@ -166,9 +169,6 @@ His bardic instrument is storytelling rather than music — he tells short tales
 He knows about [[Altreth]], a city-state destroyed in a manner similar to [[Ashbrook]] — people who entered aged rapidly and died, and the story itself was "unmade" from memory.
 He knows that [[Whiteglass|whiteglass]] resists ruin.
 He knows the layout of [[Aurelion]]'s underground tunnel network — learned from [[Captain Eisen Dorn]] during a drunken evening of truth-telling games.
-
-**Equipment:**
-Carries adventuring gear including climbing equipment, torches, and an intricate hand crossbow.
 
 ### Relationships
 - [[Castor]] — Playful Curiosity
@@ -203,20 +203,18 @@ Carries adventuring gear including climbing equipment, torches, and an intricate
 **Status:** Active
 
 ### Concept
-An extraordinarily old wizard entering his "third act," who carries the [[Greenholt Bloodline]] that grants elven features and an extended lifespan.
+An extraordinarily old warrior-sage entering his "third act," who carries the [[Greenholt Bloodline]] that grants elven features and an extended lifespan.
 He is a former soldier, accidental lord, and guardian of the [[Witch Stones]].
-He serves as the party's wise elder and primary spellcaster.
+He once knew deep magic, but the Curse of Ruin — his burden as the herald of forgetting — stripped most of it away, leaving a frontline fighter who is slowly recovering his arcane knowledge.
 
 ### Stats
-Brawn 2, Agility 1, Wits 3, Presence 2
+STR 2, DEX -1, INT 1, WIS 1, CHA 0
 
-### Personality
+### Playbook
+Fighter (with cross-class Wizard moves)
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Protective | ✓ | Thrills | ✓ |
-| Gentle | ✓ | Wisdom | ✓ |
-| Rash | ✗ | Power | ✗ |
+### Drive
+Step forward where others hesitate.
 
 ### Background
 Garland is extremely old — centuries implied — with elven features but human.
@@ -245,14 +243,18 @@ Has never had much use for gods.
 
 ### Key Traits & Abilities
 
-**Backgrounds:**
-- Old Soldier (Battlefield intuition, Military customs and obligations, "My sword was a plowshare")
-- Scion of the Old Blood (Ancient prophecies, Leylines, Symbologies)
+**Background:** Veteran — Trust your gut; ask the GM one question about how to avoid or prepare for danger; +1 Momentum if the advice is followed
 
-**Talents:**
-- **Spellcraft** *(Core Talent)* — 4 spells and 2 potent spells per session; roll Wits to cast
-- **Spell Theorems:** Phantom Hand (Conjuration), Spirit Wall (Abjuration), Grasping Gate (Conjuration), Mesmerizing Aura (Illusion)
-- **Joyful Warrior** — On a critical or when bloodied in battle, take spark; can clear one mark from each ally or bring a dropped (not dead) ally back into the scene
+**Fighter Moves:**
+- **Signature Weapon** — [[Second Harvest]], a legendary great sword with a storied past
+- **Battle Momentum** — Build momentum in combat to fuel powerful follow-up actions
+- **Particular Set of Skills** — Specialized combat expertise honed over centuries of fighting
+
+**Cross-Class Wizard Moves:**
+- **Evoke a Spell** — Roll+WIS to cast a known spell
+- **Prestidigitation** — Minor magical tricks and cantrips, fragments of his former mastery
+
+**Known Spells:** Immunity, Invisibility
 
 ### Relationships
 - [[Castor]] — Complex Guardianship; believes Castor is a relative (same [[Greenholt Bloodline]], same origin in the [[Ashen Vale]]); helped lift Castor's curse, giving him back his humanity (whether Castor wanted it or not); views himself as the "elder" figure despite Castor being technically older
@@ -263,7 +265,6 @@ Has never had much use for gods.
 - [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
 
 ### Current Threads
-- His drive is "Step forward where others hesitate"
 - Understand the [[Witch Stones]] better — what they do, how their power works; his spellcraft originated from deciphering their carvings
 - Investigate whether other Witch Stones exist elsewhere
 - Understand [[Castor]]'s curse so he can undo it "just in case" before his own time runs out
@@ -298,15 +299,13 @@ A Luciferian paladin and war orphan turned knight-errant, devoted to protecting 
 He serves as the party's moral anchor and frontline defender.
 
 ### Stats
-Brawn 3, Agility 2, Wits 1, Presence 2
+STR 1, DEX 0, INT -1, WIS 1, CHA 2
 
-### Personality
+### Playbook
+Paladin
 
-| Traits | | Desires | |
-| :---- | :---: | :---- | :---: |
-| Brave | ✓ | Justice | ✓ |
-| Confident | ✓ | Wisdom | ✓ |
-| Rash | ✗ | Glory | ✗ |
+### Drive
+Endanger yourself to save or protect someone.
 
 ### Background
 Sir Roderic was raised by the church as a war orphan at the grand cathedral in [[Beaconhold|Beacon Hold]].
@@ -331,24 +330,25 @@ He is fanatical about the tenets of the religion — helping people, protecting 
 However, he is tolerant of other religions and practitioners.
 This reflects the attitude of [[Beaconhold]] — the faith is good and right, but not forced on others.
 
-His three tenets are:
-- *I swear to offer the Light before I strike, because only those who refuse it deserve judgment.*
-- *I swear to answer every cry for help, because a Knight-Errant cannot choose who deserves protection.*
-- *I swear to spare those who yield, because my blade was meant for protection, not slaughter.*
-
 ### Key Traits & Abilities
 
-**Backgrounds:**
-- Knight-Errant of the Redeemer's of Light (Battlefield Discipline, Armor Maintenance & Repair, Holding the Line)
-- Acolyte of the Sacred Oath (Undead Lore & Profane Signs, Consecration Rights & Blessings, Sin Redemption & Penance)
+**Background:** Guardian — Healing Hands chooses two effects instead of one
 
-**Talents:**
-- **Oathsworn** *(Core Talent)* — 3 Smite per session; three tenets dictate behavior; doesn't take thorns from bloodied/rattled, takes +1d instead; can give spark to players who engage with tenets
-- **Divine Blessing, Healing** *(Minor Domain — 4d)* — God: Lucifer, Healing Light; can drop 1d to cast potent spells; a grim result exhausts the pool for the session and the GM makes an impact move; pool returns at next session start
+**Devout Virtues:**
+- **Courage** — Vow and boon tied to facing danger without hesitation
+- **Honor** — Vow and boon tied to keeping one's word and acting with integrity
+- **Mercy** — Vow and boon tied to sparing the defeated and offering redemption
+- **Purity** — Vow and boon tied to resisting corruption and temptation
 
-**Spiritual Perception:**
-He possesses the ability to sense when people are contemplating sin — body language and spiritual perception developed from his years as an acolyte.
-He wears recognizable church armor and is identifiable as a paladin.
+**Moves:**
+- **Devout Virtues** — Gain boons by upholding vows; break a vow to lose its boon
+- **Decree** — Roll+CHA to issue a divine command that compels obedience
+- **Chains of Faith** — Bind enemies or restrain evil through the power of faith
+- **Armed and Ready** — Always prepared for battle; never caught without weapon or armor
+- **Healing Hands** — Lay on hands to heal; Guardian background allows choosing two effects
+- **Eyes of the Faithful** *(Advanced)* — Perceive truth, sin, and spiritual nature in others
+
+**Asset:** Organization — The Church of Light
 
 ### Relationships
 - [[Edric Bloom]] — Playful Camaraderie; views Edric's rashness as immaturity — "He should be mature already... maybe he'll grow up."
@@ -360,7 +360,7 @@ He wears recognizable church armor and is identifiable as a paladin.
 - His faith proved effective against mortal authority: divine decrees command obedience from both Aureate soldiers and Harlequin prisoners
 - Sent word directly to [[Beaconhold]] about the old gods' return and [[Count Albrecht Marrow|Marrow]]'s corruption, bypassing [[Luminary Severin Morrow|Severin]]'s authority
 - The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
-- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds; his drive is "Endanger yourself to save or protect someone else"
+- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds
 - Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
 - The [[Order of the Eclipsed Sword]] — his own faith's military order — has arrived to arrest the herald the party needs most, creating a direct conflict between his mission and his faith
 

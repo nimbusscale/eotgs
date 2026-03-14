@@ -1,2 +1,0 @@
-- Export KB creates a file to be included in memory along with the project files.
-- Should export-kb be a script instead of a skill

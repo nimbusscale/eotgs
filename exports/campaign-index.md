@@ -1,4 +1,4 @@
-# Grimwild - Campaign Index
+# Echoes of the Godstorm - Campaign Index
 
 ## Campaign Overview
 

@@ -16,6 +16,15 @@ Garland feels he is in his "third act" — near the end of his life.
 He is at peace with this but wants to ensure he understands [[Castor]]'s curse well enough to undo it "just in case" before his own time runs out.
 What Garland wants to accomplish or pass on before the end is an open thread.
 
+## The Starfall Caravan Company
+**Source:** Background
+**Related:** [[Garland yn Greenholt]], [[The Starfall Caravan Company]], [[Cassian Vellor]]
+
+Garland holds an ancient founding share in [[The Starfall Caravan Company]] and has begun drawing on company funds at trading posts.
+A company officer named [[Cassian Vellor]] suspects Garland is a fraud — a necromancer or something worse wearing the founder's identity — and is actively investigating.
+Cassian's investigation could draw unwanted attention to the party at a time when they are already wanted.
+The company's resources could become a plot asset or liability depending on how the ownership dispute plays out.
+
 ## The Greenholt Bloodline Origin
 **Source:** [[Session 0]]
 **Related:** [[Garland yn Greenholt]], [[Castor]], [[Greenholt Bloodline]]

@@ -19,8 +19,20 @@ The company is now run by a wealthy merchant family who assumed their silent fou
 Garland technically owns an ancient founding share of the company.
 He possesses documents proving his ownership and a founder's challenge coin.
 
+## Cassian Vellor
+[[Cassian Vellor]] is a company officer who has become aware that someone appeared at the home office recently with papers proving a founding stake in the company, which initially caused quite a stir.
+The old man asked for very little and has thus far been allowed to draw down on petty funds when visiting Starfall trading posts.
+Eager to prove his worth, Cassian suspects that Garland is a fraud — some kind of necromancer wearing the founder's identity, or maybe even something worse.
+He is out to prove it.
+
+## Potential Story Beats
+- Cassian could confront the party or hire investigators to expose Garland
+- The company's resources could become a plot asset or liability depending on how the ownership dispute plays out
+- Cassian's investigation could draw unwanted attention to the party at a time when they are already wanted
+
 ## Notable Members
 - [[Garland yn Greenholt]] — Founding investor and silent partner
+- [[Cassian Vellor]] — Company officer investigating Garland's claim
 
 ## Relationships
 - [[Garland yn Greenholt]] — Founding shareholder; believed dead by current management

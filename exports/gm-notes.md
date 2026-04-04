@@ -425,6 +425,34 @@ Roderic's reluctance to fight the Order of the Eclipsed Sword sets up a compelli
 **Harlequin Compliance:**
 The Harlequins obeying Roderic's command is interesting — suggests either genuine compliance or strategic patience.
 
+---
+
+### Session 5 — GM Observations
+
+**Castor's Character Beat:**
+The GM explicitly designed the Shrine communion to give Castor a significant character moment after being underserved in recent sessions — stuck in mouse/beaver form made it difficult for meaningful story beats.
+
+**Prologue Complete:**
+The GM is treating sessions 1-5 as prologue, with the "real game" starting from next session onward.
+This reframes everything so far as setup.
+
+**Beaver Curse Connection:**
+The Dark Harlequin's claim that the Laughing One caused Castor's original beaver curse directly connects Castor's backstory to the God of Trickery.
+This comes from a potentially unreliable source — track as unconfirmed.
+
+**Vault Economics:**
+Count Marrow's vault contains significantly less gold than in Garland's era.
+This could indicate economic decline or resources spent on the family's secret renewal worship over generations.
+
+**Harlequin Escalation:**
+The murdered Order of the First Dawn paladin beneath the Chryseum represents an escalation by the Harlequins from trickery to lethal violence.
+This is a meaningful tonal shift.
+
+**Potential Character Changes:**
+Ken (Edric's player) may bring a different character for future sessions.
+Ramsey (Roderic's player) is considering switching characters as well.
+This could significantly reshape the party composition going forward.
+
 
 ## The Starfall Caravan Company — GM Secrets
 

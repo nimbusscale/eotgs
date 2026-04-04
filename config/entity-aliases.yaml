@@ -43,6 +43,7 @@ characters:
   "Delta": "triune"
   "Dawnwarden Brenn": "dawnwarden-brenn"
   "Brenn": "dawnwarden-brenn"
+  "Appearance": "captain-eisen-dorn"
 
 locations:
   "Beaconhold": "beaconhold"
@@ -91,6 +92,10 @@ locations:
   "Witchstones": "ashen-vale"
   "Shepherd's Teeth": "ashen-vale"
   "Shepherds Teeth": "ashen-vale"
+  "Greenholt": "ashen-vale"
+  "Name": "havens-reach"
+  "The Shrine of Renewal": "aurelion"
+  "Underground Tunnel Network": "aurelion"
 
 items:
   "Seal of Unmaking": "seal-of-unmaking"
@@ -102,6 +107,7 @@ items:
   "Halcyrax, the Gilded Ruin": "second-harvest"
   "The Gilded Ruin": "second-harvest"
   "Aegis Mechanism": "xan-kor"
+  "The Ritual at the Nodrum": "seal-of-unmaking"
 
 factions:
   "The Light": "the-light"
@@ -143,6 +149,12 @@ factions:
   "Eclipsed Sword": "the-light"
   "Redeemers of Light": "the-light"
   "The Redeemers of Light": "the-light"
+  "Modern Situation": "starfall-caravan-company"
+  "Notable Religious Sites": "the-light"
+  "Organizations": "the-light"
+  "The Current Crisis": "the-light"
+  "The Imperium": "the-light"
+  "Theological Division": "the-light"
 
 world:
   "Imperium Lucis Aeternae": "imperium-lucis-aeternae"
@@ -167,3 +179,7 @@ world:
   "Sariel": "sariel"
   "Angel of Guidance": "sariel"
   "Moldrex": "moldrex"
+  "Current Situation": "moldrex"
+  "Erasure": "sariel"
+  "Nature": "moldrex"
+  "Significance": "sariel"

@@ -16,6 +16,8 @@ The party is wanted in Aurelion — posters accuse them of subverting the county
 
 ## Crest Aurelion
 [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle.
+Contains a massive vault with diminishing gold reserves and a secret passage connecting it to the count's private chambers, discovered by [[Garland yn Greenholt|Garland]] during [[Beaconhold]]'s conquest centuries ago.
+[[Beaconhold]] conquered Crest Aurelion by forcing the capitulation of a Morrow ancestor who ruled it.
 
 ## The Chryseum
 The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]].
@@ -29,10 +31,14 @@ The Chryseum district is accessible via the underground tunnel network.
 ### The Shrine of Renewal
 An ancient, pre-Luciferian chamber hidden beneath the Chryseum, accessible via a concealed spiral staircase activated by renewal-aligned power.
 The space is organic rather than constructed — shaped by forces older than the [[Imperium Lucis Aeternae|Imperium]], older than everything the party has encountered save [[The Nodrum]] and the [[Witch Stones]].
+The chamber predates the Chryseum, the Imperium, and the Luciferian era.
+The vines and roots are petrified and desiccated but show faint signs of recovery when a herald is present — small cracks appear and then heal.
 At its center rests a translucent cocoon containing the faintest suggestion of a sleeping form — the dormant God of Renewal.
+The cocoon radiates faint warmth and contains what appears to be a figure in a fetal position within a translucent membrane.
 The cocoon inspires an instinctive, parental urge to protect it in all who behold it.
 Those with herald connections feel an interlocking resonance in this place.
 Residual renewal energy within the shrine can partially counteract the effects of ruin.
+When all six heralds gathered, the cocoon opened and the chamber transformed from desiccated ruin to a verdant, living environment filled with renewal energy.
 
 - **The Cocoon** — A translucent cocoon at the chamber's center containing the sleeping God of Renewal; the form within is never clearly resolved, just a curve and shadow suggesting dormant but living presence
 - **Hidden Entrance** — Concealed beneath the swirling pattern on the Chryseum's nave floor; activated by placing hands on the floor with renewal-aligned power, producing a greenish glow
@@ -71,3 +77,4 @@ They enforce the law and carry out orders including [[Luminary Severin Morrow|Se
 - [[Session 2]] — The party arrived and witnessed Aureate soldiers beating a performer; [[Sir Roderic Lightbearer|Roderic]] invoked his authority to free the performer (Jimmy, a Harlequin); the Dark Harlequin manifested briefly inside a water barrel; the party plans to seek the shrine of Renewal beneath the Chryseum
 - [[Session 3]] — The party entered covertly through the old mine tunnels to avoid wanted posters; fought through rock rat ambushes and breached past Aureate guards at the tunnel junction leading toward the Chryseum district
 - [[Session 4]] — [[Sir Roderic Lightbearer|Roderic]] was captured and imprisoned in the Chryseum dungeon; the party freed him and discovered the Shrine of Renewal beneath the Chryseum; [[Luminary Severin Morrow|Severin]] and [[Dawnwarden Brenn]] revealed as heralds of renewal; the [[Order of the Eclipsed Sword]] arrived at Crest Aurelion to arrest [[Count Albrecht Marrow|Count Marrow]]; five heralds felt the interlocking connection at the shrine but could not unlock the cocoon without Marrow; Garland's spellbook responded to the renewal energy
+- [[Session 5]] — The [[Order of the Eclipsed Sword]] besieged and breached Crest Aurelion; [[Garland yn Greenholt|Garland]] and [[Sir Roderic Lightbearer|Roderic]] infiltrated the castle using the secret vault passage to retrieve [[Count Albrecht Marrow]]; Harlequins overran the Chryseum, killing an [[Order of the First Dawn]] paladin; [[Sir Roderic Lightbearer|Roderic]]'s divine decree cleared the mob and he beheaded the [[Dark Harlequin|The Dark Harlequin]]; all six heralds gathered at the Shrine of Renewal and the cocoon opened, transforming the chamber into a verdant, living space

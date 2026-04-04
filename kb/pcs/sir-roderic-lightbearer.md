@@ -71,7 +71,9 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
 - On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds
 - Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
-- The [[Order of the Eclipsed Sword]] — his own faith's military order — has arrived to arrest the herald the party needs most, creating a direct conflict between his mission and his faith
+- Has prior experience working alongside the [[Order of the Eclipsed Sword]] — his own order, the Redeemers of Light, once supplemented Eclipsed Sword operations; respects their tactical efficiency but fears their rigid adherence to orders with no room for judgment
+- Articulated a nuanced theological position: ruin and renewal are forces of nature subordinate to [[Lucifer]], not gods — those who worship them are ignorant, but not wrong to believe these forces must exist
+- Confronted a [[Corona Vigil]] inquisitor who declared him a heretic, responding that Lucifer speaks through him directly
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -79,3 +81,4 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Session 2]] — Recognized Luciferian architectural signatures on [[The Nodrum]]'s facade; held a mirror during the ritual to contain [[The Xan-Kor]]; ruin corrupted ley lines passing through him; invoked his authority as a knight of [[Lucifer]] to force the Aureate to release Jimmy; attempted to convert Jimmy to the Light
 - [[Session 3]] — Separated from the party while entering [[Aurelion]] through the mine tunnels
 - [[Session 4]] — Sent intelligence to [[Beaconhold]] via a Luciferian priest; captured by the Aureate and imprisoned beneath the Chryseum; freed by [[Castor]] and [[Garland yn Greenholt|Garland]]; issued a divine decree commanding freed Harlequins back into their cells; negotiated passage with [[Dawnwarden Brenn]]; used Eyes of the Faithful to confirm Brenn and Severin's sincerity; descended into the [[Shrine of Renewal]] and felt the interlocking herald connection; resolved his theological crisis by interpreting his journey as divinely guided
+- [[Session 5]] — Infiltrated besieged [[Aurelion|Crest Aurelion]] with [[Garland yn Greenholt|Garland]] to retrieve [[Count Albrecht Marrow]]; bluffed past Aureate guards using [[Luminary Severin Morrow|Severin]]'s [[Whiteglass|whiteglass]] pendant; fought [[Order of the Eclipsed Sword]] soldiers in the vault and was branded a heretic by a [[Corona Vigil]] inquisitor; cleared the [[Chryseum|The Chryseum]] of rioters with a divine decree; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it puppeteered a dead paladin's corpse; used Eyes of the Faithful to confirm the sincerity of the followers of renewal; participated in the gathering of all six heralds that opened the cocoon

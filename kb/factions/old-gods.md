@@ -80,6 +80,7 @@ Renewal cannot be active without ruin — when Lucifer locked ruin away, renewal
 The Morrow family has maintained worship of renewal for generations; [[Luminary Severin Morrow]], [[Count Albrecht Marrow]], and [[Dawnwarden Brenn]] are identified as heralds of renewal.
 Signs of renewal's proximity manifest when both herald groups are near: moss grows through cracks of ruin, torches reignite with soft white light.
 Unlocking the cocoon requires the presence of multiple heralds who feel an interlocking connection like puzzle pieces.
+The cocoon opened when all six heralds of ruin and renewal gathered together — ruinous energy flowed from the heralds of ruin and combined with renewal energy, releasing a spring-like surge that transformed the desiccated Shrine into a verdant, living space.
 Residual renewal energy can partially counteract the effects of ruin.
 
 ### Followers of Renewal
@@ -142,6 +143,12 @@ A figure with black and white checkered face paint, a purple and white fool's ca
 It has the power to project disturbing visions into people's minds and can manifest within ordinary objects.
 It sent [[Garland yn Greenholt|Garland]] an uninvited vision of [[Mira]] and children in danger at [[Aldric Garlandsson|Aldric]]'s castle.
 [[Edric Bloom|Edric]] glimpsed it inside a barrel, where it laughed silently before vanishing.
+Claimed the Laughing One was responsible for [[Castor]]'s original beaver curse, calling it the god's greatest joke.
+Attempted to recruit [[Castor]] away from Renewal, offering a partnership of building and laughter.
+Demonstrated the ability to puppeteer a dead paladin's corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.
+Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse.
+
+Harlequins captured, tortured, and killed an [[Order of the First Dawn]] paladin beneath the [[Chryseum|The Chryseum]] — an escalation from trickery to lethal violence.
 
 **Tone options:** Can be played light (mischievous, theatrical, almost likeable) or dark (sinister, alien, wrong laughter).
 Mix both for unsettling effect.
@@ -155,3 +162,4 @@ Mix both for unsettling effect.
 - [[Session 0]] — Established during world-building
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
 - [[Session 4]] — The dormant God of Renewal discovered in the [[Shrine of Renewal]]; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer's suppression revealed as cause of renewal's dormancy
+- [[Session 5]] — The Dark Harlequin confronted [[Castor]] at the Shrine, claiming the Laughing One cursed him and trying to recruit him; Harlequins killed an [[Order of the First Dawn]] paladin and overran the [[Chryseum|The Chryseum]]; the Dark Harlequin was beheaded by [[Sir Roderic Lightbearer|Roderic]]; all six heralds gathered and the cocoon opened, releasing the God of Renewal

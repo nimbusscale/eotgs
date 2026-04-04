@@ -7,7 +7,8 @@
 ## Description
 A severe man who runs the Chryseum, the cathedral of [[The Light]] in [[Aurelion]].
 He is the third son of [[Count Albrecht Marrow]].
-Wears the [[Whiteglass]] pendant of a Luminary.
+Wears a [[Whiteglass]] pendant as a mark of his office as Luminary.
+Can open the hidden stairway to the [[Shrine of Renewal]] with a gesture of his hand.
 
 ## Appearance
 **Colors:** Whiteglass pale, liturgical gold, shadow black, candle-flame amber
@@ -43,6 +44,8 @@ Identified [[Count Albrecht Marrow|Count Marrow]] as the missing herald needed t
 ## Key Events
 - Has been turning his congregation against bards and storytellers
 - [[Session 4]] — Imprisoned suspected Harlequins beneath the Chryseum; revealed himself to the party as a herald of renewal; opened the hidden staircase to the [[Shrine of Renewal]]; led the party to the dormant God of Renewal; argued for cooperation between heralds of ruin and renewal; identified his father as the missing herald
+- [[Session 5]] — Stayed in the tunnels beneath [[Aurelion|Crest Aurelion]] with [[Dawnwarden Brenn]] to avoid arrest by the [[Order of the Eclipsed Sword]]; reunited with [[Count Albrecht Marrow]] in a warm embrace; participated in the gathering of all six heralds that opened the cocoon; [[Sir Roderic Lightbearer|Roderic]]'s Eyes of the Faithful confirmed his sincerity
 
 ## Session Appearances
 - [[Session 4]]
+- [[Session 5]]

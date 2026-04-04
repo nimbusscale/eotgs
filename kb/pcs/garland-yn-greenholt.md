@@ -22,6 +22,9 @@ Garland is extremely old — centuries implied — with elven features but human
 He has the strongest expression of the [[Greenholt Bloodline]] trait, having lived longer than anyone else in his family line.
 
 His youth coincided with the fracturing of the [[Middle Kingdoms]]; he fought in the wars during [[Beaconhold|Beacon Hold]]'s expansion — including the war that brought [[Aurelion]] under Beaconhold's control — and was granted a fiefdom in the [[Ashen Vale]] for his service, though Beaconhold has never enforced its authority there.
+As a young soldier, he participated in Beaconhold's military campaign that conquered [[Aurelion|Crest Aurelion]], forcing the capitulation of a Morrow ancestor who ruled it.
+During that campaign, he was overwhelmed by the sheer wealth of Crest Aurelion's vault — more gold than he had ever seen, coming from the sparsely populated Ashen Vale.
+He discovered a secret passage connecting the vault to the ruler's private chambers, knowledge that proved critical centuries later.
 He served as a soldier, marching with drum and fife in hand as a child.
 He retired to his barren plot of land earned as spoils of war.
 There he carved out a farm and family, eventually forced to sell and rent out parcels of his land over time.
@@ -88,3 +91,4 @@ Has never had much use for gods.
 - [[Session 2]] — Sought help from [[The Triune]] at [[The Nodrum]]; refused to let Castor be re-cursed; teleported to retrieve the Seal's case but lost his memory of Mira; admonished the Triune for wielding dangerous power; found another piece of Aldric's livery (later revealed as a Harlequin trick); received a disturbing vision of Mira from the Dark Harlequin
 - [[Session 3]] — Witnessed his herald curse devastating a farmer's memory; proposed entering [[Aurelion]] through the old mines; conjured light, wards, and illusions to navigate the tunnels; knocked out an elite Aureate guard with [[Second Harvest]] to breach past the guarded junction
 - [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
+- [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon

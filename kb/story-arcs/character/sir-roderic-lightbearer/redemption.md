@@ -21,22 +21,28 @@ His divine decree successfully commanded the Harlequin prisoners, showing his fa
 He proactively sent intelligence about the old gods and [[Count Albrecht Marrow|Marrow]]'s corruption to [[Beaconhold]].
 He faced a theological challenge when [[Dawnwarden Brenn]] called Lucifer's suppression of ruin hubris, but resolved it by interpreting his journey as divinely guided: "I believe Lucifer's light shall guide us all, and he's guided me here already."
 He used his Eyes of the Faithful to scrutinize Brenn and [[Luminary Severin Morrow|Severin]], confirming their sincerity.
-Now he faces his most direct crisis — the [[Order of the Eclipsed Sword]], a military order of his own faith, stands between the party and the man they need to awaken renewal.
+
+Roderic articulated a nuanced theology — ruin and renewal are forces of nature subordinate to Lucifer, not gods — positioning him in tension with the [[Order of the Eclipsed Sword]]'s rigid orthodoxy.
+He bypassed the Order rather than fighting them to reach [[Count Albrecht Marrow|Marrow]], then faced a [[Corona Vigil]] inquisitor who branded him a heretic, to which he responded that Lucifer speaks through him directly.
+He defeated the [[Dark Harlequin|The Dark Harlequin]] in decisive combat after it planted doubt about [[Luminary Severin Morrow|Severin]] and [[Count Albrecht Marrow|Marrow]]'s trustworthiness.
+Eyes of the Faithful confirmed the followers of renewal are sincere, resolving the doubt and validating his choice to trust them.
 
 ## Open Questions
 - Can Roderic's faith overcome the influence of ruin, or is Lucifer's power insufficient against the old gods?
 - What happened to Roderic's battalion, and was his faith truly to blame?
 - How will Roderic reconcile his Luciferian faith with the revelation that Lucifer's suppression of ruin may have caused centuries of stagnation?
-- Can Roderic retrieve [[Count Albrecht Marrow|Count Marrow]] from the [[Order of the Eclipsed Sword]] — his own faith's military order — without betraying his vows?
+- Now branded a heretic by the [[Corona Vigil]], what consequences will Roderic face from his own Church?
 
 ## Answered Questions
 - **Will the shrine of Renewal beneath the Chryseum challenge or strengthen his faith?** — Both; [[Dawnwarden Brenn]]'s theology challenged him, but he resolved it by interpreting his journey as divinely guided ([[Session 4]])
-- **Is there a conspiracy between Severin and Marrow?** — Yes, but they are heralds of renewal, not villains; the Morrows believed releasing ruin was necessary to awaken renewal ([[Session 4]])
+- **Is there a conspiracy between Severin and Marrow?** — Yes, but they are heralds of renewal, not villains; the Morrows believed releasing ruin was necessary to awaken renewal ([[Session 4]]). Eyes of the Faithful confirmed their sincerity ([[Session 5]])
+- **Can Roderic retrieve Count Marrow from the Order of the Eclipsed Sword without betraying his vows?** — He fought Order soldiers and was branded a heretic by a Corona Vigil inquisitor, but successfully extracted Marrow and helped awaken renewal ([[Session 5]])
 
 ## Key Events
 - [[Session 1]] — Failed to heal horses (ruin overwhelmed his power); successfully delivered a blessing in Crownvale defending the horse seller Laura; warned Edric that endorsing "new beginnings through destruction" feeds ruin's power
 - [[Session 2]] — Recognized Luciferian architecture on [[The Nodrum]]; ley line energy passing through him emerged corrupted during the ritual; ruin crumbled his door lock overnight; invoked his authority as a knight of [[Lucifer]] to free the Harlequin Jimmy from the Aureate; attempted to convert Jimmy to the Light
 - [[Session 4]] — Sent intelligence to [[Beaconhold]] before his capture; refused to harm guards even outnumbered; his divine decree commanded Harlequin prisoners; negotiated passage with [[Dawnwarden Brenn]]; resolved his theological crisis; confirmed Brenn and Severin's sincerity with Eyes of the Faithful; discovered the [[Shrine of Renewal]]; now faces the [[Order of the Eclipsed Sword]] blocking access to Count Marrow
+- [[Session 5]] — Articulated a nuanced theology (ruin and renewal as forces subordinate to Lucifer); bluffed past Aureate guards and retrieved [[Count Albrecht Marrow|Count Marrow]]; confronted a [[Corona Vigil]] inquisitor who branded him a heretic; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it attempted to seed doubt; used Eyes of the Faithful to confirm the followers of renewal are sincere; participated in the gathering of all six heralds that opened the cocoon
 
 ## Related Entities
 - [[The Light]] — His faith and order

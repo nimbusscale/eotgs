@@ -102,7 +102,8 @@ Such individuals soon find themselves unable to secure food, lodging, or meaning
 Confronting Marrow is difficult due to his station, resources, and deep ties to the Church.
 
 ### Collecting
-Marrow is a well-known collector of [[Whiteglass]] artifacts specifically — the translucent and radiant substance associated with [[Lucifer]].
+Marrow keeps a collection of whiteglass artifacts in his private chambers at [[Aurelion|Crest Aurelion]].
+He is a well-known collector of [[Whiteglass]] artifacts specifically — the translucent and radiant substance associated with [[Lucifer]].
 The expeditions he funds to retrieve whiteglass relics are normally precise and thoroughly documented.
 [[Edric Bloom]] previously retrieved multiple whiteglass relics for Marrow on separate jobs, describing them as "curiosities at best."
 [[Sir Roderic Lightbearer|Roderic]] theorized that each whiteglass artifact may have been a barrier holding ruin back, weakened one by one until the [[Seal of Unmaking]] was the final clasp.
@@ -119,12 +120,14 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 - [[Session 1]] — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold
 - [[Session 2]] — The Harlequin Jimmy claimed both Marrow and the party are "puppets on the Laughing One's strings"; [[Sir Roderic Lightbearer|Roderic]] suspects a conspiracy involving Marrow and [[Luminary Severin Morrow|Severin]]
 - [[Session 4]] — [[Luminary Severin Morrow|Severin]] revealed Marrow as a herald of renewal and the missing piece needed to unlock the cocoon; the [[Order of the Eclipsed Sword]] arrived at Crest Aurelion to arrest him
+- [[Session 5]] — Retrieved from his private chambers at [[Aurelion|Crest Aurelion]] by [[Garland yn Greenholt|Garland]] and [[Sir Roderic Lightbearer|Roderic]] during the [[Order of the Eclipsed Sword]]'s siege; reluctantly agreed to accompany them after being told ruin and renewal must be balanced; sealed the vault door to cover the party's escape; reunited with [[Luminary Severin Morrow|Severin]] in the tunnels; participated in the gathering of all six heralds that opened the cocoon
 
 ### Session Appearances
 - [[Session 0]]
 - [[Session 1]]
 - [[Session 2]]
 - [[Session 4]]
+- [[Session 5]]
 
 
 ## Dawnwarden Brenn
@@ -153,9 +156,11 @@ She shared a radical theology with the party — that Lucifer's suppression of r
 
 ### Key Events
 - [[Session 4]] — Confronted the party in the Chryseum's grand nave; shared her heterodox theology about ruin and renewal; confirmed as a herald of renewal at the [[Shrine of Renewal]]; traveled with the combined heralds through the tunnels where their presence created a fragile equilibrium
+- [[Session 5]] — Stayed in the tunnels with [[Luminary Severin Morrow|Severin]] to avoid arrest; fought alongside [[Garland yn Greenholt|Garland]] to eliminate Harlequins in the [[Chryseum|The Chryseum]]; participated in the gathering of all six heralds that opened the cocoon
 
 ### Session Appearances
 - [[Session 4]]
+- [[Session 5]]
 
 
 ## Luminary Severin Morrow
@@ -167,7 +172,8 @@ She shared a radical theology with the party — that Lucifer's suppression of r
 ### Description
 A severe man who runs the Chryseum, the cathedral of [[The Light]] in [[Aurelion]].
 He is the third son of [[Count Albrecht Marrow]].
-Wears the [[Whiteglass]] pendant of a Luminary.
+Wears a [[Whiteglass]] pendant as a mark of his office as Luminary.
+Can open the hidden stairway to the [[Shrine of Renewal]] with a gesture of his hand.
 
 ### Appearance
 **Colors:** Whiteglass pale, liturgical gold, shadow black, candle-flame amber
@@ -203,9 +209,11 @@ Identified [[Count Albrecht Marrow|Count Marrow]] as the missing herald needed t
 ### Key Events
 - Has been turning his congregation against bards and storytellers
 - [[Session 4]] — Imprisoned suspected Harlequins beneath the Chryseum; revealed himself to the party as a herald of renewal; opened the hidden staircase to the [[Shrine of Renewal]]; led the party to the dormant God of Renewal; argued for cooperation between heralds of ruin and renewal; identified his father as the missing herald
+- [[Session 5]] — Stayed in the tunnels beneath [[Aurelion|Crest Aurelion]] with [[Dawnwarden Brenn]] to avoid arrest by the [[Order of the Eclipsed Sword]]; reunited with [[Count Albrecht Marrow]] in a warm embrace; participated in the gathering of all six heralds that opened the cocoon; [[Sir Roderic Lightbearer|Roderic]]'s Eyes of the Faithful confirmed his sincerity
 
 ### Session Appearances
 - [[Session 4]]
+- [[Session 5]]
 
 
 ## Mayliss Vane

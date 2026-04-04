@@ -17,9 +17,11 @@ Druid
 Stubbornly protect something others think is not worth saving.
 
 ## Background
-Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
+Castor was born after the Godstorm, in the early days of the [[Imperium Lucis Aeternae|Imperium]] — his parents lived through [[Lucifer]]'s ascension.
 He carries the [[Greenholt Bloodline]], which gives him elven features despite being human.
-In those days he was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
+As a child, his grandmother told stories of the old gods not with fear but as partners of mortals who had always been good to people.
+In his previous life before the beaver curse, Castor was a commoner who cared more about survival than the comings and goings of greater powers.
+He was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
 He was never good with people and seemed uninterested in growing out his own branch of the family.
 
@@ -48,9 +50,8 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 **Background:** Old Wild — can Shapeshift into any creature he has encountered, not only Attuned creatures
 
 **Moves:**
-- **Shapeshift** — Transform into an Attuned creature (or any encountered creature via Old Wild background)
+- **Shapeshift** — Adapted from Unlimited Dungeons; the shift always succeeds, but the roll determines nature points earned; on partial successes in shifted form, spend a nature point or revert; running out of nature points forces revert to human; beaver form is exempt (always free)
 - **Attunement** — Bond with a creature to add it to his Attuned list
-- **Resist Instinct** — Fight the animal instincts that come with a shifted form
 - **Commune** — Speak with the natural world to gain insight
 - **At One With The World** — Deep connection to the natural order
 
@@ -98,6 +99,9 @@ Not a believer one way or another now.
 - Broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat in exchange for intelligence about the tunnels beneath [[Aurelion]]; concern that his druidic curse could be transmitted to offspring
 - Cannot return to beaver form until he fulfills his instinct to reshape the world around him — a cost of his imperfect mouse transformation
 - Wanted in [[Aurelion]] alongside the rest of the party
+- The [[God of Renewal|The God of Renewal]] recognized Castor as a herald of ruin and embraced him with deep warmth — he felt a nostalgic connection to renewal stronger than any other herald experienced
+- The [[Dark Harlequin|The Dark Harlequin]] claimed the [[Laughing One|The Laughing One]] was responsible for his original beaver curse, calling it the god's greatest joke — unconfirmed
+- Received a vision from Renewal showing him as a protector, a crucial piece of the balance between ruin and renewal
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -105,3 +109,4 @@ Not a believer one way or another now.
 - [[Session 2]] — Posed as Garland's grandson to hide his identity from [[The Triune]]; experienced involuntary partial reversion toward beaver form when the Nodrum's wards faltered; opened the [[Seal of Unmaking]]'s case during the ritual; tracked acrobat footprints to find the Harlequin Jimmy
 - [[Session 3]] — Shifted into dog form to avoid recognition from wanted posters; scouted the mine tunnels in beaver form; broke his vow of celibacy with [[Tufa]] the rock rat in exchange for tunnel intelligence; took a rock rat bite to the throat, losing his voice; grappled a rat off [[Garland yn Greenholt|Garland]] during the breakthrough
 - [[Session 4]] — Shapeshifted into a mouse with a beaver-like head to steal dungeon keys and free [[Sir Roderic Lightbearer|Roderic]]; gnawed through a chair leg, a guard's key strap, and wood for barricades; freed Harlequin prisoners; the mouse transformation locked him out of beaver form; felt the interlocking herald connection at the [[Shrine of Renewal]]
+- [[Session 5]] — Communed with the dormant [[God of Renewal|The God of Renewal]] at the [[Shrine of Renewal]], feeling an overwhelming sense of homecoming; confronted the [[Dark Harlequin|The Dark Harlequin]] who tried to recruit him and claimed the [[Laughing One|The Laughing One]] cursed him; touched the cocoon and received a vision of himself as protector; shifted into a wolverine and drove off the Dark Harlequin; built a dam-like barricade to fortify the Shrine entrance; participated in the gathering of all six heralds that opened the cocoon

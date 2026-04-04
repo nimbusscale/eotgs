@@ -20,9 +20,11 @@ Druid
 Stubbornly protect something others think is not worth saving.
 
 ### Background
-Castor dates from the transitionary period when [[Beaconhold|Beacon Hold]] was being established — the fall of the [[Imperium Lucis Aeternae|Imperium]] and rise of the [[Middle Kingdoms]].
+Castor was born after the Godstorm, in the early days of the [[Imperium Lucis Aeternae|Imperium]] — his parents lived through [[Lucifer]]'s ascension.
 He carries the [[Greenholt Bloodline]], which gives him elven features despite being human.
-In those days he was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
+As a child, his grandmother told stories of the old gods not with fear but as partners of mortals who had always been good to people.
+In his previous life before the beaver curse, Castor was a commoner who cared more about survival than the comings and goings of greater powers.
+He was a modest carpenter, respected for his craft but largely considered unremarkable by his people.
 He worked his trade while tending a small homestead among the land shared by his family.
 He was never good with people and seemed uninterested in growing out his own branch of the family.
 
@@ -51,9 +53,8 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 **Background:** Old Wild — can Shapeshift into any creature he has encountered, not only Attuned creatures
 
 **Moves:**
-- **Shapeshift** — Transform into an Attuned creature (or any encountered creature via Old Wild background)
+- **Shapeshift** — Adapted from Unlimited Dungeons; the shift always succeeds, but the roll determines nature points earned; on partial successes in shifted form, spend a nature point or revert; running out of nature points forces revert to human; beaver form is exempt (always free)
 - **Attunement** — Bond with a creature to add it to his Attuned list
-- **Resist Instinct** — Fight the animal instincts that come with a shifted form
 - **Commune** — Speak with the natural world to gain insight
 - **At One With The World** — Deep connection to the natural order
 
@@ -101,6 +102,9 @@ Not a believer one way or another now.
 - Broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat in exchange for intelligence about the tunnels beneath [[Aurelion]]; concern that his druidic curse could be transmitted to offspring
 - Cannot return to beaver form until he fulfills his instinct to reshape the world around him — a cost of his imperfect mouse transformation
 - Wanted in [[Aurelion]] alongside the rest of the party
+- The [[God of Renewal|The God of Renewal]] recognized Castor as a herald of ruin and embraced him with deep warmth — he felt a nostalgic connection to renewal stronger than any other herald experienced
+- The [[Dark Harlequin|The Dark Harlequin]] claimed the [[Laughing One|The Laughing One]] was responsible for his original beaver curse, calling it the god's greatest joke — unconfirmed
+- Received a vision from Renewal showing him as a protector, a crucial piece of the balance between ruin and renewal
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -108,6 +112,7 @@ Not a believer one way or another now.
 - [[Session 2]] — Posed as Garland's grandson to hide his identity from [[The Triune]]; experienced involuntary partial reversion toward beaver form when the Nodrum's wards faltered; opened the [[Seal of Unmaking]]'s case during the ritual; tracked acrobat footprints to find the Harlequin Jimmy
 - [[Session 3]] — Shifted into dog form to avoid recognition from wanted posters; scouted the mine tunnels in beaver form; broke his vow of celibacy with [[Tufa]] the rock rat in exchange for tunnel intelligence; took a rock rat bite to the throat, losing his voice; grappled a rat off [[Garland yn Greenholt|Garland]] during the breakthrough
 - [[Session 4]] — Shapeshifted into a mouse with a beaver-like head to steal dungeon keys and free [[Sir Roderic Lightbearer|Roderic]]; gnawed through a chair leg, a guard's key strap, and wood for barricades; freed Harlequin prisoners; the mouse transformation locked him out of beaver form; felt the interlocking herald connection at the [[Shrine of Renewal]]
+- [[Session 5]] — Communed with the dormant [[God of Renewal|The God of Renewal]] at the [[Shrine of Renewal]], feeling an overwhelming sense of homecoming; confronted the [[Dark Harlequin|The Dark Harlequin]] who tried to recruit him and claimed the [[Laughing One|The Laughing One]] cursed him; touched the cocoon and received a vision of himself as protector; shifted into a wolverine and drove off the Dark Harlequin; built a dam-like barricade to fortify the Shrine entrance; participated in the gathering of all six heralds that opened the cocoon
 
 
 ## Edric Bloom
@@ -221,6 +226,9 @@ Garland is extremely old — centuries implied — with elven features but human
 He has the strongest expression of the [[Greenholt Bloodline]] trait, having lived longer than anyone else in his family line.
 
 His youth coincided with the fracturing of the [[Middle Kingdoms]]; he fought in the wars during [[Beaconhold|Beacon Hold]]'s expansion — including the war that brought [[Aurelion]] under Beaconhold's control — and was granted a fiefdom in the [[Ashen Vale]] for his service, though Beaconhold has never enforced its authority there.
+As a young soldier, he participated in Beaconhold's military campaign that conquered [[Aurelion|Crest Aurelion]], forcing the capitulation of a Morrow ancestor who ruled it.
+During that campaign, he was overwhelmed by the sheer wealth of Crest Aurelion's vault — more gold than he had ever seen, coming from the sparsely populated Ashen Vale.
+He discovered a secret passage connecting the vault to the ruler's private chambers, knowledge that proved critical centuries later.
 He served as a soldier, marching with drum and fife in hand as a child.
 He retired to his barren plot of land earned as spoils of war.
 There he carved out a farm and family, eventually forced to sell and rent out parcels of his land over time.
@@ -287,6 +295,7 @@ Has never had much use for gods.
 - [[Session 2]] — Sought help from [[The Triune]] at [[The Nodrum]]; refused to let Castor be re-cursed; teleported to retrieve the Seal's case but lost his memory of Mira; admonished the Triune for wielding dangerous power; found another piece of Aldric's livery (later revealed as a Harlequin trick); received a disturbing vision of Mira from the Dark Harlequin
 - [[Session 3]] — Witnessed his herald curse devastating a farmer's memory; proposed entering [[Aurelion]] through the old mines; conjured light, wards, and illusions to navigate the tunnels; knocked out an elite Aureate guard with [[Second Harvest]] to breach past the guarded junction
 - [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
+- [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
 
 
 ## Sir Roderic Lightbearer
@@ -362,7 +371,9 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
 - On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds
 - Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
-- The [[Order of the Eclipsed Sword]] — his own faith's military order — has arrived to arrest the herald the party needs most, creating a direct conflict between his mission and his faith
+- Has prior experience working alongside the [[Order of the Eclipsed Sword]] — his own order, the Redeemers of Light, once supplemented Eclipsed Sword operations; respects their tactical efficiency but fears their rigid adherence to orders with no room for judgment
+- Articulated a nuanced theological position: ruin and renewal are forces of nature subordinate to [[Lucifer]], not gods — those who worship them are ignorant, but not wrong to believe these forces must exist
+- Confronted a [[Corona Vigil]] inquisitor who declared him a heretic, responding that Lucifer speaks through him directly
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -370,3 +381,4 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Session 2]] — Recognized Luciferian architectural signatures on [[The Nodrum]]'s facade; held a mirror during the ritual to contain [[The Xan-Kor]]; ruin corrupted ley lines passing through him; invoked his authority as a knight of [[Lucifer]] to force the Aureate to release Jimmy; attempted to convert Jimmy to the Light
 - [[Session 3]] — Separated from the party while entering [[Aurelion]] through the mine tunnels
 - [[Session 4]] — Sent intelligence to [[Beaconhold]] via a Luciferian priest; captured by the Aureate and imprisoned beneath the Chryseum; freed by [[Castor]] and [[Garland yn Greenholt|Garland]]; issued a divine decree commanding freed Harlequins back into their cells; negotiated passage with [[Dawnwarden Brenn]]; used Eyes of the Faithful to confirm Brenn and Severin's sincerity; descended into the [[Shrine of Renewal]] and felt the interlocking herald connection; resolved his theological crisis by interpreting his journey as divinely guided
+- [[Session 5]] — Infiltrated besieged [[Aurelion|Crest Aurelion]] with [[Garland yn Greenholt|Garland]] to retrieve [[Count Albrecht Marrow]]; bluffed past Aureate guards using [[Luminary Severin Morrow|Severin]]'s [[Whiteglass|whiteglass]] pendant; fought [[Order of the Eclipsed Sword]] soldiers in the vault and was branded a heretic by a [[Corona Vigil]] inquisitor; cleared the [[Chryseum|The Chryseum]] of rioters with a divine decree; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it puppeteered a dead paladin's corpse; used Eyes of the Faithful to confirm the sincerity of the followers of renewal; participated in the gathering of all six heralds that opened the cocoon

@@ -24,6 +24,8 @@ She shared a radical theology with the party — that Lucifer's suppression of r
 
 ## Key Events
 - [[Session 4]] — Confronted the party in the Chryseum's grand nave; shared her heterodox theology about ruin and renewal; confirmed as a herald of renewal at the [[Shrine of Renewal]]; traveled with the combined heralds through the tunnels where their presence created a fragile equilibrium
+- [[Session 5]] — Stayed in the tunnels with [[Luminary Severin Morrow|Severin]] to avoid arrest; fought alongside [[Garland yn Greenholt|Garland]] to eliminate Harlequins in the [[Chryseum|The Chryseum]]; participated in the gathering of all six heralds that opened the cocoon
 
 ## Session Appearances
 - [[Session 4]]
+- [[Session 5]]

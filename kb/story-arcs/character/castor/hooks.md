@@ -7,7 +7,8 @@
 The origin and motive of [[Castor]]'s original curse remain unknown.
 Whether it was bad luck or revenge for a forgotten affront, the curse transformed him into a beaver for longer than [[Garland yn Greenholt]] has been alive.
 [[Garland yn Greenholt|Garland]] only managed to mitigate the curse, not fully remove it.
-The means and motive behind the curse are still to be decided.
+The [[Dark Harlequin|The Dark Harlequin]] claimed the [[Laughing One|The Laughing One]] was responsible, calling it "the best joke" — but this comes from a potentially unreliable source ([[Session 5]]).
+Whether the Laughing One truly cursed Castor or the Dark Harlequin was lying remains unresolved.
 
 ## Castor's Forgotten Family
 **Source:** [[Session 0]]

@@ -14,9 +14,9 @@ The Harlequins, followers of the God of Trickery, have been following the party 
 
 Beneath the Chryseum in Aurelion, the party discovered the Shrine of Renewal — an ancient, pre-Luciferian chamber containing the dormant God of Renewal sleeping inside a translucent cocoon.
 The Morrow family revealed themselves as secret worshippers of renewal: Luminary Severin, Count Albrecht Marrow, and Dawnwarden Brenn are the heralds of renewal, counterparts to the party's heralds of ruin.
-Five heralds felt an interlocking connection at the shrine, but the pattern is incomplete — they need Count Marrow to complete the balance.
-When heralds of ruin and renewal travel together, a fragile equilibrium emerges — cracks seal, moss grows — but the balance cannot hold without all six.
-The Order of the Eclipsed Sword, the Church of Lucifer's own military order, has arrived at Crest Aurelion to arrest the very man the party needs most.
+The party retrieved Count Marrow from Crest Aurelion during the Order of the Eclipsed Sword's siege, and all six heralds gathered at the Shrine of Renewal.
+The cocoon opened, releasing a spring-like surge that transformed the desiccated chamber into a verdant, living space — but the broader world remains affected by ruin.
+Roderic was branded a heretic by a Corona Vigil inquisitor during the extraction, and the Dark Harlequin was slain after attempting to prevent the reunion.
 Edric has vanished while under an invisibility spell in the tunnels beneath the Chryseum, his whereabouts unknown.
 
 
@@ -25,9 +25,9 @@ Edric has vanished while under an invisibility spell in the tunnels beneath the 
 ### Castor
 **Player:** Dustin (duskit)
 **Concept:** A druid who spent an extraordinarily long time cursed as a beaver, now more beaver-in-human-skin than human. He carries the Greenholt Bloodline and serves as the party's scout, utility caster, and shapeshifter.
-**Key Abilities:** Shapeshift (Old Wild background — any encountered creature, not only Attuned), Attunement, Resist Instinct, Commune, At One With The World; beaver is his true form
+**Key Abilities:** Shapeshift (Old Wild background — any encountered creature, not only Attuned; adapted from Unlimited Dungeons with nature point economy; beaver form always free), Attunement, Commune, At One With The World; beaver is his true form
 **Relationships:** Views Garland as a father figure despite being technically older; lowkey camaraderie with Edric; growing respect for Roderic
-**Current Threads:** The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river; curiosity about the origin of his original curse; the Triune secretly siphoned energy from his curse to power the Aegis Mechanism; loyalty to the family who never seemed to remember him; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay; broke his vow of celibacy with Tufa the rock rat in exchange for tunnel intelligence; concern his druidic curse could be transmitted to offspring; cannot return to beaver form until he fulfills his instinct to reshape the world — a cost of his imperfect mouse transformation; wanted in Aurelion; felt the interlocking herald connection at the Shrine of Renewal
+**Current Threads:** The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river; curiosity about the origin of his original curse; the Triune secretly siphoned energy from his curse to power the Aegis Mechanism; loyalty to the family who never seemed to remember him; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay; broke his vow of celibacy with Tufa the rock rat in exchange for tunnel intelligence; concern his druidic curse could be transmitted to offspring; cannot return to beaver form until he fulfills his instinct to reshape the world — a cost of his imperfect mouse transformation; wanted in Aurelion; the God of Renewal recognized him and embraced him with deep warmth — a nostalgic connection stronger than any other herald experienced; the Dark Harlequin claimed the Laughing One was responsible for his original beaver curse — unconfirmed; received a vision from Renewal showing him as a protector, a crucial piece of the balance
 
 ### Edric Bloom
 **Player:** Ken (SiliKen)
@@ -41,14 +41,14 @@ Edric has vanished while under an invisibility spell in the tunnels beneath the 
 **Concept:** An extraordinarily old warrior-sage entering his "third act," who carries the Greenholt Bloodline that grants elven features and an extended lifespan. He is a former soldier, accidental lord, and guardian of the Witch Stones. He once knew deep magic, but the Curse of Ruin — his burden as the herald of forgetting — stripped most of it away, leaving a frontline fighter who is slowly recovering his arcane knowledge.
 **Key Abilities:** Signature Weapon (Second Harvest), Battle Momentum, Particular Set of Skills, cross-class Wizard (Evoke a Spell, Prestidigitation), Known Spells: Immunity, Invisibility; Veteran background (Battlefield intuition)
 **Relationships:** Complex guardianship of Castor; growing camaraderie with Roderic; lowkey affection for Edric; grandson Aldric rules Crownvale; great-grandchild Rowan perished in Ashbrook; great-great-grandchild Mira calls him "Pappy"
-**Current Threads:** Lost his memory of Mira during the teleportation at the Nodrum — feels an unexplained hollow absence; the Aldric livery mystery resolved as a Harlequin trick but broader questions about Aldric remain; the party are the heralds of ruin — carrying the curse wherever they go; his herald curse — the herald of forgetting — causes knowledge to be lost and people to forget; his spellbook responded to residual renewal energy at the Shrine of Renewal, growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered; wields Second Harvest, a legendary great sword (once called Halcyrax, the Gilded Ruin); holds an ancient founding share in The Starfall Caravan Company
+**Current Threads:** Lost his memory of Mira during the teleportation at the Nodrum — feels an unexplained hollow absence; the Aldric livery mystery resolved as a Harlequin trick but broader questions about Aldric remain; the party are the heralds of ruin — carrying the curse wherever they go; his herald curse — the herald of forgetting — causes knowledge to be lost and people to forget; his spellbook responded to residual renewal energy at the Shrine of Renewal, growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered; wields Second Harvest, a legendary great sword (once called Halcyrax, the Gilded Ruin); holds an ancient founding share in The Starfall Caravan Company; as a young soldier, discovered a secret passage in Crest Aurelion's vault that proved critical centuries later during the extraction of Count Marrow
 
 ### Sir Roderic Lightbearer
 **Player:** Ramsey (feklars)
 **Concept:** A Luciferian paladin and war orphan turned knight-errant, devoted to protecting the weak and bringing light. He serves as the party's moral anchor and frontline defender.
 **Key Abilities:** Devout Virtues (Courage, Honor, Mercy, Purity), Decree (divine command), Chains of Faith, Healing Hands (Guardian background — two effects), Eyes of the Faithful (Advanced), Armed and Ready
 **Relationships:** Playful camaraderie with Edric; deep respect for Garland; lowkey doubts about Castor
-**Current Threads:** Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted; his faith proved effective against mortal authority — divine decrees command obedience from both Aureate soldiers and Harlequin prisoners; sent word directly to Beaconhold about the old gods' return and Marrow's corruption, bypassing Severin's authority; the Bonewall's Luciferian protections are crumbling; on assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds; discovered the Shrine of Renewal and confirmed Severin, Marrow, and Dawnwarden Brenn as heralds of renewal; the Order of the Eclipsed Sword — his own faith's military order — has arrived to arrest the herald the party needs most, creating a direct conflict between his mission and his faith
+**Current Threads:** Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted; his faith proved effective against mortal authority — divine decrees command obedience from both Aureate soldiers and Harlequin prisoners; sent word directly to Beaconhold about the old gods' return and Marrow's corruption, bypassing Severin's authority; the Bonewall's Luciferian protections are crumbling; on assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds; discovered the Shrine of Renewal and confirmed Severin, Marrow, and Dawnwarden Brenn as heralds of renewal; has prior experience with the Order of the Eclipsed Sword — respects their efficiency but fears their rigidity; articulated a nuanced theology — ruin and renewal are forces of nature subordinate to Lucifer, not gods; branded a heretic by a Corona Vigil inquisitor after refusing to surrender Count Marrow
 
 
 ## Active Story Arcs
@@ -67,9 +67,13 @@ The Triune identified the party as the heralds of ruin — carrying the curse wh
 Ruin targets each person's core identity: protection (Roderic), knowledge (Garland), inspiration (Edric), creation (Castor).
 The Harlequins — followers of the God of Trickery — revealed they have been following the party since Ashbrook, manipulating events for the Laughing One's entertainment.
 The heralds of renewal have been found: Luminary Severin Morrow, Count Albrecht Marrow, and Dawnwarden Brenn.
-The dormant God of Renewal sleeps in a cocoon beneath the Chryseum in Aurelion, and awakening it requires all heralds together.
-When heralds of ruin and renewal travel together, a fragile equilibrium emerges — cracks seal, moss grows — but the balance is incomplete without Count Marrow.
-The Order of the Eclipsed Sword, the Church's military arm, has arrived to arrest the very herald the party needs most.
+The dormant God of Renewal slept in a cocoon beneath the Chryseum in Aurelion.
+The party retrieved Count Marrow from Crest Aurelion during the Order of the Eclipsed Sword's siege.
+Castor communed with the God of Renewal and received a vision identifying him as a key protector.
+The Dark Harlequin actively tried to prevent the heralds from reuniting, confronting Castor at the Shrine and later attacking the party in the Chryseum, before being beheaded by Roderic.
+All six heralds gathered at the Shrine of Renewal and the cocoon opened, releasing the God of Renewal and transforming the chamber with spring-like energy.
+The balance between ruin and renewal has been restored in the Shrine, though the broader world remains affected.
+Edric is still missing.
 
 **Open Questions:**
 - Who or what is the God of Ruin?
@@ -78,12 +82,11 @@ The Order of the Eclipsed Sword, the Church's military arm, has arrived to arres
 - Were the Whiteglass relics Edric previously collected actually barriers holding back ruin?
 - What will happen to Crownvale as ruin's influence deepens? (Guards abandoning walls, Sergeant Iyer in despair)
 - What happened to the Imperium that even with the Unmaker sealed and Lucifer ascendant, the empire still fell?
-- What is Dorn's awareness of the "threat to the city" and does it relate to the party's mission?
 - Where has Edric disappeared to while invisible in the tunnels beneath the Chryseum?
 - Why is ruin acting like a wounded animal rather than a natural force — what did the Laughing One do?
-- Was Marrow's original hiring of the party a deliberate plan to release ruin and awaken renewal?
-- Can the heralds retrieve Count Marrow from the Order of the Eclipsed Sword without violence against the Light's own forces?
-- Will the fragile balancing effect when heralds of ruin and renewal travel together be enough to stabilize the region?
+- What is the God of Renewal now that it has awakened?
+- How will the awakening of renewal affect the broader world beyond the Shrine?
+- What will the Order of the Eclipsed Sword and Corona Vigil do now that Marrow has escaped?
 
 ### Character: Garland yn Greenholt - Uncover the Truth
 **Theme:** Discover the Truth
@@ -113,10 +116,13 @@ Beneath the Chryseum, he demonstrated his commitment to protecting life by refus
 His divine decree successfully commanded the Harlequin prisoners, showing his faith remains potent.
 He sent intelligence about the old gods and Marrow's corruption to Beaconhold.
 He faced a theological challenge when Dawnwarden Brenn called Lucifer's suppression of ruin hubris, but resolved it by interpreting his journey as divinely guided.
-Now he faces his most direct crisis — the Order of the Eclipsed Sword, a military order of his own faith, stands between the party and the man they need to awaken renewal.
+He articulated a nuanced theology — ruin and renewal are forces of nature subordinate to Lucifer, not gods — positioning him in tension with the Order of the Eclipsed Sword's rigid orthodoxy.
+He bypassed the Order rather than fighting them to reach Marrow, then faced a Corona Vigil inquisitor who branded him a heretic.
+He defeated the Dark Harlequin in decisive combat after it planted doubt about Severin and Marrow's trustworthiness.
+Eyes of the Faithful confirmed the followers of renewal are sincere, resolving the doubt and validating his choice to trust them.
 
 **Open Questions:**
 - Can Roderic's faith overcome the influence of ruin, or is Lucifer's power insufficient against the old gods?
 - What happened to Roderic's battalion, and was his faith truly to blame?
 - How will Roderic reconcile his Luciferian faith with the revelation that Lucifer's suppression of ruin may have caused centuries of stagnation?
-- Can Roderic retrieve Count Marrow from the Order of the Eclipsed Sword — his own faith's military order — without betraying his vows?
+- Now branded a heretic by the Corona Vigil, what consequences will Roderic face from his own Church?

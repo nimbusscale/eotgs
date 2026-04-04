@@ -24,7 +24,12 @@ The Harlequins — followers of the God of Trickery — revealed they have been 
 The heralds of renewal have been found: [[Luminary Severin Morrow]], [[Count Albrecht Marrow]], and [[Dawnwarden Brenn]].
 The dormant God of Renewal sleeps in a cocoon beneath the Chryseum in [[Aurelion]], and awakening it requires all heralds together.
 When heralds of ruin and renewal travel together, a fragile equilibrium emerges — cracks seal, moss grows — but the balance is incomplete without Count Marrow.
-The [[Order of the Eclipsed Sword]], the Church's military arm, has arrived to arrest the very herald the party needs most.
+The party successfully retrieved Count Marrow from [[Aurelion|Crest Aurelion]] during the [[Order of the Eclipsed Sword]]'s siege.
+[[Castor]] communed with the God of Renewal and received a vision identifying him as a key protector.
+The [[Dark Harlequin|The Dark Harlequin]] actively tried to prevent the heralds from reuniting, confronting Castor at the Shrine and later attacking the party in the Chryseum.
+All six heralds gathered at the [[Shrine of Renewal]] and the cocoon opened, releasing the God of Renewal and transforming the chamber with spring-like energy.
+The balance between ruin and renewal has been restored in the Shrine, though the broader world remains affected.
+[[Edric Bloom|Edric]] is still missing.
 
 ## Open Questions
 - Who or what is the God of Ruin?
@@ -37,8 +42,9 @@ The [[Order of the Eclipsed Sword]], the Church's military arm, has arrived to a
 - Where has [[Edric Bloom|Edric]] disappeared to while invisible in the tunnels beneath the Chryseum?
 - Why is ruin acting like a wounded animal rather than a natural force — what did the Laughing One do?
 - Was [[Count Albrecht Marrow|Marrow]]'s original hiring of the party a deliberate plan to release ruin and awaken renewal?
-- Can the heralds retrieve [[Count Albrecht Marrow|Count Marrow]] from the [[Order of the Eclipsed Sword]] without violence against the Light's own forces?
-- Will the fragile balancing effect when heralds of ruin and renewal travel together be enough to stabilize the region?
+- What is the God of Renewal now that it has awakened?
+- How will the awakening of renewal affect the broader world beyond the Shrine?
+- What will the [[Order of the Eclipsed Sword]] and [[Corona Vigil]] do now that Marrow has escaped?
 
 ## Answered Questions
 - **Who was wearing Aldric's livery?** — The Harlequin Jimmy confessed the scraps were planted by the Harlequins as a trick to exploit Garland's paranoia ([[Session 2]])
@@ -47,9 +53,11 @@ The [[Order of the Eclipsed Sword]], the Church's military arm, has arrived to a
 - **Is Aldric connected to Ashbrook?** — The Harlequins fabricated the livery evidence, strongly suggesting he was not involved ([[Session 2]])
 - **What lies in the shrine to the God of Renewal beneath the Chryseum?** — An ancient, pre-Luciferian chamber containing a translucent cocoon with the dormant God of Renewal sleeping inside; the cocoon requires multiple heralds to unlock ([[Session 4]])
 - **Does Marrow's son in the church mean the church cannot be trusted?** — [[Luminary Severin Morrow|Severin]] shares his father's belief in renewal and appears to be an ally, though the Church's Inquisition considers him a heretic ([[Session 4]])
-- **How can the curse be stopped?** — Partial answer: ruin is acting abnormally, like a wounded animal; the God of Renewal can potentially be awakened by the heralds to restore balance; residual renewal energy already partially counteracts ruin ([[Session 4]])
+- **How can the curse be stopped?** — Partial answer: ruin is acting abnormally, like a wounded animal; the God of Renewal can potentially be awakened by the heralds to restore balance; residual renewal energy already partially counteracts ruin ([[Session 4]]). All six heralds gathered and opened the cocoon, awakening renewal within the Shrine — though the broader world remains affected ([[Session 5]])
 - **Why did Count Marrow want the seal broken?** — According to [[Luminary Severin Morrow|Severin]], the Morrow family has been searching for a way to release ruin so that renewal could return; it was part of a deliberate plan, though the Laughing One's interference has corrupted the process ([[Session 4]])
-- **Did Luminary Severin conspire with Count Marrow?** — Yes, but not maliciously; the Morrows are heralds of renewal who believed releasing ruin was necessary to awaken renewal ([[Session 4]])
+- **Did Luminary Severin conspire with Count Marrow?** — Yes, but not maliciously; the Morrows are heralds of renewal who believed releasing ruin was necessary to awaken renewal ([[Session 4]]). [[Sir Roderic Lightbearer|Roderic]]'s Eyes of the Faithful confirmed their sincerity ([[Session 5]])
+- **Can the heralds retrieve Count Marrow from the Order of the Eclipsed Sword without violence against the Light's own forces?** — Not entirely; the party fought Order soldiers in the vault and was branded heretics by a Corona Vigil inquisitor, but successfully extracted Marrow ([[Session 5]])
+- **Will the fragile balancing effect when heralds travel together be enough to stabilize the region?** — Within the Shrine, the full gathering of all six heralds opened the cocoon and restored verdant life; the broader effect remains to be seen ([[Session 5]])
 
 ## Key Events
 - [[Session 0]] — Party retrieved the [[Seal of Unmaking]] from [[Ashbrook]], releasing the God of Ruin; curse now spreading via the [[Ashen Flow]]
@@ -57,6 +65,7 @@ The [[Order of the Eclipsed Sword]], the Church's military arm, has arrived to a
 - [[Session 2]] — Party detoured to [[The Nodrum]] seeking help from [[The Triune]]; learned ruin has a counterpart in Renewal; [[The Triune]] confessed to siphoning [[Castor]]'s curse energy; party redirected energy into the [[Whiteglass]] seal but corrupted reality; the party identified as heralds of ruin; Harlequins revealed their manipulation; the Chryseum shrine is the next objective
 - [[Session 3]] — The party witnessed their herald curses devastating the countryside in devastating synergy; [[Count Albrecht Marrow|Marrow]] issued wanted posters for the party; the party entered [[Aurelion]] covertly through old mine tunnels, fought through rock rat ambushes, and breached past Aureate guards at a critical junction leading toward the Chryseum district
 - [[Session 4]] — [[Sir Roderic Lightbearer|Roderic]] sent intelligence to [[Beaconhold]] and was captured; [[Garland yn Greenholt|Garland]] and [[Castor]] freed him from the church dungeon; [[Dawnwarden Brenn]] revealed Lucifer's suppression of ruin caused renewal to go dormant; [[Luminary Severin Morrow|Severin]] revealed the Morrows as heralds of renewal; the party discovered the dormant God of Renewal in the [[Shrine of Renewal]]; five heralds felt the interlocking connection but need [[Count Albrecht Marrow|Marrow]] to complete it; heralds traveling together create a fragile equilibrium; the [[Order of the Eclipsed Sword]] arrived to arrest Marrow
+- [[Session 5]] — [[Castor]] communed with the God of Renewal and was recognized as a key protector; the party infiltrated besieged [[Aurelion|Crest Aurelion]] and retrieved [[Count Albrecht Marrow]]; the [[Dark Harlequin|The Dark Harlequin]] tried to prevent the reunion and was beheaded by [[Sir Roderic Lightbearer|Roderic]]; all six heralds gathered at the [[Shrine of Renewal]] and the cocoon opened, releasing the God of Renewal; Roderic confirmed the followers of renewal are sincere; [[Edric Bloom|Edric]] is still missing
 
 ## Related Entities
 - [[Seal of Unmaking]] — The artifact that imprisoned the God of Ruin; now empowered with ley line energy

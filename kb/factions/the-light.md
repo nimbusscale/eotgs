@@ -78,9 +78,13 @@ The Church's inquisitorial branch, responsible for investigating heresy and hete
 Agents of the Corona Vigil have been investigating the Morrow family for their divided faith between the Light and renewal.
 They have dispatched the Order of the Eclipsed Sword as their military enforcement arm.
 An older man in Corona Vigil garb was observed watching the Chryseum in [[Aurelion]] before [[Sir Roderic Lightbearer|Roderic]]'s capture.
+A Corona Vigil inquisitor accompanied the [[Order of the Eclipsed Sword]] into the Aurelion Vault, declaring [[Sir Roderic Lightbearer|Roderic]] and his companions heretics when they refused to surrender [[Count Albrecht Marrow]].
 
 ### Order of the Eclipsed Sword
 The military enforcement arm of the Corona Vigil.
+Known for meticulous tactical planning and ruthless efficiency in execution.
+They follow orders rigidly with no room for independent judgment or leniency.
+Have previously collaborated with other Luciferian military orders, including the Redeemers of Light, on operations.
 They arrived at Crest Aurelion to arrest [[Count Albrecht Marrow]] and [[Luminary Severin Morrow]] for their heterodox beliefs about ruin and renewal.
 Their arrival directly threatens the party's mission, as Count Marrow is the missing herald needed to complete the connection at the [[Shrine of Renewal]].
 
@@ -128,3 +132,4 @@ Enforcement of the faith varies by region:
 - [[Session 0]] — Roderic is a Luciferian paladin; the Church's history with the Old Gods is central to the story
 - [[Session 2]] — Roderic recognized the grand cathedral's architectural signatures on [[The Nodrum]]'s facade; the Light's fortresses along the [[Bonewall]] are crumbling as ruin's influence spreads; a champion of Lucifer was erased from existence by [[The Xan-Kor]] during the old wars, undoing a pivotal victory
 - [[Session 4]] — The Corona Vigil was observed investigating the Chryseum; [[Dawnwarden Brenn]] shared heterodox theology about ruin and renewal and accompanied the heralds to the [[Shrine of Renewal]]; [[Luminary Severin Morrow|Severin]] revealed the Morrows as worshippers of renewal; the Order of the Eclipsed Sword arrived at Crest Aurelion to arrest the Morrows; Roderic's invocation of Luciferian authority cowed Aureate soldiers
+- [[Session 5]] — The Order of the Eclipsed Sword besieged [[Aurelion|Crest Aurelion]] and breached the castle; a Corona Vigil inquisitor branded [[Sir Roderic Lightbearer|Roderic]] a heretic in the vault; an [[Order of the First Dawn]] paladin was killed by Harlequins beneath the [[Chryseum|The Chryseum]]; [[Dawnwarden Brenn]] fought alongside the party to eliminate Harlequins

@@ -435,6 +435,7 @@ Renewal cannot be active without ruin — when Lucifer locked ruin away, renewal
 The Morrow family has maintained worship of renewal for generations; [[Luminary Severin Morrow]], [[Count Albrecht Marrow]], and [[Dawnwarden Brenn]] are identified as heralds of renewal.
 Signs of renewal's proximity manifest when both herald groups are near: moss grows through cracks of ruin, torches reignite with soft white light.
 Unlocking the cocoon requires the presence of multiple heralds who feel an interlocking connection like puzzle pieces.
+The cocoon opened when all six heralds of ruin and renewal gathered together — ruinous energy flowed from the heralds of ruin and combined with renewal energy, releasing a spring-like surge that transformed the desiccated Shrine into a verdant, living space.
 Residual renewal energy can partially counteract the effects of ruin.
 
 ##### Followers of Renewal
@@ -497,6 +498,12 @@ A figure with black and white checkered face paint, a purple and white fool's ca
 It has the power to project disturbing visions into people's minds and can manifest within ordinary objects.
 It sent [[Garland yn Greenholt|Garland]] an uninvited vision of [[Mira]] and children in danger at [[Aldric Garlandsson|Aldric]]'s castle.
 [[Edric Bloom|Edric]] glimpsed it inside a barrel, where it laughed silently before vanishing.
+Claimed the Laughing One was responsible for [[Castor]]'s original beaver curse, calling it the god's greatest joke.
+Attempted to recruit [[Castor]] away from Renewal, offering a partnership of building and laughter.
+Demonstrated the ability to puppeteer a dead paladin's corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.
+Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse.
+
+Harlequins captured, tortured, and killed an [[Order of the First Dawn]] paladin beneath the [[Chryseum|The Chryseum]] — an escalation from trickery to lethal violence.
 
 **Tone options:** Can be played light (mischievous, theatrical, almost likeable) or dark (sinister, alien, wrong laughter).
 Mix both for unsettling effect.
@@ -510,6 +517,7 @@ Mix both for unsettling effect.
 - [[Session 0]] — Established during world-building
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
 - [[Session 4]] — The dormant God of Renewal discovered in the [[Shrine of Renewal]]; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer's suppression revealed as cause of renewal's dormancy
+- [[Session 5]] — The Dark Harlequin confronted [[Castor]] at the Shrine, claiming the Laughing One cursed him and trying to recruit him; Harlequins killed an [[Order of the First Dawn]] paladin and overran the [[Chryseum|The Chryseum]]; the Dark Harlequin was beheaded by [[Sir Roderic Lightbearer|Roderic]]; all six heralds gathered and the cocoon opened, releasing the God of Renewal
 
 
 ### The Starfall Caravan Company
@@ -624,9 +632,13 @@ The Church's inquisitorial branch, responsible for investigating heresy and hete
 Agents of the Corona Vigil have been investigating the Morrow family for their divided faith between the Light and renewal.
 They have dispatched the Order of the Eclipsed Sword as their military enforcement arm.
 An older man in Corona Vigil garb was observed watching the Chryseum in [[Aurelion]] before [[Sir Roderic Lightbearer|Roderic]]'s capture.
+A Corona Vigil inquisitor accompanied the [[Order of the Eclipsed Sword]] into the Aurelion Vault, declaring [[Sir Roderic Lightbearer|Roderic]] and his companions heretics when they refused to surrender [[Count Albrecht Marrow]].
 
 ##### Order of the Eclipsed Sword
 The military enforcement arm of the Corona Vigil.
+Known for meticulous tactical planning and ruthless efficiency in execution.
+They follow orders rigidly with no room for independent judgment or leniency.
+Have previously collaborated with other Luciferian military orders, including the Redeemers of Light, on operations.
 They arrived at Crest Aurelion to arrest [[Count Albrecht Marrow]] and [[Luminary Severin Morrow]] for their heterodox beliefs about ruin and renewal.
 Their arrival directly threatens the party's mission, as Count Marrow is the missing herald needed to complete the connection at the [[Shrine of Renewal]].
 
@@ -674,6 +686,7 @@ Enforcement of the faith varies by region:
 - [[Session 0]] — Roderic is a Luciferian paladin; the Church's history with the Old Gods is central to the story
 - [[Session 2]] — Roderic recognized the grand cathedral's architectural signatures on [[The Nodrum]]'s facade; the Light's fortresses along the [[Bonewall]] are crumbling as ruin's influence spreads; a champion of Lucifer was erased from existence by [[The Xan-Kor]] during the old wars, undoing a pivotal victory
 - [[Session 4]] — The Corona Vigil was observed investigating the Chryseum; [[Dawnwarden Brenn]] shared heterodox theology about ruin and renewal and accompanied the heralds to the [[Shrine of Renewal]]; [[Luminary Severin Morrow|Severin]] revealed the Morrows as worshippers of renewal; the Order of the Eclipsed Sword arrived at Crest Aurelion to arrest the Morrows; Roderic's invocation of Luciferian authority cowed Aureate soldiers
+- [[Session 5]] — The Order of the Eclipsed Sword besieged [[Aurelion|Crest Aurelion]] and breached the castle; a Corona Vigil inquisitor branded [[Sir Roderic Lightbearer|Roderic]] a heretic in the vault; an [[Order of the First Dawn]] paladin was killed by Harlequins beneath the [[Chryseum|The Chryseum]]; [[Dawnwarden Brenn]] fought alongside the party to eliminate Harlequins
 
 
 ## Notable Items

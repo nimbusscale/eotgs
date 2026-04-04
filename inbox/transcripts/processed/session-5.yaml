@@ -1,0 +1,304 @@
+session_number: 5
+date_played: "2026-03-14"
+source_transcript: "inbox/transcripts/prepared/session-5.txt"
+
+recap_teaser: |
+  The cocoon has opened, and the God of Renewal stirs beneath the Chryseum.
+  But one herald is still missing — and the forces above have only begun to close in.
+
+summary: |
+  The party split at the Shrine of Renewal beneath the Chryseum.
+  Castor remained behind to commune with the dormant God of Renewal, feeling an overwhelming sense of homecoming as the presence within the cocoon recognized him and embraced him with warmth, flooding his mind with half-forgotten memories of his grandmother telling stories of the old gods.
+  Garland, Roderic, Severin, and Brenn departed through the tunnels toward Crest Aurelion to retrieve Count Marrow — the sixth and final herald needed to complete the balance.
+
+  At Crest Aurelion, the Order of the Eclipsed Sword had breached the castle, and First Aureate Dorn was leading the Aureate in a desperate defense.
+  Severin and Brenn stayed in the tunnels to avoid arrest, while Garland and Roderic navigated the besieged castle alone.
+  Garland drew on centuries-old memories of Beaconhold's conquest of Aurelion to guide them through a secret passage connecting the castle vault to the count's private chambers.
+  They bluffed past Aureate guards with Severin's whiteglass pendant, reached Count Marrow, and convinced the reluctant count to accompany them — arguing that ruin and renewal must be balanced by gathering all heralds together.
+
+  Meanwhile, the Dark Harlequin appeared in the Shrine and confronted Castor directly, claiming the Laughing One was responsible for his original beaver curse and attempting to recruit him.
+  When Castor touched the cocoon despite the Harlequin's warning, he received a vision from Renewal showing him as a protector — a crucial piece of the balance.
+  The Dark Harlequin attacked, but Castor shifted into a wolverine and drove it off.
+
+  The escape through the vault turned violent when Order soldiers descended on the party.
+  Roderic bowled the lead soldiers down a ramp while Garland cut through another with Second Harvest, and Marrow sealed the vault door behind them.
+  A Corona Vigil inquisitor branded them heretics, but the party pressed on and reunited with Severin and Brenn in the tunnels.
+
+  Returning to the Chryseum, they found it overrun — Harlequins dancing with religious artifacts, grieving people destroying property, and a murdered Order of the First Dawn paladin lying stripped on the steps.
+  Roderic's divine decree scattered the mob, but the Harlequins remained, with the Dark Harlequin puppeteering the dead paladin's corpse in a grotesque display.
+  The Dark Harlequin locked eyes with Roderic and projected a disturbing vision that seeded doubt about Severin and Marrow's true intentions.
+  Roderic charged through the lesser Harlequins and beheaded the Dark Harlequin in a single devastating strike, while Garland and Brenn eliminated the rest.
+
+  The party descended to the Shrine of Renewal where Castor waited in beaver form behind a barricade he had built.
+  With all six heralds gathered around the cocoon, the ruinous energy flowed out of the heralds of ruin, merged with the renewal energy, and the cocoon opened — releasing a spring-like surge that transformed the desiccated chamber into a verdant, living space.
+  Roderic used Eyes of the Faithful to confirm that Severin and the followers of renewal were sincere, dispelling the doubt the Dark Harlequin had planted.
+
+major_events:
+  - description: |
+      Castor remained at the Shrine of Renewal while the rest of the party departed to retrieve Count Marrow.
+      Standing before the translucent cocoon, he felt an overwhelming wave of nostalgia — a sense of homecoming he had not experienced in centuries.
+      The presence within the cocoon recognized him as a herald of ruin, the missing counterpart to its balance, and embraced him with warmth, flooding his mind with half-forgotten memories of his grandmother stirring a stew pot and telling stories of the old gods as partners of mortals.
+      He shifted from mouse form back to human to commune more deeply and convinced the others he needed to stay.
+    entities_involved: ["Castor", "Garland yn Greenholt"]
+    location: "Shrine of Renewal"
+  - description: |
+      Garland, Roderic, Severin, and Brenn emerged from the tunnels near Crest Aurelion to hear the sounds of battle — the Order of the Eclipsed Sword had breached the castle.
+      Dawnwarden Brenn and Severin stayed behind in the tunnels, knowing the Order would arrest them on sight, while Garland and Roderic pressed on alone to retrieve Count Marrow.
+    entities_involved: ["Garland yn Greenholt", "Sir Roderic Lightbearer", "Luminary Severin Morrow", "Dawnwarden Brenn", "Captain Eisen Dorn"]
+    location: "Crest Aurelion"
+  - description: |
+      In the courtyard, Garland and Roderic spotted First Aureate Dorn and his guards fighting a dozen Order of the Eclipsed Sword soldiers.
+      They chose to bypass the battle rather than intervene, prioritizing the mission to reach Count Marrow.
+    entities_involved: ["Garland yn Greenholt", "Sir Roderic Lightbearer", "Captain Eisen Dorn"]
+    location: "Crest Aurelion"
+  - description: |
+      Roderic presented Severin's whiteglass pendant to a veteran Aureate guard and convinced him they had been sent to retrieve the Count.
+      When the guards refused vault access, Garland used his veteran's authority and thinly veiled threats to compel them to stand aside.
+      The guards relented, letting them into the vault before turning to fight the approaching Order soldiers.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt"]
+    location: "Aurelion Vault"
+  - description: |
+      Inside the vault, Garland saw immense piles of gold — though notably less than when he had been there centuries ago.
+      He led Roderic through the secret passage from the vault up to Count Marrow's private chambers, where they found the Count.
+      Marrow was reluctant, accusing them of bringing ruin to Aurelion, but Roderic explained that ruin and renewal must be balanced by gathering all six heralds.
+      Marrow relented, acknowledging he had little choice between accompanying them or being arrested by the Order.
+    entities_involved: ["Garland yn Greenholt", "Sir Roderic Lightbearer", "Count Albrecht Marrow"]
+    location: "Crest Aurelion"
+  - description: |
+      The Dark Harlequin appeared in the Shrine of Renewal and confronted Castor directly.
+      It warned him not to touch the cocoon, claimed the Laughing One was responsible for Castor's original beaver curse — calling it the god's greatest joke — and tried to recruit Castor to travel the world together in a partnership of building and laughter.
+    entities_involved: ["Castor", "The Dark Harlequin"]
+    location: "Shrine of Renewal"
+  - description: |
+      Castor touched the cocoon despite the Dark Harlequin's warning and received a vision from Renewal.
+      He saw himself standing before a crowd of Harlequin followers and ruined, distraught people trying to breach the Chryseum, and in the vision he calmed and redirected the crowd — imbued with the sense that he was a crucial protector of the dormant god.
+      When he emerged from the vision, the Dark Harlequin lunged at him.
+      Castor shifted into a wolverine and fought back, clawing the creature and drawing its ichor-like blood before it retreated up the stairs.
+    entities_involved: ["Castor", "The Dark Harlequin", "The God of Renewal"]
+    location: "Shrine of Renewal"
+  - description: |
+      In the Aurelion Vault, Order of the Eclipsed Sword soldiers descended on the party during their escape.
+      Roderic shield-kicked the lead soldier down the ramp, bowling over his companions, while Garland struck another with Second Harvest, its armor-ignoring blade cutting clean through the man's breastplate.
+      A Corona Vigil inquisitor branded them heretics, but Count Marrow sealed the vault door behind them from inside, and the party escaped into the tunnels.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Count Albrecht Marrow"]
+    location: "Aurelion Vault"
+  - description: |
+      The party reunited with Severin and Brenn in the tunnels beneath Crest Aurelion.
+      Severin and Count Marrow shared a warm embrace, and Severin confirmed they were close to restoring renewal.
+    entities_involved: ["Luminary Severin Morrow", "Count Albrecht Marrow", "Dawnwarden Brenn"]
+    location: "Aurelion Tunnels"
+  - description: |
+      Castor, alone at the Shrine of Renewal, shifted to beaver form and fortified the hidden entrance by building a dam-like barricade from desiccated branches and loose stone.
+      While working, he overheard Harlequins interrogating and ultimately killing an Order of the First Dawn paladin above him, the paladin's cries growing weaker until they fell silent.
+    entities_involved: ["Castor", "The Harlequins"]
+    location: "Shrine of Renewal"
+  - description: |
+      Returning to the Chryseum, the party found the temple in chaos — Harlequins dancing with religious artifacts, grieving and ruined people destroying property, and a murdered paladin lying stripped on the steps leading down to the Shrine.
+      Roderic issued a divine decree commanding everyone to leave or face his sword, and the mob obeyed, filing out of the temple.
+      The Harlequins who remained revealed the Dark Harlequin puppeteering the dead paladin's corpse with dark magic, making it dance and speak mockingly.
+    entities_involved: ["Sir Roderic Lightbearer", "The Harlequins"]
+    location: "The Chryseum"
+  - description: |
+      The Dark Harlequin locked eyes with Roderic and projected a disturbing vision — the Chryseum's architecture appeared to contain dark motifs, seeding doubt about whether Severin and Marrow were truly trustworthy.
+      Roderic shook off the worst of it but could not entirely dismiss the seeds of doubt.
+      He charged through the lesser Harlequins, absorbing their blows against his armor, and drove his sword through the illusory paladin shield and the Dark Harlequin in a single devastating strike, severing its head.
+      Garland and Dawnwarden Brenn eliminated the remaining Harlequins.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Dawnwarden Brenn", "The Dark Harlequin"]
+    location: "The Chryseum"
+  - description: |
+      With the Chryseum cleared, the party descended to the Shrine of Renewal where Castor waited in beaver form behind his barricade.
+      All six heralds gathered around the cocoon — three of ruin and three of renewal.
+      The ruinous energy each herald of ruin carried flowed out of them and combined with the renewal energy around the cocoon.
+      The cocoon opened and a spring-like surge of renewal washed through the chamber, transforming the desiccated ruin into a verdant, living space.
+    entities_involved: ["Sir Roderic Lightbearer", "Garland yn Greenholt", "Castor", "Luminary Severin Morrow", "Dawnwarden Brenn", "Count Albrecht Marrow", "The God of Renewal"]
+    location: "Shrine of Renewal"
+  - description: |
+      Roderic used Eyes of the Faithful to assess whether Severin and the followers of renewal were being honest about their intentions.
+      The reading confirmed they were sincere — renewal and ruin are both part of the natural order, and without reuniting them the world will continue to stagnate while ruin acts destructively.
+      The doubt the Dark Harlequin had planted was alleviated.
+    entities_involved: ["Sir Roderic Lightbearer", "Luminary Severin Morrow"]
+    location: "Shrine of Renewal"
+
+new_entities:
+  npcs: []
+
+  locations: []
+  items: []
+  factions: []
+
+entity_updates:
+  - entity: "Castor"
+    category: "pc"
+    new_info: |
+      Born after the Godstorm, in the early days of the Imperium — his parents lived through Lucifer's ascension.
+      As a child, his grandmother told stories of the old gods not with fear but as partners of mortals who had always been good to people.
+      In his previous life before the beaver curse, Castor was a commoner who cared more about survival than the comings and goings of greater powers.
+      The God of Renewal recognized Castor as a herald of ruin and embraced him with deep warmth — he felt a nostalgic connection to renewal stronger than any other herald experienced.
+      The Dark Harlequin claimed the Laughing One was responsible for Castor's original beaver curse, calling it the god's greatest joke.
+  - entity: "Sir Roderic Lightbearer"
+    category: "pc"
+    new_info: |
+      Has prior experience working alongside the Order of the Eclipsed Sword — his own order, the Redeemers of Light, once supplemented Eclipsed Sword operations.
+      He respects their tactical efficiency but fears their rigid adherence to orders with no room for judgment.
+      Articulated a nuanced theological position: ruin and renewal are forces of nature subordinate to Lucifer, not gods — those who worship them are ignorant, but not wrong to believe these forces must exist.
+      Confronted a Corona Vigil inquisitor who declared him a heretic, responding that Lucifer speaks through him directly.
+  - entity: "Garland yn Greenholt"
+    category: "pc"
+    new_info: |
+      As a young soldier, participated in Beaconhold's military campaign that conquered Crest Aurelion centuries ago, forcing the capitulation of a Morrow ancestor who ruled it.
+      During that campaign, he was overwhelmed by the sheer wealth of Crest Aurelion's vault — more gold than he had ever seen, coming from the sparsely populated Ashen Vale.
+      He discovered a secret passage connecting the vault to the ruler's private chambers, knowledge that proved critical centuries later.
+  - entity: "Count Albrecht Marrow"
+    category: "npc"
+    new_info: |
+      Keeps a collection of whiteglass artifacts in his private chambers.
+  - entity: "Luminary Severin Morrow"
+    category: "npc"
+    new_info: |
+      Wears a whiteglass pendant as a mark of his office as Luminary.
+      Can open the hidden stairway to the Shrine of Renewal with a gesture of his hand.
+  - entity: "Old Gods"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The God of Renewal"
+    new_info: |
+      The cocoon opened when all six heralds of ruin and renewal gathered together — ruinous energy flowed from the heralds of ruin and combined with renewal energy, releasing a spring-like surge that transformed the desiccated Shrine into a verdant, living space.
+  - entity: "Old Gods"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The Harlequins"
+    new_info: |
+      The Dark Harlequin claimed the Laughing One was responsible for Castor's original beaver curse.
+      It attempted to recruit Castor away from Renewal, offering a partnership of building and laughter.
+      The Dark Harlequin demonstrated the ability to puppeteer a dead paladin's corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.
+      Harlequins captured, tortured, and killed an Order of the First Dawn paladin beneath the Chryseum — an escalation from trickery to lethal violence.
+  - entity: "The Light"
+    category: "faction"
+    parent_file: "factions/the-light.md"
+    sub_section: "Order of the Eclipsed Sword"
+    new_info: |
+      Known for meticulous tactical planning and ruthless efficiency in execution.
+      They follow orders rigidly with no room for independent judgment or leniency.
+      Have previously collaborated with other Luciferian military orders, including the Redeemers of Light, on operations.
+  - entity: "The Light"
+    category: "faction"
+    parent_file: "factions/the-light.md"
+    sub_section: "Corona Vigil"
+    new_info: |
+      A Corona Vigil inquisitor accompanied the Order of the Eclipsed Sword into the Aurelion Vault, declaring Roderic and his companions heretics when they refused to surrender Count Marrow.
+  - entity: "Aurelion"
+    category: "location"
+    parent_file: "locations/aurelion.md"
+    sub_section: "Crest Aurelion"
+    new_info: |
+      Contains a massive vault with diminishing gold reserves and a secret passage connecting it to the count's private chambers, discovered during Beaconhold's conquest centuries ago.
+      Beaconhold conquered Crest Aurelion by forcing the capitulation of a Morrow ancestor who ruled it.
+  - entity: "Aurelion"
+    category: "location"
+    parent_file: "locations/aurelion.md"
+    sub_section: "The Shrine of Renewal"
+    new_info: |
+      The chamber predates the Chryseum, the Imperium, and the Luciferian era — shaped organically rather than constructed.
+      The vines and roots are petrified and desiccated but show faint signs of recovery when a herald is present — small cracks appear and then heal.
+      The cocoon radiates faint warmth and contains what appears to be a figure in a fetal position within a translucent membrane.
+      When all six heralds gathered, the cocoon opened and the chamber transformed from desiccated ruin to a verdant, living environment filled with renewal energy.
+ 
+questions_raised:
+  - "Was the Laughing One truly responsible for Castor's original beaver curse, or was the Dark Harlequin lying?"
+
+questions_resolved: []
+
+arc_progress:
+  - arc_name: "Curse of Ruin"
+    arc_type: "group"
+    development: |
+      The party successfully retrieved Count Marrow — the sixth herald — from Crest Aurelion during the Order of the Eclipsed Sword's siege.
+      Castor communed with the God of Renewal and received a vision identifying him as a key protector.
+      The Dark Harlequin actively tried to prevent the heralds from reuniting, confronting Castor at the Shrine and later attacking the party in the Chryseum.
+      All six heralds gathered at the Shrine of Renewal and the cocoon opened, releasing the God of Renewal and transforming the chamber with spring-like energy.
+      The balance between ruin and renewal has been restored in the Shrine, though the broader world remains affected.
+      Edric is still missing.
+  - arc_name: "Sir Roderic Lightbearer - Redemption"
+    arc_type: "character"
+    development: |
+      Roderic articulated a nuanced theology — ruin and renewal are forces of nature subordinate to Lucifer, not gods — positioning him in tension with the Eclipsed Sword's rigid orthodoxy.
+      He bypassed the Order rather than fighting them to reach Marrow, then faced a Corona Vigil inquisitor who branded him a heretic, to which he responded that Lucifer speaks through him directly.
+      He defeated the Dark Harlequin in decisive combat after it planted doubt about Severin and Marrow's trustworthiness.
+      Eyes of the Faithful confirmed the followers of renewal are sincere, resolving the doubt and validating his choice to trust them.
+
+notable_quotes:
+  - speaker: "Roderic"
+    line: "I don't consider ruin and renewal to be gods. I think of them as forces of nature. Nature is separate from gods. Lucifer is above them, but they are something that needs to exist in the world."
+    context: "Articulating his theological position on ruin and renewal"
+  - speaker: "Roderic"
+    line: "While some people are ignorant to think that they are gods, I don't think that they are wrong to think that they need to exist."
+    context: "Acknowledging a middle ground between heresy and orthodoxy"
+  - speaker: "The Dark Harlequin"
+    line: "I think the best joke was letting you turn into a beaver. Why a beaver? Why not a lion? Why not a cat? A beaver? Really? You don't see the humor in that?"
+    context: "Claiming the Laughing One was responsible for Castor's original curse"
+  - speaker: "Castor"
+    line: "I'll have you know that my life as a beaver has been studious and fulfilling, and I don't find it funny at all. I think it's quite the noble creature."
+    context: "Defending his beaver existence to the Dark Harlequin"
+  - speaker: "The Dark Harlequin"
+    line: "And that is the punchline."
+    context: "Responding to Castor's earnest defense of beaver-hood"
+  - speaker: "Garland yn Greenholt"
+    line: "We don't have time for explanation, son. You're going to move out of the way or you're not."
+    context: "Threatening the Aureate guard blocking the vault entrance"
+  - speaker: "Count Albrecht Marrow"
+    line: "You brought ruin to this place and now you're trying to bring me to the temple. Why should I go with you?"
+    context: "Confronting the party about their role as heralds of ruin"
+  - speaker: "Roderic"
+    line: "I am not speaking for Lucifer. Lucifer speaks through me."
+    context: "Responding to the Corona Vigil inquisitor's dismissal in the Aurelion Vault"
+  - speaker: "Roderic"
+    line: "You have disrespected our Lord Lucifer and destroyed one of his paladins. Anyone who does not leave this temple immediately shall be put down by my sword."
+    context: "Divine decree clearing the Chryseum of rioters"
+  - speaker: "Castor"
+    line: "It's been a rough day, nephew."
+    context: "In beaver form, greeting the party after they descend to the shrine"
+
+rules_clarifications:
+  - topic: "Castor's shapeshifting rework"
+    clarification: |
+      Castor's shapeshift and resist instinct moves were replaced with a single shapeshifter move adapted from Unlimited Dungeons.
+      The shift always succeeds, but the roll determines how many nature points are earned.
+      On partial successes while in shifted form, a nature point must be spent to maintain the form.
+      Running out of nature points forces a revert to human.
+      Beaver form is exempt — Castor can always shift to beaver without cost.
+
+filtered_sections:
+  - line_range: "1-200"
+    reason: "Pre-game discussion establishing Castor's backstory timeline and worldbuilding. Key lore extracted into entity updates."
+  - line_range: "219-310"
+    reason: "Mixed meta-discussion: GM session pacing reflection, references to other TTRPG campaigns, Brent Spiner/Frakes podcast tangent, AFK break, system change discussion."
+  - line_range: "405-540"
+    reason: "Extended mechanical discussion about Castor's shapeshifting rules rework. Key ruling captured in rules_clarifications."
+  - line_range: "615-675"
+    reason: "Real-world chit-chat: headset comparisons, personal travel plans, cat-sitting."
+  - line_range: "842-862"
+    reason: "Meta-game discussion about NPCs as party members and level-up choices."
+  - line_range: "995-1019"
+    reason: "Rules discussion about compel vs decree mechanics."
+  - line_range: "1364-1395"
+    reason: "Extended rules discussion about wolverine nature moves, engage mechanics, advantage/disadvantage."
+  - line_range: "1560-1580"
+    reason: "Meta discussion about character sheet UI for armor values."
+  - line_range: "1910-1940"
+    reason: "AFK break and real-world chatter about post-session gaming plans."
+  - line_range: "2313-2370"
+    reason: "Out-of-character discussion about paladin mechanics and divine smite comparisons."
+  - line_range: "2460-2470"
+    reason: "Out-of-character cinematic commentary."
+  - line_range: "2530-2700"
+    reason: "End-of-session meta discussion: XP tallying, drive evaluation, session pacing feedback, potential character changes for future sessions."
+
+gm_observations:
+  - "The GM explicitly noted that Castor has been underserved in recent sessions — being stuck in mouse/beaver form makes it difficult for meaningful story moments. The shrine communion was designed to give Castor a significant character beat."
+  - "The GM is treating sessions 1-5 as prologue, with the 'real game' starting from next session onward."
+  - "The Dark Harlequin's claim about the beaver curse connects Castor's backstory directly to the God of Trickery — this should be tracked as unconfirmed since it comes from a potentially unreliable source."
+  - "Count Marrow's vault contains significantly less gold than in Garland's era, which could indicate economic decline or resources spent on secret renewal worship."
+  - "The murdered Order of the First Dawn paladin beneath the Chryseum represents an escalation by the Harlequins from trickery to lethal violence."
+  - "Ken (Edric's player) may bring a different character for future sessions, and Ramsey (Roderic's player) is considering switching characters as well."
+
+unresolved_references: []

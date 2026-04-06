@@ -35,7 +35,7 @@ DIR_TO_TAG = {
     "factions": "faction",
     "world": "world",
     "sessions": "session",
-    "story-arcs": "story-arc",
+    # "story-arcs": "story-arc",  # excluded from site nav; will be restructured
 }
 
 SMALL_WORDS = {
@@ -257,8 +257,16 @@ def build_content(alias_map, wikilink_map, slug_form_map):
     # Track which slugs actually have files
     existing_slugs = set()
 
+    # Directories to exclude from site content
+    excluded_dirs = {"story-arcs"}
+
     for md_file in KB_DIR.rglob("*.md"):
         rel = md_file.relative_to(KB_DIR)
+
+        # Skip excluded directories
+        if rel.parts[0] in excluded_dirs:
+            continue
+
         existing_slugs.add(md_file.stem)
 
         dest = CONTENT_DIR / rel

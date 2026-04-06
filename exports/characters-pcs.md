@@ -93,18 +93,26 @@ Not a believer one way or another now.
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
 
-### Current Threads
-- The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river
-- Curiosity about the origin and motive of his original curse
-- [[The Triune]] secretly siphoned energy from his curse to power [[The Xan-Kor|the Aegis Mechanism]] — a betrayal of trust
-- Loyalty to the family who never seemed to remember him
-- The party are the heralds of ruin; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay, break, and turn to dust
-- Broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat in exchange for intelligence about the tunnels beneath [[Aurelion]]; concern that his druidic curse could be transmitted to offspring
-- Cannot return to beaver form until he fulfills his instinct to reshape the world around him — a cost of his imperfect mouse transformation
-- Wanted in [[Aurelion]] alongside the rest of the party
-- The [[God of Renewal|The God of Renewal]] recognized Castor as a herald of ruin and embraced him with deep warmth — he felt a nostalgic connection to renewal stronger than any other herald experienced
-- The [[Dark Harlequin|The Dark Harlequin]] claimed the [[Laughing One|The Laughing One]] was responsible for his original beaver curse, calling it the god's greatest joke — unconfirmed
-- Received a vision from Renewal showing him as a protector, a crucial piece of the balance between ruin and renewal
+### Hooks
+
+#### The Beaver Curse
+The origin and motive of Castor's original curse remain unknown.
+The [[Dark Harlequin]] claimed the [[Laughing One]] was responsible, calling it "the best joke" — but this comes from a potentially unreliable source.
+Whether the Laughing One truly cursed Castor or the Dark Harlequin was lying remains unresolved.
+
+#### Castor's Forgotten Family
+Castor's family never seemed to remember him after he was cursed.
+His loyalty to them persists despite this.
+What happened to his family line, and why they forgot him, is unresolved.
+
+#### Castor's Offspring
+[[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
+Whether his druidic curse can be transmitted to offspring is an open question.
+
+#### Renewal's Chosen
+Castor received a vision from the [[God of Renewal]] showing him as a protector and a crucial piece of the balance between ruin and renewal.
+He felt a connection to renewal stronger than any other herald experienced — an overwhelming sense of homecoming.
+What this role means and what it demands of him is unresolved.
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -272,22 +280,25 @@ Has never had much use for gods.
 - [[Aldric Garlandsson]] — Grandson who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
 - [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
 
-### Current Threads
-- Understand the [[Witch Stones]] better — what they do, how their power works; his spellcraft originated from deciphering their carvings
-- Investigate whether other Witch Stones exist elsewhere
-- Understand [[Castor]]'s curse so he can undo it "just in case" before his own time runs out
-- The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]]
-- The Aldric livery mystery — resolved as a Harlequin trick, but broader questions about Aldric remain
-- Lost his memory of [[Mira]] during the teleportation at [[The Nodrum]]; feels an unexplained hollow absence
-- The party are the heralds of ruin — carrying the curse wherever they go
-- His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity
-- His spellbook responded to residual renewal energy at the [[Shrine of Renewal]], growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered
-- Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
-- Wears ancient plate armor beneath his tattered riding cloak — dusty, rusty, dented, and damaged from centuries of use, clanking as he walks
-- Wields [[Second Harvest]], a legendary great sword with a storied past
-- Carries foreign candy (butterscotch) as treats for grandchildren
-- Previously consulted [[The Triune]] about [[Castor]]'s curse but kept the druid's true identity secret
-- Holds an ancient founding share in [[The Starfall Caravan Company]], a merchant consortium he invested in after a devastating winter famine in the Vale; carries documents and a founder's challenge coin as proof of ownership
+### Hooks
+
+#### The Witch Stones
+[[Garland yn Greenholt]] wants to understand the [[Witch Stones]] better — what they do, how their power works, and the drama around them.
+He would be very interested in investigating other Witch Stones if they exist elsewhere.
+
+#### Garland's Third Act
+Garland feels he is in his "third act" — near the end of his life.
+He wants to ensure he understands [[Castor]]'s curse well enough to undo it "just in case" before his own time runs out.
+What Garland wants to accomplish or pass on before the end is an open thread.
+
+#### The Starfall Caravan Company
+Garland holds an ancient founding share in [[The Starfall Caravan Company]] and has begun drawing on company funds at trading posts.
+A company officer named [[Cassian Vellor]] suspects Garland is a fraud — a necromancer or something worse wearing the founder's identity — and is actively investigating.
+Cassian's investigation could draw unwanted attention to the party at a time when they are already wanted.
+
+#### The Greenholt Bloodline Origin
+The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.
+Whether it connects to actual elven ancestry or something else entirely remains an open question.
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -364,16 +375,12 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Garland yn Greenholt]] — Deep Respect
 - [[Castor]] — Lowkey Doubts
 
-### Current Threads
-- Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted
-- His faith proved effective against mortal authority: divine decrees command obedience from both Aureate soldiers and Harlequin prisoners
-- Sent word directly to [[Beaconhold]] about the old gods' return and [[Count Albrecht Marrow|Marrow]]'s corruption, bypassing [[Luminary Severin Morrow|Severin]]'s authority
-- The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
-- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds
-- Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
-- Has prior experience working alongside the [[Order of the Eclipsed Sword]] — his own order, the Redeemers of Light, once supplemented Eclipsed Sword operations; respects their tactical efficiency but fears their rigid adherence to orders with no room for judgment
-- Articulated a nuanced theological position: ruin and renewal are forces of nature subordinate to [[Lucifer]], not gods — those who worship them are ignorant, but not wrong to believe these forces must exist
-- Confronted a [[Corona Vigil]] inquisitor who declared him a heretic, responding that Lucifer speaks through him directly
+### Hooks
+
+#### Roderic's Lost Battalion
+On his last campaign, Roderic lost his entire battalion.
+He blamed his insufficient faith for the destruction.
+What happened on that campaign, and whether the guilt is justified, is unexplored.
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation

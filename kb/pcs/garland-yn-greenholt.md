@@ -68,22 +68,25 @@ Has never had much use for gods.
 - [[Aldric Garlandsson]] — Grandson who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
 - [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
 
-## Current Threads
-- Understand the [[Witch Stones]] better — what they do, how their power works; his spellcraft originated from deciphering their carvings
-- Investigate whether other Witch Stones exist elsewhere
-- Understand [[Castor]]'s curse so he can undo it "just in case" before his own time runs out
-- The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]]
-- The Aldric livery mystery — resolved as a Harlequin trick, but broader questions about Aldric remain
-- Lost his memory of [[Mira]] during the teleportation at [[The Nodrum]]; feels an unexplained hollow absence
-- The party are the heralds of ruin — carrying the curse wherever they go
-- His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity
-- His spellbook responded to residual renewal energy at the [[Shrine of Renewal]], growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered
-- Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
-- Wears ancient plate armor beneath his tattered riding cloak — dusty, rusty, dented, and damaged from centuries of use, clanking as he walks
-- Wields [[Second Harvest]], a legendary great sword with a storied past
-- Carries foreign candy (butterscotch) as treats for grandchildren
-- Previously consulted [[The Triune]] about [[Castor]]'s curse but kept the druid's true identity secret
-- Holds an ancient founding share in [[The Starfall Caravan Company]], a merchant consortium he invested in after a devastating winter famine in the Vale; carries documents and a founder's challenge coin as proof of ownership
+## Hooks
+
+### The Witch Stones
+[[Garland yn Greenholt]] wants to understand the [[Witch Stones]] better — what they do, how their power works, and the drama around them.
+He would be very interested in investigating other Witch Stones if they exist elsewhere.
+
+### Garland's Third Act
+Garland feels he is in his "third act" — near the end of his life.
+He wants to ensure he understands [[Castor]]'s curse well enough to undo it "just in case" before his own time runs out.
+What Garland wants to accomplish or pass on before the end is an open thread.
+
+### The Starfall Caravan Company
+Garland holds an ancient founding share in [[The Starfall Caravan Company]] and has begun drawing on company funds at trading posts.
+A company officer named [[Cassian Vellor]] suspects Garland is a fraud — a necromancer or something worse wearing the founder's identity — and is actively investigating.
+Cassian's investigation could draw unwanted attention to the party at a time when they are already wanted.
+
+### The Greenholt Bloodline Origin
+The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.
+Whether it connects to actual elven ancestry or something else entirely remains an open question.
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation

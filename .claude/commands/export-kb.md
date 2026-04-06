@@ -45,7 +45,7 @@ Write `exports/campaign-index.md` following this structure:
 **Concept:** [Concept paragraph from PC file]
 **Key Abilities:** [Notable talents/backgrounds from PC file]
 **Relationships:** [Key relationships to other PCs]
-**Current Threads:** [Active personal plot hooks, semicolon-separated]
+**Current Threads:** [Active personal hooks from the PC's ## Hooks section, semicolon-separated]
 
 [Repeat for each PC]
 
@@ -71,7 +71,7 @@ Write `exports/campaign-index.md` following this structure:
 ```
 
 **Guidelines:**
-- Pull concept, key abilities, relationships, and current threads from the PC files
+- Pull concept, key abilities, relationships, and hooks from the PC files
 - Include full summary and open questions from active story arc files
 - Keep narrative voice consistent — never reference "the session", "the GM", or game mechanics meta
 - One sentence per line for all narrative prose

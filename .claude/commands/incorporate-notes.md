@@ -66,7 +66,7 @@ Break the note into logical sections and classify each:
 | New faction | `kb/factions/` | `templates/faction.md` |
 | Story arc (player-visible) | `kb/story-arcs/group/` or `story-arcs/character/` | `templates/story-arc.md` |
 | Story arc (GM secrets) | `gm-notes/` | — (freeform, reference the arc) |
-| Story hooks (potential arcs not yet in play) | `kb/story-arcs/group/hooks.md` or `story-arcs/character/{character-slug}/hooks.md` | — (see Step 5b) |
+| Story hooks (potential arcs not yet in play) | Group: `kb/story-arcs/group/hooks.md`; Character: `## Hooks` section in `kb/pcs/{character-slug}.md` | — (see Step 5b) |
 | Session recap or summary | `kb/sessions/` | `templates/session.md` |
 
 ### Step 4 — Resolve entity references
@@ -111,46 +111,45 @@ A **hook** is a potential story arc that hasn't been activated in play yet — a
 
 **Classification:**
 - **Group hooks** affect the whole party or world → `kb/story-arcs/group/hooks.md`
-- **Character hooks** are tied to a specific PC → `kb/story-arcs/character/{character-slug}/hooks.md`
+- **Character hooks** are tied to a specific PC → the `## Hooks` section of that PC's file in `kb/pcs/`
 
 **Attribution rules — avoid duplicates and misclassification:**
 - Attribute a hook to the character the hook is **about** (the subject), not every character who cares about it. If Character A has a personal goal related to Character B's mystery, that is part of Character A's motivation — not a separate hook. Do not create duplicate hooks covering the same underlying mystery from different character perspectives.
 - A hook is only **group** if it affects the whole party or the world at large and is not primarily tied to 1–2 specific PCs' personal stories. If a hook involves specific PCs' backgrounds, bloodlines, or family history, it is a character hook for the most directly affected PC — even if multiple PCs share it.
-- When a hook could reasonably belong to multiple PCs (e.g., a shared bloodline), place it under the PC with the strongest narrative connection (typically the one who is most likely to actively pursue it). Add a brief cross-reference in the other PC's hooks file rather than duplicating the full entry.
+- When a hook could reasonably belong to multiple PCs (e.g., a shared bloodline), place it under the PC with the strongest narrative connection (typically the one who is most likely to actively pursue it). Add a brief cross-reference in the other PC's hooks section rather than duplicating the full entry.
 
-**Directory structure:**
-- Always create a subdirectory for every PC listed in `speaker-map.yaml` under `story-arcs/character/` (using the character's filename slug)
-- `kb/story-arcs/group/hooks.md`
-- `kb/story-arcs/character/castor/hooks.md`
-- `kb/story-arcs/character/edric-bloom/hooks.md`
-- etc.
-
-**Hooks file format:**
+**Character hooks format** (in the PC's `## Hooks` section):
 
 ```markdown
-# Hooks
+### {Hook Name}
+Brief description of what's unresolved and what could become a story arc.
+One sentence per line.
+```
 
+**Group hooks format** (in `kb/story-arcs/group/hooks.md`):
+
+```markdown
 ## {Hook Name}
-**Source:** [[Session 0]]
+**Source:** [[Session N]]
 **Related:** [[Entity1]], [[Entity2]]
 
 Brief description of what's unresolved and what could become a story arc.
 One sentence per line.
 ```
 
-Append new hooks to an existing `hooks.md` if one already exists. Do not duplicate hooks that are already listed.
+Append new hooks if the section/file already exists. Do not duplicate hooks that are already listed.
 
 **Hook → Arc lifecycle:**
 
-When a hook is activated in play (session transcript shows the party engaging with it), remove the hook entry from `hooks.md` and create a dedicated arc file:
+When a hook is activated in play, remove the hook entry and create a dedicated arc file:
 - Group: `kb/story-arcs/group/{arc-slug}.md`
 - Character: `kb/story-arcs/character/{character-slug}/{arc-slug}.md`
 
-The arc file uses `templates/story-arc.md`. Until activated, hooks remain as entries in `hooks.md`.
+The arc file uses `templates/story-arc.md`. Until activated, hooks remain in their current location.
 
 **Relationship to pending-changes.md:**
 
-Hooks capture things that *could* become story arcs. Do not flag clear hooks in `review/pending-changes.md` as "ambiguous content" — route them to hooks.md instead. Only flag in pending-changes if it's genuinely unclear whether something is a hook, or if you can't determine whether a hook is group vs. character.
+Hooks capture things that *could* become story arcs. Do not flag clear hooks in `review/pending-changes.md` as "ambiguous content" — route them to the appropriate hooks location instead. Only flag in pending-changes if it's genuinely unclear whether something is a hook, or if you can't determine whether a hook is group vs. character.
 
 ### Step 6 — Propose entity aliases
 
@@ -237,7 +236,7 @@ If it's unclear whether content is player-visible or GM-private, flag it in `rev
 - [ ] Alias proposals have been added to `entity-aliases.yaml`.
 - [ ] Contradictions and ambiguous references have been flagged in `pending-changes.md`.
 - [ ] GM-private content has been routed to `gm-notes/`.
-- [ ] Story hooks have been identified and added to the appropriate hooks.md files.
+- [ ] Story hooks have been identified and added to the appropriate location (PC files for character hooks, hooks.md for group hooks).
 - [ ] All generated prose uses one-sentence-per-line.
 - [ ] All entity references use `[[wiki-link]]` syntax.
 

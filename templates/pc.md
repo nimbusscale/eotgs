@@ -24,8 +24,10 @@ STR X, DEX X, INT X, WIS X, CHA X
 ## Relationships
 - [[Entity]] - [Relationship description]
 
-## Current Threads
-- [Active personal storylines]
+## Hooks
+
+### [Hook Name]
+[Brief description of what's unresolved and what could become a story arc. One sentence per line.]
 
 ## Session Appearances
 - [[Session X]] - [Brief note]

@@ -64,16 +64,12 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Garland yn Greenholt]] — Deep Respect
 - [[Castor]] — Lowkey Doubts
 
-## Current Threads
-- Ruin struck at his core identity as a protector — his door lock crumbled and ley line energy passing through him emerged corrupted
-- His faith proved effective against mortal authority: divine decrees command obedience from both Aureate soldiers and Harlequin prisoners
-- Sent word directly to [[Beaconhold]] about the old gods' return and [[Count Albrecht Marrow|Marrow]]'s corruption, bypassing [[Luminary Severin Morrow|Severin]]'s authority
-- The party are the heralds of ruin; the [[Bonewall]]'s Luciferian protections are crumbling
-- On assignment as knight errant of "The Redeemers of Light," tasked with redemption through deeds
-- Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
-- Has prior experience working alongside the [[Order of the Eclipsed Sword]] — his own order, the Redeemers of Light, once supplemented Eclipsed Sword operations; respects their tactical efficiency but fears their rigid adherence to orders with no room for judgment
-- Articulated a nuanced theological position: ruin and renewal are forces of nature subordinate to [[Lucifer]], not gods — those who worship them are ignorant, but not wrong to believe these forces must exist
-- Confronted a [[Corona Vigil]] inquisitor who declared him a heretic, responding that Lucifer speaks through him directly
+## Hooks
+
+### Roderic's Lost Battalion
+On his last campaign, Roderic lost his entire battalion.
+He blamed his insufficient faith for the destruction.
+What happened on that campaign, and whether the guilt is justified, is unexplored.
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation

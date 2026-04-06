@@ -90,18 +90,26 @@ Not a believer one way or another now.
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
 
-## Current Threads
-- The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river
-- Curiosity about the origin and motive of his original curse
-- [[The Triune]] secretly siphoned energy from his curse to power [[The Xan-Kor|the Aegis Mechanism]] — a betrayal of trust
-- Loyalty to the family who never seemed to remember him
-- The party are the heralds of ruin; his herald curse — the herald of crumbling foundations — causes physical structures and objects to decay, break, and turn to dust
-- Broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat in exchange for intelligence about the tunnels beneath [[Aurelion]]; concern that his druidic curse could be transmitted to offspring
-- Cannot return to beaver form until he fulfills his instinct to reshape the world around him — a cost of his imperfect mouse transformation
-- Wanted in [[Aurelion]] alongside the rest of the party
-- The [[God of Renewal|The God of Renewal]] recognized Castor as a herald of ruin and embraced him with deep warmth — he felt a nostalgic connection to renewal stronger than any other herald experienced
-- The [[Dark Harlequin|The Dark Harlequin]] claimed the [[Laughing One|The Laughing One]] was responsible for his original beaver curse, calling it the god's greatest joke — unconfirmed
-- Received a vision from Renewal showing him as a protector, a crucial piece of the balance between ruin and renewal
+## Hooks
+
+### The Beaver Curse
+The origin and motive of Castor's original curse remain unknown.
+The [[Dark Harlequin]] claimed the [[Laughing One]] was responsible, calling it "the best joke" — but this comes from a potentially unreliable source.
+Whether the Laughing One truly cursed Castor or the Dark Harlequin was lying remains unresolved.
+
+### Castor's Forgotten Family
+Castor's family never seemed to remember him after he was cursed.
+His loyalty to them persists despite this.
+What happened to his family line, and why they forgot him, is unresolved.
+
+### Castor's Offspring
+[[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
+Whether his druidic curse can be transmitted to offspring is an open question.
+
+### Renewal's Chosen
+Castor received a vision from the [[God of Renewal]] showing him as a protector and a crucial piece of the balance between ruin and renewal.
+He felt a connection to renewal stronger than any other herald experienced — an overwhelming sense of homecoming.
+What this role means and what it demands of him is unresolved.
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation

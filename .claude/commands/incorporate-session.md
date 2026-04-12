@@ -60,7 +60,7 @@ Minimize context usage by loading only what is needed:
 | `gm-notes/` | **List filenames only** (`ls`) |
 | Individual entity files | **Read on-demand** — only when you need to check or update a specific entity |
 | Template files in `templates/` | **Read on-demand** — only when creating a new entity of that type |
-| `kb/sessions/` | Check for duplicate session number collision — if `session-{N}.md` already exists, warn and stop |
+| `kb/sessions/` | List arc subdirectories and their session files. Check for duplicate session number across ALL arc subfolders — if `session-{N}.md` exists anywhere, warn and stop |
 
 This approach keeps context small and scales as the KB grows.
 
@@ -125,7 +125,15 @@ Fill in:
 - **Notable Locations Visited:** from `new_entities.locations` plus locations mentioned in `major_events`, with `[[wiki-links]]`
 - **Notable Quotes:** from `notable_quotes`, cleaned up with speaker attribution
 
-Save to `kb/sessions/session-{N}.md`.
+**Determine the arc folder:**
+
+Sessions live under arc subfolders — `kb/sessions/<arc-slug>/session-{N}.md`.
+
+1. List subdirectories of `kb/sessions/` — each is an arc (e.g. `curse-of-ruin/`, `forgotten-and-forsaken/`).
+2. Identify the **active arc** — the arc folder whose `index.md` has `**Status:** Active` or `**Status:** Beginning`, or (fallback) the arc containing the most recent session. If the newly resolved questions / arc_progress reference a different arc than the active one, ask the user which arc this session belongs to.
+3. If no arc folder fits (e.g. a new arc is starting), ask the user for the arc name and slug, then create `kb/sessions/<arc-slug>/index.md` from a placeholder template before saving the session.
+
+Save to `kb/sessions/<arc-slug>/session-{N}.md`.
 
 **Quote rules:**
 
@@ -366,7 +374,7 @@ After processing, report:
 **Filtered sections:** {count from filtered_sections} ({total lines} lines skipped during extraction)
 
 **Files created:**
-- kb/sessions/session-{N}.md
+- kb/sessions/{arc-slug}/session-{N}.md
 - ...
 
 **Files updated:**
@@ -423,5 +431,5 @@ If an entity appears in `unresolved_references` and only shows up as a passing m
 Only create files for entities in `new_entities`.
 
 **Duplicate session number:**
-If `kb/sessions/session-{N}.md` already exists, warn the user and stop.
+If `session-{N}.md` already exists in ANY arc subfolder under `kb/sessions/`, warn the user and stop.
 Do not overwrite existing session files.

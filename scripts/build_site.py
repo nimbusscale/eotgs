@@ -207,6 +207,10 @@ def resolve_tag(rel_path):
     parts = rel_path.parts
     if len(parts) < 2:
         return None
+    # Arc compendium pages live at sessions/<arc>/index.md — tag as "arc"
+    # so they aren't treated as session files (date extraction, summary stripping).
+    if parts[0] == "sessions" and len(parts) == 3 and parts[-1] == "index.md":
+        return "arc"
     top_dir = parts[0]
     return DIR_TO_TAG.get(top_dir)
 

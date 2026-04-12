@@ -264,11 +264,13 @@ def export_story_arcs():
 
 
 def export_sessions(session_count=5):
-    files = sorted(
-        get_md_files(KB_DIR / "sessions"),
-        key=session_sort_key,
-        reverse=True,
-    )[:session_count]
+    sessions_dir = KB_DIR / "sessions"
+    # Sessions now live nested under arc folders: sessions/<arc>/session-N.md
+    # Match any file whose stem starts with "session-" (excludes arc index.md).
+    all_sessions = [
+        f for f in sessions_dir.rglob("session-*.md")
+    ] if sessions_dir.exists() else []
+    files = sorted(all_sessions, key=session_sort_key, reverse=True)[:session_count]
 
     parts = ["# Recent Sessions"]
     for f in files:

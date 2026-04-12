@@ -1,6 +1,36 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+const explorerOptions = {
+  folderClickBehavior: "link" as const,
+  folderDefaultState: "collapsed" as const,
+  sortFn: (a: any, b: any) => {
+    const ARC_ORDER: Record<string, number> = {
+      "forgotten-and-forsaken": 1,
+      "curse-of-ruin": 2,
+    }
+    const aOrder = ARC_ORDER[a.slugSegment]
+    const bOrder = ARC_ORDER[b.slugSegment]
+    if (aOrder !== undefined && bOrder !== undefined) {
+      return aOrder - bOrder
+    }
+    if (!a.isFolder && !b.isFolder) {
+      const aMatch = a.slugSegment?.match(/^session-(\d+)$/)
+      const bMatch = b.slugSegment?.match(/^session-(\d+)$/)
+      if (aMatch && bMatch) {
+        return parseInt(bMatch[1], 10) - parseInt(aMatch[1], 10)
+      }
+    }
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
+    return !a.isFolder && b.isFolder ? 1 : -1
+  },
+}
+
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -32,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerOptions),
   ],
   right: [
     Component.Graph(),
@@ -55,7 +85,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer(explorerOptions),
   ],
   right: [],
 }

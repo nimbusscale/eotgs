@@ -1,6 +1,9 @@
 scratch/
 inbox/transcripts/chunks/
 
+# Generated illustrations (source specs in image/prompts/ stay tracked)
+images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

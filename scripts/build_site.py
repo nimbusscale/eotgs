@@ -23,6 +23,9 @@ CONTENT_SRC_DIR = REPO_ROOT / "content"
 SITE_CONFIG_DIR = Path(__file__).resolve().parent / "site-config"
 ALIASES_FILE = REPO_ROOT / "config" / "entity-aliases.yaml"
 INDEX_SOURCE = REPO_ROOT / "exports" / "campaign-index.md"
+IMAGE_MAP_FILE = REPO_ROOT / "config" / "image-map.yaml"
+IMAGE_SRC_DIR = REPO_ROOT / "images"
+IMAGE_DEST_DIR = CONTENT_DIR / "img"
 
 QUARTZ_REPO = "https://github.com/jackyzha0/quartz.git"
 
@@ -253,7 +256,73 @@ def inject_frontmatter(text, title, aliases, tag, date=None):
     return f"---\n{fm_str}\n---\n\n{text}"
 
 
-def build_content(alias_map, wikilink_map, slug_form_map):
+def load_image_map():
+    """Read image-map.yaml, return {"subdir/slug": {hero?, gallery?}}."""
+    if not IMAGE_MAP_FILE.exists():
+        return {}
+    with open(IMAGE_MAP_FILE, encoding="utf-8") as f:
+        data = yaml.safe_load(f) or {}
+    return {k: v for k, v in data.items() if isinstance(v, dict)}
+
+
+def _entity_images(cfg):
+    """Yield every image dict in an entity config (hero first, then gallery)."""
+    if cfg.get("hero"):
+        yield cfg["hero"]
+    yield from cfg.get("gallery", [])
+
+
+def copy_images(image_map):
+    """Copy every image referenced in the map into CONTENT_DIR/img/.
+
+    Returns a list of warnings for any referenced source file that is missing.
+    """
+    warnings = []
+    referenced = {
+        img["file"] for cfg in image_map.values() for img in _entity_images(cfg)
+    }
+    if not referenced:
+        return warnings
+
+    IMAGE_DEST_DIR.mkdir(parents=True, exist_ok=True)
+    for name in sorted(referenced):
+        src = IMAGE_SRC_DIR / name
+        if not src.exists():
+            warnings.append(f"  image source missing: {src.relative_to(REPO_ROOT)}")
+            continue
+        shutil.copy2(src, IMAGE_DEST_DIR / name)
+    return warnings
+
+
+def render_images(cfg, depth):
+    """Build optional hero + optional gallery markdown for a page.
+
+    ``depth`` is the number of directory segments in the page's URL (path
+    parts minus the filename); it sets the ``../`` prefix back to the content
+    root so links resolve on nested pages regardless of Quartz's baseUrl.
+
+    The hero (if any) renders captionless at the top. Gallery images each show
+    their caption as italic text beneath the image.
+    """
+    prefix = "../" * depth
+
+    head = ""
+    hero = cfg.get("hero")
+    if hero:
+        head = f"![{hero.get('alt', '')}]({prefix}img/{hero['file']})\n\n"
+
+    tail = ""
+    gallery = cfg.get("gallery", [])
+    if gallery:
+        blocks = "\n\n".join(
+            f"![{img['caption']}]({prefix}img/{img['file']})\n*{img['caption']}*"
+            for img in gallery
+        )
+        tail = f"\n\n## Gallery\n\n{blocks}\n"
+    return head, tail
+
+
+def build_content(alias_map, wikilink_map, slug_form_map, image_map):
     """Copy KB files to content dir, injecting frontmatter. Returns stats."""
     copied = 0
     warnings = []
@@ -305,6 +374,12 @@ def build_content(alias_map, wikilink_map, slug_form_map):
 
         # Strip H1 heading (Quartz renders title from frontmatter)
         text = strip_title_heading(text)
+
+        # Inject hero image (and gallery) for mapped entities
+        key = str(rel.with_suffix("")).replace("\\", "/")
+        if key in image_map:
+            head, tail = render_images(image_map[key], len(rel.parts) - 1)
+            text = head + text.lstrip("\n") + tail
 
         # Inject frontmatter
         text = inject_frontmatter(text, title, aliases, tag, date)
@@ -456,8 +531,15 @@ def main(argv=None):
     wikilink_map, slug_form_map = build_wikilink_map()
     print(f"Built wikilink map with {len(wikilink_map)} entries")
 
+    # Load image map and copy referenced images into content/img/
+    image_map = load_image_map()
+    image_warnings = copy_images(image_map)
+    n_images = sum(len(list(_entity_images(v))) for v in image_map.values())
+    print(f"Copied {n_images} images across {len(image_map)} entities")
+
     # Copy and transform KB files
-    copied, warnings = build_content(alias_map, wikilink_map, slug_form_map)
+    copied, warnings = build_content(alias_map, wikilink_map, slug_form_map, image_map)
+    warnings = image_warnings + warnings
     print(f"Copied {copied} files to {CONTENT_DIR.relative_to(REPO_ROOT)}")
 
     # Copy hand-authored site content

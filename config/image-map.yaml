@@ -1,0 +1,50 @@
+# Maps KB entity (subdir/slug) -> images.
+# Image files live in images/ (repo root, gitignored). Copied into the site
+# at build time by scripts/build_site.py.
+#
+# Optional `hero`: rendered at the top of the page with no caption (it is
+#   self-evidently the subject of the page). `alt` is for accessibility only.
+# `gallery`: list rendered in a "## Gallery" section; each image shows its
+#   `caption` beneath it.
+# Omit `hero` to send every image to the gallery — use this for pages where
+# no single image represents the whole entity (e.g. faction pages).
+
+npcs/captain-eisen-dorn:
+  hero: { file: eisen-dorn-portrait.jpg, alt: "Captain Eisen Dorn" }
+
+npcs/mayliss-vane:
+  hero: { file: mayliss-vane-portrait.jpg, alt: "Mayliss Vane" }
+
+npcs/luminary-severin-morrow:
+  hero: { file: luminary-severin-portrait.jpg, alt: "Luminary Severin Morrow" }
+
+npcs/dawnwarden-brenn:
+  hero: { file: solenne-brenn-portrait.jpg, alt: "Dawnwarden Solenne Brenn" }
+
+npcs/triune:
+  hero: { file: the-triune-group-portrat.jpg, alt: "The Triune" }
+
+locations/aurelion:
+  hero: { file: aurelion-approach.jpg, alt: "The approach to Aurelion" }
+  gallery:
+    - { file: aurelion-street-level.jpg, caption: "Aurelion at street level" }
+    - { file: crest-aurelion-castle.jpg, caption: "Crest Aurelion castle" }
+    - { file: chryseum-exterior.jpg, caption: "The Chryseum, exterior" }
+    - { file: chryseum-interior.jpg, caption: "The Chryseum, interior" }
+
+locations/nodrum:
+  hero: { file: the-nodrum-exterior.jpg, alt: "The Nodrum, exterior" }
+  gallery:
+    - { file: the-nodrum-interior-work.jpg, caption: "The Nodrum, interior workshop" }
+    - { file: the-antechamber-archive.jpg, caption: "The antechamber archive" }
+    - { file: the-clockworks-automaton.jpg, caption: "A clockworks automaton" }
+    - { file: the-depths-xan-kors-chamber.jpg, caption: "The Depths — Xan-Kor's chamber" }
+
+factions/old-gods:
+  gallery:
+    - { file: dark-harlequin.jpg, caption: "The Dark Harlequin" }
+    - { file: chamber-of-renewal-avatar.jpg, caption: "The Chamber of Renewal" }
+
+factions/the-light:
+  gallery:
+    - { file: order-of-first-dawn.jpg, caption: "The Order of First Dawn" }

@@ -62,3 +62,22 @@
   font-size: 0.95rem;
   text-align: center;
 }
+
+.hero-image {
+  margin: 1rem 0;
+  text-align: center; // center portrait heroes
+}
+
+.hero-image a {
+  display: inline-block;
+  cursor: zoom-in;
+}
+
+.hero-image img {
+  display: block;
+  max-height: 55vh;
+  max-width: 100%;
+  width: auto;
+  margin: 0 auto; // center when narrower than the column
+  border-radius: 5px;
+}

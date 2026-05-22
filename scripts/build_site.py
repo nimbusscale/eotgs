@@ -312,7 +312,13 @@ def render_images(cfg, depth):
     head = ""
     hero = cfg.get("hero")
     if hero:
-        head = f"![{hero.get('alt', '')}]({prefix}img/{hero['file']})\n\n"
+        src = f"{prefix}img/{hero['file']}"
+        alt = html.escape(hero.get("alt", ""))
+        head = (
+            f'<figure class="hero-image">'
+            f'<a href="{src}" target="_blank" rel="noopener">'
+            f'<img src="{src}" alt="{alt}"></a></figure>\n\n'
+        )
 
     tail = ""
     gallery = cfg.get("gallery", [])

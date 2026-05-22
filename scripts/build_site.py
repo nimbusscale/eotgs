@@ -316,7 +316,7 @@ def render_images(cfg, depth):
         alt = html.escape(hero.get("alt", ""))
         head = (
             f'<figure class="hero-image">'
-            f'<a href="{src}" target="_blank" rel="noopener">'
+            f'<a href="{src}" target="_blank" rel="noopener" data-no-popover="true">'
             f'<img src="{src}" alt="{alt}"></a></figure>\n\n'
         )
 

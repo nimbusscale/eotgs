@@ -1,0 +1,534 @@
+{
+  "name": "Curiosities Crucible - Noun",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Smoke",
+      "_id": "c1p8AhnU0RBbPYQT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.c1p8AhnU0RBbPYQT"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Obelisk - Glow",
+      "_id": "VySd7rbrh1qnQPK1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.VySd7rbrh1qnQPK1"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Tower - Tree Line",
+      "_id": "QFTlGbHcprSAMQJK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.QFTlGbHcprSAMQJK"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Bonfire - Stone Face",
+      "_id": "CLuyTKXQtiLVKk8W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.CLuyTKXQtiLVKk8W"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Pillar - Monolith",
+      "_id": "EXlDi1uXaqDVNqab",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.EXlDi1uXaqDVNqab"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Mist - Cloud",
+      "_id": "yE1TWMstZHi1kCq8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.yE1TWMstZHi1kCq8"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Spire",
+      "_id": "WoMwQzhovS496RBL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.WoMwQzhovS496RBL"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Waterfall - Ray",
+      "_id": "6H0DVLsQ7FIqV9VO",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.6H0DVLsQ7FIqV9VO"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Arch - Silhouette",
+      "_id": "vF4SiVOigPrBj7WG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.vF4SiVOigPrBj7WG"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Ruin - Reflection",
+      "_id": "OozLidpjw47iqRtz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.OozLidpjw47iqRtz"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Campfire - Canopy",
+      "_id": "KYkr7aT0XISfE0mt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.KYkr7aT0XISfE0mt"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Statue",
+      "_id": "vFxsrbvlGWoU2gNc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.vFxsrbvlGWoU2gNc"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Tombstone - Bridge",
+      "_id": "QevtdLFBbdhbulad",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.QevtdLFBbdhbulad"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Monument - Bend",
+      "_id": "2UDUAyJP6rfGJqxv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.2UDUAyJP6rfGJqxv"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Cliff - Wall",
+      "_id": "JFwkrU9c4nzMfZAB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.JFwkrU9c4nzMfZAB"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Gate",
+      "_id": "4Ld5S4ZZ9IiZbHIj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.4Ld5S4ZZ9IiZbHIj"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Lights - Light",
+      "_id": "eyVBSerhWZ3Elxr4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.eyVBSerhWZ3Elxr4"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Spire - Ravine",
+      "_id": "U5MlCaH7nxBrPWov",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.U5MlCaH7nxBrPWov"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Canyon",
+      "_id": "sczCW6Z5olpWeyWu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.sczCW6Z5olpWeyWu"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Cave - Crater",
+      "_id": "x0gYUuIMxoTYVvjk",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.x0gYUuIMxoTYVvjk"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Hilltop",
+      "_id": "sVijoF8LMfIJQivF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5BwhpN7fxR4w94yd.sVijoF8LMfIJQivF"
+    }
+  ],
+  "_id": "5BwhpN7fxR4w94yd",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559939020,
+    "modifiedTime": 1767559939020,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!5BwhpN7fxR4w94yd"
+}

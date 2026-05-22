@@ -1,0 +1,534 @@
+{
+  "name": "Barrier Crucible - Adjective",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Jagged",
+      "_id": "hcOqtPc28dDdauRs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.hcOqtPc28dDdauRs"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Steep - Deep",
+      "_id": "8cx1k1vYaEAGJEhV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.8cx1k1vYaEAGJEhV"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Muddy - Craggy",
+      "_id": "h9oLRHUXqlIwJlla",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.h9oLRHUXqlIwJlla"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Twisting - Shadowy",
+      "_id": "K8jPpntTC4xlQSsc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.K8jPpntTC4xlQSsc"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Dense - Barren",
+      "_id": "enoQqPoUP6jCSINw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.enoQqPoUP6jCSINw"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Rocky - Thick",
+      "_id": "BfkqPelfcKMcUNp6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.BfkqPelfcKMcUNp6"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Narrow",
+      "_id": "fn4CzPmY5RA9N0cm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.fn4CzPmY5RA9N0cm"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Overgrown - Thorny",
+      "_id": "gUSfhEMUiB4En3wg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.gUSfhEMUiB4En3wg"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Slippery - Frozen",
+      "_id": "yQY9rpc7v9hyreFD",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.yQY9rpc7v9hyreFD"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Windy - Marshy",
+      "_id": "Td3lCBp5Zcf1f9Br",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.Td3lCBp5Zcf1f9Br"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Uneven - Howling",
+      "_id": "dEpVVdHiPSRDWEku",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.dEpVVdHiPSRDWEku"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Dark",
+      "_id": "zEimMhZSn0CooXqs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.zEimMhZSn0CooXqs"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Broken - Misty",
+      "_id": "IVThaAd13ET42QP9",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.IVThaAd13ET42QP9"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Snow-Covered - Choked",
+      "_id": "6gr2KxjdrVDbfg7i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.6gr2KxjdrVDbfg7i"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Swampy - Sinking",
+      "_id": "GdDLhFY49ylayTWZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.GdDLhFY49ylayTWZ"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Winding",
+      "_id": "Rc6NfsCJYQUZ781v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.Rc6NfsCJYQUZ781v"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Treacherous - Tangled",
+      "_id": "LXxTUT7uoGLusKhm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.LXxTUT7uoGLusKhm"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Shifting - Rough",
+      "_id": "5FyD9zX6yIHJhGxW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.5FyD9zX6yIHJhGxW"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Raging",
+      "_id": "5JdtrhEeL4b9aaop",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.5JdtrhEeL4b9aaop"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Stony - Icy",
+      "_id": "WbPNvrIQwUzjJ55s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.WbPNvrIQwUzjJ55s"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Rolling",
+      "_id": "Mffar9cjOAtvHSrF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!QkqgwtKWFPflbiDA.Mffar9cjOAtvHSrF"
+    }
+  ],
+  "_id": "QkqgwtKWFPflbiDA",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559968804,
+    "modifiedTime": 1767559968804,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!QkqgwtKWFPflbiDA"
+}

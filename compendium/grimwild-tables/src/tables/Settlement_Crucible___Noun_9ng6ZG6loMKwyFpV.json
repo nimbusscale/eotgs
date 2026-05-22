@@ -1,0 +1,534 @@
+{
+  "name": "Settlement Crucible - Noun",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Village",
+      "_id": "uypmuEOxumOo8YnE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.uypmuEOxumOo8YnE"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Outpost - Camp",
+      "_id": "sELVTBv2959meWLU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.sELVTBv2959meWLU"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Town - Port",
+      "_id": "9kuZvadMECWaJOXq",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.9kuZvadMECWaJOXq"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Encampment - Base",
+      "_id": "8voROYhx3rcHEtvu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.8voROYhx3rcHEtvu"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Trading Post - Oasis",
+      "_id": "6S0yPruvjO1zX8Hw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.6S0yPruvjO1zX8Hw"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Citadel - Watch",
+      "_id": "nPlRfrsgVdKB4ppI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.nPlRfrsgVdKB4ppI"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Settlement",
+      "_id": "UTHrYSFvhtiTYdbF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.UTHrYSFvhtiTYdbF"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Colony - Market",
+      "_id": "iy5Oy2m07jHr1FDd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.iy5Oy2m07jHr1FDd"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Fortress - Stronghold",
+      "_id": "jR0W86rj6psazkTJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.jR0W86rj6psazkTJ"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Hamlet - Manor",
+      "_id": "3xRmxFe6W6nY9Xml",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.3xRmxFe6W6nY9Xml"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Refuge - Hideout",
+      "_id": "SVqCVZn7GFPlQULH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.SVqCVZn7GFPlQULH"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Watchtower",
+      "_id": "VRBwj3KVl9IVTKMC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.VRBwj3KVl9IVTKMC"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Crossroads - Ranch",
+      "_id": "Z6tsMuwbYJQ1ryPC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.Z6tsMuwbYJQ1ryPC"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Sanctuary - Harbor",
+      "_id": "C2qWPno0NAatfasz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.C2qWPno0NAatfasz"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Commune - Den",
+      "_id": "Nr3Zd3T73vA8eUjU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.Nr3Zd3T73vA8eUjU"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Grove",
+      "_id": "y2QHKd56LHZLCTfl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.y2QHKd56LHZLCTfl"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Plaza - Cliffside",
+      "_id": "s84VsQTVctnHc49A",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.s84VsQTVctnHc49A"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Farmstead - Homestead",
+      "_id": "ttioKkHbeokGAkmz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.ttioKkHbeokGAkmz"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Peak",
+      "_id": "QL3ou366jIUdNfo6",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.QL3ou366jIUdNfo6"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Cavern - Monastery",
+      "_id": "WGgGuTjhST6pX9zI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.WGgGuTjhST6pX9zI"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Bastion",
+      "_id": "PtieVUKnUcWU1BYG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!9ng6ZG6loMKwyFpV.PtieVUKnUcWU1BYG"
+    }
+  ],
+  "_id": "9ng6ZG6loMKwyFpV",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559460842,
+    "modifiedTime": 1767559460842,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!9ng6ZG6loMKwyFpV"
+}

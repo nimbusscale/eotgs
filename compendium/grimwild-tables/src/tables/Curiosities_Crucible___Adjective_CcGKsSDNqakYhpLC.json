@@ -1,0 +1,534 @@
+{
+  "name": "Curiosities Crucible - Adjective",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Lingering",
+      "_id": "CGhqjnOPGYmctA86",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.CGhqjnOPGYmctA86"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Strange - Mysterious",
+      "_id": "p6CLebWSOvbkx4JZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.p6CLebWSOvbkx4JZ"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Faint - Dancing",
+      "_id": "xZDl440DfxrTNOi7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.xZDl440DfxrTNOi7"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Echoing - Curious",
+      "_id": "FkSjNXJBFH4GK7pi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.FkSjNXJBFH4GK7pi"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Flickering - Singing",
+      "_id": "WzoCNWLicu89k1Cx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.WzoCNWLicu89k1Cx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Shimmering - Low",
+      "_id": "RioeYV6IYMykn0iT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.RioeYV6IYMykn0iT"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Distant",
+      "_id": "LyauNONQATJlt6kA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.LyauNONQATJlt6kA"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Haunting - Soft",
+      "_id": "rogROI0TbR0u6Nzh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.rogROI0TbR0u6Nzh"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Hidden - Melancholy",
+      "_id": "oSjyIk7iSa7ylZSx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.oSjyIk7iSa7ylZSx"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Pulsing - Strange",
+      "_id": "gmagTNttzpKLML7i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.gmagTNttzpKLML7i"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Ethereal - Twinkling",
+      "_id": "LTlGPcD1RWRsyDHj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.LTlGPcD1RWRsyDHj"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Glowing",
+      "_id": "vAYeMPiWWPk1I2TA",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.vAYeMPiWWPk1I2TA"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Fading - Humming",
+      "_id": "M5gS1JQM79FKe7wv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.M5gS1JQM79FKe7wv"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Whispering - Pale",
+      "_id": "iyldwsDfomYnwQA7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.iyldwsDfomYnwQA7"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Drifting - Hazy",
+      "_id": "FlvhAgr4EDwLAgRZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.FlvhAgr4EDwLAgRZ"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Shadowy",
+      "_id": "4Wstu5i4kiAyKBS8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.4Wstu5i4kiAyKBS8"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Radiant - Colorful",
+      "_id": "BWxnqXMdlABkioKe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.BWxnqXMdlABkioKe"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Moving - Glittering",
+      "_id": "RNNsV50K7kbp1NED",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.RNNsV50K7kbp1NED"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Resonant",
+      "_id": "2e0DXj6x4zMEKEJc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.2e0DXj6x4zMEKEJc"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Enveloping - Rumbling",
+      "_id": "pno1W3zR1o7PwA5o",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.pno1W3zR1o7PwA5o"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Floating",
+      "_id": "rVb4IKyVG6UmwM1T",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!CcGKsSDNqakYhpLC.rVb4IKyVG6UmwM1T"
+    }
+  ],
+  "_id": "CcGKsSDNqakYhpLC",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559931197,
+    "modifiedTime": 1767559931197,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!CcGKsSDNqakYhpLC"
+}

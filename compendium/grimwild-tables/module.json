@@ -1,0 +1,12 @@
+{
+  "id": "grimwild-tables",
+  "title": "Grimwild Inspiration Tables",
+  "description": "Adjective/noun inspiration rollable tables and the macros that roll them, exported from the Grimwild world for reuse in any world.",
+  "version": "1.0.0",
+  "authors": [{ "name": "Joe" }],
+  "compatibility": { "minimum": "12", "verified": "13" },
+  "packs": [
+    { "name": "tables", "label": "Inspiration Tables", "path": "packs/tables", "type": "RollTable" },
+    { "name": "macros", "label": "Inspiration Macros", "path": "packs/macros", "type": "Macro" }
+  ]
+}

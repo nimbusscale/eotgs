@@ -1,0 +1,29 @@
+{
+  "name": "Settlement Crucible",
+  "type": "script",
+  "author": "OpOAFnFjBNSHfzrP",
+  "img": "icons/svg/village.svg",
+  "scope": "global",
+  "command": "// Macro to roll the Settlement Crucible tables\n\nconst rolltable1Name = \"Settlement Crucible - Adjective\";\nconst rolltable2Name = \"Settlement Crucible - Noun\";\n\n// Function to roll a table by name\nasync function rollTable(tableName) {\n  const table = game.tables.getName(tableName);\n  if (!table) {\n    ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n    return;\n  }\n\n  const rollResult = await table.roll();\n  const resultText = rollResult.results\n    .map((r) => r.text)\n    .join(\", \");\n  \n  return resultText;\n}\n\n// Roll both tables\nconst result1 = await rollTable(rolltable1Name);\nconst result2 = await rollTable(rolltable2Name);\n\nif (result1 && result2) {\n  ChatMessage.create({\n    content: `<b>Settlement Crucible</b><br><i>Smash them together and interpret</i><br>\n    <b>${result1}</b><br><b>${result2}</b>`\n  });\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Dl5Tvf37OuEHwdAh": 3,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.grimwild.macros.Macro.IexJbzx3zjr1iw7R",
+    "duplicateSource": "Macro.p9pBh6u8D49G8SeD",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559616109,
+    "modifiedTime": 1767560205251,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_id": "ryl5fX6ty4vKxhq4",
+  "_key": "!macros!ryl5fX6ty4vKxhq4"
+}

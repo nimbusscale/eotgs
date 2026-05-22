@@ -1,0 +1,536 @@
+{
+  "name": "Sites Crucible - Adjective",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ancient",
+      "_id": "CrSHt6zBiI4BWNcY",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.CrSHt6zBiI4BWNcY"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Forgotten - Abandoned",
+      "_id": "nchGL9HJ4AAS79P8",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.nchGL9HJ4AAS79P8"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Sacred - Cursed",
+      "_id": "wmHjvdDk7ZfeOGSn",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.wmHjvdDk7ZfeOGSn"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Haunted - Frozen",
+      "_id": "83oZHorsiCB1gam2",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.83oZHorsiCB1gam2"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Crumbling - Charred",
+      "_id": "Gplt9qvNpgpTnH9B",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.Gplt9qvNpgpTnH9B"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "<p>Hidden</p>",
+      "_id": "NdBeWUXVlN1ibbz5",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": "OpOAFnFjBNSHfzrP",
+        "modifiedTime": 1767560666108
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.NdBeWUXVlN1ibbz5"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Lost",
+      "_id": "3MgzvUxq3L5s6grG",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.3MgzvUxq3L5s6grG"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Mystic - Enchanted",
+      "_id": "EKgSzTJgzJrdM3BU",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.EKgSzTJgzJrdM3BU"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Sunken - Mossy",
+      "_id": "WSTc7hWZIEfXHEGh",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.WSTc7hWZIEfXHEGh"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Shattered - Clear",
+      "_id": "4eJo8JYSfwN6YMBE",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.4eJo8JYSfwN6YMBE"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Overgrown - Secluded",
+      "_id": "scAjeh5yRVF7L7PT",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.scAjeh5yRVF7L7PT"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Weird",
+      "_id": "tvTYhUnCSDLhVrlg",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.tvTYhUnCSDLhVrlg"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Buried - Moonlit",
+      "_id": "Rt6u8hybd828svAS",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.Rt6u8hybd828svAS"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Burned - Foggy",
+      "_id": "QhTmHlyrLSqh2QHC",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.QhTmHlyrLSqh2QHC"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Desolate - Collapsed",
+      "_id": "QtGlyAUI95mbOm7o",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.QtGlyAUI95mbOm7o"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Ruined",
+      "_id": "6KKxAM2AuiTZqeB5",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.6KKxAM2AuiTZqeB5"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Underground - Sulfurous",
+      "_id": "Gx1Y0lAIEvEQjJBz",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.Gx1Y0lAIEvEQjJBz"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Echoing - Smoldering",
+      "_id": "xFekoufmaqIwVXwP",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.xFekoufmaqIwVXwP"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Blessed",
+      "_id": "0XDB3nkte5M0oLql",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.0XDB3nkte5M0oLql"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Forgotten - Windblown",
+      "_id": "mCDsu0NcvQlAoI6V",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.mCDsu0NcvQlAoI6V"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Shaded",
+      "_id": "sYkXyZuK6VB07FVq",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!Vi0Wv3gCCVA97VYP.sYkXyZuK6VB07FVq"
+    }
+  ],
+  "_id": "Vi0Wv3gCCVA97VYP",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559872659,
+    "modifiedTime": 1767560657333,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!Vi0Wv3gCCVA97VYP"
+}

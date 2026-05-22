@@ -1,0 +1,534 @@
+{
+  "name": "Barrier Crucible - Noun",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Ravine",
+      "_id": "jOWCsbYrley4l7fh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.jOWCsbYrley4l7fh"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cliffs - Forest",
+      "_id": "0gcUFo3jx3QNrKFd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.0gcUFo3jx3QNrKFd"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Trail - Hills",
+      "_id": "sNUu6HS23Y5awlKM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.sNUu6HS23Y5awlKM"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Thicket - Swamp",
+      "_id": "fkenxRQpskDi2KKj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.fkenxRQpskDi2KKj"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Bog - Undergrowth",
+      "_id": "2N7HaFy5d56zCmx1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.2N7HaFy5d56zCmx1"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Slopes - Scree",
+      "_id": "KCX8JjsXnAkxlk0t",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.KCX8JjsXnAkxlk0t"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Ridge",
+      "_id": "RQV8kNfsepT6cJEv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.RQV8kNfsepT6cJEv"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Pass - Valley",
+      "_id": "YHQKlDaowCMxjqsh",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.YHQKlDaowCMxjqsh"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Marsh - Crevasse",
+      "_id": "ixDc7vRWdSfvC3rY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.ixDc7vRWdSfvC3rY"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Caves - Crags",
+      "_id": "AZ9nRHREtZkzQO7K",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.AZ9nRHREtZkzQO7K"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Scrub - Mire",
+      "_id": "iyXnEO0yxPH8Nixt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.iyXnEO0yxPH8Nixt"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Canyon",
+      "_id": "pInvFf5Hrvqe5FO1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.pInvFf5Hrvqe5FO1"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "River - Path",
+      "_id": "JAHOtgmEMNO0CDSU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.JAHOtgmEMNO0CDSU"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Brambles - Peaks",
+      "_id": "xPLnoN3poJ7yJTeH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.xPLnoN3poJ7yJTeH"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Lava - Desert",
+      "_id": "bmng3SeV13DVYN3u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.bmng3SeV13DVYN3u"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Shale",
+      "_id": "hluVWyOEAXFFn8pj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.hluVWyOEAXFFn8pj"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Mud Flats - Glacier",
+      "_id": "5I2DiEfh1MoR2UMZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.5I2DiEfh1MoR2UMZ"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Trees - Brush",
+      "_id": "Cj5f5fEqaTe8I2Ro",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.Cj5f5fEqaTe8I2Ro"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Shoals",
+      "_id": "Egm1Tq8DWJy1Llof",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.Egm1Tq8DWJy1Llof"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Tundra - Ice Sheet",
+      "_id": "Aa3AiRv3W5f0Si2K",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.Aa3AiRv3W5f0Si2K"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Underbrush",
+      "_id": "QkaRrq9Pt1sQgbkU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zcuta2XSSLPSLsqL.QkaRrq9Pt1sQgbkU"
+    }
+  ],
+  "_id": "zcuta2XSSLPSLsqL",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559977961,
+    "modifiedTime": 1767559977961,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!zcuta2XSSLPSLsqL"
+}

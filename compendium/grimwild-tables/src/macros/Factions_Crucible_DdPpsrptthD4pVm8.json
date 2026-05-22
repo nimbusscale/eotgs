@@ -1,0 +1,28 @@
+{
+  "name": "Factions Crucible",
+  "type": "script",
+  "_id": "DdPpsrptthD4pVm8",
+  "author": "OpOAFnFjBNSHfzrP",
+  "img": "icons/svg/tower-flag.svg",
+  "scope": "global",
+  "command": "// Macro to roll the Factions Crucible tables\n\nconst rolltable1Name = \"Factions Crucible - Adjective\";\nconst rolltable2Name = \"Factions Crucible - Noun\";\n\n// Function to roll a table by name\nasync function rollTable(tableName) {\n  const table = game.tables.getName(tableName);\n  if (!table) {\n    ui.notifications.error(`RollTable \"${tableName}\" not found.`);\n    return;\n  }\n\n  const rollResult = await table.roll();\n  const resultText = rollResult.results\n    .map((r) => r.text)\n    .join(\", \");\n  \n  return resultText;\n}\n\n// Roll both tables\nconst result1 = await rollTable(rolltable1Name);\nconst result2 = await rollTable(rolltable2Name);\n\nif (result1 && result2) {\n  ChatMessage.create({\n    content: `<b>Factions Crucible</b><br><i>Smash them together and interpret</i><br>\n    <b>${result1}</b><br><b>${result2}</b>`\n  });\n}",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767560486659,
+    "modifiedTime": 1767560568571,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!macros!DdPpsrptthD4pVm8"
+}

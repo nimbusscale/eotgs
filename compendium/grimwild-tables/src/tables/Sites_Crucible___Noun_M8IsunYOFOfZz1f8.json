@@ -1,0 +1,534 @@
+{
+  "name": "Sites Crucible - Noun",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Altar",
+      "_id": "dSFIYwaX11u3IgU2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.dSFIYwaX11u3IgU2"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Monument - Circle",
+      "_id": "vUKcbDh7TlEDgHjY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.vUKcbDh7TlEDgHjY"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Temple - Well",
+      "_id": "nSxWRUyKP7fLI9zV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.nSxWRUyKP7fLI9zV"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Grove - Chamber",
+      "_id": "YtlOvJgaeBhRu0vs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.YtlOvJgaeBhRu0vs"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Ruins - Labyrinth",
+      "_id": "GWhiTbC8z53yBg1i",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.GWhiTbC8z53yBg1i"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Tomb - Archway",
+      "_id": "4P4e7191grmrS2OW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.4P4e7191grmrS2OW"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Sanctuary",
+      "_id": "OokIq4qVO2v1cH0D",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.OokIq4qVO2v1cH0D"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Catacombs - Tower",
+      "_id": "SF2oSLY60AwCKUAc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.SF2oSLY60AwCKUAc"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Shrine - Obelisk",
+      "_id": "ZdCW59Dyo0ZmMzmY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.ZdCW59Dyo0ZmMzmY"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Cavern - Fountain",
+      "_id": "rLDzKfqchCxARNBG",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.rLDzKfqchCxARNBG"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Statue - Sanctum",
+      "_id": "3xpOUtLp7WNmfZpY",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.3xpOUtLp7WNmfZpY"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Crypt",
+      "_id": "ogIsPQnWtZulHxoH",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.ogIsPQnWtZulHxoH"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Spring - Cairn",
+      "_id": "EJB0tMfgBXTSLUmb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.EJB0tMfgBXTSLUmb"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Mausoleum - Portal",
+      "_id": "NZ2zAUfWHUuFEBaz",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.NZ2zAUfWHUuFEBaz"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Gate - Hall",
+      "_id": "OOJn5s4gFeLJwodu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.OOJn5s4gFeLJwodu"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Pillar",
+      "_id": "epn2icihisLBTQvR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.epn2icihisLBTQvR"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Pit - Grotto",
+      "_id": "qmalmJInEAs6VOJL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.qmalmJInEAs6VOJL"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Throne - Mine",
+      "_id": "4yd1VN7cX5r46ICX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.4yd1VN7cX5r46ICX"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Cemetery",
+      "_id": "rxr9Nwjjtl5tTZzl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.rxr9Nwjjtl5tTZzl"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Dungeon - Lair",
+      "_id": "gZ9PyEWdNuR3IiBx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.gZ9PyEWdNuR3IiBx"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Vault",
+      "_id": "SSySETY3yfTMVxlo",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!M8IsunYOFOfZz1f8.SSySETY3yfTMVxlo"
+    }
+  ],
+  "_id": "M8IsunYOFOfZz1f8",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559884523,
+    "modifiedTime": 1767559884523,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!M8IsunYOFOfZz1f8"
+}

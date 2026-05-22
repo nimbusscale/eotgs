@@ -1,0 +1,534 @@
+{
+  "name": "Factions Crucible - Noun",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Blades",
+      "_id": "FkuwfattMVqiFpBe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.FkuwfattMVqiFpBe"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Order - Brotherhood",
+      "_id": "R8GQUnIYNVQffAlf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.R8GQUnIYNVQffAlf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Clan - Coven",
+      "_id": "LbaESsoAb23YaSQP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.LbaESsoAb23YaSQP"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Keepers - Seekers",
+      "_id": "qEJOK05PiEf6CEOV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.qEJOK05PiEf6CEOV"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Guild - Cult",
+      "_id": "tFc0pqcVyEHfnYLR",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.tFc0pqcVyEHfnYLR"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Circle - Envoys",
+      "_id": "cqzJpRxytqK27Dz8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.cqzJpRxytqK27Dz8"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Legion",
+      "_id": "BcnAfXKtRlxXq1Gl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.BcnAfXKtRlxXq1Gl"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Syndicate - Sentinels",
+      "_id": "xjm5wqcVDkEN4IuM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.xjm5wqcVDkEN4IuM"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Knights - Council",
+      "_id": "KNZuqKh1MnAppHT4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.KNZuqKh1MnAppHT4"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Society - Guardians",
+      "_id": "YJb1R3k4RABRKF0u",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.YJb1R3k4RABRKF0u"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Band - Shapers",
+      "_id": "jOj9eiAlymCBy8it",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.jOj9eiAlymCBy8it"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Alliance",
+      "_id": "mWZQRQMMu7Swjh8J",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.mWZQRQMMu7Swjh8J"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Scouts - Hunters",
+      "_id": "JRmXjIGPutNL8Irj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.JRmXjIGPutNL8Irj"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Heralds - Circle",
+      "_id": "uTBSSS8psVwnlAHX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.uTBSSS8psVwnlAHX"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Tribe - Shadows",
+      "_id": "UWJXvsmtPDFfrTpu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.UWJXvsmtPDFfrTpu"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Pilgrims",
+      "_id": "HwAg3wm397OnM7MU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.HwAg3wm397OnM7MU"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Companions - Raiders",
+      "_id": "zNzLHo66erW5GALM",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.zNzLHo66erW5GALM"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Wanderers - Brigade",
+      "_id": "TZLFYpRylNHQU359",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.TZLFYpRylNHQU359"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Guard",
+      "_id": "jopUMChBvbjj3LKe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.jopUMChBvbjj3LKe"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Wardens - Cabal",
+      "_id": "mqmhR0NLaz6I6r2s",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.mqmhR0NLaz6I6r2s"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Watchers",
+      "_id": "SuAbNsCte1N3EUbI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!x8ozxcQFlVLasotr.SuAbNsCte1N3EUbI"
+    }
+  ],
+  "_id": "x8ozxcQFlVLasotr",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767560000609,
+    "modifiedTime": 1767560000609,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!x8ozxcQFlVLasotr"
+}

@@ -1,0 +1,534 @@
+{
+  "name": "Settlement Crucible - Adjective",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Bustling",
+      "_id": "AqJ5T67jNQTpyj1g",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.AqJ5T67jNQTpyj1g"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Quiet - Prosperous",
+      "_id": "NVanVAJSepmDYloP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.NVanVAJSepmDYloP"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Walled - Ancient",
+      "_id": "OgE9Ucxzf7T20XBT",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.OgE9Ucxzf7T20XBT"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hidden - Secluded",
+      "_id": "2PBPkbUfagrdjRUs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.2PBPkbUfagrdjRUs"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Sacred - Snowy",
+      "_id": "wFSq4Hm0CqfOyVxn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.wFSq4Hm0CqfOyVxn"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Isolated - Dusty",
+      "_id": "U7d5Gfp9G4Hrvw9y",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.U7d5Gfp9G4Hrvw9y"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Deserted",
+      "_id": "DhobEaHWG0kIQTrL",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.DhobEaHWG0kIQTrL"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Fortified - Trade",
+      "_id": "01HLEii7DwkbbRB8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.01HLEii7DwkbbRB8"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Overgrown - Forgotten",
+      "_id": "KhwcQUZNf05M04GV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.KhwcQUZNf05M04GV"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Thriving - Shady",
+      "_id": "i6FnQhSA6Y4dkFJ3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.i6FnQhSA6Y4dkFJ3"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Ruined - Windy",
+      "_id": "J52gmqCdGV96qxpm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.J52gmqCdGV96qxpm"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Haunted",
+      "_id": "EQEVZhd8cV4L2fK3",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.EQEVZhd8cV4L2fK3"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Foggy - Peaceful",
+      "_id": "ubWenpgg113CKv75",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.ubWenpgg113CKv75"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Nomadic - Remote",
+      "_id": "zVUTSJBaCHDgw47A",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.zVUTSJBaCHDgw47A"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Abandoned - Coastal",
+      "_id": "i5V2k0COPtfmq3P2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.i5V2k0COPtfmq3P2"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Hilly",
+      "_id": "753XbS11t849sKKe",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.753XbS11t849sKKe"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Sunlit - Barren",
+      "_id": "zxIzT4EeE0mUgWCj",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.zxIzT4EeE0mUgWCj"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Forested - Flooded",
+      "_id": "14a9TEwKN7BoC8rK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.14a9TEwKN7BoC8rK"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Rocky",
+      "_id": "2p32hggupAHhXKaf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.2p32hggupAHhXKaf"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Sprawling - Mountainous",
+      "_id": "4R0tYLAldwl447eC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.4R0tYLAldwl447eC"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Reclaimed",
+      "_id": "tjabCLtvzutIGOMg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!5vnYLQ3ePiiJPIfU.tjabCLtvzutIGOMg"
+    }
+  ],
+  "_id": "5vnYLQ3ePiiJPIfU",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559449354,
+    "modifiedTime": 1767559449354,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!5vnYLQ3ePiiJPIfU"
+}

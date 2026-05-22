@@ -1,0 +1,534 @@
+{
+  "name": "Building Crucible - Noun",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Alchemist",
+      "_id": "cwcXtvBRyOyAZWQy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.cwcXtvBRyOyAZWQy"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Docks - Shrine",
+      "_id": "kEeAORhoEy2j2aM4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.kEeAORhoEy2j2aM4"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Orphanage - Temple",
+      "_id": "yuciUnQZxyj1MIkZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.yuciUnQZxyj1MIkZ"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Baker - Watchtower",
+      "_id": "gZFAqzgMAcVKOqaw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.gZFAqzgMAcVKOqaw"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Herbalist - Gemcutter",
+      "_id": "CdVKohU0iT89nClm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.CdVKohU0iT89nClm"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Carpenter - Observatory",
+      "_id": "9oTtAOjJDfCkAUxt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.9oTtAOjJDfCkAUxt"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Barracks",
+      "_id": "YAPYhwQEYSMD3faP",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.YAPYhwQEYSMD3faP"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Stable - Armory",
+      "_id": "XSWoiEYkHFWixzPJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.XSWoiEYkHFWixzPJ"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Blacksmith - Guild Hall",
+      "_id": "2hmqRquBhRmxe7Uy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.2hmqRquBhRmxe7Uy"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Tavern - Scribe",
+      "_id": "ZbnRuNByqqrkT37v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.ZbnRuNByqqrkT37v"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Fortune Teller - Graveyard",
+      "_id": "piUdOsi3Xoyqp8EE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.piUdOsi3Xoyqp8EE"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Tower",
+      "_id": "6j00iD8boOIFvLBb",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.6j00iD8boOIFvLBb"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Arena - Market",
+      "_id": "2I5DyUqiGlGJ2pk2",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.2I5DyUqiGlGJ2pk2"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Inn - Library",
+      "_id": "2X6ZBCvGkONiLGeB",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.2X6ZBCvGkONiLGeB"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Weaver - Brewery",
+      "_id": "ObRkK5QkWuzJhcyV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.ObRkK5QkWuzJhcyV"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Keep",
+      "_id": "uM7IKAg0Q1JAROcg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.uM7IKAg0Q1JAROcg"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Fletcher - Jail",
+      "_id": "mivODwOJigRw1nr4",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.mivODwOJigRw1nr4"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Glassblower - Teahouse",
+      "_id": "bqJvNoABP2kitL7W",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.bqJvNoABP2kitL7W"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Manor",
+      "_id": "pzgA0swL96mssGro",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.pzgA0swL96mssGro"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Warehouse - Bathhouse",
+      "_id": "lJna8RqisDrclABV",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.lJna8RqisDrclABV"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Clocktower",
+      "_id": "QKxyTkrwqHVPiaH8",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!zMsDjvHMLlTRMrSr.QKxyTkrwqHVPiaH8"
+    }
+  ],
+  "_id": "zMsDjvHMLlTRMrSr",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559861645,
+    "modifiedTime": 1767559861645,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!zMsDjvHMLlTRMrSr"
+}

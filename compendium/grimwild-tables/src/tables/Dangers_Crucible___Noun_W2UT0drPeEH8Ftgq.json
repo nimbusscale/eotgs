@@ -1,0 +1,534 @@
+{
+  "name": "Dangers Crucible - Noun",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Beasts",
+      "_id": "jDHZm9rXxP3dmXHl",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.jDHZm9rXxP3dmXHl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Spirits - Monsters",
+      "_id": "SY8zdAVuEptozJCf",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.SY8zdAVuEptozJCf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Caverns - Brigands",
+      "_id": "wyOIyCQniFZ1VSAc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.wyOIyCQniFZ1VSAc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Ruins - Shadows",
+      "_id": "4Ug3mHubCdr1Agnt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.4Ug3mHubCdr1Agnt"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Storm - Specters",
+      "_id": "iHo7V6AEg042lqBg",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.iHo7V6AEg042lqBg"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Woods - Demons",
+      "_id": "iXwBnXvzvvDZGPJx",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.iXwBnXvzvvDZGPJx"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Bog",
+      "_id": "mh0Xj7Lku2Q1qzWQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.mh0Xj7Lku2Q1qzWQ"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Abyss - Cults",
+      "_id": "y0rsAYeHNihtMf4Z",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.y0rsAYeHNihtMf4Z"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Wraiths - Crypt",
+      "_id": "1WwafIqowHObLa2U",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.1WwafIqowHObLa2U"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Marsh - Forest",
+      "_id": "D3daqP54Ljji8H4P",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.D3daqP54Ljji8H4P"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Swarm - Cliffs",
+      "_id": "hs0aAu9oYaHaUgv0",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.hs0aAu9oYaHaUgv0"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Behemoth",
+      "_id": "QtQMQNBF4WvKoAIi",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.QtQMQNBF4WvKoAIi"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Crevice - Fiends",
+      "_id": "JOFOQKWD3DZvOWJE",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.JOFOQKWD3DZvOWJE"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Gorge - Serpents",
+      "_id": "UHEtbmTwE5igkoyJ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.UHEtbmTwE5igkoyJ"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Mire - Warriors",
+      "_id": "r6ZOsbiR5x6lOIBZ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.r6ZOsbiR5x6lOIBZ"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Wilds",
+      "_id": "i89G6r4Efoq7svKt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.i89G6r4Efoq7svKt"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Tangle - Graveyard",
+      "_id": "h3a9qorYtKn330OF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.h3a9qorYtKn330OF"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Mists - Shades",
+      "_id": "TDbTouq98HsAEvJI",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.TDbTouq98HsAEvJI"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Depths",
+      "_id": "9uXSUUdEkOpClFHw",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.9uXSUUdEkOpClFHw"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Crags - Pathways",
+      "_id": "igmnWpE5gITK4Aig",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.igmnWpE5gITK4Aig"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Fog",
+      "_id": "LzkcWHEx6sLiDsiX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!W2UT0drPeEH8Ftgq.LzkcWHEx6sLiDsiX"
+    }
+  ],
+  "_id": "W2UT0drPeEH8Ftgq",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559904334,
+    "modifiedTime": 1767559904334,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!W2UT0drPeEH8Ftgq"
+}

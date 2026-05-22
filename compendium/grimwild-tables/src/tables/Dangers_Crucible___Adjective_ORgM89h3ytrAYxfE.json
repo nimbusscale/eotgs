@@ -1,0 +1,534 @@
+{
+  "name": "Dangers Crucible - Adjective",
+  "formula": "1d21",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "Savage",
+      "_id": "5lU9WVnDL7pRNeAy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.5lU9WVnDL7pRNeAy"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "Cursed - Foul",
+      "_id": "FHf700ii1mRDrGgX",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.FHf700ii1mRDrGgX"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "Raging - Vile",
+      "_id": "uCOeOLS2mRQkIE4v",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.uCOeOLS2mRQkIE4v"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "Hidden - Twisted",
+      "_id": "SWPhK3qUOeAHh03N",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.SWPhK3qUOeAHh03N"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "Venomous - Wailing",
+      "_id": "vbPehRAdda2JGvvd",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.vbPehRAdda2JGvvd"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "Relentless - Writhing",
+      "_id": "CqhXYafp1RPBiuU1",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.CqhXYafp1RPBiuU1"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "Haunted",
+      "_id": "jtI340tklbNLh4if",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.jtI340tklbNLh4if"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "Chaotic - Corrupted",
+      "_id": "OjbqzaP4c8dOZMUC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.OjbqzaP4c8dOZMUC"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "Shadowed - Reckless",
+      "_id": "W0fVPTa8LeaC622G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.W0fVPTa8LeaC622G"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "Forbidden - Hungry",
+      "_id": "tYLFK1KrXL5sTbRs",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.tYLFK1KrXL5sTbRs"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "description": "Feral - Shrieking",
+      "_id": "0s4gC7H0WRTsdArQ",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.0s4gC7H0WRTsdArQ"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "description": "Maddening",
+      "_id": "845IKtZ0jVE5El9x",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.845IKtZ0jVE5El9x"
+    },
+    {
+      "range": [
+        13,
+        13
+      ],
+      "description": "Darkened - Brutal",
+      "_id": "PIO2uK9AaXXPoeuc",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.PIO2uK9AaXXPoeuc"
+    },
+    {
+      "range": [
+        14,
+        14
+      ],
+      "description": "Bloodthirsty - Rampaging",
+      "_id": "Bq0KYrZD9f90pjXN",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.Bq0KYrZD9f90pjXN"
+    },
+    {
+      "range": [
+        15,
+        15
+      ],
+      "description": "Ancient - Vicious",
+      "_id": "CdvQK2ZWNv2fYUf7",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.CdvQK2ZWNv2fYUf7"
+    },
+    {
+      "range": [
+        16,
+        16
+      ],
+      "description": "Lurking",
+      "_id": "clwzogZJ9cYOTnbF",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.clwzogZJ9cYOTnbF"
+    },
+    {
+      "range": [
+        17,
+        17
+      ],
+      "description": "Forgotten - Restless",
+      "_id": "xdjNnQDaCdyRU3Mn",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.xdjNnQDaCdyRU3Mn"
+    },
+    {
+      "range": [
+        18,
+        18
+      ],
+      "description": "Ensnaring - Silent",
+      "_id": "OuZiGLEfonI7GIis",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.OuZiGLEfonI7GIis"
+    },
+    {
+      "range": [
+        19,
+        19
+      ],
+      "description": "Seething",
+      "_id": "np68BBMCz3PW6aTy",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.np68BBMCz3PW6aTy"
+    },
+    {
+      "range": [
+        20,
+        20
+      ],
+      "description": "Malevolent - Stalking",
+      "_id": "wMp8S5UhdbJJMA0G",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.wMp8S5UhdbJJMA0G"
+    },
+    {
+      "range": [
+        21,
+        21
+      ],
+      "description": "Violent",
+      "_id": "pT9sDjlC3dZFStQr",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ORgM89h3ytrAYxfE.pT9sDjlC3dZFStQr"
+    }
+  ],
+  "_id": "ORgM89h3ytrAYxfE",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "OpOAFnFjBNSHfzrP": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 1767559893435,
+    "modifiedTime": 1767559893435,
+    "lastModifiedBy": "OpOAFnFjBNSHfzrP"
+  },
+  "_key": "!tables!ORgM89h3ytrAYxfE"
+}

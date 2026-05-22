@@ -1,6 +1,6 @@
 {
   "name": "GM Crucible - Noun",
-  "formula": "1d36",
+  "formula": "1d21",
   "description": "",
   "results": [
     {
@@ -9,7 +9,7 @@
         1
       ],
       "description": "Journey",
-      "_id": "B28hog8jXtH0pMGy",
+      "_id": "NHXdHS3oTBMEUBpl",
       "type": "text",
       "name": "",
       "img": null,
@@ -25,15 +25,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.B28hog8jXtH0pMGy"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.NHXdHS3oTBMEUBpl"
     },
     {
       "range": [
         2,
         2
       ],
-      "description": "Tremor",
-      "_id": "17YHN8xrfuZiKRxZ",
+      "description": "Tremor - Juncture",
+      "_id": "b7LpyT3MYF9dxE2Y",
       "type": "text",
       "name": "",
       "img": null,
@@ -49,15 +49,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.17YHN8xrfuZiKRxZ"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.b7LpyT3MYF9dxE2Y"
     },
     {
       "range": [
         3,
         3
       ],
-      "description": "Sanctuary",
-      "_id": "l0B1cus9QzfwlmV1",
+      "description": "Sanctuary - Rift",
+      "_id": "EP8FdrNVYRQX4wRw",
       "type": "text",
       "name": "",
       "img": null,
@@ -73,15 +73,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.l0B1cus9QzfwlmV1"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.EP8FdrNVYRQX4wRw"
     },
     {
       "range": [
         4,
         4
       ],
-      "description": "Peak",
-      "_id": "CnUWyYM7Rh9y3D7l",
+      "description": "Peak - Scheme",
+      "_id": "j7EIgx0VmYMgRHfx",
       "type": "text",
       "name": "",
       "img": null,
@@ -97,15 +97,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.CnUWyYM7Rh9y3D7l"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.j7EIgx0VmYMgRHfx"
     },
     {
       "range": [
         5,
         5
       ],
-      "description": "Territory",
-      "_id": "SqOVEpaEW5F0hw4n",
+      "description": "Territory - Nexus",
+      "_id": "Hbo8f3MnWGvHELFV",
       "type": "text",
       "name": "",
       "img": null,
@@ -121,15 +121,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.SqOVEpaEW5F0hw4n"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.Hbo8f3MnWGvHELFV"
     },
     {
       "range": [
         6,
         6
       ],
-      "description": "Dilemma",
-      "_id": "IwsBRfCiPdD3ftyo",
+      "description": "Dilemma - Team",
+      "_id": "nuHVDQ3YN39Y5dyf",
       "type": "text",
       "name": "",
       "img": null,
@@ -145,15 +145,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.IwsBRfCiPdD3ftyo"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.nuHVDQ3YN39Y5dyf"
     },
     {
       "range": [
         7,
         7
       ],
-      "description": "Juncture",
-      "_id": "hEa7S3aUs8uzN5s1",
+      "description": "Debris",
+      "_id": "xiXAFRdwHgW2vqnj",
       "type": "text",
       "name": "",
       "img": null,
@@ -169,15 +169,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.hEa7S3aUs8uzN5s1"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.xiXAFRdwHgW2vqnj"
     },
     {
       "range": [
         8,
         8
       ],
-      "description": "Debris",
-      "_id": "Ux8y0XOdqXqomt6L",
+      "description": "Betrayal - Symbol",
+      "_id": "Ar9JpiS4yGpcujD3",
       "type": "text",
       "name": "",
       "img": null,
@@ -193,15 +193,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.Ux8y0XOdqXqomt6L"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.Ar9JpiS4yGpcujD3"
     },
     {
       "range": [
         9,
         9
       ],
-      "description": "Betrayal",
-      "_id": "FwAqtm0WGpKtuWw5",
+      "description": "Threshold - Scar",
+      "_id": "HZZSo99OV5wyoJ3o",
       "type": "text",
       "name": "",
       "img": null,
@@ -217,15 +217,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.FwAqtm0WGpKtuWw5"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.HZZSo99OV5wyoJ3o"
     },
     {
       "range": [
         10,
         10
       ],
-      "description": "Threshold",
-      "_id": "hFnzJT9hwgrBmu0P",
+      "description": "Rumor - Archive",
+      "_id": "1KNaRteuhkRl1Ne6",
       "type": "text",
       "name": "",
       "img": null,
@@ -241,15 +241,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.hFnzJT9hwgrBmu0P"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.1KNaRteuhkRl1Ne6"
     },
     {
       "range": [
         11,
         11
       ],
-      "description": "Rumor",
-      "_id": "kJ8dUakqxPKEeoJa",
+      "description": "Tradition - Chasm",
+      "_id": "MMXqu8BVm8hsn8AA",
       "type": "text",
       "name": "",
       "img": null,
@@ -265,15 +265,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.kJ8dUakqxPKEeoJa"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.MMXqu8BVm8hsn8AA"
     },
     {
       "range": [
         12,
         12
       ],
-      "description": "Tradition",
-      "_id": "HKNwAwM6ieQYhINY",
+      "description": "Trail",
+      "_id": "YsurFdezpXTB7th2",
       "type": "text",
       "name": "",
       "img": null,
@@ -289,15 +289,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.HKNwAwM6ieQYhINY"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.YsurFdezpXTB7th2"
     },
     {
       "range": [
         13,
         13
       ],
-      "description": "Rift",
-      "_id": "JhAj5El3SySty2rs",
+      "description": "Boundary - Wasteland",
+      "_id": "BopeTm4VmxX7r8cS",
       "type": "text",
       "name": "",
       "img": null,
@@ -313,15 +313,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.JhAj5El3SySty2rs"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.BopeTm4VmxX7r8cS"
     },
     {
       "range": [
         14,
         14
       ],
-      "description": "Symbol",
-      "_id": "p8wIs8kQzIowNkO2",
+      "description": "Standoff - Help",
+      "_id": "M0ShHFBvioEfYTUA",
       "type": "text",
       "name": "",
       "img": null,
@@ -337,15 +337,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.p8wIs8kQzIowNkO2"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.M0ShHFBvioEfYTUA"
     },
     {
       "range": [
         15,
         15
       ],
-      "description": "Trail",
-      "_id": "NRx7rASZDojpgifp",
+      "description": "Jackpot - Mystery",
+      "_id": "WVHBjq1FZK7J1RiV",
       "type": "text",
       "name": "",
       "img": null,
@@ -361,15 +361,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.NRx7rASZDojpgifp"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.WVHBjq1FZK7J1RiV"
     },
     {
       "range": [
         16,
         16
       ],
-      "description": "Boundary",
-      "_id": "NMqCpY0Dc5iJxkdx",
+      "description": "Beacon",
+      "_id": "c4hxyYn8CQ69Azu6",
       "type": "text",
       "name": "",
       "img": null,
@@ -385,15 +385,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.NMqCpY0Dc5iJxkdx"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.c4hxyYn8CQ69Azu6"
     },
     {
       "range": [
         17,
         17
       ],
-      "description": "Standoff",
-      "_id": "6drb0KJ3kzxAltjN",
+      "description": "Strife - Secret",
+      "_id": "SXLLub1pkiHI1OWt",
       "type": "text",
       "name": "",
       "img": null,
@@ -409,15 +409,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.6drb0KJ3kzxAltjN"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.SXLLub1pkiHI1OWt"
     },
     {
       "range": [
         18,
         18
       ],
-      "description": "Jackpot",
-      "_id": "Ud3WfnxP7IKf39HU",
+      "description": "Omen - Wall",
+      "_id": "hlMZaKsgbbTM0cFb",
       "type": "text",
       "name": "",
       "img": null,
@@ -433,15 +433,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.Ud3WfnxP7IKf39HU"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.hlMZaKsgbbTM0cFb"
     },
     {
       "range": [
         19,
         19
       ],
-      "description": "Scheme",
-      "_id": "XOtCqZHMAFaVbrfr",
+      "description": "Maze",
+      "_id": "rr2d9gC0WfaYA3A3",
       "type": "text",
       "name": "",
       "img": null,
@@ -457,15 +457,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.XOtCqZHMAFaVbrfr"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.rr2d9gC0WfaYA3A3"
     },
     {
       "range": [
         20,
         20
       ],
-      "description": "Scar",
-      "_id": "XVOKJf5PDq1C09HK",
+      "description": "Deception - Pact",
+      "_id": "BYGIfXrm6edjS0Bn",
       "type": "text",
       "name": "",
       "img": null,
@@ -481,375 +481,15 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.XVOKJf5PDq1C09HK"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.BYGIfXrm6edjS0Bn"
     },
     {
       "range": [
         21,
         21
       ],
-      "description": "Wasteland",
-      "_id": "iH6UaW29jbcCaYkM",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.iH6UaW29jbcCaYkM"
-    },
-    {
-      "range": [
-        22,
-        22
-      ],
-      "description": "Beacon",
-      "_id": "dEkq0JepRWfdu85U",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.dEkq0JepRWfdu85U"
-    },
-    {
-      "range": [
-        23,
-        23
-      ],
-      "description": "Strife",
-      "_id": "jr0uxTCd0icgPBWK",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.jr0uxTCd0icgPBWK"
-    },
-    {
-      "range": [
-        24,
-        24
-      ],
-      "description": "Omen",
-      "_id": "N8scm0rJahiZCYgy",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.N8scm0rJahiZCYgy"
-    },
-    {
-      "range": [
-        25,
-        25
-      ],
-      "description": "Nexus",
-      "_id": "yUcqED3vORyy3lGR",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.yUcqED3vORyy3lGR"
-    },
-    {
-      "range": [
-        26,
-        26
-      ],
-      "description": "Archive",
-      "_id": "cATB3W6CbZK2tqmU",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.cATB3W6CbZK2tqmU"
-    },
-    {
-      "range": [
-        27,
-        27
-      ],
-      "description": "Help",
-      "_id": "5Jt0HeDAsErDAUq5",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.5Jt0HeDAsErDAUq5"
-    },
-    {
-      "range": [
-        28,
-        28
-      ],
-      "description": "Secret",
-      "_id": "plBGgp45bOLw5fh3",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.plBGgp45bOLw5fh3"
-    },
-    {
-      "range": [
-        29,
-        29
-      ],
-      "description": "Maze",
-      "_id": "3rL8WN2suEcoaGRj",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.3rL8WN2suEcoaGRj"
-    },
-    {
-      "range": [
-        30,
-        30
-      ],
-      "description": "Deception",
-      "_id": "ptw9bB0Eu72uS7NZ",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.ptw9bB0Eu72uS7NZ"
-    },
-    {
-      "range": [
-        31,
-        31
-      ],
-      "description": "Team",
-      "_id": "P8ti4dU6bDyyjyFS",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.P8ti4dU6bDyyjyFS"
-    },
-    {
-      "range": [
-        32,
-        32
-      ],
-      "description": "Chasm",
-      "_id": "gcqVpA1OwlKIvweC",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.gcqVpA1OwlKIvweC"
-    },
-    {
-      "range": [
-        33,
-        33
-      ],
-      "description": "Mystery",
-      "_id": "Ns7z1OmeO1z4s5H3",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.Ns7z1OmeO1z4s5H3"
-    },
-    {
-      "range": [
-        34,
-        34
-      ],
-      "description": "Wall",
-      "_id": "fDdkhhevuYu2Ix7Z",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.fDdkhhevuYu2Ix7Z"
-    },
-    {
-      "range": [
-        35,
-        35
-      ],
-      "description": "Pact",
-      "_id": "ZaTTIF9S7GKATI8P",
-      "type": "text",
-      "name": "",
-      "img": null,
-      "weight": 1,
-      "drawn": false,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.351",
-        "systemId": "grimwild",
-        "systemVersion": "0.3.1",
-        "lastModifiedBy": null
-      },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.ZaTTIF9S7GKATI8P"
-    },
-    {
-      "range": [
-        36,
-        36
-      ],
       "description": "Illusion",
-      "_id": "mPqTTEPmMazOoyjI",
+      "_id": "ZnSJh2nD2IBslB21",
       "type": "text",
       "name": "",
       "img": null,
@@ -865,7 +505,7 @@
         "systemVersion": "0.3.1",
         "lastModifiedBy": null
       },
-      "_key": "!tables.results!iSi2xnVTZp5yaDZC.mPqTTEPmMazOoyjI"
+      "_key": "!tables.results!iSi2xnVTZp5yaDZC.ZnSJh2nD2IBslB21"
     }
   ],
   "_id": "iSi2xnVTZp5yaDZC",

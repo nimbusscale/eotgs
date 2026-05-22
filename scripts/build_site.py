@@ -6,6 +6,7 @@ and tags, and generates the landing page index. Does NOT build the static
 HTML — that's handled by `npx quartz build` afterwards.
 """
 
+import html
 import re
 import shutil
 import subprocess
@@ -301,8 +302,10 @@ def render_images(cfg, depth):
     parts minus the filename); it sets the ``../`` prefix back to the content
     root so links resolve on nested pages regardless of Quartz's baseUrl.
 
-    The hero (if any) renders captionless at the top. Gallery images each show
-    their caption as italic text beneath the image.
+    The hero (if any) renders captionless at the top. The gallery renders as a
+    grid of square thumbnails; hovering one shows the full-size image as a
+    centered overlay (styled in custom.scss), and each thumbnail links to the
+    full image so touch devices without hover can tap to open it.
     """
     prefix = "../" * depth
 
@@ -314,11 +317,19 @@ def render_images(cfg, depth):
     tail = ""
     gallery = cfg.get("gallery", [])
     if gallery:
-        blocks = "\n\n".join(
-            f"![{img['caption']}]({prefix}img/{img['file']})\n*{img['caption']}*"
-            for img in gallery
-        )
-        tail = f"\n\n## Gallery\n\n{blocks}\n"
+        items = ""
+        for img in gallery:
+            src = f"{prefix}img/{img['file']}"
+            cap = html.escape(img.get("caption", ""))
+            items += (
+                f'<a class="gallery-item" href="{src}" target="_blank" '
+                f'rel="noopener" aria-label="{cap}">'
+                f'<img src="{src}" alt="{cap}" loading="lazy">'
+                f'<span class="gallery-full" aria-hidden="true">'
+                f'<img src="{src}" alt="{cap}">'
+                f'<span class="gallery-cap">{cap}</span></span></a>\n'
+            )
+        tail = f'\n\n## Gallery\n\n<div class="gallery-grid">\n{items}</div>\n'
     return head, tail
 
 
@@ -496,9 +507,13 @@ def bootstrap_quartz():
     if quartz_git.exists():
         shutil.rmtree(quartz_git)
 
-    # Apply our config overrides
+    # Apply our config overrides. Stylesheets go under quartz/styles/; the
+    # quartz.*.ts config files live at the Quartz project root.
     for config_file in SITE_CONFIG_DIR.glob("*"):
-        dest = SITE_DIR / config_file.name
+        if config_file.suffix == ".scss":
+            dest = SITE_DIR / "quartz" / "styles" / config_file.name
+        else:
+            dest = SITE_DIR / config_file.name
         shutil.copy2(config_file, dest)
         print(f"  Applied {config_file.name}")
 

@@ -126,7 +126,7 @@ What this role means and what it demands of him is unresolved.
 ## Edric Bloom
 
 **Player:** Ken (SiliKen)
-**Status:** Active
+**Status:** Vanished
 
 ### Concept
 A wandering bard and trader who deals in stories, songs, and "rare and curious goods."
@@ -307,6 +307,89 @@ Whether it connects to actual elven ancestry or something else entirely remains 
 - [[Session 3]] — Witnessed his herald curse devastating a farmer's memory; proposed entering [[Aurelion]] through the old mines; conjured light, wards, and illusions to navigate the tunnels; knocked out an elite Aureate guard with [[Second Harvest]] to breach past the guarded junction
 - [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
 - [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
+
+
+## Paxton Lumnus
+
+**Player:** Ken (SiliKen)
+**Status:** Active
+
+### Concept
+A resurrected Spinewarden who died anchoring the Light at a failing ward and woke carrying that Light in his heart.
+He is an embodiment of radiance who no longer trusts the institutions that wield it, driven to uncover the truth of the Light before more people die trusting a flawed protection.
+
+### Stats
+STR 1, DEX 1, INT 0, WIS -1, CHA 2
+
+### Playbook
+Immolator (reskinned for [[The Light]])
+
+### Drive
+Act callously or recklessly about death.
+
+### Background
+Paxton was born along the [[Eastern Rivers]] in [[Havens Reach]], a stagnant port town built in the bones of a much larger Imperium-era city where the lake, the rivers, and [[Beaconhold]] all meet.
+Tired of the city's unchanging rhythms, he enlisted with the [[Spinewardens]] to serve the [[The Light|Light]] where it mattered most.
+He was stationed at the Spine called [[Hallowreach]] when the wards began to fail and something from beyond the [[Bonewall]] pressed through.
+
+The garrison held as long as it could, but it became clear the Spine would fall.
+A long-hidden ritual was offered to anchor the Light directly, with one catch: it required a sacrifice.
+Paxton volunteered.
+The breach closed, and as expected, he died; they laid him in the Spine's mausoleum.
+
+Then he woke.
+As the light of a new dawn burned his eyes, it showed him something it never had before — that the wards themselves were flawed.
+Without telling anyone, he left for [[Aurelion]] seeking the Light's truth.
+
+### Religion
+Paxton is a literal vessel of the [[The Light|Light]] rather than merely a worshipper of it — the radiance lives in his heart and answers when he asks.
+He still believes the Light saved lives, including his own, but he no longer believes its institutions understand what they are holding back.
+The Light, as he has come to know it, does not lie, but it may show uncomfortable truths without context or mercy.
+
+### Key Traits & Abilities
+
+**Background:** Dawn Unending (Heart of the Phoenix) — he sacrificed his entire being and was returned to life with the Light in his heart; when he Crumbles he does not truly die but returns to life when everyone next Settles In, and each time he comes back something is different.
+
+**Moves:**
+- **Lightbrand** — He can move, shape, and create light; his light is Distinctive, Fiery (it burns, sears, and ignites), and Near, with the chosen traits Restrained (allies gain +1 Armor against it) and Spontaneous (he can create light, not merely manipulate existing fire).
+- **Unleash Radiance** — Roll+CHA to fight using light as a weapon, accepting costs such as collateral damage, conditions like Blinded or Stunned, the loss of a light trait, or unwanted attention.
+- **Righteous Illumination** — When he offers a sacrifice to the Light and illuminates it utterly, he may ask a question and receive a vision answering it, the sacrifice consumed forever and the truth proportional to what was given up.
+- **Drawn to the Light** — Roll+CHA when sharing an intimate or revealing moment to gain Charm over someone.
+
+**Equipment:** 1 Wealth, a Bundle of Torches (5 uses), Adventuring Gear (5 uses), Smoky Leather Armor (1 Armor), a Burnished Sword (Intimate, Close), and a Flask of Whiskey (2 uses).
+
+### Appearance
+Paxton is a human man in his early thirties, tall, lean, and weathered, with the posture of a former soldier who still expects inspection.
+His short dark-blond hair has grown uneven since leaving [[Hallowreach]], with pale gold-white streaks near the temples.
+He wears smoky leather armor over practical travel clothes; the old Spinewarden marks have been scraped off, but not well enough to hide what he was.
+His eyes seem normal at first, except for unnaturally bright amber-gold irises patterned like sunrise through smoked glass.
+He looks less like a saint than a dead soldier whom the dawn refused to release.
+
+When anxious or angry, he rubs one thumb across the center of his chest where the ritual burns are hidden beneath his armor.
+He avoids saying "I died" casually, preferring "the first time I fell" or "before the dawn took me back."
+When the Light stirs in him, he goes unnervingly still before acting.
+He loves dawn over water, hot black tea, the sound of harbor work beginning before the city wakes, and plain soldier's food; he hates enclosed spaces and sometimes wakes in a cold sweat, remembering the mausoleum.
+
+### Relationships
+None Established
+
+### Hooks
+
+#### The Flawed Wards
+When Paxton woke, the dawn showed him that the [[Bonewall]] wards anchoring the [[Thirteen Spines]] are flawed — that [[Lucifer]] did not protect [[Beaconhold]] indefinitely, but only prolonged its inevitable ruin.
+His main motivation is to uncover the truth of the Light before more people die trusting a flawed protection, and to learn whether Lucifer's legacy can be repaired or must be exposed.
+This personal quest intersects the party's wider investigation into [[The Bonewall's Darkness]].
+
+#### A Death That Won't Take
+Paxton has "died" several times since the ritual, but it never seems to take, and each time he returns something about him is different.
+What is changing in him with each resurrection, and what the Light is slowly making him into, is unresolved.
+
+#### Burned by the Light
+Paxton arrives owing a debt of favor to a party member his Light has already burned.
+What happened, and what that person lost, is an open question to be answered in play.
+
+### Session Appearances
+*None yet — joins the party after [[Edric Bloom]]'s disappearance beneath the Chryseum.*
 
 
 ## Sir Roderic Lightbearer

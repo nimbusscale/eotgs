@@ -335,6 +335,11 @@ The towers serve as both physical fortifications and magical wards, maintained b
 
 Each Spine has its own local nickname based on its appearance, history, or reputation — names given by the soldiers and scholars who have garrisoned them over the centuries.
 The formal [[Imperium Lucis Aeternae|Imperium]]-era designation for the tower network may exist in old records but has fallen out of common use; everyone simply calls them the Spines.
+The towers are garrisoned by the [[Spinewardens]], a military order of [[Beaconhold]] sworn to maintain the wards.
+
+One such Spine is known as **Hallowreach**.
+When its wards began to fail and something from beyond the [[Bonewall]] pressed through, the garrison held until it became clear the Spine would fall.
+A long-hidden ritual was offered to anchor the Light directly, but it required a sacrifice: the Spinewarden [[Paxton Lumnus]] volunteered, died, and closed the breach — only to wake afterward in the Spine's mausoleum, the Light burning in his heart and showing him that the wards themselves are flawed.
 
 The ancient wards are now beginning to weaken as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
 
@@ -345,6 +350,7 @@ The ancient wards are now beginning to weaken as ruin's influence spreads, desta
 
 ### Events Here
 - [[Session 0]] — Established as the eastern mountain range
+- The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden [[Paxton Lumnus]] sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum
 
 
 ## The Cinderwall
@@ -480,6 +486,7 @@ The Imperium-era name of the original settlement has been largely forgotten.
 - [[Beaconhold]]'s primary access point to trade on the [[Solivum]]
 - Built on Imperium-era ruins; the old settlement was significantly larger
 - The town has been stagnant for centuries — never declining, never growing
+- Birthplace of [[Paxton Lumnus]]
 
 ### Connected Locations
 - [[Solivum]] — The great lake it sits upon

@@ -17,9 +17,9 @@ The balance between ruin and renewal has been restored within the Shrine, but th
 First Aureate Eisen Dorn fell defending Crest Aurelion, and Aurelion struck a grudging truce with the Morrows rather than prosecute them.
 The Ashen Vale's Great Beaver Dam partially collapsed and beavers have spread downstream as pests; Aldric Garlandsson is consolidating power across the vale; a cult of whispered endings has taken root in Crownvale and southern Marrow County.
 Along the spine of the Bonewall, the northernmost of the Thirteen Spines has gone dark — the wards that have stood for as long as anyone alive can remember simply stopped responding.
+At the failing Spine called Hallowreach, a Spinewarden named Paxton Lumnus died anchoring the Light in a sacrificial ritual, then woke in the mausoleum with the Light burning in his heart and a vision that the wards themselves are flawed; he has come to Aurelion seeking the Light's truth.
 Something is missing from the Church's own traditions, histories, and hymns, and the Corona Vigil has withdrawn to chase those threads.
 The party is not yet reunited.
-
 
 ## Player Characters
 
@@ -29,13 +29,6 @@ The party is not yet reunited.
 **Key Abilities:** Shapeshift (Old Wild background — any encountered creature, not only Attuned; adapted from Unlimited Dungeons with nature point economy; beaver form always free), Attunement, Commune, At One With The World; beaver is his true form
 **Relationships:** Views Garland as a father figure despite being technically older; lowkey camaraderie with Edric; growing respect for Roderic
 **Current Threads:** The origin and motive of his original beaver curse remain unknown — the Dark Harlequin claimed the Laughing One was responsible, but this is unconfirmed; his family never seemed to remember him after he was cursed, and why they forgot him is unresolved; broke his vow of celibacy with Tufa the rock rat, and whether his druidic curse can be transmitted to offspring is an open question; received a vision from the God of Renewal showing him as a protector and a crucial piece of the balance — what this role demands is unresolved
-
-### Edric Bloom
-**Player:** Ken (SiliKen)
-**Concept:** A wandering bard and trader who deals in stories, songs, and "rare and curious goods." He serves as the party's face and information broker.
-**Key Abilities:** Perform (storytelling style), Expressive Conflict, Storied Knowledge, Forked Tongue (potent lies), Traveling Artist background (+1 Awe on Perform), Connections network
-**Relationships:** Playful curiosity with Castor; lowkey doubts about Roderic; deep respect for Garland; connected to Mayliss Vane (Marrow's Assayer Sovereign) and First Aureate Eisen Dorn
-**Current Threads:** Vanished mid-step beneath Garland's invisibility spell in the tunnels beneath the Chryseum — his whereabouts are unknown and no scrying has found him; carried the Seal of Unmaking when he disappeared, the Whiteglass seal pulsating with new power; the Triune's devices malfunctioned when examining him — Venn observed he stands at the overlap of many circles; the mystery of his unknown father; his herald curse — the herald of souring tales — causes stories to twist, reputations to decline, and communication to break down; well known in Aurelion and wanted alongside the party
 
 ### Garland yn Greenholt
 **Player:** Jay (regular human faits)
@@ -51,6 +44,12 @@ The party is not yet reunited.
 **Relationships:** Playful camaraderie with Edric; deep respect for Garland; lowkey doubts about Castor
 **Current Threads:** Branded a heretic by a Corona Vigil inquisitor during the extraction of Count Marrow, though no formal charges have followed him home — the Vigil withdrew to chase deeper concerns in the Church's own records; on his last campaign he lost his entire battalion and blamed his insufficient faith, and what happened remains unexplored; serves as a knight errant of "The Redeemers of Light," tasked with redemption through deeds; articulated a nuanced theology — ruin and renewal are forces of nature subordinate to Lucifer, not gods — positioning him in tension with the Order of the Eclipsed Sword's rigid orthodoxy
 
+### Paxton Lumnus
+**Player:** Ken (SiliKen)
+**Concept:** A resurrected Spinewarden who died anchoring the Light at a failing ward and woke carrying that Light in his heart. He is an embodiment of radiance who no longer trusts the institutions that wield it, driven to uncover the truth of the Light before more people die trusting a flawed protection.
+**Key Abilities:** Immolator reskinned for the Light — Dawn Unending (Heart of the Phoenix; returns from death when the party next Settles In, changed a little each time), Lightbrand (shapes and creates fiery light, with the Restrained and Spontaneous traits), Unleash Radiance (fights with light as a weapon at a cost), Righteous Illumination (offers a sacrifice to the Light for a revealing vision), Drawn to the Light (gains Charm through intimate moments)
+**Relationships:** Newly arrived to the party, with ties not yet confirmed in play — someone here may know him from before the Light (possibly Roderic); he is trying to enamor or impress Castor; he suspects Garland may be trying to guide or control him; he also arrives owing favor to a party member his Light has already burned
+**Current Threads:** The dawn showed him that the Bonewall wards anchoring the Thirteen Spines are flawed — that Lucifer did not protect Beaconhold indefinitely but only prolonged its inevitable ruin — and he means to learn whether the Light's legacy can be repaired or must be exposed; he has "died" several times since the ritual and it never takes, and each return leaves him subtly different; he is too quick to treat his own survival, pain, and death as expendable, mistaking sacrifice for judgment
 
 ## Active Story Arcs
 
@@ -61,6 +60,7 @@ The party is not yet reunited.
 The cocoon opened and the world breathed, but balance is not peace.
 Renewal has awakened within the Shrine, yet ruin's passage has left scars no ceremony can heal — a desiccated Ashen Vale, a partially collapsed Great Beaver Dam with beavers spreading downstream as pests, Aldric Garlandsson consolidating authority across the vale, a cult of whispered endings taking root in Crownvale and southern Marrow County, and Count Marrow nursing cold anger toward the heralds who rescued him.
 Along the Bonewall, the northernmost of the Thirteen Spines has gone dark — a ward that has burned for as long as anyone alive can remember simply stopped responding, and something from Öuth Krelt is pressing against what remains.
+At one such failing Spine, a Spinewarden named Paxton Lumnus died to anchor the Light and woke changed, carrying a vision that the wards themselves are flawed and a conviction that the Church does not understand what it is holding back.
 Stranger still, the Church's own records are beginning to unravel: names missing from liturgies that had been unchanged for centuries, histories that no longer quite agree with themselves.
 Something is being forgotten at a scale larger than any single herald's curse, and the Corona Vigil has withdrawn from Aurelion to chase those threads.
 Edric is gone — vanished beneath an invisibility spell in the tunnels beneath the Chryseum, no trace found despite Garland's magic and the party's searches.
@@ -71,6 +71,7 @@ What awaits is not a return to normalcy but the opening of a wound that ruin onl
 - Was the Laughing One truly responsible for Castor's original beaver curse?
 - What happened to Roderic's lost battalion, and was his faith truly to blame?
 - The Thirteen Spines are going dark along the Bonewall — what is pressing against the wards from Öuth Krelt?
+- Are the Bonewall wards truly flawed as Paxton's vision claims, and did Lucifer only delay Beaconhold's ruin rather than prevent it?
 - Something is missing from the Light's own traditions, histories, and hymns — what was lost, and can it be found?
 - The beavers of Beaver Lake have become a growing problem in the Ashen Vale — can the rift between the colony and the vale's people be healed?
 - Aldric Garlandsson is consolidating power beyond Crownvale, encroaching on the borders of Marrow County and Beaconhold — how far will it go before it demands a reckoning?

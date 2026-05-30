@@ -24,8 +24,12 @@ players:
     characters:
       - name: "Edric Bloom"
         display: "Edric"
+        active: false
+        sessions: "0-5"
+      - name: "Paxton Lumnus"
+        display: "Paxton"
         active: true
-        sessions: "0-"
+        sessions: "6-"
 
   dustin:
     role: player

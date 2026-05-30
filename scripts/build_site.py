@@ -426,6 +426,13 @@ def extract_pc_cards():
     for pc_file in sorted(pcs_dir.glob("*.md")):
         text = pc_file.read_text(encoding="utf-8")
 
+        # Skip inactive characters (Vanished, Deceased, Retired, etc.) —
+        # only Active PCs appear on the home page party roster.
+        status_match = re.search(r"^\*\*Status:\*\*\s*(.+)$", text, re.MULTILINE)
+        status = status_match.group(1).strip().lower() if status_match else "active"
+        if status != "active":
+            continue
+
         # Extract title from first heading
         title = extract_title(text)
         if not title:

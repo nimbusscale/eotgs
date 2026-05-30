@@ -18,6 +18,7 @@ The Imperium-era name of the original settlement has been largely forgotten.
 - [[Beaconhold]]'s primary access point to trade on the [[Solivum]]
 - Built on Imperium-era ruins; the old settlement was significantly larger
 - The town has been stagnant for centuries — never declining, never growing
+- Birthplace of [[Paxton Lumnus]]
 
 ## Connected Locations
 - [[Solivum]] — The great lake it sits upon

@@ -1,7 +1,7 @@
 # Edric Bloom
 
 **Player:** Ken (SiliKen)
-**Status:** Active
+**Status:** Vanished
 
 ## Concept
 A wandering bard and trader who deals in stories, songs, and "rare and curious goods."

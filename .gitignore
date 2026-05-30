@@ -1,8 +1,9 @@
 scratch/
 inbox/transcripts/chunks/
 
-# Generated illustrations (source specs in image/prompts/ stay tracked)
+# Generated illustrations and image-generation scratch (published from images/)
 images/
+image/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

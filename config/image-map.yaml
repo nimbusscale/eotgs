@@ -32,6 +32,10 @@ locations/aurelion:
     - { file: chryseum-exterior.jpg, caption: "The Chryseum, exterior" }
     - { file: chryseum-interior.jpg, caption: "The Chryseum, interior" }
 
+locations/beaconhold:
+  gallery:
+    - { file: kingdom-of-beaconhold-map.jpg, caption: "Map of the Kingdom of Beaconhold" }
+
 locations/nodrum:
   hero: { file: the-nodrum-exterior.jpg, alt: "The Nodrum, exterior" }
   gallery:

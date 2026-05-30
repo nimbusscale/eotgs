@@ -13,7 +13,7 @@ The family members are not elves and don't consider themselves elves, though the
 
 [[Garland yn Greenholt]] has the strongest expression of this trait — he has lived longer than anyone else in his family line.
 [[Castor]] also carries the trait, sharing the same elven features and origin in the [[Ashen Vale]].
-Garland believes Castor is a relative, though there is no definitive proof.
+Castor is in fact Garland's great-grand-uncle — the elder of the line, despite Garland being the more mature in bearing.
 
 ## Related Entries
 - [[Garland yn Greenholt]] — Strongest known expression of the trait

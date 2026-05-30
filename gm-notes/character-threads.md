@@ -21,6 +21,9 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - His spellbook responded to residual renewal energy at the [[Shrine of Renewal]], growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered
 - The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]] remain emotionally unresolved
 - **Player backstory hook:** ~100 years ago something drew Garland from the vale on a long journey; he was responsible for the death of a friend, then brought the man's widow and child home and married her, founding the second family from which [[Aldric Garlandsson|Aldric]] and [[Rowan yn Greenholt|Rowan]] descend — what called him away and how the friend died are left open for the GM to develop
+- **Downtime:** returned to the vale to assess and mitigate ruin's lingering effects and be a comforting presence, watching but steering wide of [[Aldric Garlandsson|Aldric]]; escorted [[Castor]] as far as the vale, then parted ways
+- **Renewed Witch Stone connection:** on returning to the [[Witch Stones]] he felt a bond different from his centuries-built one — it returns *magic* (surfacing as ritual magic) but not the *knowledge* the forgetting curse took
+- **The reluctant apprentice (Mira):** [[Mira]], Aldric's daughter, has declared herself his apprentice and hears the stones as words rather than earth-sounds — an emerging cleric of the Witch Stones with a possibly deeper connection than Garland's; the player loves the irony of Garland being forced to teach lessons he himself needs to relearn. To be expanded in upcoming session notes. (Mechanically the player is eyeing a ritual-magic level and an "obtain an asset: apprentice" level, but those are not locked in.)
 
 ## Sir Roderic Lightbearer
 

@@ -48,6 +48,11 @@ He feels he is in his "third act" — near the end of his life — and is at pea
 He has made peace with losing loved ones over his long lifetime.
 He expects the end will come in the near future, though when is unknown.
 
+In the downtime after the curse, Garland returned to the [[Ashen Vale]] to take stock of ruin's lingering effects and do what he could to mitigate them and be a comforting presence — watching his grandson [[Aldric Garlandsson|Aldric]] from a distance but steering wide of him.
+He escorted [[Castor]] as far as the vale before they parted ways.
+At some point he made his way back to the [[Witch Stones]] to reconnect, and felt a renewed bond — but one different from the connection he had built through centuries of patient study.
+This new connection has begun returning his magic to him without restoring the lost knowledge, surfacing as a capacity for ritual magic he did not have before.
+
 ## Religion
 Has never had much use for gods.
 
@@ -67,19 +72,26 @@ Has never had much use for gods.
 **Known Spells:** Immunity, Invisibility
 
 ## Relationships
-- [[Castor]] — Complex Guardianship; believes Castor is a relative (same [[Greenholt Bloodline]], same origin in the [[Ashen Vale]]); helped lift Castor's curse, giving him back his humanity (whether Castor wanted it or not); views himself as the "elder" figure despite Castor being technically older
+- [[Castor]] — Complex Guardianship; Castor is in fact his great-grand-uncle (same [[Greenholt Bloodline]], same origin in the [[Ashen Vale]]); helped lift Castor's curse, giving him back his humanity (whether Castor wanted it or not); views himself as the "elder" figure despite Castor being technically older
 - [[Sir Roderic Lightbearer]] — Growing Camaraderie
 - [[Edric Bloom]] — Lowkey Affection; views Edric's rashness as that of a child — "Rash in my youth... maybe he'll grow out of it."
 - [[Rowan yn Greenholt]] — Great-grandchild through his second family; lived in [[Ashbrook]] and perished when the town fell
 - [[Aldric Garlandsson]] — Grandson through his second family, who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
 - His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
-- [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
+- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth
 
 ## Hooks
 
 ### The Witch Stones
 [[Garland yn Greenholt]] wants to understand the [[Witch Stones]] better — what they do, how their power works, and the drama around them.
 He would be very interested in investigating other Witch Stones if they exist elsewhere.
+On returning to them in the downtime he felt a renewed connection unlike the one he built through centuries of study — one that returns magic without knowledge.
+And he is not the only one who hears them: his great-granddaughter [[Mira]] hears the stones as actual words, not the grinding of the earth, raising the question of why the stones speak so differently to her.
+
+### Garland's Reluctant Apprentice
+[[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.
+She hears the [[Witch Stones]] as words and is becoming something like a cleric of them, a connection that may run deeper than Garland's own.
+The irony cuts close: a man trying to find his way back to himself finds himself saddled with teaching a child the very lessons he most needs to relearn.
 
 ### Garland's Third Act
 Garland feels he is in his "third act" — near the end of his life.

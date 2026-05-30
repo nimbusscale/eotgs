@@ -87,11 +87,11 @@ Was culturally religious when younger, going through the motions, but lost touch
 Not a believer one way or another now.
 
 ## Relationships
-- [[Garland yn Greenholt]] — Devoted Affection; views Garland as a father figure despite being technically older; Garland helped lift his curse
+- [[Garland yn Greenholt]] — Devoted Affection; Garland is in truth his great-grand-nephew, yet Castor regards the more mature Garland as a father figure despite being technically older; Garland helped lift his curse, and Castor visits him regularly during the downtime
 - [[Edric Bloom]] — Lowkey Camaraderie
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
-- A surviving great-grand-nephew in the [[Ashen Vale]] whom he now visits regularly — a tentative reconnection with the kin who once forgot him
+- [[Mira]] — Garland's young, demanding self-declared apprentice and Castor's distant kin; he has taken a liking to her
 
 ## Hooks
 
@@ -104,7 +104,6 @@ Whether the Laughing One truly cursed Castor or the Dark Harlequin was lying rem
 Castor's family never seemed to remember him after he was cursed.
 His loyalty to them persists despite this.
 What happened to his family line, and why they forgot him, is unresolved.
-In the downtime after the curse passed, he has begun regularly visiting a surviving great-grand-nephew — a tentative step back toward the kin who forgot him.
 
 ### The Wayward Colony
 Castor returned home to the [[Ashen Vale]] feeling obligated to bring the beavers of [[Beaver Lake]] back to the tribe's "old ways" after their numbers grew unwieldy and they began troubling the surrounding human settlements.

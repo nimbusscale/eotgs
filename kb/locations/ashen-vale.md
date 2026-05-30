@@ -28,6 +28,8 @@ He studied them carefully over the years and guards the secret of their location
 
 The Witch Stones are the source of Garland's magical power.
 He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries.
+On returning to them in the downtime after the curse, [[Garland yn Greenholt|Garland]] felt a renewed connection unlike his old study-built bond — one that returns magic without restoring lost knowledge.
+His great-granddaughter [[Mira]] also hears the stones, but as actual words rather than the grinding and moaning of the earth — a more direct connection that is turning her into something like a cleric of the stones.
 The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, suggesting a connection between these ancient sites.
 The full extent of what they do and how their power works is still to be established in play.
 

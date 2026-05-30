@@ -9,6 +9,8 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - The [[God of Renewal]] recognized him and embraced him with deep warmth — a nostalgic connection stronger than any other herald experienced
 - His herald curse — the herald of crumbling foundations — causes physical structures and objects to decay, break, and turn to dust; the irony is that he's a builder whose nature drives creation
 - The beaver dam has partially collapsed; scrying revealed no ruin in the water — the curse travels with the party, not the river
+- **Player-flagged arc direction:** Castor is entering a "mid-life crisis" — renewed wanderlust and curiosity about human life after lifetimes as a beaver, plus a drive to test the limits of his mitigated curse, which he increasingly sees as a gift rather than an affliction; he hungers again for both the highs and lows of human living (player note, downtime after the [[Curse of Ruin]])
+- His stewardship of the [[Beaver Lake]] colony is failing: the beavers rebel against the "old ways," some may know he was the bringer of ruin, and his sticks of authority no longer command — his personal stake in the vale's broader beaver problem
 
 ## Garland yn Greenholt
 
@@ -18,6 +20,7 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity
 - His spellbook responded to residual renewal energy at the [[Shrine of Renewal]], growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered
 - The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]] remain emotionally unresolved
+- **Player backstory hook:** ~100 years ago something drew Garland from the vale on a long journey; he was responsible for the death of a friend, then brought the man's widow and child home and married her, founding the second family from which [[Aldric Garlandsson|Aldric]] and [[Rowan yn Greenholt|Rowan]] descend — what called him away and how the friend died are left open for the GM to develop
 
 ## Sir Roderic Lightbearer
 

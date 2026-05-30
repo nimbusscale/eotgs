@@ -8,6 +8,7 @@ A lake in the foothills of the [[Cinderwall]], formed by the Great Beaver Dam.
 The upper [[Ashen Flow]] feeds into it, and the lower [[Ashen Flow]] continues beyond the dam into the [[Ashen Vale]].
 Home to a beaver colony that [[Castor]] knows well — his kin built and maintained the dam for generations.
 The beavers were evacuated downstream when the party arrived ahead of the ruin.
+In the downtime since the curse passed, the colony has grown unruly and unwieldy: many beavers have cast off the tribe's "old ways" and spread downstream to trouble the [[Ashen Vale]]'s human settlements, and [[Castor]]'s authority over them has waned.
 
 ## Notable Features
 - The Great Beaver Dam — a massive beaver-built dam that has stood for over 120 years; has partially collapsed, with water pouring into the lower [[Ashen Flow]]

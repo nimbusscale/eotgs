@@ -5,7 +5,7 @@
 **Affiliation:** Independent
 
 ## Description
-Great-grandchild of [[Garland yn Greenholt]].
+Great-grandchild of [[Garland yn Greenholt]] through his second family — the line begun when Garland brought a dead friend's widow and her child home from a long journey roughly a century ago.
 Full name: Rowan yn Greenholt ap Hawkworth.
 She and her partner Corin settled in [[Ashbrook]] before the town fell to the curse.
 

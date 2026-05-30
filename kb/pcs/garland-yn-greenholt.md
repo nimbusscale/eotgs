@@ -35,7 +35,13 @@ While preparing a well-hidden field for pasture, he discovered a set of standing
 He originally learned spellcraft by deciphering the carvings on the Witch Stones and listening to them speak through the sounds of grinding earth over centuries.
 He guarded the secret of their location carefully once he learned the power that dwelt there.
 
-With his wife long gone (and several of his children having passed as well), and tired of being called lord, he left the farm in the hands of the ever-growing clan he begat, and set off with fife and drum in hand.
+When he first re-settled the vale, Garland raised a large and prolific family whose descendants — together with people who immigrated from nearby lands — repopulated the region.
+His first wife aged and died as any human would, and even his longest-lived children from that first family are likely gone by the time the story begins.
+About a hundred years ago, something drew him away from the vale on a long journey that took him far from home.
+While dealing with whatever had called him there, he became close friends with a man whose death he was ultimately responsible for — a guilt he carries still.
+When he finally returned to the [[Ashen Vale]], he brought the dead man's widow and her child with him, and in time he married her.
+From this second family descend his grandson [[Aldric Garlandsson|Aldric]] and his great-grandchild [[Rowan yn Greenholt|Rowan]].
+With both his wives long gone and many of his children passed as well, and tired of being called lord, he left the farm in the hands of the ever-growing clan he begat, and set off with fife and drum in hand.
 
 He speaks openly about his past without hiding dates or times — his long life is not a secret.
 He feels he is in his "third act" — near the end of his life — and is at peace with this.
@@ -64,8 +70,9 @@ Has never had much use for gods.
 - [[Castor]] — Complex Guardianship; believes Castor is a relative (same [[Greenholt Bloodline]], same origin in the [[Ashen Vale]]); helped lift Castor's curse, giving him back his humanity (whether Castor wanted it or not); views himself as the "elder" figure despite Castor being technically older
 - [[Sir Roderic Lightbearer]] — Growing Camaraderie
 - [[Edric Bloom]] — Lowkey Affection; views Edric's rashness as that of a child — "Rash in my youth... maybe he'll grow out of it."
-- [[Rowan yn Greenholt]] — Great-grandchild who lived in [[Ashbrook]] and perished when the town fell
-- [[Aldric Garlandsson]] — Grandson who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
+- [[Rowan yn Greenholt]] — Great-grandchild through his second family; lived in [[Ashbrook]] and perished when the town fell
+- [[Aldric Garlandsson]] — Grandson through his second family, who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
+- His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
 - [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
 
 ## Hooks
@@ -83,6 +90,11 @@ What Garland wants to accomplish or pass on before the end is an open thread.
 Garland holds an ancient founding share in [[The Starfall Caravan Company]] and has begun drawing on company funds at trading posts.
 A company officer named [[Cassian Vellor]] suspects Garland is a fraud — a necromancer or something worse wearing the founder's identity — and is actively investigating.
 Cassian's investigation could draw unwanted attention to the party at a time when they are already wanted.
+
+### The Journey of a Hundred Years
+About a hundred years ago, something drew [[Garland yn Greenholt|Garland]] away from the [[Ashen Vale]] on a long journey far from home.
+While there he was responsible for the death of a man he had come to call a friend, and he returned bearing the dead man's widow and child, whom he later took as his second family.
+What called him away, and how his friend came to die, remain unspoken — a buried chapter from which his grandson [[Aldric Garlandsson|Aldric]]'s line ultimately springs.
 
 ### The Greenholt Bloodline Origin
 The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.

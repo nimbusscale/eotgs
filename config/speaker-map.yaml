@@ -6,6 +6,7 @@ players:
     display: "GM"
     discord_names:
       - "Killjoy Keegan"
+      - "humannumber1"
 
   ramsey:
     role: player
@@ -21,6 +22,7 @@ players:
     role: player
     discord_names:
       - "SiliKen"
+      - "silicon359"
     characters:
       - name: "Edric Bloom"
         display: "Edric"
@@ -45,6 +47,7 @@ players:
     role: player
     discord_names:
       - "regular human faits"
+      - "faits"
     characters:
       - name: "Garland yn Greenholt"
         display: "Garland"

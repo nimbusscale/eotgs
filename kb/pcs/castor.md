@@ -79,6 +79,8 @@ In beaver society, holding a stick signifies authority.
 He can communicate with beavers through gestures, body language, and tail-slapping — not verbal speech, but enough to convey urgency and general ideas.
 During [[Session 1]], he shifted into beaver form and used these methods to convince the colony to evacuate downstream ahead of the cursed waters.
 The dam currently holds back the cursed waters flowing from [[Ashbrook]], but [[Garland yn Greenholt|Garland]]'s spirit wall upstream is the primary barrier — and it will not hold forever.
+In the downtime after the curse passed, the colony has grown unruly and unwieldy.
+Many beavers have cast off the tribe's "old ways" and spread downstream to trouble the [[Ashen Vale]]'s human settlements, and Castor's sticks of authority no longer command them as they once did.
 
 ## Religion
 Was culturally religious when younger, going through the motions, but lost touch with that entire aspect of his life during his beaver years.
@@ -89,6 +91,7 @@ Not a believer one way or another now.
 - [[Edric Bloom]] — Lowkey Camaraderie
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
+- A surviving great-grand-nephew in the [[Ashen Vale]] whom he now visits regularly — a tentative reconnection with the kin who once forgot him
 
 ## Hooks
 
@@ -101,6 +104,20 @@ Whether the Laughing One truly cursed Castor or the Dark Harlequin was lying rem
 Castor's family never seemed to remember him after he was cursed.
 His loyalty to them persists despite this.
 What happened to his family line, and why they forgot him, is unresolved.
+In the downtime after the curse passed, he has begun regularly visiting a surviving great-grand-nephew — a tentative step back toward the kin who forgot him.
+
+### The Wayward Colony
+Castor returned home to the [[Ashen Vale]] feeling obligated to bring the beavers of [[Beaver Lake]] back to the tribe's "old ways" after their numbers grew unwieldy and they began troubling the surrounding human settlements.
+But his authority has faltered — the sticks that once signified command no longer command, and many beavers openly rebel, swept up in bold new activity after generations tied to the same lake.
+He suspects some of them know he was the one who brought ruin to the vale in the first place, and that his neighbors and fellows are seizing the chance to act out.
+Whether he can heal the rift between his found family and the vale's people — or whether the colony has simply outgrown the old ways — is unresolved.
+
+### Reclaiming the Man, and More
+After so long resigned to the life of a beaver, a renewed curiosity has sparked in Castor.
+His short time adventuring, the breaking of his vow of celibacy, and the growing pull of his shapeshifting power have stirred old regrets, loves lost, and a wanderlust he thought had long since calloused over.
+He finds himself burdened with a mid-life crisis despite having spent far more of his life as a wetland creature than a man.
+He no longer wants merely to reclaim his humanity — he wants to learn what his mitigated curse is truly capable of, suspecting destiny has marked him as something unusual.
+There is no getting around it, though: this is a man who has spent human lifetimes as a beaver.
 
 ### Castor's Offspring
 [[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].

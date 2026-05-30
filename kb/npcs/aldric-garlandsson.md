@@ -5,7 +5,7 @@
 **Affiliation:** [[Crownvale]], [[Ashen Vale]]
 
 ## Description
-Grandson of [[Garland yn Greenholt]].
+Grandson of [[Garland yn Greenholt]] through Garland's second family — the line that began when Garland returned from a long journey roughly a century ago bearing a dead friend's widow and her child, whom he wed.
 He rules [[Crownvale]], the seat of power in the [[Ashen Vale]], styling himself as a would-be petty king of the vale.
 He is rebuilding an [[Imperium Lucis Aeternae|Imperium]]-era fort as his keep in Crownvale.
 His guards wear brigandine armor and carry spears topped with his livery.

@@ -1,5 +1,5 @@
 {
-  "_comment": "VISUAL CANON — Garland yn Greenholt (PC). Identity only; rendering is handled by the global house-style block (config/image-prompts/house-style.json). Inject this entity's `appearance` (and `critical_clauses`/`do_not_drift`) into any scene spec that features Garland, so he looks the same across sessions. Validated in the character-consistency spike (M1 judged pass at R1; held in the M3 two-subject and M5 composite seeds with zero attribute bleed). Canon format is structured JSON, locked in M1 (JSON beat prose for per-feature control of eyes/pose).",
+  "_comment": "VISUAL CANON — Garland yn Greenholt (PC). Identity only; rendering is handled by the global house-style block (config/image/prompts/house-style.json). Inject this entity's `appearance` (and `critical_clauses`/`do_not_drift`) into any scene spec that features Garland, so he looks the same across sessions. Validated in the character-consistency spike (M1 judged pass at R1; held in the M3 two-subject and M5 composite seeds with zero attribute bleed). Canon format is structured JSON, locked in M1 (JSON beat prose for per-feature control of eyes/pose).",
 
   "name": "Garland yn Greenholt",
   "slug": "garland-yn-greenholt",
@@ -7,6 +7,11 @@
   "status": "validated",
   "source_image": "images/pcs/garland-portrait.jpg (+ images/pcs/garland-second-harvest.jpg, images/pcs/garland-and-castor-beaver.jpg)",
   "validated_seed": "image/spike/garland-json-r1.jpg (gitignored spike scratch; M1 judged pass — the realized look this canon reproduces)",
+  "library_images": {
+    "front": "config/image/library/garland-yn-greenholt-front.jpg",
+    "side": "config/image/library/garland-yn-greenholt-side.jpg",
+    "_note": "Committed full-length reference portraits (front + side profile), generated from this canon + house-style and selected by the user. These are the canonical identity-truth images for Garland and SUPERSEDE the gitignored spike seed (image/spike/garland-front.jpg, garland-json-r1.jpg) as the front/side reference. Final specs live next to them: config/image/library/garland-yn-greenholt-{front,side}.json."
+  },
   "derived_from": "player reference images (grounded, internally consistent — safe to use as the identity source) + kb/pcs/garland-yn-greenholt.md; validated by spike M1/M3/M5",
 
   "appearance": {
@@ -41,6 +46,8 @@
       "round metal disc brooch clasp at the throat",
       "homespun undyed/linen-brown tunic, layered",
       "wide brown leather belt with leather straps and pouches",
+      "homespun woolen trousers / leg wraps tucked into the boots",
+      "sturdy worn brown leather travel boots, scuffed and mud-caked",
       "muddy, well-traveled, earth-toned"
     ],
     "signature_items": [

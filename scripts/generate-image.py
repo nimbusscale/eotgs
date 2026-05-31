@@ -3,7 +3,7 @@
 
 Usage:
     SANDBOX_MODEL_ACCESS_KEY=doo_v1_... python3 scripts/generate-image.py "a prompt here" [--tall|--wide|--square]
-    SANDBOX_MODEL_ACCESS_KEY=doo_v1_... python3 scripts/generate-image.py --prompt-file config/image-prompts/some-spec.json
+    SANDBOX_MODEL_ACCESS_KEY=doo_v1_... python3 scripts/generate-image.py --prompt-file config/image/prompts/some-spec.json
 
 Exactly one of: a prompt argument, or --prompt-file (a .json spec is passed to
 the model whole; a .txt file is used as raw prompt text).

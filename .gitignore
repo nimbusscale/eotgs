@@ -1,9 +1,10 @@
 scratch/
 inbox/transcripts/manifest/
 
-# Generated illustrations and image-generation scratch (published from images/)
-images/
-image/
+# Generated illustrations and image-generation scratch (published from images/).
+# Anchored to repo root so committed assets under config/image/ stay tracked.
+/images/
+/image/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

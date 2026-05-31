@@ -2,7 +2,7 @@
 
 > **Status: prerequisites done, ready to execute Phases 2–5.** PC reference images ✅ and the
 > consistency-technique spike ✅ are both complete (committed canon now lives in
-> `config/image-prompts/`). Phase 1 is done. See "Sequencing & status".
+> `config/image/prompts/`). Phase 1 is done. See "Sequencing & status".
 
 ## Context
 
@@ -50,9 +50,9 @@ The character/house-style consistency spike (`dev/spike-character-consistency.md
 It proved cross-session consistency is achievable by **text alone** (identity, two-subject no-bleed,
 setting, and full character-in-setting composite all hold) and produced committed, reusable canon:
 
-- **`config/image-prompts/house-style.json`** — the global house-style block. Load this as the style
+- **`config/image/prompts/house-style.json`** — the global house-style block. Load this as the style
   layer for every scene (Phase 4 step 2 — supersedes deriving style ad hoc from old specs).
-- **`config/image-prompts/canon/{garland-yn-greenholt,sir-roderic-lightbearer,aurelion}.json`** —
+- **`config/image/prompts/canon/{garland-yn-greenholt,sir-roderic-lightbearer,aurelion}.json`** —
   validated canon in the Phase-3 shape (`appearance`/`setting`, `critical_clauses`, `do_not_drift`,
   validated-seed pointers). These seed `canon/` directly — no re-derivation needed.
 
@@ -78,8 +78,8 @@ So: return here and execute **Phases 2–5** (Phase 1 done). No discovery work r
 - **Placement on the page:** hero + gallery. The **hero is a deliberate session-overview
   establishing image** representing the session's dominant theme/turning point — *not* merely the
   best of the event images. The gallery holds 3–5 specific event scenes.
-- **Specs committed** to `config/image-prompts/`; existing specs move there too.
-- **Visual canon committed** to `config/image-prompts/canon/<entity-slug>.json`, reused every session.
+- **Specs committed** to `config/image/prompts/`; existing specs move there too.
+- **Visual canon committed** to `config/image/prompts/canon/<entity-slug>.json`, reused every session.
 - **Generated `.jpg`s** stay in repo-root `images/` (gitignored, synced by `build_site.py`).
 - **Filenames:** `session<N>-<scene-slug>.jpg` (hero `session<N>-overview.jpg`).
 - **Consistency mechanism:** text visual-canon injection (image-input generation isn't offered by
@@ -100,25 +100,25 @@ So: return here and execute **Phases 2–5** (Phase 1 done). No discovery work r
 
 ## Phase 2 — Relocate existing specs & clean up
 
-- Create `config/image-prompts/`. Move current specs there: `image/prompts/beaconhold_map_spec.json`
-  → `config/image-prompts/`, and `image/prompts/old/` → `config/image-prompts/old/` (preserve archive).
+- Create `config/image/prompts/`. Move current specs there: `image/prompts/beaconhold_map_spec.json`
+  → `config/image/prompts/`, and `image/prompts/old/` → `config/image/prompts/old/` (preserve archive).
 - Delete the now-empty/stray `image/` directory (also holds `__pycache__` and, transiently, a
   duplicate `kingdom-of-beaconhold-map.jpg` already present in `images/`).
 - Remove the now-vestigial `image/` line from `.gitignore` (keep `images/`). Confirm
-  `config/image-prompts/` is tracked (it is — not matched by the `image/` pattern).
+  `config/image/prompts/` is tracked (it is — not matched by the `image/` pattern).
 
 ## Phase 3 — Visual-canon reference library (consistency subsystem)
 
-> **Spike seeded this (2026-05-31).** `config/image-prompts/canon/` already holds validated
+> **Spike seeded this (2026-05-31).** `config/image/prompts/canon/` already holds validated
 > `garland-yn-greenholt.json`, `sir-roderic-lightbearer.json` (de-glossed, `needs_refinement`), and
-> `aurelion.json`, plus the global `config/image-prompts/house-style.json`. Reuse these as-is; author
+> `aurelion.json`, plus the global `config/image/prompts/house-style.json`. Reuse these as-is; author
 > the rest (Castor, Paxton, NPCs) with the same recipe. Roderic's canon must be sourced from the spike
 > seed, not his glossy player refs (`DO_NOT_USE_AS_SOURCE` is recorded in the file).
 
 This is the heart of cross-session consistency. A canon descriptor is a small structured JSON
 capturing an entity's **generation-ready appearance**, authored once and reused.
 
-- **Location:** `config/image-prompts/canon/<entity-slug>.json` (slug matches the KB filename /
+- **Location:** `config/image/prompts/canon/<entity-slug>.json` (slug matches the KB filename /
   `entity-aliases.yaml`, e.g. `garland-yn-greenholt.json`, `bonewall.json`).
 - **Shape (use the spike's validated shape — richer than the original sketch).** Match the three
   committed canon files (`garland-yn-greenholt.json`, `sir-roderic-lightbearer.json`, `aurelion.json`)
@@ -138,11 +138,11 @@ capturing an entity's **generation-ready appearance**, authored once and reused.
   - `do_not_drift` — the per-entity exclusion list (the things the model keeps getting wrong).
   - `multi_subject_notes`, `style_notes`, and (where the refs are bad) a `DO_NOT_USE_AS_SOURCE`
     pointer. **Rendering is NOT in the canon** — it lives once in the global
-    `config/image-prompts/house-style.json`; canon is identity/setting only.
+    `config/image/prompts/house-style.json`; canon is identity/setting only.
 - **How canon is sourced (Claude-driven, no extra API needed):** for an entity that lacks a canon
   file, locate its **canonical reference image via `config/image-map.yaml`** (the entity page's
   `hero`, else first gallery image), **Read that image** plus any existing portrait spec in
-  `config/image-prompts/old/`, and author the descriptor **feature-by-feature from what is actually
+  `config/image/prompts/old/`, and author the descriptor **feature-by-feature from what is actually
   depicted** (the spike's M2 lesson: author against the ref per feature, don't paraphrase a vibe — a
   vague "stubble" got amplified into a full beard).
   - **WATCH FOR BAD REFERENCES (spike lesson).** Some mapped library images are off-style or
@@ -160,7 +160,7 @@ capturing an entity's **generation-ready appearance**, authored once and reused.
     (`nemotron-nano-12b-v2-vl`, `kimi-k2.6`, or `openai-gpt-4o-mini`). Optionally add a small
     `scripts/describe-image.py` later; out of scope for the first cut since Claude reads images directly.
 - **Already seeded by the spike (reuse as-is, do NOT re-derive):**
-  `config/image-prompts/house-style.json` (global), and `canon/garland-yn-greenholt.json`,
+  `config/image/prompts/house-style.json` (global), and `canon/garland-yn-greenholt.json`,
   `canon/sir-roderic-lightbearer.json` (`needs_refinement`), `canon/aurelion.json`.
 - **Seeding the rest:** the existing portrait specs (Eisen Dorn, Severin, Brenn, Triune, Mayliss)
   already are canon text — convert/import them into `canon/` rather than re-deriving. Author Castor,
@@ -174,7 +174,7 @@ Workflow it encodes:
 
 1. **Locate & read the session** at `kb/sessions/*/session-N.md`. `## Summary` + `## Major Events`
    drive scene selection; `## Recap-Teaser` informs the overarching theme.
-2. **Load the global house style** from `config/image-prompts/house-style.json` (the spike's validated
+2. **Load the global house style** from `config/image/prompts/house-style.json` (the spike's validated
    M0 block — painterly photoreal, documentary/war-photography tone, post-imperial melancholy, muted
    earthen palette, anti-heroic). Inject its `medium`/`palette`/`lighting`/`tone`/`avoid` **verbatim**
    as the `style` layer of every scene spec. Do NOT re-derive style ad hoc from `old/` specs — house
@@ -184,7 +184,7 @@ Workflow it encodes:
    **3–5 gallery scenes** = the most cinematic, distinct event moments.
 4. **Resolve entities & canon:** for each scene, detect the PCs/NPCs/locations present from the
    `[[wiki-links]]` in its source events (resolve via `config/entity-aliases.yaml`). For each, load
-   its `config/image-prompts/canon/<slug>.json`; if missing, author it per Phase 3 (Read the library
+   its `config/image/prompts/canon/<slug>.json`; if missing, author it per Phase 3 (Read the library
    image) and cache. **Inject each present entity's `appearance`/`setting` canon into the scene spec**,
    and carry the entity's `critical_clauses`, `human_overrides`, and `do_not_drift` into the spec too
    (these are the per-entity fixes — e.g. eye-lighting, clean-shaven — that keep the look on-model).
@@ -192,7 +192,7 @@ Workflow it encodes:
 5. **Author JSON scene specs** in the established structure (`title`/`scene.summary`, `subject(s)`,
    `setting`/`location_canon`, `lighting`, `color_palette`, `composition`, `mood`, `style` (= the
    global house-style block, verbatim), `aspect_ratio`, `do_not_include`, `details`). Save to
-   `config/image-prompts/session-N/<scene-slug>.json` (hero → `overview.json`). **Spike-proven
+   `config/image/prompts/session-N/<scene-slug>.json` (hero → `overview.json`). **Spike-proven
    authoring rules:**
    - **Multi-entity scenes → a `subjects` array (prevents attribute bleed).** When 2+ characters
      share a frame, cast each as a named, **explicitly placed** entry (LEFT/RIGHT/etc.) with
@@ -213,7 +213,7 @@ Workflow it encodes:
    cleanly, skips the LLM-naming call):
    ```bash
    python3 scripts/generate-image.py \
-     --prompt-file config/image-prompts/session-N/<scene>.json \
+     --prompt-file config/image/prompts/session-N/<scene>.json \
      --name session<N>-<scene-slug> --out-dir images --wide
    ```
    `SANDBOX_MODEL_ACCESS_KEY` must be in the environment (the script errors with guidance if not;
@@ -246,7 +246,7 @@ Workflow it encodes:
 ## Phase 5 — Documentation
 
 - `CLAUDE.md`: add `/illustrate-session` to the command list and pipeline ordering (after
-  `/incorporate-session`, before `/export-kb`); note the `config/image-prompts/` and `canon/` layout.
+  `/incorporate-session`, before `/export-kb`); note the `config/image/prompts/` and `canon/` layout.
 - `dev/PROJECT.md`: add the command and the visual-canon convention if it documents the roster.
 
 ## Verification
@@ -261,9 +261,9 @@ Workflow it encodes:
    (`kb/sessions/forgotten-and-forsaken/session-6.md`). Confirm a `garland-yn-greenholt.json` canon
    file is created/reused and that the **same appearance descriptors are injected into every Session 6
    scene featuring Garland**, and would be reused in a later session. Confirm 1 hero + 3–5 gallery
-   `session6-*.jpg` in `images/`, scene specs in `config/image-prompts/session-6/`, and a new
+   `session6-*.jpg` in `images/`, scene specs in `config/image/prompts/session-6/`, and a new
    `config/image-map.yaml` entry.
 4. **Build the site:** `python3 scripts/build_site.py` (or `/export-kb`) — session page renders a
    hero at top and a captioned `## Gallery`, with no "image source missing" warnings.
-5. **Cleanup check:** `image/` is gone; `git status` shows `config/image-prompts/` (specs + canon)
+5. **Cleanup check:** `image/` is gone; `git status` shows `config/image/prompts/` (specs + canon)
    as new tracked additions; `git ls-files image/` stays empty.

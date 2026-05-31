@@ -1,5 +1,5 @@
 {
-  "_comment": "VISUAL CANON — Sir Roderic Lightbearer (PC). Identity only; rendering is handled by the global house-style block (config/image-prompts/house-style.json). Inject this entity's `appearance` (and `critical_clauses`/`do_not_drift`) into any scene spec featuring Roderic. Derived in the character-consistency spike (M2 judged pass at R4) by DE-GLOSSING the player refs and applying two human overrides; held in the M3 two-subject and M5 composite seeds. Canon format is structured JSON (locked in M1).",
+  "_comment": "VISUAL CANON — Sir Roderic Lightbearer (PC). Identity only; rendering is handled by the global house-style block (config/image/prompts/house-style.json). Inject this entity's `appearance` (and `critical_clauses`/`do_not_drift`) into any scene spec featuring Roderic. Derived in the character-consistency spike (M2 judged pass at R4) by DE-GLOSSING the player refs and applying two human overrides; held in the M3 two-subject and M5 composite seeds. Canon format is structured JSON (locked in M1).",
 
   "name": "Sir Roderic Lightbearer",
   "slug": "sir-roderic-lightbearer",

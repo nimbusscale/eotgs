@@ -1,5 +1,5 @@
 {
-  "_comment": "VISUAL CANON — Aurelion (location: locations/aurelion). Setting identity only; rendering is handled by the global house-style block (config/image-prompts/house-style.json). Inject this `setting` (and `scene_recipes`/`do_not_drift`) into any scene spec set in Aurelion so the city reads the same across sessions. Derived in the character-consistency spike (M4) from the 4 Aurelion exterior specs + the 4 realized exterior images (trusting the image where it diverged from the spec), validated by two judged passes that cleared the own-eyes gate, and confirmed to host characters in the M5 composite. Canon format is structured JSON.",
+  "_comment": "VISUAL CANON — Aurelion (location: locations/aurelion). Setting identity only; rendering is handled by the global house-style block (config/image/prompts/house-style.json). Inject this `setting` (and `scene_recipes`/`do_not_drift`) into any scene spec set in Aurelion so the city reads the same across sessions. Derived in the character-consistency spike (M4) from the 4 Aurelion exterior specs + the 4 realized exterior images (trusting the image where it diverged from the spec), validated by two judged passes that cleared the own-eyes gate, and confirmed to host characters in the M5 composite. Canon format is structured JSON.",
 
   "name": "Aurelion",
   "slug": "aurelion",

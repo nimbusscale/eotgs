@@ -143,7 +143,7 @@ verbatim on every prompt. Write under **Artifacts → House-style block**.
 | 3 | **Garland + Roderic together**, plain backdrop | two-subject consistency | ~4 | DONE (pass at R2; both identities hold with ZERO attribute bleed. Residual: knight's lower-body cloth arming-skirt recurs ~3/4 seeds — a single-figure Roderic-armor variance, not a two-subject problem) |
 | 4 | **Aurelion setting alone** (no characters) | setting → realized refs | ~8 | DONE (2 gens; pass at R1, confirmed R2. Setting consistency solved by text alone — same recipe as identity; no de-gloss fight. Seed `aurelion-downhill-r2.jpg`: reverse-angle downhill plate, clear stairs for M5) |
 | 5 | **Characters in the Aurelion cityscape** | full composite | ~4 | DONE (2 gens; R1 locked as seed by HUMAN override of a strict judge `fail`. Full composite — identity + house style + setting — holds by text alone in ONE shot. Both M5 drifts were setting/armor nits, not identity; zero attribute bleed. Seed `garland-roderic-aurelion-m5-r1.jpg`) |
-| 6 | Finalize findings + canon seeds + dev-plan summary | — | — | DONE (conclusion written below; committed canon seeded to `config/image-prompts/` — house-style.json + canon/{garland,roderic,aurelion}; `dev/illustrate-session-plan.md` updated. Roderic flagged `needs_refinement`; Castor/Paxton canon deferred to a later session) |
+| 6 | Finalize findings + canon seeds + dev-plan summary | — | — | DONE (conclusion written below; committed canon seeded to `config/image/prompts/` — house-style.json + canon/{garland,roderic,aurelion}; `dev/illustrate-session-plan.md` updated. Roderic flagged `needs_refinement`; Castor/Paxton canon deferred to a later session) |
 
 ## Milestone detail
 
@@ -179,14 +179,14 @@ attribute bleed (M3), setting (M4), and the full character-in-setting composite 
 
 ### Committed deliverables (the spike's output, now in the repo)
 
-- **`config/image-prompts/house-style.json`** — the global house-style block (M0). Rides verbatim on
+- **`config/image/prompts/house-style.json`** — the global house-style block (M0). Rides verbatim on
   every prompt; controls medium/palette/lighting/tone + an `avoid` list. *House style governs;
   per-entity canon defines identity only.*
-- **`config/image-prompts/canon/garland-yn-greenholt.json`** — validated PC identity canon.
-- **`config/image-prompts/canon/sir-roderic-lightbearer.json`** — de-glossed PC identity canon,
+- **`config/image/prompts/canon/garland-yn-greenholt.json`** — validated PC identity canon.
+- **`config/image/prompts/canon/sir-roderic-lightbearer.json`** — de-glossed PC identity canon,
   marked `status: needs_refinement` (usable; user wants another pass) with an explicit
   `DO_NOT_USE_AS_SOURCE` pointer away from the glossy player refs.
-- **`config/image-prompts/canon/aurelion.json`** — validated location setting canon + the proven
+- **`config/image/prompts/canon/aurelion.json`** — validated location setting canon + the proven
   reverse-angle downhill scene recipe.
 - Each canon file carries `appearance`/`setting`, `critical_clauses`, `do_not_drift`, and the
   validated-seed pointer. **Still TODO in a later session:** canon for Castor, Paxton, and recurring

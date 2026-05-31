@@ -19,7 +19,7 @@ When a Spine's wards begin to fail, a long-hidden ritual can renew the seal — 
 
 ## Notable Members
 - [[Paxton Lumnus]] — Former Spinewarden stationed at [[Hallowreach]]; died anchoring the Light in a sacrificial ritual when the Spine's wards failed, then woke in the mausoleum and left the order to seek the Light's truth.
-- [[Senna]] — A warden of [[Havens Reach|Haven's Reach]] whom Paxton served with; died and was reborn in the vision of [[Moldrex]], remade as a scaled servant of the marsh-creatures. Presumed Deceased — killed when Paxton burned her barge.
+- [[Senna]] — A warden of [[Havens Reach|Haven's Reach]] whom Paxton served with; died and was "reborn" in the vision of [[Moldrex]] , her hand turned scaled and her eyes reptilian, able to heal and command the tentacled marsh-creatures. Presumed Deceased — killed when Paxton burned her barge in the Reaches.
 
 ## Relationships
 - [[Beaconhold]] — The kingdom the order belongs to and answers to.

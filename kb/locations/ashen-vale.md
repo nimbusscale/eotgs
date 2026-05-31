@@ -21,20 +21,30 @@ Garland serves as its accidental lord, with his grandson [[Aldric Garlandsson]] 
 
 ### Witch Stones
 
-A set of standing stones hidden somewhere on Garland's land, also known as the Shepherd's Teeth.
+A set of square-cut standing stones hidden somewhere on Garland's land, also known as the Shepherd's Teeth.
+They are decayed with age and covered in runes, hidden among overgrown hills by glamours and barriers [[Garland yn Greenholt|Garland]] set long ago — wards still in effect despite the magic he has since lost.
 Local legends know the [[Witch Stones]] exist somewhere in the Ashen Vale, but their exact location is considered "lost."
-[[Garland yn Greenholt|Garland]] discovered them while preparing a well-hidden field for pasture.
+Garland discovered them while preparing a well-hidden field for pasture.
 He studied them carefully over the years and guards the secret of their location.
 
 The Witch Stones are the source of Garland's magical power.
-He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries.
+He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries; the runes glow and pulse to communicate and guide his study.
 On returning to them in the downtime after the curse, [[Garland yn Greenholt|Garland]] felt a renewed connection unlike his old study-built bond — one that returns magic without restoring lost knowledge.
 His great-granddaughter [[Mira]] also hears the stones, but as actual words rather than the grinding and moaning of the earth — a more direct connection that is turning her into something like a cleric of the stones.
 The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, suggesting a connection between these ancient sites.
-The full extent of what they do and how their power works is still to be established in play.
+The stones can be made to open portals to other rings of Witch Stones — Mira commanded them to tear open a stable portal onto the dead grey shale of the [[Bonewall]], where a matching ring stood, revealing them as anchors in a wider network whose builder and full reach are unknown.
 
 Garland speaks of the Ashen Vale openly, but doesn't volunteer information about the Witch Stones themselves.
 He would be very interested in investigating other Witch Stones if they exist elsewhere.
+
+## The Families
+The Vale is held by a handful of powerful landowning families who act as its unofficial fiefdom under [[Aldric Garlandsson|Aldric]], the most powerful among them.
+All of them are [[Garland yn Greenholt|Garland]]'s blood, generations down; to them he is half myth, and only Aldric's line kept the direct knowledge — so Garland faces a crowd of his own descendants who do not really know him.
+Three family heads led the delegation to the [[Witch Stones]], all aggrieved by the spreading beavers:
+
+- **Sela Thornby** — orchardist matriarch and de facto head of the prominent families, with decades of her trees drowning in beaver-flooded ground. She leads the delegation, is formidable, and is reachable by reason — under the anger is grief, not cruelty; the one Garland and [[Castor]] can actually talk down.
+- **Doral Beck** — the miller, whose wheel depends on the Lower [[Ashen Flow]] the beavers keep diverting. Not cruel, just frightened for his living — the neutral, tragic face who didn't want to come but had no choice.
+- **Wat Hollis** — younger and hungry, the one setting traps along the Ashen Flow. He smells bounty and pelts in the chaos and pushes hardest to see Castor handed over and the colony broken — the escalator who can turn a tense parley ugly.
 
 ## Connected Locations
 - [[Beaconhold]] — The kingdom to the north that the vale borders
@@ -51,4 +61,5 @@ He would be very interested in investigating other Witch Stones if they exist el
 
 ## Events Here
 - [[Session 0]] — Established as homeland of Garland and Castor; the curse threatens to reach the vale if the beaver dam fails
+- [[Session 6]] — At the hidden Witch Stones, [[Captain Vask]]'s delegation and the three great families came to retrieve [[Mira]] and end the beaver troubles; Mira opened a portal to the [[Bonewall]] and stepped through, with Garland and Castor following — and Vask revealed that Aldric somehow knows everything that happens in the Vale
 

@@ -18,6 +18,7 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
 - The Aldric livery mystery resolved as a Harlequin trick, but broader questions about [[Aldric Garlandsson|Aldric]] remain
 - His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity
+- **Garland–Iyer favour (Session 6):** Garland Favored [[Sergeant Iyer]] at the Witch Stones and swore to bring [[Mira]] back to Crownvale on his life; track the direction of that obligation, and the trouble Iyer's open defiance of [[Captain Vask]] will bring him with the captain and Aldric (GM flagged for follow-up; the favour mechanic was new to the table and the GM wanted to revisit it)
 - His spellbook responded to residual renewal energy at the [[Shrine of Renewal]], growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered
 - The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]] remain emotionally unresolved
 - **Player backstory hook:** ~100 years ago something drew Garland from the vale on a long journey; he was responsible for the death of a friend, then brought the man's widow and child home and married her, founding the second family from which [[Aldric Garlandsson|Aldric]] and [[Rowan yn Greenholt|Rowan]] descend — what called him away and how the friend died are left open for the GM to develop
@@ -32,3 +33,8 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - His herald curse — the herald of failing wards — causes protections to crumble; ruin struck at his core identity as a protector (door lock crumbled, ley line energy passing through him emerged corrupted)
 - Articulated a nuanced theological position: ruin and renewal are forces of nature subordinate to [[Lucifer]], not gods — those who worship them are ignorant, but not wrong to believe these forces must exist
 - Discovered the [[Shrine of Renewal]] and confirmed [[Luminary Severin Morrow|Severin]], [[Count Albrecht Marrow|Marrow]], and [[Dawnwarden Brenn]] as heralds of renewal
+- **Names still needed (Session 6):** the hero who long ago stopped the darkness ([[Moldrex]]) and raised the towers — whose tomb Roderic's battalion entered — still needs a name, as does the relic they sought; both were left unestablished in play. (The inquisitor from the Aurelion vault has since been named [[Inquisitor Voss|Voss]].)
+
+## Paxton Lumnus
+
+- **Reborn wrong (Session 6):** His drive (act callously/recklessly about death) already cost innocent lives on Senna's barge; a recurring engine for tragedy as he treats his own survival as expendable without counting others' cost

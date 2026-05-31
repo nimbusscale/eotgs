@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Combined transcript ingest: download, prepare, and chunk in one step.
+"""Combined transcript ingest: download, prepare, and build manifest in one step.
 
 Wrapper around download_transcript.py, prepare_transcript.py, and
-chunk_transcript.py. Runs all three steps by default, or a single step
+build_manifest.py. Runs all three steps by default, or a single step
 with --download-only / --prepare-only.
 """
 
 import argparse
+import re
 import sys
 from pathlib import Path
 
@@ -16,21 +17,20 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from sync_kb_aliases import main as sync_aliases_main
 from download_transcript import main as download_main
 from prepare_transcript import main as prepare_main
-from chunk_transcript import main as chunk_main
+from build_manifest import main as build_manifest_main
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Download, prepare, and chunk a campaign voice channel transcript.",
+        description="Download, prepare, and build the extraction manifest for a campaign voice channel transcript.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='examples:\n'
                '  %(prog)s --session 3\n'
                '  %(prog)s --session 3 --after "2026-01-10 14:00"\n'
                '  %(prog)s --session 3 --prepare-only --input inbox/transcripts/raw/session-3.txt\n'
-               '  %(prog)s --session 3 --download-only\n'
-               '  %(prog)s --session 3 --skip-chunk\n',
+               '  %(prog)s --session 3 --download-only\n',
     )
     parser.add_argument(
         "--session", type=int, required=True,
@@ -45,7 +45,7 @@ def parse_args():
     )
     step_group.add_argument(
         "--prepare-only", action="store_true",
-        help="Run only the prepare step (no chunking).",
+        help="Run only the prepare step (no manifest).",
     )
 
     # Download options
@@ -70,20 +70,6 @@ def parse_args():
         help="Path to speaker-map.yaml (default: config/speaker-map.yaml).",
     )
 
-    # Chunk options
-    parser.add_argument(
-        "--skip-chunk", action="store_true",
-        help="Skip the chunking step.",
-    )
-    parser.add_argument(
-        "--chunk-size", type=int, default=800,
-        help="Lines per chunk (default: 800).",
-    )
-    parser.add_argument(
-        "--overlap", type=int, default=50,
-        help="Lines of overlap between chunks (default: 50).",
-    )
-
     return parser.parse_args()
 
 
@@ -97,6 +83,30 @@ def default_prepared_path(session):
     return str(REPO_ROOT / "inbox" / "transcripts" / "prepared" / f"session-{session}.txt")
 
 
+# Discord exports render speaker lines in markdown bold: "**Speaker**:  text".
+_DISCORD_SPEAKER_RE = re.compile(r"^\*\*.+?\*\*:\s+", re.MULTILINE)
+# Cleaned transcripts (download output / prepare input): "[timestamp] speaker: text".
+_CLEANED_LINE_RE = re.compile(r"^\[.+?\]\s+.+?:\s+\S", re.MULTILINE)
+
+
+def is_already_cleaned(path):
+    """Return True if the file is already in cleaned "[timestamp] speaker: text"
+    form (the output of download_transcript / the input prepare_transcript wants),
+    as opposed to a raw Discord export that still needs the clean step.
+
+    Routing an already-cleaned file through download_transcript's clean step would
+    yield zero entries and — when the input is the canonical raw/session-N.txt —
+    overwrite the file with that empty result, destroying it.
+    """
+    try:
+        text = Path(path).read_text(encoding="utf-8")
+    except OSError:
+        return False
+    if _DISCORD_SPEAKER_RE.search(text):
+        return False
+    return bool(_CLEANED_LINE_RE.search(text))
+
+
 def main():
     args = parse_args()
 
@@ -105,18 +115,26 @@ def main():
 
     run_download = not args.prepare_only
     run_prepare = not args.download_only
-    run_chunk = not args.download_only and not args.prepare_only and not args.skip_chunk
+    run_manifest = not args.download_only and not args.prepare_only
 
     # Determine raw transcript path
     if run_download:
-        download_argv = ["--session", str(args.session)]
-        if args.after:
-            download_argv += ["--after", args.after]
-        if args.before:
-            download_argv += ["--before", args.before]
-        if args.input:
-            download_argv += ["--input", args.input]
-        raw_path = download_main(download_argv)
+        if args.input and is_already_cleaned(args.input):
+            # Input is already a cleaned transcript (e.g. a pre-formatted
+            # phone-app recording, or raw/session-N.txt itself). Skip the
+            # Discord download/clean step and feed it straight to prepare.
+            print(f"Input {args.input} is already in cleaned transcript form; "
+                  f"skipping download/clean step.")
+            raw_path = args.input
+        else:
+            download_argv = ["--session", str(args.session)]
+            if args.after:
+                download_argv += ["--after", args.after]
+            if args.before:
+                download_argv += ["--before", args.before]
+            if args.input:
+                download_argv += ["--input", args.input]
+            raw_path = download_main(download_argv)
     else:
         raw_path = args.input or default_raw_path(args.session)
 
@@ -128,14 +146,8 @@ def main():
     else:
         prepared_path = default_prepared_path(args.session)
 
-    if run_chunk:
-        chunk_argv = [
-            "--session", str(args.session),
-            "--input", prepared_path,
-            "--chunk-size", str(args.chunk_size),
-            "--overlap", str(args.overlap),
-        ]
-        chunk_main(chunk_argv)
+    if run_manifest:
+        build_manifest_main(["--session", str(args.session), "--input", prepared_path])
 
 
 if __name__ == "__main__":

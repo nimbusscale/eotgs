@@ -229,6 +229,20 @@ def main(argv=None):
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     output_text = format_output(entries)
+
+    # Safety: never destroy an existing transcript by overwriting it with an
+    # empty cleaned result. An empty result means the input was not a raw Discord
+    # export (wrong format, or already cleaned) — bail rather than lose data.
+    if not output_text.strip() and output_path.exists() and output_path.stat().st_size > 0:
+        print(
+            f"Error: cleaning produced no transcript lines; refusing to overwrite "
+            f"existing non-empty {output_path}.\n"
+            f"       Is --input a raw Discord export? Already-cleaned transcripts "
+            f"should go to prepare_transcript.py, not the download/clean step.",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
     output_path.write_text(output_text, encoding="utf-8")
 
     print(f"Wrote {len(entries)} transcript lines to {output_path}")

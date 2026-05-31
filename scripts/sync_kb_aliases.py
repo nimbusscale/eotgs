@@ -15,7 +15,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from chunk_transcript import scan_kb_sub_entities
+from build_manifest import scan_kb_sub_entities
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ENTITY_ALIASES_PATH = REPO_ROOT / "config" / "entity-aliases.yaml"

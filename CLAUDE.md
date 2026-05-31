@@ -13,13 +13,13 @@ Summary of the current campaign can be found at @exports/campaign-index.md
 ### Transcript Processing Pipeline
 
 ```bash
-# 1. Download, prepare, and chunk transcript
+# 1. Download, prepare, and build the extraction manifest
 python scripts/ingest_transcript.py --session N
 
 # Individual steps (for troubleshooting):
 #   python scripts/download_transcript.py --session N
 #   python scripts/prepare_transcript.py --input inbox/transcripts/raw/session-N.txt --session N
-#   python scripts/chunk_transcript.py --session N --input inbox/transcripts/prepared/session-N.txt
+#   python scripts/build_manifest.py --session N --input inbox/transcripts/prepared/session-N.txt
 
 # 2. Extract structured data (use Claude Code slash command)
 /extract-session
@@ -44,7 +44,7 @@ python scripts/ingest_transcript.py --session N
 
 - `kb/` - Main knowledge base (sessions/, pcs/, npcs/, locations/, items/, factions/, story-arcs/, world/)
 - `gm-notes/` - Private GM notes (excluded from player-visible exports)
-- `inbox/transcripts/` - Processing pipeline: raw/ → prepared/ → chunks/ (temp) → extracted/ → processed/
+- `inbox/transcripts/` - Processing pipeline: raw/ → prepared/ → extracted/ → processed/ (manifest/ holds transient extraction context)
 - `inbox/notes/` - Planning notes awaiting incorporation
 - `config/` - speaker-map.yaml (Discord→character mapping), entity-aliases.yaml (name→filename mapping)
 - `exports/` - Generated files for Claude Projects

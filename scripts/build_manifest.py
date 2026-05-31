@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Split a prepared transcript into chunks for parallel extraction.
+"""Build the extraction context manifest for a prepared transcript.
 
-Produces numbered chunk files and a manifest JSON containing session metadata,
-known entity lists, KB filenames, campaign context, and per-chunk info.
+Produces a manifest JSON containing session metadata, known entity lists,
+KB filenames, KB sub-entity headers, and campaign context. The extract-session
+workflow reads this manifest to ground entity recognition while reading the
+full transcript in a single pass.
 """
 
 import argparse
@@ -16,7 +18,7 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_SPEAKER_MAP = REPO_ROOT / "config" / "speaker-map.yaml"
 DEFAULT_ENTITY_ALIASES = REPO_ROOT / "config" / "entity-aliases.yaml"
-CHUNKS_DIR = REPO_ROOT / "inbox" / "transcripts" / "chunks"
+MANIFEST_DIR = REPO_ROOT / "inbox" / "transcripts" / "manifest"
 KB_ROOT = REPO_ROOT / "kb"
 CAMPAIGN_INDEX = REPO_ROOT / "exports" / "campaign-index.md"
 
@@ -45,11 +47,11 @@ KB_SCAN_SUBDIRS = ["npcs", "locations", "items", "factions", "world"]
 
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
-        description="Split a prepared transcript into chunks for extraction.",
+        description="Build the extraction context manifest for a prepared transcript.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='examples:\n'
                '  %(prog)s --session 2 --input inbox/transcripts/prepared/session-2.txt\n'
-               '  %(prog)s --session 3 --chunk-size 800 --overlap 50\n',
+               '  %(prog)s --session 3\n',
     )
     parser.add_argument(
         "--session", type=int, required=True,
@@ -58,14 +60,6 @@ def parse_args(argv=None):
     parser.add_argument(
         "--input", type=str, default=None,
         help="Path to prepared transcript (default: inbox/transcripts/prepared/session-{N}.txt).",
-    )
-    parser.add_argument(
-        "--chunk-size", type=int, default=800,
-        help="Lines per chunk (default: 800).",
-    )
-    parser.add_argument(
-        "--overlap", type=int, default=50,
-        help="Lines of overlap between chunks (default: 50).",
     )
     return parser.parse_args(argv)
 
@@ -210,51 +204,6 @@ def load_campaign_context():
     return ""
 
 
-def build_entity_patterns(entities):
-    """Build compiled regex patterns for entity mention scanning."""
-    all_names = []
-    for names in entities.values():
-        all_names.extend(names)
-    # Sort longest first so longer names match before shorter substrings
-    all_names.sort(key=len, reverse=True)
-    # Escape and compile as case-insensitive word-boundary patterns
-    patterns = []
-    for name in all_names:
-        try:
-            pattern = re.compile(r'\b' + re.escape(name) + r'\b', re.IGNORECASE)
-            patterns.append((name, pattern))
-        except re.error:
-            continue
-    return patterns
-
-
-def scan_chunk_entities(text, patterns):
-    """Return set of entity names mentioned in text."""
-    found = set()
-    for name, pattern in patterns:
-        if pattern.search(text):
-            found.add(name)
-    return sorted(found)
-
-
-def split_into_chunks(lines, chunk_size, overlap):
-    """Split lines into overlapping chunks, returning list of (start, end) ranges (1-indexed)."""
-    total = len(lines)
-    if total == 0:
-        return []
-
-    chunks = []
-    start = 0
-    while start < total:
-        end = min(start + chunk_size, total)
-        chunks.append((start, end))
-        if end >= total:
-            break
-        start = end - overlap
-
-    return chunks
-
-
 def main(argv=None):
     args = parse_args(argv)
 
@@ -263,10 +212,9 @@ def main(argv=None):
         print(f"Error: Prepared transcript not found: {input_path}", file=sys.stderr)
         sys.exit(1)
 
-    # Read transcript
+    # Read transcript (line count only — the extraction workflow reads the full text)
     text = input_path.read_text(encoding="utf-8")
-    lines = text.splitlines()
-    total_lines = len(lines)
+    total_lines = len(text.splitlines())
 
     # Load configs
     speaker_map_data = load_yaml(DEFAULT_SPEAKER_MAP)
@@ -279,66 +227,34 @@ def main(argv=None):
     known_entities = collect_known_entities(speaker_map_data, entity_aliases_data, sub_entities=sub_entity_map)
     kb_filenames = collect_kb_filenames()
     campaign_context = load_campaign_context()
-    entity_patterns = build_entity_patterns(known_entities)
-
-    # Split into chunks
-    chunk_ranges = split_into_chunks(lines, args.chunk_size, args.overlap)
 
     # Ensure output directory
-    CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
-
-    # Write chunk files and build manifest
-    chunk_infos = []
-    for i, (start, end) in enumerate(chunk_ranges):
-        chunk_lines = lines[start:end]
-        chunk_text = "\n".join(chunk_lines) + "\n"
-        chunk_path = CHUNKS_DIR / f"session-{args.session}-chunk-{i}.txt"
-        chunk_path.write_text(chunk_text, encoding="utf-8")
-
-        # Scan for entity mentions in this chunk
-        mentioned = scan_chunk_entities(chunk_text, entity_patterns)
-
-        chunk_infos.append({
-            "chunk_index": i,
-            "file": str(chunk_path.relative_to(REPO_ROOT)),
-            "line_start": start + 1,  # 1-indexed
-            "line_end": end,           # inclusive
-            "line_count": end - start,
-            "entities_mentioned": mentioned,
-        })
+    MANIFEST_DIR.mkdir(parents=True, exist_ok=True)
 
     # Build manifest
     manifest = {
         "session": args.session,
         "source_transcript": str(input_path.relative_to(REPO_ROOT)),
         "total_lines": total_lines,
-        "chunk_size": args.chunk_size,
-        "overlap": args.overlap,
-        "chunk_count": len(chunk_infos),
         "known_entities": known_entities,
         "kb_filenames": kb_filenames,
         "sub_entity_map": sub_entity_map,
         "kb_content_hints": kb_content_hints,
         "campaign_context": campaign_context,
-        "chunks": chunk_infos,
     }
 
-    manifest_path = CHUNKS_DIR / f"session-{args.session}-manifest.json"
+    manifest_path = MANIFEST_DIR / f"session-{args.session}-manifest.json"
     manifest_path.write_text(
         json.dumps(manifest, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
 
     # Summary
-    print(f"Chunked transcript: {input_path}")
+    print(f"Built manifest: {manifest_path}")
+    print(f"  Source transcript: {input_path}")
     print(f"  Total lines: {total_lines}")
-    print(f"  Chunk size: {args.chunk_size} (overlap: {args.overlap})")
     print(f"  Sub-entities discovered: {len(sub_entity_map)} (from {len(kb_content_hints)} files)")
-    print(f"  Chunks created: {len(chunk_infos)}")
-    for info in chunk_infos:
-        print(f"    chunk-{info['chunk_index']}: lines {info['line_start']}-{info['line_end']}"
-              f" ({info['line_count']} lines, {len(info['entities_mentioned'])} entities)")
-    print(f"  Manifest: {manifest_path}")
+    print(f"  Known entities: " + ", ".join(f"{k}={len(v)}" for k, v in known_entities.items()))
 
     return str(manifest_path)
 

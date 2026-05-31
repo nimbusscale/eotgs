@@ -78,3 +78,35 @@ transcription_corrections:
   # Add location/term corrections as discovered
   # - match: "grim wild"
   #   replace: "Grimwild"
+
+  # --- Session 6 names (rough phone-app transcription) ---
+  # Safe, distinctive mishearings (no real-word collision):
+  - match: "mouldrex"
+    replace: "Moldrex"
+  - match: "mouldrec"
+    replace: "Moldrex"
+  - match: "sergeant ire"
+    replace: "Sergeant Iyer"
+  - match: "sergeant iron"
+    replace: "Sergeant Iyer"
+  - match: "sarial"
+    replace: "Sariel"
+  - match: "hallowech"
+    replace: "Hallowreach"
+  - match: "griswold"
+    replace: "Griswald"
+  - match: "griswalt"
+    replace: "Griswald"
+  - match: "sanna"
+    replace: "Senna"
+  - match: "vasques"
+    replace: "Vasque"
+  - match: "vascus"
+    replace: "Vasque"
+  # Real-word collisions — the hero Sariel was heard as "serial"/"cereal" this
+  # session. Plot-critical, so corrected here; review/remove if a future
+  # session uses these words literally.
+  - match: "cereal"
+    replace: "Sariel"
+  - match: "serial"
+    replace: "Sariel"

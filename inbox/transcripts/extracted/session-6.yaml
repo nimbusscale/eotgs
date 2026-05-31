@@ -1,0 +1,400 @@
+session_number: 6
+date_played: "2026-05-30"
+source_transcript: "inbox/transcripts/prepared/session-6.txt"
+
+recap_teaser: |
+  Three threads, three places, one wound widening.
+  In a tunnel beneath Beaconhold a masked inquisitor wore a missing Primus's name to beg an alliance; at the Witch Stones a child sang open a door to the Bonewall and stepped through; on a burning barge in the marshes a dead friend rose with reptile eyes and named the thing that is remaking the drowned.
+  The party is scattered along the Bonewall now — and the next time the dawn breaks, it will break over all of them at once.
+
+summary: |
+  The reunion was still days off, and so each herald moved alone through the changed world, and each found the same rot wearing a different face.
+
+  In Beaconhold, Sir Roderic returned to a faith he no longer recognized.
+  The Light that had once stood unified in the city had fractured into bickering factions, and the rites and scripture he remembered no longer matched what the churches now taught.
+  A message summoned him to the old imperial tunnels beneath the city, signed by Griswald, the Primus who heads the Light's academies — the man who had recruited him as a boy and made him a knight-errant.
+  But the figure who emerged from the dark was not Griswald; it was the Corona Vigil inquisitor Roderic had traded barbs with in the Aurelion vault, wearing the Primus's name as a lure.
+  Griswald was missing, the inquisitor confessed, and others of the faithful with him, vanished from their beds without a trace of struggle.
+  The Vigil remained pure, he insisted, but its old power and dread had thinned to almost nothing, and against his own orthodoxy he asked the half-heretic Roderic for help — to ride to the Bonewall and learn why the thirteen wards were failing.
+  Roderic, who could weigh the truth of a man's words, found no lie in him.
+  In that tunnel the old wound of Roderic's lost battalion finally surfaced: a company of paladins sent into the tomb of the hero who long ago stopped the darkness and raised the towers, to recover a relic they believed could let them push into the darkness on the far side of the Bonewall.
+  He remembers nothing of that night — only waking among his companions, all dead and mutilated beyond recognition, the relic gone; he is presumed the sole survivor, though the unidentifiable remains leave even that uncertain.
+  He was made an outcast for living through it, and Griswald alone had believed in him.
+  Later, in the church bureaucracy, Roderic pressed Vicar Lucis Gregory and learned worse news still — the missing were many, and on the desk where a bust of the hero Sariel had always stood there was now only a patch of undisturbed dust, as though the general of Lucifer's armies had never existed at all.
+  Gregory could no longer remember the man Roderic described, though Roderic remembered him clearly.
+
+  South in the Ashen Vale, Garland and Castor sat to a Sunday dinner at the hidden Witch Stones, where Garland now sheltered young Mira and helped her heal from the ruin that had wounded Crownvale's children.
+  The peace broke when riders came: Captain Vask, head of Aldric's guard, and Sergeant Iyer, escorting the heads of the Vale's three great families, come to collect Aldric's runaway daughter and to put an end to the beaver troubles that had soured the lowlands.
+  Garland conceded Mira's return readily, and defended his old friend Castor and the beavers who had tamed the Ashen Flow, but the parley curdled when Vask revealed that Aldric somehow knew everything that passed in the Vale — even that the beaver could speak.
+  Black ravens that were not ravens crept closer through the trees, one veering off the warded stones; and then Mira walked out of the shack speaking a booming, unknown tongue, and the Witch Stones blazed with their runes and tore open a portal onto the dead grey shale of the Bonewall, where another ring of stones waited.
+  She stepped through.
+  Garland recognized the gate-craft as a far stronger echo of magic he had once owned and lost; Castor became wind and rushed after her; Garland broke free of Vask, was tackled by Iyer, and with a desperate threat bent the sergeant to defy his own captain and grant him the chance to follow.
+  Both old friends crossed the threshold before it closed.
+
+  Far to the northeast, in the marshy Reaches below the Bonewall, the newest herald told his story.
+  Paxton Lumnus, a dock worker's son turned Spinewarden, had been stationed at the failing spine of Hallowreach when its wards began to die.
+  When an elder's ritual demanded a life to renew the seal, Paxton volunteered, died, and was honored and entombed — only to wake at dawn in the mausoleum with the Light burning in his chest and a terrible certainty that the whole system of protection was flawed.
+  Bound for Aurelion to confront the church, he heard that the northernmost spine, Carnforth, had gone dark, and turned back toward the wall.
+  On the way he came upon a barge in the reeds, a body in the water, and scaled tentacled horrors that dragged at him from the marsh.
+  Inside he found Senna, a fellow Spinewarden he had served with — but she knelt healing the creatures with a scaled hand and reptilian eyes, and she told him that she too had died and been reborn at a tower, but in the vision of Moldrex, while he had been reborn wrong, in the vision of Lucifer.
+  Paxton answered with fire, burning the barge down to the waterline and throwing himself into the river — and only as the screams rose behind him did he realize others had been hidden aboard, captives or stowaways he had never known were there, burning now because he had been too quick to spend his own life to count the cost to anyone else's.
+
+major_events:
+  - description: |
+      Returning to Beaconhold, Roderic found the once-unified Light fractured into rival factions, its scripture and rites subtly altered from what he remembered.
+      Lured to the imperial tunnels beneath the city by a message bearing Primus Griswald's name, he met instead the Corona Vigil inquisitor he had clashed with in the Aurelion vault.
+      The inquisitor revealed that Griswald and other faithful had gone missing, that the Vigil's power had withered, and asked Roderic — despite doubting his purity of faith — to ride to the Bonewall and investigate why the thirteen wards were failing.
+      Roderic confirmed the man was telling the truth and accepted the charge.
+    entities_involved: ["Sir Roderic Lightbearer"]
+    location: "Beaconhold"
+
+  - description: |
+      The circumstances of Roderic's lost battalion were laid bare: a company of paladins sent into the tomb of the hero who long ago stopped the darkness and established the towers, seeking a relic they believed could let them push into the darkness on the far side of the Bonewall.
+      What the relic was, and whose tomb it truly was, remain unestablished.
+      Roderic remembers nothing of what befell them; he woke amid his companions, all dead and mutilated beyond recognition, the relic gone — presumed the sole survivor, though the unidentifiable remains make even that uncertain.
+      Suspected of having submitted to the darkness, he was made an outcast and sent away as a knight-errant — a fate Primus Griswald arranged, alone in believing him innocent.
+    entities_involved: ["Sir Roderic Lightbearer"]
+    location: "Bonewall"
+
+  - description: |
+      In the Beaconhold church bureaucracy, Vicar Lucis Gregory confirmed that many of the faithful had vanished overnight without sign of struggle and that scholars had found inconsistencies in scripture and history.
+      Roderic noticed that the bust of the hero Sariel, always present in Gregory's office, was gone — yet the spot bore undisturbed dust, as though it had never stood there.
+      Gregory could not remember the man Roderic described, but he trusted Roderic that a hero of that name had once existed; he now slept with a dagger at his side.
+    entities_involved: ["Sir Roderic Lightbearer"]
+    location: "Beaconhold"
+
+  - description: |
+      At the hidden Witch Stones, a Sunday dinner with Garland, Castor, and young Mira was interrupted by riders: Captain Vask and Sergeant Iyer, escorting the heads of the Vale's three great families.
+      They came to retrieve Aldric's daughter Mira and to force an end to the beaver troubles, demanding Castor return to Crownvale.
+      Garland defended Castor and the beavers, but Vask revealed that Aldric somehow knows everything that happens in the Vale — including that the beaver could speak.
+    entities_involved: ["Garland yn Greenholt", "Castor", "Mira"]
+    location: "Ashen Vale"
+
+  - description: |
+      Mira walked out speaking an unknown, booming tongue, and the Witch Stones blazed with their runes and opened a stable portal onto the dead grey shale of the Bonewall, where another ring of Witch Stones stood.
+      She stepped through.
+      Garland recognized the gate-craft as a far more powerful version of magic he had once known and lost.
+      Castor transformed into wind and rushed through after her; Garland broke Vask's grip, was tackled by Iyer, then — swearing to bring Mira back to Crownvale on his life — bent the sergeant to defy his captain so he could follow.
+      Both crossed the threshold to the Bonewall as the portal closed.
+    entities_involved: ["Mira", "Castor", "Garland yn Greenholt"]
+    location: "Witch Stones"
+
+  - description: |
+      Paxton recounted his death and resurrection: a Spinewarden at the failing spine of Hallowreach, he volunteered for a ritual that demanded a life to renew the wards, died during it, and was entombed in the mausoleum below.
+      He woke at dawn with the Light in his chest and the conviction that the wards — and the Light's whole system of protection — were flawed.
+      Setting out for Aurelion to confront the church, he heard the northernmost spine, Carnforth, had gone dark, and turned back toward the Bonewall.
+    entities_involved: ["Paxton Lumnus"]
+    location: "Hallowreach"
+
+  - description: |
+      In the marshes of the Reaches, Paxton came upon a barge in the reeds guarded by scaled, tentacled creatures and a corpse half-submerged in the water.
+      Inside he found Senna, a Spinewarden he had served with — but she was healing the creatures with a scaled hand and reptilian eyes.
+      She told him that she too had died and been reborn at a tower — in the vision of Moldrex — while he had been reborn "wrong," in the vision of Lucifer.
+      Paxton set the barge ablaze and threw himself into the river to escape, killing Senna and her minions — and only afterward, hearing the screams, did he realize others he had not known were aboard (captives or stowaways) had burned with them, a cost of his readiness to risk his own death without weighing anyone else's.
+    entities_involved: ["Paxton Lumnus", "Senna"]
+    location: "The Reaches"
+
+new_entities:
+  npcs:
+    - name: "Primus Griswald"
+      description: |
+        A large, imposing churchman of the Light who holds the title of Primus, headmaster of the Light's academies for both clerics and paladins.
+        He recruited a young Roderic into the order and steered him toward the paladins rather than the clergy.
+        He believed in Roderic when others did not, and after the disaster of the lost battalion he arranged for Roderic to become a knight-errant rather than face the suspicion of Beaconhold.
+        He has now gone missing along with other faithful, vanished without a trace, and an inquisitor used his name to lure Roderic to a clandestine meeting.
+      first_location: "Beaconhold"
+      notes: "Roderic's mentor and patron; his disappearance is a major thread. Currently missing."
+
+    - name: "Inquisitor Voss"
+      description: |
+        A Corona Vigil inquisitor (an "illuminant") who clashed with Roderic in the Aurelion vault during Count Marrow's extraction.
+        A small, older figure, he lured Roderic into the Beaconhold tunnels by signing a message with Primus Griswald's name.
+        Though he still doubts Roderic's purity of faith, he believes Roderic's very straying makes him uniquely able to understand the crisis, and he asked for an alliance to discover why the wards are failing and what has weakened the Light.
+        He is bitter that the Vigil no longer commands the fear and power it once did.
+      first_location: "Beaconhold"
+      notes: "Recurring antagonist-turned-uneasy-ally; previously encountered in the Aurelion vault (session 5)."
+
+    - name: "Vicar Lucis Gregory"
+      description: |
+        The administrator who runs the operations of the Light's church in Beaconhold, assigning clergy and paladins to their posts.
+        An old "bean counter" who has known Roderic since boyhood and trusts his intuition.
+        He confirmed that many of the faithful have vanished and that scripture and history have grown inconsistent.
+        He could no longer remember the hero Sariel even when prompted, but he trusted Roderic that a hero of that name had once existed.
+        He now sleeps with a ceremonial dagger.
+      first_location: "Beaconhold"
+      notes: "Roderic's contact within the church hierarchy; sympathetic but frightened."
+
+    - name: "Captain Vask"
+      description: |
+        The older head of Aldric Garlandsson's guard, marked by a golden brooch shaped like a crown upon a mountain — the symbol of Crownvale.
+        He led the party sent to the Witch Stones to retrieve Mira and pressure Castor over the beavers, and spoke for Aldric's growing authority over the Vale.
+        He is a true believer in Aldric, sincerely singing his praises: he speaks of the consolidation as building the Vale into a "proud land" able to stand against the aggressions of Marrow and Beaconhold, of Aldric's "greatness," and promises that once that power is complete "all will be revealed" — including how Aldric knows all that happens in the Vale.
+      first_location: "Witch Stones"
+      notes: "Aldric's chief enforcer; recurring face of Aldric's consolidation."
+
+    - name: "Tamarack"
+      description: |
+        An ambitious young beaver, called Tam for short, descended from Aspen — the beaver for whose sake Castor first settled at Beaver Lake.
+        Tamarack has risen to lead the beavers in the conviction that they should not be confined to one dam but should dam the whole river, cutting into the orchards and farms of the lowlands.
+        Castor admires his drive but fears it will get the colony exterminated.
+      first_location: "Beaver Lake"
+      notes: "Center of the beaver-vs-Vale conflict; Castor's conflicted protégé-figure."
+
+    - name: "Senna"
+      description: |
+        A Spinewarden of Haven's Reach whom Paxton served with.
+        Like Paxton she died and was reborn at a failing tower — but reborn "in the vision of Moldrex," her hand turned scaled and her eyes reptilian, able to heal the tentacled marsh-creatures and aligned with them.
+        She told Paxton he had been reborn "wrong," then died a second time when he burned the barge.
+      first_location: "The Reaches"
+      notes: "Embodies the reborn-wrong / Moldrex reveal. Deceased (burned)."
+
+  locations:
+    - name: "The Reaches"
+      type: "Region"
+      description: |
+        The marshy delta region in the far northeast, between Haven's Reach and the Bonewall, far from Beaconhold.
+        A maze of small non-navigable waterways with a single main shipping channel and one poorly maintained road; an ancient military road also runs precariously along the base of the Bonewall.
+        Life gives way abruptly here from wet, vibrant marsh to the dead grey shale of the wall.
+      notes: "Contains Haven's Reach and the spines Hallowreach and Carnforth; where Paxton's barge encounter occurred."
+
+  items: []
+
+  factions: []
+
+entity_updates:
+  - entity: "Paxton Lumnus"
+    category: "pc"
+    new_info: |
+      Born in Haven's Reach, the son of a dock worker, Paxton left that life to enlist with the Spinewardens and was stationed at the spine of Hallowreach.
+      When its wards began to fail, he volunteered for a ritual that required a life to renew the seal, died in the rite, and was entombed in the mausoleum below the spine — then woke at dawn carrying the Light, convinced the wards and the Light's whole system of protection are flawed.
+      His radiance is distinctive enough that others recognize it as his; he wields it through Unleash Radiance, conjuring and shaping fiery light with the Restrained and Spontaneous traits.
+      He served alongside the Spinewarden Senna, now revealed to have been reborn in the vision of Moldrex, and his drive is to act callously or recklessly in the face of death.
+      That drive showed its cost aboard the barge: too quick to spend his own life, he burned the vessel without knowing others were hidden aboard, and his recklessness took their lives along with his enemies'.
+
+  - entity: "Sir Roderic Lightbearer"
+    category: "pc"
+    new_info: |
+      Roderic's lost battalion fell in the Bonewall: a company of paladins sent into the tomb of the hero who long ago stopped the darkness and raised the towers, to recover a relic they believed could let them push into the darkness on the far side of the wall (the relic's nature and the hero's identity remain unknown).
+      Roderic remembers nothing of that night, only waking among his companions, all dead and mutilated beyond recognition, the relic gone; he is presumed the sole survivor, though the unidentifiable remains leave even that uncertain.
+      Suspected for surviving covered in his comrades' blood, he was made an outcast and a knight-errant by his mentor, Primus Griswald, who alone believed him innocent.
+      With Griswald now missing, it is unclear who commands Roderic, freeing him to investigate the failing wards at the Vigil inquisitor's request.
+      He has a longstanding contact in Vicar Lucis Gregory of the Beaconhold church, and he still remembers the hero Sariel even as the church forgets him.
+
+  - entity: "Castor"
+    category: "pc"
+    new_info: |
+      Castor has grown into a new shapeshifting power: he can dissolve into wind, moving "between worlds," and demonstrated it by becoming wind to chase Mira through the portal.
+      In wind form he can pass only through openings a breeze could move through — a wide crack will let him by, but a narrow one will not.
+      Among the beavers he was the respected elder, holding authority through regard rather than rank, and he predates the Great Beaver Dam: he first settled at a modest dam for the sake of the beaver Aspen and helped it grow into the great dam that tamed the Ashen Flow.
+      He has been trying to broker coexistence between the beavers and the Vale's people, and is conflicted over Aspen's descendant Tamarack, whose ambitions he admires but fears.
+      Mira calls him "Pop pop"; he crossed the Witch Stone portal to the Bonewall.
+
+  - entity: "Garland yn Greenholt"
+    category: "pc"
+    new_info: |
+      About a hundred years ago Garland left on a long adventure and returned with a second wife and a second family; his grandson Aldric and the late Rowan both descend from that line, and most of the Vale carries a diluted trace of his blood.
+      He was granted the Vale for services to the Crown and settled it when ash had left it nearly empty but fertile, drawing people in over time.
+      He learned his magic by taking rubbings of the runes on the Witch Stones, which glow and pulse to guide him, and he recognized Mira's portal as a far more powerful form of gate-craft he once knew and has since lost.
+      He now shelters and mentors Mira at the Witch Stones, helping her heal, and crossed the portal to the Bonewall to follow her.
+      To win his pursuit, he now Favors Sergeant Iyer and swore to bring Mira back to Crownvale on his own life.
+
+  - entity: "Mira"
+    category: "npc"
+    new_info: |
+      Mira can hear and understand the Witch Stones speak, where Garland hears only the grinding of earth, and her touch makes them glow.
+      Driven into a deep depression by the ruin that harmed Crownvale's children, she began hearing the stones' voices, which led her to the hidden Witch Stones, whose ancient magic started to heal her; her precociousness masks that deeper wound.
+      She commanded the stones to open a powerful, stable portal onto the Bonewall and walked through it, leaving the Ashen Vale.
+      She calls Garland "Pappy" and Castor "Pop pop."
+
+  - entity: "Aldric Garlandsson"
+    category: "npc"
+    new_info: |
+      Aldric is consolidating power across the Ashen Vale and now somehow knows everything that happens within it — he was aware that the beaver Castor could speak.
+      He has devoted considerable resources to finding his runaway daughter Mira and sent Captain Vask, Sergeant Iyer, and the heads of the Vale's three great families to retrieve her and end the beaver troubles.
+      He frames his consolidation as building a Vale strong enough to stand against the aggressions of Marrow and Beaconhold, with the promise that "all will be revealed" once his power is complete.
+
+  - entity: "Sergeant Iyer"
+    category: "npc"
+    new_info: |
+      At the Witch Stones, Iyer tackled Garland to the ground on Captain Vask's behalf, then defied his own captain — pushing Vask back — to let Garland pursue Mira through the portal, after Garland swore to bring her back to Crownvale on his life.
+      Garland now Favors him, a bond of obligation between them, but openly defying Vask in front of the families and the soldiers will likely land Iyer in trouble with the captain and with Aldric.
+
+  - entity: "Sariel"
+    category: "world"
+    parent_file: "world/sariel.md"
+    sub_section: "Erasure"
+    new_info: |
+      Sariel's erasure is now manifesting physically in Beaconhold: the bust of him that always stood in Vicar Lucis Gregory's office is gone, yet the spot beneath it bears undisturbed dust, as though it had never been there.
+      Of those present, only Roderic still remembers Sariel; Gregory could not recall him even when described, but he trusted Roderic that a hero of that name had once existed.
+      Roderic recalls Sariel as the right hand of Lucifer, the "Angel of War," the general who imprisoned the God of Ruin and the Xan-Kor.
+      His disappearance from memory and record may be connected to the missing faithful and the failing wards.
+
+  - entity: "Spinewardens"
+    category: "faction"
+    parent_file: "factions/spinewardens.md"
+    new_info: |
+      The Spinewardens are a pseudo-military, pseudo-religious order that mans the spines along the Bonewall; they report to the government of Beaconhold, not to the church, though Beaconhold makes little separation between the two.
+      Their ascetic life of rituals and prayer manning the wards slowly drains the humanity out of them, and they do not truly know what lies on the other side of the wall.
+      When wards fail, a sacrificial ritual can renew the seal at the cost of a warden's life.
+      At least one warden who died at a tower, Senna, was reborn changed — in the vision of Moldrex — while Paxton was reborn in the vision of Lucifer; whether such rebirth is widespread among the wardens is unknown.
+
+  - entity: "Bonewall"
+    category: "location"
+    parent_file: "locations/bonewall.md"
+    sub_section: "The Thirteen Spines"
+    new_info: |
+      The individual spines bear names: Hallowreach, where Paxton served and died, is a failing southern-ish spine, with a mausoleum beneath it for honored wardens.
+      Carnforth is the northernmost spine, marking the very edge of Beaconhold's territory and the king's reach; its light has now gone out.
+
+  - entity: "Ashen Vale"
+    category: "location"
+    parent_file: "locations/ashen-vale.md"
+    sub_section: "Witch Stones"
+    new_info: |
+      The Witch Stones are square-cut standing stones, decayed with age and covered in runes, hidden among overgrown hills by glamours and barriers Garland set long ago — still in effect despite his lost magic.
+      They glow and pulse to communicate, guiding Garland's study, and they can be made to open portals to other rings of Witch Stones — including a matching set on the dead grey shale of the Bonewall.
+
+  - entity: "Ashen Vale"
+    category: "location"
+    parent_file: "locations/ashen-vale.md"
+    sub_section: "The Families"
+    new_info: |
+      The Vale is held by a handful of powerful landowning families who act as its unofficial fiefdom under Aldric, the most powerful among them.
+      All of them are Garland's blood, generations down; to them he is half myth, and only Aldric's line kept the direct knowledge — so Garland faces a crowd of his own descendants who do not really know him.
+      Three family heads led the delegation to the Witch Stones, all aggrieved by the spreading beavers:
+      - Sela Thornby, orchardist matriarch and de facto head of the prominent families, decades of her trees drowning in beaver-flooded ground. She leads the delegation, is formidable, and is reachable by reason — under the anger is grief, not cruelty; the one Garland and Castor can actually talk down.
+      - Doral Beck, the miller, whose wheel depends on the Lower Flow the beavers keep diverting. Not cruel, just frightened for his living — the neutral, tragic face who didn't want to come but had no choice.
+      - Wat Hollis, younger and hungry, the one setting traps along the Ashen Flow. He smells bounty and pelts in the chaos and pushes hardest to see Castor handed over and the colony broken — the escalator who can turn a tense parley ugly.
+
+  - entity: "Ashen Flow"
+    category: "location"
+    parent_file: "locations/ashen-flow.md"
+    sub_section: "The Great Beaver Dam"
+    new_info: |
+      The beaver community has fractured much like the Light.
+      Led by the upstart Tamarack, the beavers have begun damming the lower Ashen Flow beyond their old home at Beaver Lake, cutting into orchards and farmland and becoming pests, which has soured the Vale's families against them.
+
+  - entity: "Havens Reach"
+    category: "location"
+    parent_file: "locations/havens-reach.md"
+    new_info: |
+      Haven's Reach is the kingdom's northeastern trading hub, a relatively cosmopolitan port whose vessels cross the Solivum, built in sinking layers atop a thousand years of older cities (an old imperial fort among them) and dotted with ruins such as a drowned temple to the water gods.
+      Despite its trade it has not grown for years, locked in the same grand stagnation that grips the kingdom; it is Paxton's birthplace.
+
+questions_raised:
+  - "Who or what is unmaking Sariel from memory and record, and why does Roderic still remember him when the clergy cannot?"
+  - "What has happened to Primus Griswald and the other vanished faithful — did they leave willingly, or were they taken?"
+  - "What is Moldrex's design, and are all Spinewardens who die at the towers reborn as its servants?"
+  - "How does Aldric know everything that happens in the Vale, and are the strange ravens his eyes?"
+  - "The Witch Stones open portals to a matching ring on the Bonewall — is there a wider network of them, and who built it?"
+  - "Why can Mira understand and command the Witch Stones so powerfully, and what drew her through to the Bonewall?"
+  - "What was the relic — and whose tomb — that Roderic's battalion died in, and what truly happened the night he woke alone among his mutilated companions?"
+
+questions_resolved:
+  - question: "What happened to Roderic's lost battalion, and how did he become a knight-errant?"
+    answer: |
+      His company of paladins was sent into the tomb of the hero who long ago stopped the darkness and established the towers, to recover a relic they believed could let them push into the darkness on the far side of the Bonewall.
+      Roderic remembers nothing of what happened; he woke amid his companions, all dead and mutilated beyond recognition, the relic gone, and is only presumed the sole survivor since the remains cannot be identified.
+      Suspected for living through it, he was cast out as an outsider, and Primus Griswald — alone in believing him innocent — made him a knight-errant and sent him away from Beaconhold.
+      What the relic was, whose tomb it truly was, whether his faith was to blame, and what happened inside the tomb all remain unknown.
+    session_established: 6
+
+arc_progress:
+  - arc_name: "The Forgotten and the Forsaken"
+    arc_type: "group"
+    development: |
+      The forgetting moved from rumor to evidence: Sariel's bust has vanished from Beaconhold without a trace of dust, the clergy can no longer remember him, and the faithful are disappearing overnight.
+      At the Bonewall the threat behind the failing wards gained a name — Moldrex, in whose vision the reborn warden Senna had been remade as a scaled servant.
+      The heralds are converging on the Bonewall: Mira opened a Witch Stone portal there, Garland and Castor followed, Paxton is already in the Reaches below the wall, and Roderic has been charged to ride for the failing towers.
+
+  - arc_name: "Sir Roderic Lightbearer - Redemption"
+    arc_type: "character"
+    development: |
+      The wound at the root of Roderic's exile surfaced — the slaughter in the hero's tomb he woke amid, presumed its only survivor and made an outcast for it — and his mentor Griswald, who alone believed in him, is now missing.
+      An inquisitor of the Corona Vigil he once opposed has made him an uneasy ally and sent him toward the failing Bonewall wards, while Roderic alone still remembers the erased hero Sariel.
+
+  - arc_name: "Garland yn Greenholt - Uncover the Truth"
+    arc_type: "character"
+    development: |
+      Garland's history deepened — a second family a century back from which Aldric and Rowan descend, and the Witch Stones as the source of his lost magic.
+      The stones proved to be a portal network reaching the Bonewall, and Aldric's reach over the Vale (and his spying ravens) closed in just as Mira's gate carried Garland away through it.
+
+  - arc_name: "Castor - Renewal's Chosen"
+    arc_type: "character"
+    development: |
+      Castor came into a new elemental shapeshifting power, becoming wind to chase Mira through the portal.
+      His role among the beavers was established — the elder who built the Great Beaver Dam — and so was the fracture now tearing the colony apart under the upstart Tamarack.
+
+notable_quotes:
+  - speaker: "Castor"
+    line: "Do you mind telling me who the hell told you I could speak in the first place? That's not something I normally do outside of friends and family, and I don't recognize you as either."
+    context: "Castor, in beaver form, confronting Captain Vask at the Witch Stones."
+
+  - speaker: "Castor"
+    line: "You can address me as Castor, Garland's uncle."
+    context: "Introducing himself to Vask, to the soldiers' confusion."
+
+  - speaker: "Garland yn Greenholt"
+    line: "I know you to be a good man, and I know you to serve my grandson well. If you don't allow me to save his granddaughter, you won't live to see tomorrow."
+    context: "Compelling Sergeant Iyer to let him follow Mira through the portal."
+
+  - speaker: "Garland yn Greenholt"
+    line: "Bring her back at the cost of my life."
+    context: "Exacting Iyer's promise to return Mira."
+
+  - speaker: "Senna"
+    line: "You're not the only one who died and was reborn at the tower. But you were reborn wrong. I was reborn in the vision of Moldrex."
+    context: "Revealing her own changed nature to Paxton aboard the burning barge."
+
+  - speaker: "Paxton Lumnus"
+    line: "I was reborn in the vision of Lucifer. Moldrex will not conquer us."
+    context: "Answering Senna with fire before burning the barge."
+
+  - speaker: "Vicar Lucis Gregory"
+    line: "The Light has many powers, but uniform dustiness is not one of them."
+    context: "On the dustless patch where Sariel's vanished bust once stood."
+
+  - speaker: "Sir Roderic Lightbearer"
+    line: "I appreciate your protection. All I need is Lucifer's light."
+    context: "Declining the inquisitor's offer of safe passage in Beaconhold."
+
+rules_clarifications:
+  - topic: "Favour"
+    clarification: |
+      The group worked through the favour mechanic for the first time, treating it as a debt or gratitude between characters: a character who favours another feels inclined to act in their interest to pay off a perceived obligation.
+      Used when Garland favoured Sergeant Iyer to gain advantage compelling him. The GM noted he had not used this system before and wanted to revisit it.
+
+  - topic: "Conditions, crumble, and Paxton's resurrection"
+    clarification: |
+      Conditions impose disadvantage on moves with that stat, grant an experience point when used, and clear on settling in; armor ticks off in place of a condition.
+      When all stats are conditioned a character crumbles and chooses an outcome, normally including death — but Paxton's crumble lets him return from death (changed, and reflexively soiling himself each time) rather than die permanently. This was Paxton's player's first time with the system.
+
+filtered_sections:
+  - line_range: "1-28"
+    reason: "Out-of-game discussion of AI transcription tools and voice-recording apps before play began."
+  - line_range: "46-53"
+    reason: "Out-of-character banter about the player's character name and Texas/Ken Paxton joke."
+  - line_range: "121-128"
+    reason: "Discord/recording technical issues and audio check."
+  - line_range: "430-462"
+    reason: "Off-topic tangent about a cat photo and AI-generated 'cloud beaver' images."
+  - line_range: "570-581"
+    reason: "Out-of-game discussion of ChatGPT failing to generate a video."
+  - line_range: "859-867"
+    reason: "Real-world political tangent (US politics / Ken Paxton) unrelated to the game."
+  - line_range: "870-899"
+    reason: "Extended Discord connection problems and audio cut-outs."
+  - line_range: "939"
+    reason: "GM explicitly flagged the 'three children a month' line as an out-of-character joke, not canon."
+
+gm_observations:
+  - "This was a deliberately disjointed 'vignette' session establishing each character's individual setup before the party reunites at the Bonewall next session; much of it was collaborative worldbuilding rather than shared play."
+  - "First session with Paxton Lumnus replacing Edric; the player was new to the Chasing Adventure / Grimwild system."
+  - "The hero who stopped the darkness (Moldrex) and raised the towers — whose tomb Roderic's battalion entered — still needs a name, as does the relic they sought; both were left unestablished (the inquisitor has since been named Voss)."
+  - "Track the direction of the Garland–Iyer favour established at the Witch Stones for next session."
+
+unresolved_references:
+  - reference: "Solivum vs 'Sovium'"
+    context: "Paxton and the GM debated the pronunciation/spelling of the body of water Haven's Reach trades across."
+    likely_match: "Solivum (canonical KB spelling) — GM mused about respelling it 'Sovium' but no firm change."
+    line_approx: "~531"

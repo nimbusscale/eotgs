@@ -1,0 +1,1038 @@
+[00:00] Garland: Yeah, yeah.
+[00:01] Castor: Basically so
+[00:02] Paxton: J1.
+[00:04] Castor: I didn't even want to get into, because they might have been able to win the fight, just turned into a fight, but I didn't want to turn into a 4 hour. Got that fight. So it's like 8.
+[00:14] Castor: 8 or 9 guys in that building got it.
+[00:18] GM: Okay, I'm just recording on a recording app of my phone that I use when I like play joy and I pla one-on-one sessionns occasionally. So I just use a throw quote though, so hopefully that well
+[00:31] Roderic: Yeah, ask you guys, this are reporting its, are they like tough to use or something?
+[00:38] GM: What do you mean?
+[00:38] Roderic: Yeah, I'm going to do they not work very well with AI.
+[00:42] GM: Um so ceivoise, the Transcript that sevoy makes I would say ISIS not good. Yeah, but I think you get what you pay for right? Which is which is you pay for 0 right?
+[00:56] GM: So I suspect a real transcription maps are great. I think the free sea voice and the reason why they make it free is it's they're using ever training data right? To train stuff.
+[01:07] GM: So you are, you are the tester right? I would say, those transcripts are generally. How are this?
+[01:16] GM: I am amazed the level of clarity that Claude is able to get from those transcripts.
+[01:24] Roderic: Alright. Okay, okay, because I'm Theresa was asking one of like my cousin of mine. Husband works for Google and his gaming group like decided they wanted to come up with something, and so he like a couple of them got together and actually built a website that Basically it's an AI voice.
+[01:52] Roderic: Ah, voice reporter and so like it it basically would it would find out what our names are by just listening to us, supposedly and our bancher back-and-forth. And then it would assign them to each character and Give us a script of exactly what was said and then all this other stuff. But like you said, it's like what you pay for and his does cost money, because they're trying to sell it to people on stuff.
+[02:20] Roderic: So
+[02:21] GM: Do you know which one it is to start a curiosity?
+[02:25] Roderic: I can get the name again like he told me what it was and then I had it written down to tell you guys about it a couple sessions ago. But then it's been a while now, so I kind of forgot about it.
+[02:36] GM: I didn't try one of these in one of our games. I paid for it or like it was a free trial or whatever. And that is kission was great like it was really good.
+[02:44] GM: But then I realised they limited kind of like how much AI you can use like they limited email tokens, and I'm like, I already paying $100 a month for like a lot of tokens. So I don't want to pay another $10 a month for some limited thing that I could probably do 80%. You know enough for me.
+[03:05] GM: So he was
+[03:07] Roderic: Saying that they use tokens efficiently enough, but basically, they don't have to charge people for the tokens of you know, beyond is just the fee.
+[03:15] GM: Right. But they still are at least the ones I saw, like limited it. Maybe you could pay for a higher tier that wasn't limited, it's possible.
+[03:22] GM: Yeah.
+[03:23] Roderic: But the core thing is like you showed me, you could like, because he showed me one of the sessions of him and his friends played. And he's like, oh yeah, you could even you can tell it whatever you want, and like he uses it like, you know what any other LLM and asks it like, oh give me a time, you know, the past 6 months where there was a funny comment that happened between this character and this character and it looks it up and you know, was able to point out like here all these times that it's happened and list them out and everything, and it's just like it's kind of cool how you can Basically you know, ask for parts that you're looking for and then it just it's able to parts it all together, like, I think it seems like it was beyond what just like a base LLM would do, because like, even the way you guys are describing it to me, you know, like you have to set up a lot of stuff for it to be smart enough to do that, and maybe I'm wrong.
+[04:21] GM: Like there's some, ah it's ah Like there's a whole application builds around that LLM right? Like there's a whole inference based application, build around that LM. And yeah, building that is like if I was not working right now, like if I was retired or armedical, I would be building exactly what you're you're talking about even though the exist because I think it would be fun to build, but I know doubt that there are you could pay, you know, 20 bucks a month or whatever and get a really good system to do this like, I've no doubt about it at all.
+[05:02] Roderic: That well, I'll ask them my buddy with the name of him. His thing is, and I'll post it in what's a called discord.
+[05:13] GM: This causing, yeah, yeah, yeah, like a yeah, cool, okay, sounds good. So I are we any other questions or thoughts before we sort of jump into the first vinette, kind of thing? Okay, okay.
+[05:32] GM: So I wanted to start with with Roderic, right? So like Roderic, after the event that happened in and a rule and dakrisium, you know, like you had been, you had sort of faced off with the coronavisual, which is the Inquisition, and you know, I had the potential of maybe being branded a heritch around the order of the new dawn, which was, you know, this order within the Christian that that That, you know, worked with the illuminary Severn, to which call it Severn Moro, you know, as part of like they're the cult of this renewal, right kind of thing, right?
+[06:29] GM: And then after that situation happened, it turned out that the almost sort of a broughly that the coronavidual and the order the clip sword had left, so, and this is where we're pick up is going to take few some time after we haven't really established, like all the time in minds here yet. But, well, we well, and you know I my belief is that you would return to Beacon, hold, and when you returned to Beacon, hold, you start to notice some strange things right like you. Remember this hero Sariel, which was the right hand of looseer for the original kind of called the angel of war right?
+[07:21] GM: Like that. The general that that was in charge of you know, imprisoning ruin and imprisoning the zanquaria, and doing all these things and you find is when you were trying to Beacon, hold those That there's changes in changes in the way that the rights and the rituals and scripture that you remember being differently and in talking to, very, in like understanding interacting with with various groups and like churches or whatever like the illuminaries, you can see that there is in an inconsistency, and this inconsistency has.
+[08:06] GM: Woven itself through the light to the point where they're starting to become factions. It's like different like before the light will, at least here in Beacon, hold a relatively unified, but you start to see that there are these various factions that are they're pairing, more moderate, less moderate, that kind of stuff and where I wanted to start was this is that you had you were going to be taking a meeting with with an unknown person, right? And this unknown person was going to be taking a Clandestine meeting in some tunnel's blow Beacon, hold, and this is not something you would normally do, right?
+[08:50] GM: Like, all right, imagine you would not normally do like, let me know if you think I were right. This is that that, you know, the idea that you would go into like sort of darkness to go meet someone for to talk about, you know, what has been going on with or what you've seen going on and Beacon hold so the question I have for you, for rather because like why would Roderic do this? Right?
+[09:16] GM: Like, why would Roderic go like sort of be away from his, you know, his normal nature, and like what massing here ISIS that as an asking you to sort of like, bring something into, you know, Roger characters like either another person or a reason or whatever that's going to help develop him as a character of like what's his motivation? Accept this meeting.
+[09:40] Roderic: And like, what is this meaning to post?
+[09:43] GM: Yeah, it's supposed to discuss the skism that is occurring within these groups right? Like that in actioning of the factioning right? Yeah, and it's it sounds like it's an attempt to recruit or to get your help to do something about it.
+[10:05] Roderic: So Let's say it was um. The father that first recruited me into the told me like basically that you should be a paladin, not claric.
+[10:27] GM: Okay, I like it.
+[10:29] Roderic: He is he's advanced, you know, into in the order. He's kind of high up at this point. You know, maybe like a Bishop or something, and so he, you know, he says, it's time that we meet and discuss this schism.
+[10:51] Roderic: And yeah, I'd go meet him.
+[10:54] GM: Okay. So Uh, do you have a preference on a name? Otherwise, I can just generate one.
+[11:05] Roderic: Yeah, generate one because I was trying to think of a name this whole time. Then I was talking about a demit. It's okay.
+[11:13] Roderic: I've come up with Harold, and then I couldn't come up with the last name. So I was just like, whatever. Cooler, when do you need him?
+[11:23] GM: We go hydric.
+[11:26] Roderic: I think, oh my God. Yeah, it said how I got my name.
+[11:31] Paxton: I brought me Would it make Dustin more comfortable if I changed my name from Kent Paxton to like, I don't know packs? Rick? Something
+[11:44] Roderic: Why? What's wrong with an impact? Then
+[11:46] Castor: What time pass then?
+[11:49] Garland: Haha.
+[11:50] Roderic: That's wrong with that.
+[11:53] Castor: He is Somebody you are you dying in jail? As opposed to getting part of in Texas, that's why I got to say.
+[12:05] Roderic: Oh, sorry.
+[12:07] Paxton: Didn't mean that totally derail.
+[12:12] GM: How about griswald?
+[12:16] Roderic: Okay.
+[12:18] GM: So yeah. So
+[12:19] Roderic: Is one of the grins walled plan?
+[12:21] GM: Yeah, yeah, so we're call it, so it's a brizwald. Was, you know, like your? He was the war like he was on the wayer side the paladin side of things is that right?
+[12:38] Roderic: Ah, I think that he was more of basically in charge of the schools in general. Like he may have been okay at the time like the principle for both schools, you know, like looking Uber the clarics and the paladins and then that was when he like gave me the guidance, like, you know, maybe he found me and got me into the order in the first place and then from there, you know, recognised that I had a talent to move up to. They're become a paladon.
+[13:13] GM: Okay, it's great, and so when you get back from this whole thing, with when you get back from this whole thing with a rule and griswald is gone, like, is the missing and no 1 no 1 seems to know what has happened to him. But you get the impression that he may have been Human, he may have been removed and you know, like orders left on for his own safety. You're not quite sure and you get a message like one nights where you're at, wherever wherever you spend your time that of a meat to discuss to, you know, discuss, you know the things that have the unsettling things have been happening within the light within Beacon, hold and it is a there.
+[14:12] GM: Is a you know, it's signed by him? And there's something on. There's something on that piece paper that like allows you to understand that, you know, it was really him like he, you know, he tells you, you know, like something only you and him was.
+[14:29] Roderic: I think he called me when I was A
+[14:30] GM: Yeah, exactly right. Yeah, yeah, exactly. So you're in, you know, you're in these tunnels, the heighten alert, and the Torch light illuminates only a small amount, and you can see the architecture that you know has been done here by 1000 years millennium, more ago during the imperum time, and you start to hear start here.
+[15:02] GM: Foots coming, and you see down to the tunnel a very, very subdued lantern, just enough, almost like a you know, single little candle that as the as the approach. But as this person approaches, griswald was like a big, imposing man. And you can tell that this person approaching is not a big imposing man.
+[15:24] GM: It is a small man, a small person, presumably a man, but is they're pushing you nonetheless. What do you want to do?
+[15:37] Roderic: I mean, it's obvious that I'm here obviously because I'm a big guy and I'm in Armour and everything though I can't like duck aside because he hasn't seen me yet and see who the person is. So apparently I'm just going to ask, I'm going to walk up to the person and say, where is father griswald?
+[16:00] GM: Okay so you walk out to me him and it's a good closer. You can definitely, you can tell his older, all right, he's a smaller man, and like as you get closer with your Torch, he, oh, he up, pulls his robot off revealing old man. And this is a woman you've exchanged you, you've had an interaction with.
+[16:24] GM: It is the member of the coronavid that you had sort of quipping exchange in the vault of aulian right like he was the inquisitor right? That was that you 2 had sort of you know, bandered back-and-forth as you were trying to escape with Severn in a rule, and it looks up at you and he says, do you, oh sir. Like you're your title, right?
+[16:53] GM: So he says he says, yeah, sir Roderic, I'm glad All right, I'm glad you're here. I'm sorry to meet you under false pre. Tenses.
+[17:06] Roderic: Barris's father griswalder, where is Bishop grisw?
+[17:10] GM: I yeah, I guess we should come up with it with a name a title for him but we'll just call him my father for now. But so he says, I do not know I fear the worst for father Griswald, his I realised that my deception may make you untrust, not trust me, but But I promise you that I'm here with good intentions. I believe that you may be the only person I can turn to as As you know, griswald is missing, and other members of the light have been missing.
+[17:52] GM: And while I think that I have my doubts of your purity of faith, I think that those Those you strain from faith has shown me, and I understand that you would not agree with me, but you're straying from the lights, even a little bit means that you may be the best person to understand what is going on here.
+[18:22] Roderic: When is going on here?
+[18:24] GM: It did not know, I also know is that, after we had our disagreements in a ruling The order of the eclipse sword, the the captain of that that banned Received an order to withdraw and return to Beacon holds. And at that point I knew that there was nothing we could do to To ensure that you and the order of the new dawn saw the lights as the way it should be seen. And we left as well, and when I returned to to Beacon, hold things had changed, and I don't quite know why.
+[19:17] GM: But it seemed like overnight that The light had fractured and we're People are pillars of our religion are crumbling and I cannot explain it, but I cannot trust anyone here the coronavisual. I believe we remain pure, but our power that we once have his ways. And even though we were odds, I believe that we can be allies to determine how do we bring the light back to its full illuminosity?
+[20:11] Roderic: What what has happened like? Is your order been weakened within the faith or Actual powers laaning.
+[20:22] GM: Oh, no.
+[20:23] Roderic: Power longer.
+[20:25] GM: Yeah, I hurt you now it's just that when members of my order entered a room. We, we were respected. We were feared in a way, and that only some now view that only some are as As strict as the light demands as they are only as only a few are.
+[21:00] GM: Continue to be fully illuminated, there's a dimness in others, a weakness almost and griswild. I believe Remained to be this. This bashion of light and I think it's one of the reasons why he has gone now.
+[21:18] GM: This may have something to do. With the weekending of the towers, you may be, I'm certain in your time, in, we're going to stop here we're quick. So we talked about the 13 words.
+[21:32] GM: These 13 towers are in the bone, the bone wall, and they have they've stood for you know, generations for as long as people can remember right, and they've kept backness and as you know, you had talked about, like, originally, as part of your witch called your background as you had. There's as military company that you get lost. You were the only survive there and I'd like to suggest that that occurrence happened somewhere in the bone wall.
+[22:04] GM: Are you okay with that?
+[22:06] Roderic: Yeah, that's fine, okay.
+[22:09] GM: Do you know like, um, so those searching towers that, you know, they have? These wards are protecting when your company was doing, you know, whatever, and you lost it. Did you have any ideas like without that might be, or like, you know, like, how you ended up, and how that company ended up in that situation.
+[22:27] Roderic: Um. So If you want to make this part of the Laura, this might be cool. Yeah, each year.
+[22:36] Roderic: Politants of various orders. Go to those towers and fight back the darkness. Basically have like monsterwaves waves that happen once a year when they've overpopulated in the areas that they're already in and are seeking, um to take back the light, I guess from beaconhold, and they try to cross the towers and move into Into the valley, and during that process Uh, you want up there to hold them back and to fight them.
+[23:20] Roderic: You know, maybe it happens every few years where they've built up enough that it's dangerous for the rest of humanity and we go fight them to thin them out, and during one of those times There wasn't supposed to be that many of them Maybe we got orders to go to a certain spot and said, oh, there's there's a camp there of you know, only this many. And when we got there, it had been a trap, it turned out that there were actually like, you know, 5 times as many in multiple races together, like goblins orwicks, trolls, you know, whatever, and so it became a whole carfuckle or curfuffle, and they that's where they slaughtered most of most of us.
+[24:12] GM: Okay, I think that I'm good with that. I recently I had imagine we don't have to go this way. I saw I have to just a little bit that I'm knowing that the towers is sort of kept back the enemy enough, that no one quite remembered what was on the other side, but I am happy to adjust it right seriously so
+[24:32] Roderic: But then maybe what we did is went in there because there was some sort of sacred text, it told us there was an Artefact that we needed to strengthen the light of the towers so that we could have more land to settle on the side. And we went there to find it, and that's where this all happened.
+[24:58] GM: Yeah, yeah, I think that and I'm okay with adjusting because we haven't really established in like in game. I'm okay with adjusting at based on destroyed to reveal more, unlike what's on the other side, but I do like this thought like that that there was maybe like what about this idea that there was like this tomb of a grape, a soldier of light that had fallen win. These 13 towers are being established right to keep it back and when you enter the tomb, there was to get this Artefact like the text, you know, there's been research and text and shambley.
+[25:42] GM: Okay. We could get this Artefact to maybe press in on the light to press in on the darkness, and when you entered it turned out that yeah, it was a track or something like you, you were the only survivor you the only member you knew that survived, but you don't quite remember exactly like what happened, there. Are you okay with that?
+[26:08] GM: Yeah, that's right. And then the Artefact look before was gone, right? So okay, no, that's
+[26:16] Roderic: Great here we just never found.
+[26:17] GM: We're mit. Yeah, you exactly, you don't know what exactly happened. But all as you know, is you woke.
+[26:22] GM: And the the members of the the palatend this expedition that you went to the bodys and they were so like mutilated and destroyed that like there was just presume that all of them were all of them, but you were gone and you know, like, and maybe like this could even go farther in the fact. That like Like are you okay with the fact that this had sort of made you a little like an outsider, and that's why you got put into being this this night. Errant.
+[26:57] GM: This is like that. Griswald is like, okay, you know, there are people here that don't necessarily trust you, they don't likely, you think you were something?
+[27:04] Roderic: We get back covered in blood exactness and Glore from my people. Yeah, and they thought, why did he survive? Maybe he's going to kill them exactly he submitted to the darkness or something, right?
+[27:16] Roderic: It's a Vine. I wouldn't go dark prize.
+[27:18] GM: Oh, yeah, yeah, I mean, maybe we'll play to find out, and it turned out you were actually evil, we'll never know. But grizwang always believed in you. So he said, okay, instead, so we're going to make you a night errant, and your job is not to be here and begahole because like you being and began hold is, you know, like it's not, it's not good, you know, it's not initially you're like.
+[27:39] GM: They never thought you were in danger. But you being here was sort of like a an uncomfort right? You know, like to the establishment.
+[27:47] GM: So you were sent out like, I mean, he's kind of given free reign to go on these missions kind of thing, right? And so that's why you ended up. This is my arant, okay quote, so back into the story is, as this illuminant, which is what the inquisitions are called, he says the towers, the towers are failing.
+[28:07] GM: And I think it might have something to do with this. It's possible that that whatever was on the other side is weakening and that, and it's allowing this dark influence to come through. And I don't trust anyone else but I would ask you to go and investigate on why these towers are weakening the way that they are.
+[28:41] Roderic: Ah, I will. I will do so. But can you tell me what happened to Griswald?
+[28:48] GM: I do not know, do you know I do not? I'm trying to find out. I believe you have the ability to tell someone's line.
+[28:56] Roderic: Ah, yeah, I have that in a right.
+[29:00] GM: He is not once ideal.
+[29:03] Roderic: Okay, yeah.
+[29:05] GM: So everything he said has been clear in I the other thing I want to make sure that there's subtects here, but I want to make an explicit like he is upset that. They no longer have the power that they once did, the fear that they once did, and that he believes that there are factions that are becoming less. The orthodox like less severe than he wants, right?
+[29:30] GM: So he is not coming from like a good place. Right? So Y
+[29:34] Roderic: No, no I understand that, but it's also like, just the fact I'm trying to find out about.
+[29:39] GM: A 100% Y
+[29:41] Roderic: And I am worried about the towers not being as bright because if it allows the darkness and that could be bad for everyone.
+[29:49] GM: Right? Yeah? So on.
+[29:53] GM: Says so I like if I my understanding is as AU. You were given, you know, there was an agreement with griswald on your missions. And your rules of engagement, and now, with Griswald gone, it's unclear who Who commands you?
+[30:19] GM: And I think that that unclarity, that dimness, is something that we can take advantage of and I think you have the authority to leave and go investigate this. And I would ask you to do what you can to restore it, but if you cannot that you come back and you work with us with the vigil to see what else we can do to restore the faith, the light that once existed here.
+[30:51] Roderic: I work for the authority of lucer. As we all do But I will take this upon myself to make sure I text the lands are began. Hold
+[31:08] GM: So since then, it's subtled. We will ensure that that you have safety until you leave the city, but our powers outside the city are no longer are no longer as absolute. They once we're and with this faction, I know that there are rumblings of making things right from the loss of the expedition, the loss of all the other paladins that were lost when you when you know entered the tomb of Whoever if we're going to name later?
+[31:48] Garland: Yeah
+[31:50] Roderic: But you asked a moist loves thing.
+[31:55] GM: Ah, did you say because you broke up to me? I don't know if me or you
+[31:59] Roderic: I didn't see you know, you lost the voice like whatever the voice thing is that was recorded
+[32:05] GM: Us, oh yeah, it never works. I'm actually recording on my phone. Got it by go because it's I don't know how well it's going to work.
+[32:14] GM: But can you hear me? Okay.
+[32:16] Roderic: Yeah, n** and hear you find perfect. I just heard something, and then I checked the
+[32:21] GM: Yeah, join sort of age never, I think it was.
+[32:24] Paxton: On your side, Ramsay, because I Joe sounded fine the whole time.
+[32:29] GM: Yeah, he broke up. But if fine, everything's good now, okay, cool. So but he had said that, you know, he can protect you with him, Beacon, hold, so I think if you plan
+[32:41] Roderic: When is why I appreciate your protection? All I need is Lucifer's light.
+[32:47] GM: He says, I understand This is a Ramsay, like, is there anything that Roderic would want to do in beaconhold before he leaves?
+[33:02] Roderic: I'm going to reach out to any friends. I do still have in any of the orders, whether it be, you know, the order the paladin order of the inquisitors or just the basic, you know, church and try to gain information about miss Walt, okay, rumours, anything.
+[33:24] GM: I'll pick that up and next vineya. So we'll end here for you and all changes the spotlight. I am going to take a biobreak row quick because I just had drinking a lot of water and just seen it goes to bathroom a bunch.
+[33:37] GM: I'll be right back, and then we'll pick up. We'll switch over to a witch Hort. So the way the way I was thinking about this is that Garlan and Castor would be together at the witchen stone.
+[33:52] GM: And that's why we pick up our Garland and Jay, and doesn't you good with that?
+[33:58] Roderic: Did
+[33:59] Garland: Do I kick that go out every time you keep playing Google?
+[34:04] Castor: Lie, every time.
+[34:06] Garland: But I don't know those hands aren't like which st
+[34:08] GM: I don't know back
+[34:10] Paxton: Then, which sones?
+[34:13] Roderic: Banno's witches. It's just please.
+[34:17] Castor: Which is constitutious?
+[34:25] Paxton: I think you can get stitches after that little witch shifts you
+[34:29] Roderic: Now
+[34:30] Garland: Now she's her favourite uncle.
+[34:35] Paxton: Yeah, well, it's a shiver of love.
+[34:37] Castor: I'm turned out just so associated. Don't take it the wrong way.
+[34:43] Roderic: Yeah, deliver. Haha.
+[34:50] Castor: Very innocent. Oh, don't really like it's not
+[34:54] Roderic: Dismember in Harry, engage in this world is 10
+[34:58] Castor: No.
+[35:00] Paxton: You know, absolutely.
+[35:02] Garland: Yeah, I mean. What are scoring details only books to her constensus of the room? And also Also, mirror is related.
+[35:15] Garland: The cast here. I mean, I guess I guess one relative idea a lot of a type period it's it's a it's Last minute, open.
+[35:30] Castor: It's meaningfully caster, and that's all that man. Jazzard is one of those about the mere presumption. That's cute, little grand grand grand grand knees.
+[35:50] Roderic: Honestly, I don't even know the genetics would affect each other at that point so that many generations back.
+[35:57] Castor: And yeah, one of the science. So
+[36:00] Garland: Yeah, like
+[36:01] Paxton: Like also, you have to factor in the beaver DNA
+[36:04] Garland: Exactly what mirror is. Literally gret Garland's grick grandad like because it took others, second his second family that
+[36:17] Roderic: Afternoon, only one level back.
+[36:19] Garland: Yeah, like Garland I wrote into the I think I wrote into the room yesterday or something that I decided that Garland went to the adventuring about 100 years ago and came back with a second wife and had a second family, and that's where aldrick is aldrick, is his like actualist grandson and is actually a good downcoder. Oh, okay, and also the lady who died in the incessions, though, was what was also from that one? The people in the vel, who know him as a man and know him as literally part of a family, and there's a lot of people who think of him just as a mythological figure, or like the weird scandal, Tom bombed, I'll do it just been wandering around that they offer 100.
+[37:16] Garland: Issues. Well, but caster is further removed from grarland like they're Like related, but not like he was a Beever for quite a while before Ireland was born.
+[37:33] Paxton: And if you're if your Tom bombadile ask, I expect more singing out of UJ
+[37:40] GM: No, thank you, yeah.
+[37:41] Castor: About 1 hour for the crowd.
+[37:44] GM: Please down the world.
+[37:48] Garland: Okay, so the overall have a gunpoint what I want to do the world here I'm looking for what do I rule? What movie? What movies that games let's fly and let's fly by moment, wow.
+[38:04] GM: Wow
+[38:05] Castor: Onto the mirror.
+[38:06] GM: Yeah, moment. Okay? Core, so Let's know the camera chefs from the dark tunnels.
+[38:19] GM: Underneath beagan, hold to the witchestone which are in the ashon Vale to the south. Now on the map I have the witchest stones. You know, they're sort of exacuated, but like my understanding is the witchest tones are, you know, like they're, they're kind of a secret, right like they're not like Garlandg, you know where they are, and cashing as they are, but that's kind of it.
+[38:43] GM: Right.
+[38:45] Garland: Yeah, well and mirror found them yeah, exactly MI.
+[38:48] GM: So I'm not
+[38:50] Garland: Let's book they're spoken on legend. But nobody knows that they're real. Nobody knows where they are.
+[38:56] GM: Sammarraver.
+[38:58] Roderic: Grown by light, trees and stuff like that from nature or no
+[39:02] Garland: Yeah, yeah like they're well like so. The ashead Vale is a veil, so like there are small smaller hills between it and they're like the rest of the lands of the larger valley which I don't believe this. And like there in like a slightly hilly Rocky area with just totally overgrown, and Garland was found them when he was when he was trying to clear field to expand this farm long time ago.
+[39:40] GM: It's kind of like the idea of like in to call, or obviously not jungle, but like it was like some sort of like ruins that had been overco over grown by growth, kind of thing, right? Yeah, yeah, got it. And southern
+[39:53] Garland: Deprived Macon Hugh actually, who magic he probably like wolves, some glamours or something to, you know, make people walk away from it, and kind of keep it hidden since he hit clear the path to it, making trying to increase as farmland so like there's probably seals or barriers that kind of make it. Harder to find.
+[40:20] GM: Yeah, okay, and those are still, you know, in those are still in effect, right? Even though Garland has sort of lost his magic. That was like, understanding a magic, you know, it was trying to regain it.
+[40:32] GM: Yeah, what we'll say, those things are still on a effect, right? And so when Mira shows up, you know what's kind of surprise, right? And I don't think, I think we can establish.
+[40:45] GM: We can. We can do a the scene after it but like just sort of establish the back history here and I'm stating, but this is proposal. Right, so like, you know, let me know you know, if I should Josh, right?
+[40:58] GM: This is like, Mira shows up and tell me again like what Mira shows up like what How does how does she like when she saws up Garland I assume it's sort of like surprised by this, and like there's some exchange, and like how does mirror know where these are and stuff?
+[41:17] Garland: Yeah, I would say that she found them when Erwin wasn't there? Okay out of the bill? And so she knew about it, and then just 1 day when Garland is there trying trying to regain as last knowledge, trying to reconnect, she just kind of bombs into the scene.
+[41:38] Garland: Singing in and dancing and just having the fun little kid time, and he like his blood runs cold like this is this is not something that he's shared with anybody, and like, Mira is one of his fondest relatives, one of this fondest descendants, but it's, you know, this is this is dangerous knowledge. That he would rather have kept
+[42:07] GM: Right.
+[42:08] Garland: And I suppose they would have had an exchange where she reveals that she knows Hat has perhaps less of a depth of understanding than he does, but knows more specifics than he does, because she is actually hearing them speak in ahead. And that might have also kind of made her a little bit weird. Once you start hearing that, because, you know, you start hearing voices in your head and that's That's as a kid that's that's not That's it might make you a little bit weird, so she might have done a little bit.
+[42:53] GM: Is, so, you know, I had imagine our like, and we can change. It's like I'd imagine that the impact of like the this ruin that would, you know, put upon the children of crownvale she was sort of like almost traumatised and depressed, but and it sounds like you have a different idea? I'd rather go with your ideas like here is that you want her to be kind of Precocious.
+[43:22] Garland: Yeah, okay, I mean, I would say that maybe she was in a deep depression because of what had happened there. And that's when she started hearing the voices, and that might have Create an even darker situation, until the voice has told her how to get to the witchtones and what she arrived in the presence and felt that ancient Magic that that might have started healing her, but she still like deeply wounded, and perhaps the happiness and the precautiousness is A
+[44:00] GM: I started code being mechanism. Yeah, yeah, got it. Okay.
+[44:04] GM: Now that makes sense, because what I'd thought about like, you know that her being here is Is dangerous because Aldrich would not want obviously would not want her. You know his daughter to be off somewhere, right? But you would be willing, you would be willing to sort of you know, you knew that she was sort of like harmed by this, and thoughtly, okay, well, maybe I could, you know, I could help her sort of deal through her trauma, kind of kind of stuff, right, like what do you think of that idea then?
+[44:39] GM: That's the reason why you were allowing her to kind of stay.
+[44:42] Garland: Yeah, yeah, that's good, okay.
+[44:45] GM: That core, okay.
+[44:48] Garland: It's hard she want. She heard her goal ISIS for girling to teacher and take her own as as his potoche and his goal is to, you know, help her heal right and super safe.
+[45:02] GM: Okay, now that sounds good. In this, in the images that you shared of the witchest stones they they seem to be ruined is like, what is the? What does the surroundings look like?
+[45:17] GM: You know what are the Lacon?
+[45:19] Garland: It's the it's Um, so I had imagined I'd imagine I had initially imagined the witch stones as perhaps being fingers. So they're sticking off through the round of a nomination that is buried. And the one I have AI do anything with them give it a give it the initial picture of Garland as a starter, it just talk and put some fault over the place.
+[45:55] Garland: And that's not what like I had. That's not kind of in my head like, there's not a 1000 witchones died at all over this small area. So it's it's just a since I found it.
+[46:11] Garland: It's become more overgrown, but I keep like the area around the witstones. Nice and well-tended and still natural, but well-tended and the witchtones themselves. They looked like they could have been like square cuts, standing stones that have decayed Uber time, but they are covered in rooms, which is like garlic, would take rubbings of these ruins and is in his book and study them.
+[46:41] Garland: And that's how he learned. That's how government is magic, and and the will what is happening magical stuff That's my concept.
+[46:56] GM: Okay, so they do. They do glow?
+[46:59] Garland: IO not like there, aren't always good
+[47:03] GM: Okay, got it. And when they glow like Garland know why, and when they glow or is it, they just glow sometimes, and it's not entire, like you might have theories on why that is, but you haven't quite like narrative down kind of thing.
+[47:18] Garland: Uh, the history was, they would glow and pulse to guide him to what he was trying to learn like. Because like Okay, whatever it is, whatever the force is was trying to speak to him, and he and he only hears it as like the grinding of the Earth and like natural processes and zones, whereas when they try to talk to mirror she can actually understand what they're saying, so like his theory is that whatever this force is using the glowing to teach him? Now mirror can go up to him and touch them and they start glowing and who knows why?
+[48:00] Garland: Okay, she might know why.
+[48:03] GM: Got it. Okay, perfect. And then Destin forecaster, like, so, as you had, you know, one of the things that I'd mentioned an appallogue is that the beavers, you know, the beaver dam is, you know, it is it was ruined, right, and you know that you were part of that so, and the beavers have sort of you know, for a long time for long as you know, you've ever been around kind of thing, you know, they have been part of that great beaver dam.
+[48:37] GM: But now they seem to similar to kind of like the lightly like there seems to be like factions, and there seems to be this like unrulliness, and that is causing, you know, issues within the With the people the Vale right like these used to be these cute little rodent creatures that lived up in them, you know, on the hill, father up to the hills on this lake, but now they're they're kind of pests, and the like I was going to propose that we have a one of there's like as you left, like mom, yes, like the way I read all this stuff ISIS that you were sort of like the beaver leader for a long time.
+[49:27] GM: And then when you left like that has sort of like Gone away a little bit earlier like that's what I was thinking. Is that similar what you were thinking like?
+[49:36] Castor: Yeah, not so much a leader, but like the elder, because she's been much more long-lived than right? Obviously so he's kind of done this his 10 Pole. Of the community.
+[49:51] Castor: I mean, we can be cute about talk animals and all that fun stuff, but beversing exactly peoples. Um. Yeah, he wasn't a leader.
+[50:05] Castor: He was more of a more of A The guy who knows things around town.
+[50:11] GM: Maybe more of like leaders, maybe like Um. She had authority through respect not position that yeah, so I'm right, okay?
+[50:23] Castor: Yeah, yes, that's that's the
+[50:26] GM: Okay core, and then what I was going to suggest ISIS that there is now a new young beaver that is becoming the leader, and this young beaver is the descendant of the first beaver like I'm trying to remember like You you travelled a long time as a beaver before being a before settling here, right if I recall correctly.
+[50:58] Castor: Both before and during like he would go on a little wonderless journeys. Even after establishing his His home as it had be relake, so like you would take off from months at a time.
+[51:17] GM: Do you predate the great dam?
+[51:25] Castor: That's a good question, II guess I preferred if I didn't okay. I think if it was a place that he found and made his home after becoming beter, and maybe he was more quaint and and less less glorious, at least as far as be redams go, but like if he came to an establish, at least a modest little dam, and then and then maybe helped it rise to become A royal d*** that block this major waterway And actually did good for it to the people around town, but yeah, d*** before d*** beforecaster, I think
+[52:10] GM: Okay, but not the great beaver d***. Just AB ver dam abridge got it.
+[52:15] Castor: A modest mover dam.
+[52:17] GM: And then you like so what I was going to repose is that there was a beaver that was, you know, an ambitious beaver. I'm eager beaver, an eager beaver, exactly. And that Claude has suggested the name Aspen for this beaver, what we can change it, and that and that I Aspen, you saw something an Aspirin that caused you to stay and like to make this kind of your, you know, maybe not like permanent home, but like the place you spent the most time, right and then this Bever Aspen had passed away, but they're the generations down the descended Aspirin.
+[53:05] GM: As this other beaver named tamrack tamper short and tamrack is the upstart. Here he is, the one that has seems to be, you know, leading the beavers in this idea that, you know, they need they have the they shouldn't be confined at this one beaver. Dam, right like that they, the entire river, should be something that they should be damning.
+[53:29] GM: And you know, they claim to and is kind of the, you know, it's kind of the problem. But you've got this conflict because you have this, you know, you've got the saucepte for his, you know, great grey, great grandparent, kind of thing. Are you good?
+[53:41] GM: One?
+[53:42] Castor: But also he thinks he thinks the goals is a wording one. He's happy about the right way, because if you're too much of a past nearby humans, you're going to, you're going to get, you're going to get murdered, and turned into hats.
+[53:57] GM: Right.
+[53:58] Castor: That's all castle casts were like he loves this ambition. He wants to support here. That's why they're doing it.
+[54:06] GM: Okay, cool. Okay. So I would what I was going to propose is that, you know, we start we pick up with caster visiting Garland, maybe, you know, coming for advice on like, you know, you have casha, you had sort of run-ins with a few.
+[54:27] GM: You know, with trying to sort of broker, you know this, I'll call it piece with that sort of implies too much of like a conflict, but like this coexistence, and you know you've been having trouble because you don't necessarily you know, understand the human ways as much and you've come to come to Garland to sort of get some advice in Garland you know, the families and the way that I was imagining the the veil, but Garland let me know if this Jazza, you were thinking is that there would be several sort of powerful families that that lived along the veil, these like land owners effectively that were, you know, they were they're kind of like your fiftum, a little bit, but you're unofficial, featum, right kind of thing, but but there's a few powerful families that live along with alterick, being the most powerful is that Jav was what you were thinking.
+[55:31] GM: Yeah, got that. Sorry, I had to. There's a few Family families that I am had talked, I thought about really qualified about One being a family of orchardists like growing, you know, like apples or something like that one being a Miller that using, like the they'll which call it the lower flow this lower river, to sort of grind flour.
+[56:05] GM: And then Wow, the other one's got off and hollow on second. Well, I'm going to go Where did it go? And then a family of trapers, right?
+[56:29] GM: Like a people who collects, you know, they've, they trap animals and sell meat in firms stuff like that. So and then Anything else that you know? You guys had got in there, you would thought of might be here.
+[56:51] Garland: Oh, women like
+[56:55] GM: Water or not like obviously it's all drec, right? But um, the views are the names of the family names. And
+[57:21] GM: We're just trying to understand like how Your generational, you know, like impact happens here.
+[57:30] Garland: Haha, okay. Yeah, yeah, so I would ground originally settled a veil when he was when he was given the veil for his services to became to The Crown, he were very few people in that abandoned, probably because of like, maybe some volcanic activity that did literally coated the whole place in ash and made it dead, but now it's It was ready to be really welcome because that ash had made it so fertile, so there were very few people living there. He looked in started his family.
+[58:12] Garland: His activities, there resulted in more people moving in and the place built up over time, and so like most of the people in the bill have got at least a little bit of his heritation, but there's a very, it's a very dilute. At this point, except for a few families, one of them being aldicks, and one of them being growns, who died in sessions, though who are a result of his second family. From what he left on an adventure about 100 years ago.
+[58:55] GM: Got it. Okay. So then these families here are the one that I mentioned here are the one you know are had.
+[59:04] GM: Friction with the beavers, pandem, so you know, Garlandg and Castor, you've you've met up caster, you've tried to sort of sort things out between the beaver and humans, but you know you're you're not having the best luck kind of thing, right and so you're coming to Garland to get council on it, right? Sound good.
+[59:29] Castor: Yeah, it's also a Sunday dinner, so I'm bringing to delicious food. Okay? We're having mirror toin trip.
+[59:36] GM: Haha, so there is there is going to be, you know, a dramatic event that happens, and we can cut directly to that dramatic event, or you guys, can, you know, role, play a little bit on this, do you have a preference?
+[59:51] Castor: Here, would you like some of the salad?
+[59:55] Garland: Ah, old man, did you care that here with your with your favourite pause, oh no.
+[01:00:02] Castor: Right now I'm in. I'm currently a human form though I don't know if that will change back to a beaver. Just to a piece my adortable little grand grand grand news, who seems to just adore my be reform, but there's bark in it.
+[01:00:18] Castor: I know always make sure to get enough.
+[01:00:21] Garland: Hello, you know how caster we sell it?
+[01:00:24] Paxton: Is worse than it's true?
+[01:00:26] Garland: We've had. We've been honoured so many times yes, but there's certain marks that the humans can eat generally not for the nutritional value. More for the medicinal value is, is this one of your beaver barks?
+[01:00:45] Garland: Or am I about to eat a painkill? I could really use one of my back is feeling
+[01:00:51] Castor: Oh, hey, one app both. I mean, I think it's delicious, but
+[01:00:58] Garland: II Thank you for bringing the fruits of this veil. Gladly, partake of your fruit bowl.
+[01:01:10] GM: Oh, yeah. I'll drink your milk stop, yeah. But um, okay, so as you guys, do you know dinner?
+[01:01:19] GM: And I start to talk about sort of the human, you know, the challenges that you've dealt with Mira, calls, Garland Pappy, and then what is what is she call caster? Pop pub PA pop, okay, Pappy and pop pop. Excellent.
+[01:01:39] GM: Okay, so as you guys are you guys are eating and stuff like that caster, you notice something like there are there are a few black birds like ravens that they don't seem right, and as you're eating, you know, and talking, you kind of notice this like, they're like, hey. There's something something a little odd with those, and as you're doing, the as you noticing this Mira, she's, you can tell that she's sort of takes posure quick. She looks around, and then the stone sort of like as she looks like the the ruins sort of light up as she, you know, sort of pands or like in her field of vision, it's sort of following her field of vision.
+[01:02:25] GM: And and Garland you are your old soldier instincts also, kicken, and you feel you can feel the rumble of the ground. It feels like people are approaching on horseback. All of you are get this sort of tenseness about you.
+[01:02:47] GM: You can't, you can't hear the garlic and you can't hear yet, or none of you can hear. The horses is coming, but there are horses coming in Garland you would guess from what you're remembering, you know, maybe a dozen, maybe a little more. What do you I want to do?
+[01:03:05] Garland: O. That's a lot of worses, this part this part of the bill.
+[01:03:13] Castor: The slightest introduction of some kind of tension transform back to Bever. Ah, it's where I'm most comfortable, especially when it becomes confrontation.
+[01:03:24] Garland: I'm hoping you can you know, bird? It in got us and birds it, you know, like
+[01:03:30] Castor: Look, I can do that. I'm just this is I panic, okay, this is what I do.
+[01:03:39] Garland: I have a button preferred birth bird Fur like Beever burger.
+[01:03:45] Castor: Like a beaver, yeah? Oh, do you think you think I should? I'll be real with you.
+[01:03:53] Castor: I don't know how to fly that well when I'm a brain.
+[01:03:58] Garland: I mean, there's only one way to learn and you are nothing. The time
+[01:04:02] Castor: Turning into non beaver, and non-human things is still kind of I can give it a shot though.
+[01:04:09] GM: As the as you guys being enter out of out of the tree line comes the horses and Garland you immediately recognise aldrix delivery on a few of them, but not all of them, and there's about Half a dozen, the eighth of aldrix men and the others are like those men are soldiers. They are, they're dressed in Armour. They've got this brigging Armour, and 2 of them, 4 of them.
+[01:04:47] GM: Have you know long spirit with the like livery on aldrix delivery? While the other two do not have any of them, right like the 2 are wearing, they look more positions of authority and they're the writing in front and behind that you see a few Non soldiers are, you can't really make them out. But they know they look like they're, you know, talents, people or something like that, you know, like, and they're started to approach.
+[01:05:21] GM: What do you do?
+[01:05:25] Garland: Okay, so I would say that. So we're at the woodstones. Yeah, at the woodstones.
+[01:05:29] Garland: Yeah, it's okay, so I haven't said this, but I would say that this is where garliment lives. He has a little, it's a little modest shack that he lives in. It's not much, but it's warm and cosy in the winter, and he comes back to it when he's in the bill in the area.
+[01:05:51] Garland: So his steps out of it, and I'll what you say, are holding, and they like, can't see or notice.
+[01:06:01] GM: Woodstone, no, they're clearly coming straight towards the woodstones. Debt, and you don't know why like you're surprised by this.
+[01:06:09] Garland: Yeah, Garland will step out and look surprised and and give them like a little salute and then approach them.
+[01:06:22] GM: Like so a programme to be before, like to get to the witchestones like in the witches. Sounds like where like where do you want to be when you know when you meet them?
+[01:06:36] Garland: Prior before the before they reached the sounds, he's trying to cut them off, he might be done. He might even gesture the whole
+[01:06:43] GM: Got it. And then where is Mira? And caster, on this I don't know if I'm mirror definitely want to find caster.
+[01:06:53] Garland: Got darland tells me Iran to stay look at the Kevin and whether mirror station Kevin, right, we'll find out, but he says a staggergrew.
+[01:07:04] GM: Where is the best way?
+[01:07:08] Castor: Brain of the rear, I guess.
+[01:07:10] GM: Okay, so you're out with Garland. Yeah, okay.
+[01:07:14] Castor: But it is a modest
+[01:07:16] GM: Yeah, no, yeah, understood. And Are you like as far as you're aware, do the people of the veil know that you turn a new a beaver? I think they do right.
+[01:07:29] GM: You're the beaver man, right?
+[01:07:33] Garland: Um.
+[01:07:34] Castor: People available? They only like they don't.
+[01:07:41] GM: They don't they don't talk
+[01:07:43] Garland: Yeah, I would. I want to say?
+[01:07:45] Castor: Heard, the man like astro has spent less time as a man than he has is to be very. He's a beaver about town. Everybody.
+[01:07:54] Castor: Dan knows beaver, but he's relatively like is unit form. He's kind of Knows him. He's just this strange relative.
+[01:08:04] GM: Okay.
+[01:08:05] Garland: Yeah, I would say that. Um, because Garland and caster were, "," friends from many, many years before he fixed his ord, partially fixed with his part of girlland's legend probably would be that like he's a friend to be this because there's always this f****** paper following up no, that makes like doing girl and stuff around the Vale like they were, they were friends and travelling companions when they were, you know, moving around the Vale so like that's like something that would be expected for abver to be like, maybe it's like the legend of the beaver like nobody knows that.
+[01:08:46] Garland: That's a castard beaver like girl is clearly you got something wrong beavers.
+[01:08:53] GM: Right? Okay, so they write up and you recognise the 2 leads, so the first one is garlic and you recognise it. The first one is captain bask.
+[01:09:04] GM: He is the head of the aldrix. You know, guard, right? And he's an older man.
+[01:09:12] GM: He is a symbol of authority which is like, you know, something that represents crown Vale, like a little crown, let's say right like that.
+[01:09:26] Garland: Yeah, I'm sort of cream one. Sorry hate going on a crown on on a mountain.
+[01:09:31] GM: Mount on a mountain right like he's got a broat, he's like a golden broach, that is this crown on the mountain, and that is very recognisable. And his him and the man nextum where these helmets that are that like have the the mouth is like sort of open and I've got like the piece of medal that goes down between the eyes and which caught the tops are like the tops are sort of like metal and then down at the bottom they have like this leather that sort of comes off with them, the sort of protect the back and sides of the other necks.
+[01:10:12] GM: And next to him is a Sergeant Iyer who you had run into when you were in crown availe last time he was the man who which caught he was the man that's right. Yeah, so So here's as you as they write up, you know, the people he like. I captain vast raises hand to stop.
+[01:10:45] GM: And then behind them. You now recognise, I said, four people, but there's actually three people behind them. So maybe it was only like 9 horses, so it doesn't they not quite it, does it not more than half a dozen, which is the members of the 3 families I mean to Ceil thornby who a lady who she's dressed up like kind of like a richer kind of more affluent kind of wearing stuff like our her clothes, or a relatively nice, and they're green and brownish kind of colours dural Beck who is also there.
+[01:11:28] GM: He is the part of the Miller family, and he wears like one of these, like, you know, apring kind of things. He's got like a lot of flower dust on him. He's he's a big imposing man.
+[01:11:39] GM: He's got a smile that is very warm, but you know Garland but now he looks he looks Sturn and Walt halls hallus and so walthallis, he is dressed. He has furs, and among those furs are some beevers, and he comes from this trapor family, right? And as the horses, the horses stopped in a thundering saxophonia in the the dirt, you know, sort of settles below them, captain vasque, he says He looks for arony, says this is a nice place you got here Garlanda I knew you live somewhere around here.
+[01:12:23] GM: I'm glad we're able to find you Aldric. Sorry, he says Lord lord is a green halt. Like what is I can't remember?
+[01:12:35] GM: Aldra's last time.
+[01:12:36] Garland: Yeah, aldrik is a girl onson.
+[01:12:40] GM: Gardenson, yeah.
+[01:12:42] Garland: Like he he wanted to draught harder on his right and it wasn't, and he is the one who invented this is my last name. Now I'm not in greenhault, I am grown.
+[01:12:53] GM: Right. Okay, so let's have bore garlic. His sent us for For his daughter, and it's been very tough tracking her down, but now we're certain she's here, we cannot have.
+[01:13:11] GM: We cannot have the distraction while what we have The Troubles to the north with the moros.
+[01:13:20] Garland: Ah, well met young man. I couldn't agree with you more. I've been.
+[01:13:27] Garland: I've been counselling the The forever, the poor child She is she's allowed to return home, but I know she has to Probably sooner than later. What brings you here with the strange revenue.
+[01:13:46] GM: You said, well, I have to admit I did not expect you to agree so readily we believe that we might have to take her by force, but there's the other matter. The matter of the beavers. We know that this one here, a point in the beaver.
+[01:14:08] GM: Somewhat. Beating them or something. It's sort of unclear that relationship, but Oh, I've been ordered to bring him back to crownvale for discussions.
+[01:14:27] Garland: Well, that's another matter. My friend here is a creature of his own will and will go as he wants. II have, you know, I walked these lands and these lands through smart of mind and the beers of Long been friend to the inhabitants of Vail, and it troubles me that The conflict his
+[01:14:59] GM: At that point, when you say long been France are 3 civilians in the back, they start to murmur. You know that they're yeah, the friendships over now they ruined my wheat, and then one of them, the hallest guy says, like, yeah, these beavers, they're running a muck. We need to, we need to end this, and we think that We think we need to start with this one.
+[01:15:24] Castor: Gold.
+[01:15:26] Garland: I've been for you. I've been where you are child. I dealt with the beavers when I first farm these lands, when I and I put my hand on second artist when I turned this
+[01:15:42] Roderic: Robio rock guys.
+[01:15:45] Garland: Right? Well, what I did this sword when I beat this sword into a plough share and brought this land to bear. The beavers were troublesome on my lands, often they banned to waterways that I would have rather they didn't.
+[01:16:04] Garland: And ruin several years of crops, but I came to I came to little them in peace and the I don't know how cagress since you are what's happened, but the great dam has been damaged and the beers built that dam the beavers are responsible for that way. And all of the goodness that it's brought to this to the bill that That the action flow would be wild and uncontrollable, and it was before that Dan build or before that dam brew, the veil wouldn't be what it is without the papers.
+[01:16:46] GM: I've as vasque is about to say something again. Hallis in the back who seems to be the almost instigator of the civilians here says, yeah, but that has been, that's been settled now. We live here and we need to ensure that they don't.
+[01:17:06] GM: The beavers aren't causing the hat in. And at that point, vast raises hand and sort of like to the point to silence hallus and policy listens that being acknowledged in the authority of Vask and captain basky, he gets off his horse. And he walks over, and he says, this is honestly, I I just here for the child.
+[01:17:33] GM: Aldric is sorry. Lord Garlandson is a distracted with her absence and has put considerable resources and finding you here or hurricare. We need to stop that.
+[01:17:49] GM: But the beavers are a distraction here, like, I believe that you have some sway over them like, is there something you can be doing to? To put it an end to this Strife.
+[01:18:06] Garland: I don't quite. I don't quite understand what's driven them down in the Vale. I hope that I hope that things can be put right.
+[01:18:14] Garland: But a rationist won't bring that to bear As far as the child goes, she like I said, she is loaded to return home and that might be a fight, perhaps if I rode with you the protector. We might convince her But. As far as we're my friend goals and what he does, that's that's up to him.
+[01:18:44] GM: I've been informed here that your friend me looks at the beaver can speak Let's say you be remand and the fact that he knows this, and even the fact that he's here like everything is weird, right? He seems to know more than you think he should.
+[01:19:01] Castor: My beaver eyes kind of narrow, and like What you talking about
+[01:19:08] GM: Do you say that arrizal is the body language?
+[01:19:11] Castor: Yeah, that's a little sort of
+[01:19:13] GM: Oh, he said, that's what he says. So I'm as you talked, even though he was an expecting and sort of talk, he's sort of like sort of stratlesom a little bit And and kasher, you still, you still now notice that these black ravens that you notice earlier, they have they have they've gotten to trees closer, and one and Garland you actually recognise this to him. They're not birds at you normally, they're normally around here.
+[01:19:41] GM: One goes to land on the witches, stones and is it goes to land there's not a like a clear like Something preventing it, but like it veers off right, like it's like, oh, this is about idiot sort of veers off right. And you also can hear the door of your shock behind you. Creak, open a little bit like clearly mirrors like watching out.
+[01:20:05] GM: And so as casters, you say, like, what you're talking about the captain, sorry, captain vasque, sort of His old weather sort of start a little bit, and as I've been informed, you can speak, but I hearing it for my own ears is a little strange.
+[01:20:33] Castor: Oh, wow.
+[01:20:34] GM: How do I address you?
+[01:20:37] Castor: While do you mind telling me who the hell tolds you? I could speak in the first place because that's not something I normally do outside of friends and family and I don't recognise you as either. Ah
+[01:20:51] GM: Lord Garlandgson has Ways he knows all the happens within the veil.
+[01:20:59] Castor: Go I don't like that. How somebody know all of it happens in the veil.
+[01:21:04] GM: We're not here to discuss the powers of Lord garletson. When when Lord agardson completes the consolidation of his power within the veil and makes the veil on to, you know, a proud, a proud lamb that is able to stand up to the aggressions of Maro. And beaconhold then then I'm sure all will be revealed, but for now we need to ensure there's peace in the veil to make sure that he's able to achieve the greatness that he is trying to go towards well and world you and your kindar distraction.
+[01:21:51] Castor: Ah, well. I think it should be a little more critical of where some people figure out all this ship or if you need something address me by you can address me as caster, Garland's uncle.
+[01:22:07] GM: He looks a little confused, caster garlic garlands on goal. He looks at Sergeant Iyer. He says, I had a last time, you know, it's like 9 of Garland son, green halts, but I've never heard of Garland suncle.
+[01:22:20] GM: Okay, I guess it's AI don't know why you have a last name. But sure.
+[01:22:30] Castor: What beers can't have last games? What are you
+[01:22:32] GM: Sleigh, wow, yesterday we were talking your Bevers are causing The beaver is I don't know that you're a beavers. The beavers are causing problems. Unless something stopped, I'm going to, we're going to let these we're going to let these families the they want to put an end to this, they're causing trouble with the orchard with the millers, other other families.
+[01:23:01] GM: And that are owed to to gardens until Laura gardlicson, and we're going to put into this, the only reason why we're here is that we know that you are friends with. With Vast seems to stumble words and says Garland he seems to like not quite sure what to call you Carlin, whether he would addresses you as like AI you know, some sort of nobility or something like that. But he just chooses garlic, he says, we're going to need something from you.
+[01:23:44] Castor: Well, let me summ here, just give you an inside. Look and what's happening in the beaver community. There is some internal strike mossea.
+[01:23:53] Castor: Cars caused by aronole loser responsible, but some s*** really hit the beat redam. And they're just having some trouble getting back on their feet. But man, you not want to you do not want to start something with these Beavers, because they areorganised and they will, you think their pests now, just wait till you get their attention and even worse, I'll tell you right now I'm doing I'm doing what I can and you know it's it's beaver politics, you know, beaver, politic?
+[01:24:26] GM: That was a try. They're glass when I look at each other again and faster laughing. And he says, this is not the answer I was expecting, I know idea that I would be arguing disgusting, beverse politics.
+[01:24:40] GM: I will stay in the politics of mortals. And you can worry about your politics. I just know that you're the beaver's time is numbered if you cannot get them back to the great dam, the great, the beverlake where they've lived for generations happily, why they need to start damning other parts of the lower ashen flow cutting down trees and orchards.
+[01:25:08] GM: Just generally becoming a nuisance as he finishes that that line the door where Mira is in like, open and Garland you can you can hear that door fully open? She walks out on and She start saying stuff in a language you're not familiar with, like you've never heard. It's spoken before, and in either of youcaster and it's like one of these languages that are Like when she speaks, it's like this booming kind of like almost she's going to be casting some sort of spell or something.
+[01:25:50] GM: What do you want to do?
+[01:25:54] Garland: Ah I put my hand on her shoulder.
+[01:25:59] GM: She's behind you though she's back in your house.
+[01:26:01] Garland: It's rather SC.
+[01:26:03] GM: Yeah, she just stucked out of the the house. Yeah. So yeah.
+[01:26:07] GM: So the way I imagine it ISIS that you are it and let me say make sure you imagine the same way is that your sort of between them in the witchestone and the witches sort of then it's your place is that sound right.
+[01:26:21] Garland: Sure, okay. Yeah, yeah, I to look over my shoulder and just say in a very Stern voice mirror.
+[01:26:33] GM: As you say that the her voice, booms at the end of these these tongues like things and AA spot inside of the witchestones and all the witchestones light up with the ruins, and the spot opens, and it looks like a vortex or portal, and on the other side, the other side ISIS not is Rocky and cracky and devoid and you can make out There are witches stones, on the other side, very similar to the one salmon here and mirror she walks through this portal onto the other side and the groky craziness you both recognise from your travels around them that is the bone wall, someone in the bone wall, and there appears to be another set of of which is stones there and mirrors walk to this portal to it.
+[01:27:39] GM: But he wanted
+[01:27:42] Garland: She's she's she's crossed. She's correct the grasping gay day. I've lost that knowledge what I can't follow.
+[01:27:51] GM: It's
+[01:27:53] Castor: Casters. Even looking the dead bolting straight towards the portal.
+[01:27:59] Garland: Was The Visit just like a portal?
+[01:28:01] GM: Yeah, sorry. I wasn't clear like it's still open like it's vortex it's open. Still like you could go, you're pretty sure you could go through it.
+[01:28:10] Garland: Arga sorry, okay, so Garland garland recognised this magic as something he used to be able to do, but it's a much more powerful version of that if you could never maintain a bortal and once you realises that it's stable for at least this moment. Yeah he's
+[01:28:30] GM: Booking it, okay. So you both turned right? And I do like the idea you had this graphman gate.
+[01:28:35] GM: So like as the portal opened, like all this sort of like white shale kind of stuff stretched, like it starts to like, pull. It's almost like this, like storm of shale and rocks and gravel that is sort of like being pulled out from the other side right and Mira walks through you both run the Vasque off this horse, he grabs your shoulder Garlandg to prevent you from going, do you assume you're going to try to stop to not do that right like not be grassed, right? Okay.
+[01:29:19] GM: So this is going to be a defined danger role, so this is a defy based on Dex. And if you succeed, you get through, if you fail hill grasp he'll restrain you and then you'll have to, you know, we'll go to the next thing and then well we'll see what you're wrong. We'll go from
+[00:16] Garland: Okay. When we look for From moods, yeah, I define.
+[00:26] GM: There is a fine
+[00:27] Garland: And what I can
+[00:28] GM: Ducks ducks? Well, actually, so it's up to you right like so actually I should not be. I should not be telling you this right like I need to go away from this so like he is about to grasp you on your shoulder.
+[00:42] GM: Right? Like
+[00:43] Garland: Yeah, yeah like, I'm not trying to wiggle out of his grasp when he when I feel a hand of my shoulder, I put my hand on his hand and try to break it like.
+[00:52] GM: Okay, purpose. So this would be
+[00:54] Garland: And
+[00:55] GM: This will be a strength then right? Like 5 okay. So as you go to as you go to grab his hand and break it, Sergeant Iyer on the side, he he also he jumps and he grabs he tackles you to the ground.
+[01:19] GM: And you are going to which called so and as you hit the ground hard, you'll take a condition. You get to get to Cheers.
+[01:31] Garland: Okay.
+[01:33] GM: In described like why do that condition? You know happened right? Like
+[01:37] Castor: Michael is undestructable.
+[01:39] Garland: Yeah, all conditions strength, and it's because I was like I But my back My good man, back yes, I was tackled.
+[01:54] GM: Oh, my fricken, back
+[01:56] Garland: Encluding even I'm H.
+[01:57] Paxton: Jame is hoping for some of that good wood.
+[02:02] Garland: Um. But. I wouldn't since I've now apparently been attacked and taking damage.
+[02:10] Garland: I would say I take a battle momentum.
+[02:12] GM: Okay. Yeah, yeah, absolutely. Okay, so garden so caster, you see you see this happen behind you.
+[02:22] GM: What do you do?
+[02:25] Castor: Castar is the rainfall full pelt towards the portal? Not only that is exercising some kind of power that we haven't discussed yet, but he seems to be running faster than a beaver should be able to almost He's one with the win.
+[02:40] GM: Oh, is this a new thing?
+[02:44] Castor: That's going on. Brinks, between worlds is what I want. We'll kind of want to take for my level.
+[02:50] GM: Okay.
+[02:51] Castor: And that means I can, I can drew it into plants, rocks and basic elements, which includes Earth firewin there. And nice if all he is all about the mirror he's not even given a second plans to go, and he's going for that porto okay, that's cool. So he's just a little modest beater.
+[03:14] Castor: So who's trying to get a wootage who's trying to put in a hand on his shoulder? Nobody well, maybe
+[03:25] GM: Okay so this is like you're going to, you're going to become wind is that was going on. Like something I was supposed to discuss.
+[03:37] Castor: As with the DM beforehand and we didn't discuss
+[03:39] GM: Thank you. Describe what it looks like.
+[03:46] Castor: Just just the beavered vanishes and all a sudden, it's a powerful turn to bear, that seems to be going straight through the portal.
+[03:54] Garland: Okay all right, one of me, what if he's a cloud that look
+[04:02] Castor: Yes, and there was a there was a lot
+[04:03] Paxton: Down.
+[04:04] GM: But a group
+[04:05] Castor: Yeah
+[04:06] Garland: He's just a while.
+[04:07] Roderic: That's even better.
+[04:10] Garland: Like guys he transforms, I becomes the file. It looks like either. And it stretches out as he's speeding along, and then it goes to nothing as he full it becomes, I think that's a cool, beautiful.
+[04:24] GM: So Garlandg now, mc ire is on top of you. He's slammed you onto the ground and he says, this is a captain has not given you leave yet. And I sorry, okay no, please go ahead.
+[04:39] Garland: Okay. II put my hand on on second hardest, and I'm going to use AI. We're going to use my particular set of schools.
+[04:50] Garland: I'm going to try to compelling with threats of violence, oh, and I'm going to say, I'm going to say, I are I know you to be a good man. And I know you to serve my grandson well. If you don't allow me to save his granddaughter, you won't live to see them tomorrow.
+[05:10] GM: That sounds great.
+[05:13] Castor: Oh, so I'm not going to do
+[05:16] GM: Compositive, nice. 7, look up. So I he settle me a look at the compel, or let me see it.
+[05:28] Paxton: With the KH2
+[05:30] GM: So it's because of the advantage. He rolls 336 and keeps the highest 2
+[05:38] Garland: Got it. Yeah, says they if they do what I've favour with them if they don't do it, they have disadvant.
+[05:47] GM: Okay, forward so he says, um, yeah. And we should talk about favour of some point I wanted to keep the system discussions from this one to the middle, what we should add it, but I think it's a good thing. So he says he says I promise me that you'll return her.
+[06:07] Garland: Bring your back the cost of my life.
+[06:11] GM: And so captain ire, you know, reaches down captain vast reaches down to sort of like pick you up again, and Sergeant Iyer grabs kathen captain Vasque, a hand and stands up and he sort of pushes captain vasque back. And captain and the sargeton ire, they start to argue, you know, it was like this isn't supportination. And then Irish is like, I know sir, but he is to the greatest chance to get here back.
+[06:41] GM: And the base shot arguing as you get up garden and you run towards the portal as it starts to close and you jump through, and it closes. And that's worrable end scene.
+[06:52] Garland: Alright. And I'm just knew bad.
+[06:56] GM: Oh, and then to your favour, your favour iron now.
+[07:01] Garland: And that's kind, of course, system, but it seems very complicated and yeah, we should all chat about Y.
+[07:09] GM: Absolutely.
+[07:10] Garland: Okay, free and very fever is an AI.
+[07:14] GM: IY ER exactly, okay, cool, all right, I'm going to go to the bathroom again, and then we'll come back and we'll pick up on for pack stick.
+[07:26] Paxton: I will go body too.
+[07:28] Castor: Spent text
+[07:31] Garland: Ah, the party runs from the body. But what about bill accident? How delaying
+[07:36] Roderic: No, it's got the same thing.
+[07:38] Castor: Use a national treasure
+[07:40] Roderic: No, he is
+[07:43] Castor: For can packs and is a national poison. Is it easy to Texas poison?
+[07:50] Roderic: I don't know anything about Kent paxon. Exception for the one that's playing this game.
+[08:00] Garland: Now here's a national
+[08:06] Castor: While I'm looking at my cat doing f****** QS belly looks. Oh my God, she's a national treasure.
+[08:17] Roderic: It is posted, I just posted a picture of what happened to Televieva Essie went to the portal.
+[08:26] Castor: Oh, no. I'm hard to look Oh, that's much more wholesome than I was expecting.
+[08:36] Roderic: Is turning in the world? But who is a cloud and a cloud?
+[08:41] Paxton: That's he's amazing. A climate on those beavers
+[08:45] Castor: I mean, don't don't act like if you saw that s*** that you wouldn't be terrified because it looks like he's yeah, in the backsa. That is, the giant ascome be red
+[08:57] Paxton: Or that would
+[08:58] Roderic: Maybe everything is just very far back.
+[09:01] Paxton: Soup that you brought okay.
+[09:03] Roderic: It's in the foregottenground by a lot.
+[09:07] Castor: Then, that's a very small podle that's surrounded by what looks to be miniature buildings
+[09:13] Roderic: If you
+[09:15] GM: With this
+[09:16] Garland: For the talent.
+[09:18] Castor: Let's say I see a gazebo, it's going to attack that gazebo.
+[09:23] Paxton: Dakisivo is going down.
+[09:26] GM: Where do you guys guys talking about?
+[09:28] Paxton: The importage, the clown Bever yea.
+[09:31] GM: Oh, I missed that I got it.
+[09:34] Castor: My level love to become an air. Elemental, clown Lord that will cause terror
+[09:40] Roderic: Oh, I would be
+[09:42] Paxton: The cannon.
+[09:44] Garland: Also, Canada is that girl has been great dregingly eating part for 500 years.
+[09:52] GM: Yeah, so we'll have to Okay, we'll have to figure out the bridge between yeah, I doesn't we're going to figure out what to do about like the dreward thing, because like it's what I mean like a tuned, but we're not doing the attune thing, like, just, we just need to figure it out it's fine, we'll figure it out. Yeah. So okay, we'll do it.
+[10:16] Castor: Although the third third trial third prize attempt
+[10:19] Paxton: Right? Exactly.
+[10:21] Garland: All right well, now he can become here.
+[10:24] GM: Ah, so packson you so tell us a little bit about You know, recount the story of like you being in this is art fridge, is that right holls ridge.
+[10:40] Paxton: So yeah, I was, let me just, so I was born in haven's reach and grew up the sun of a dock worker and ended up deciding that, you know, the dock worker's life wasn't for me despite Despite the honestly kind of liking it, but it just wasn't, it wasn't my thing, so I decided to enlist in the spine wardens. These are the these are kind of the pseudo military psudo religious group that that mans the spines, the towers along the bone wall. And so I Guts stationed at the spine that was called hollow reach, it's not the northernmost one, but it's up there.
+[11:37] Paxton: I was kind of I was kind of imagining given that we haven's reach. And then hallow reached that kind of the area up here in the top, right might even be called. Like the reaches, I like it far away from beaconhole.
+[11:53] Paxton: Yeah, it's great. And so up here at hollow reach. The so turns out the spine wardens are a little bit military, like I said, they're kind of psudo religious psudo.
+[12:10] Paxton: Military, there's a lot of rituals and other sort of prayers, and a lot of very aesthetic sort of lifestyle that you live as you try to maintain these words that hold back the whatever it is on the other side, even though spine wardens don't really know at this point. But they do know that it is taxing it. It kind of sucks humanity out of you a little bit as you as you spend time there.
+[12:44] Roderic: No, if these guys are guarding these lights, are, they, are they like lu safaris? Basically, yes, the exact of them.
+[12:53] GM: Actually, just something is important to me is that they report it within like the government, a beaconhole. They are not under the church purseille.
+[13:05] Garland: But they're like, they're believe
+[13:06] GM: They're a developer, yeah, exactly right. But the and like the the government are Beacon, hold is like a staunch, you know, like it is there's not a separation of its church and state kind of thing, right? So everyone like the the head of the leader of the kingdom being cold.
+[13:26] GM: I guess the king right like is like, you know, it's like one of these. Things like the king is crowd is given that position because of the, you know, he has divine right from Lucy fray. He's like, you know, you can like traces like supposedly crazy of the hero, exactly right?
+[13:43] GM: You know something like that, so. But it kind of who well, not the hero okay hero, yeah.
+[13:49] Roderic: Yeah, 8 hero whatever.
+[13:51] GM: But, um, but can you is that? Does that make any difference from you where like is it
+[13:56] Paxton: Oh, no, that's totally reasonable. Okay. So I imagine imagine that coinciding with the events at the the what's called adroom, the yeah, at the nodrum.
+[14:17] Paxton: The awards at At hollow, reach started to fail. Look at um and none of the normal rituals or efforts to strengthen them were succeeding. And one of the one of the guys, one of the elders who had been stationed at hollow reach.
+[14:44] Paxton: Uh. Climbed to know or ritual that would be able to strengthen and And renew the seals, the wards and he needed a volunteer who would sacrifice themselves to strengthen these words. And You know I'm a guy of duty.
+[15:13] Paxton: I kind of knew that yeah, this was this was my time I needed to do this. This would be the fulfilment it would protect my family and the people. Over ofn's reach And so I've volunteered, and so Yeah, and in fact, that happened during the ritual I shat myself.
+[15:41] GM: Make sure that that is a major event in this session logs.
+[15:49] Castor: The entire Para.
+[15:51] Paxton: Was change?
+[15:52] GM: Alright, I feel
+[15:54] Castor: Shad itself.
+[15:55] Garland: Well, if you if you shake yourself and chasing adventure, you shoot yourself and yeah.
+[16:01] GM: So I also think, be right back, yeah.
+[16:04] Paxton: Got that a white
+[16:06] GM: Because of this, I think you have a specific crumble move, right, which call it. So when you crumble, and you die, you come back what you also shake yourself. It's been a south
+[16:22] Paxton: It's just a little bit share.
+[16:24] Castor: Just where?
+[16:25] GM: Okay.
+[16:27] Paxton: Anyway, yeah, ah, so anyway. ISO I've volunteered, and the ritual was performed, and I died. And it worked The the seal was renewed and this spine held from the darkness that was trying to push through.
+[16:55] Paxton: And There was a ceremony, my sacrifice was recognised and I was laid to rest in the mazoum below below Hallowreach. And Then, the next morning as the sun rose, I woke up And I Terrifyed and confused eye. Scrabbled, my way out of some side.
+[17:30] Paxton: Entrance of the mazoum. And I kind of knew something I got my way out of the out of the mausoleum, and the light of the rising sun burned in my eyes and Realised something that The thewards were flawed, there was something wrong with this whole system of protection, and I wasn't quite sure what was going on, but not everything with Lucifer and the light and the wards. Were right and correct and I left to head towards a railion.
+[18:26] Paxton: To figure out what that was. To go to the church and confront the leaders and Figure out what the hell was the truth.
+[18:39] GM: I had a one question on this story is It is that why are you going to rule in and not to like Caven's rich or Beacon, hold
+[18:52] Paxton: That's a good question I don't know.
+[18:54] GM: I mean, I really, and I think
+[18:56] Paxton: Went through a really on in there. But I've got yeah, hybes vibe, I think maybe Beacon hold would be better.
+[19:04] GM: Yeah, in winter's fine is like it isn't matter to me like. I mean, because like I would, I would expect that there would be churches, you know, in all these places and physically haven't reached us closer. I was curious and why you chose one of us.
+[19:19] GM: And maybe you don't know, maybe you were just, you were being drawn there.
+[19:22] Paxton: Yeah, I think that's pretty reasonable. I got
+[19:25] GM: You don't know like you're confused and you're like, yeah, this seems like, you know, maybe like you come out of you come out of the you come out of the like, you know, the site, enter this kind of thing and you know, it's it's dawn right like that seems. To be like a reasonable like symbolic thing. And you look down over the valley and you see the fastest luges, the Beacon but then Beacon is dark, like it's not lit like the way it is.
+[19:55] GM: But then you see the sunlight coming off of the dome of the crisia mean, you're like, oh, that's the lights. Right?
+[20:03] Paxton: Exact, yeah, okay, no I love that that resonies. I was thinking the exact same thing as you started to talk.
+[20:10] GM: Yeah, yeah, I never crack.
+[20:13] Paxton: Yeah, and so I headed down some of those eastern roads towards a really on towards the christum, and before I had even gotten to the first town. The first city, I started hearing rumours from the from the farmer folk. Saying that Carnforth spine, the northern most one that the light had gone out And I said, holy s***, this is This is problematic, and I have an idea of maybe what we can do, and so I turned around and started to head back that way.
+[21:01] GM: Core, okay, but do you have a reason and know is perfectly fine? We can figure out later? I had imagined that every spine had a name for a reason, right?
+[21:15] GM: So holla read his name hallar reach because Of why? At Ann, I'm happy to come up with it if you're not sure if you've decided it was a cool name. But
+[21:27] Paxton: Um. I had picked it because of the word failing and it kind of being a little hollow and then hallowed is also holy. So anyway, that that's kind of why I book
+[21:41] GM: Yeah, yeah. I'm never finding those are like sort of like symbolic, but they're they're like, they're out of getting right? Yeah, exactly.
+[21:50] GM: Okay, I'll come up with a reason. It's fine.
+[21:53] Paxton: Um care and forth I picked, because it is the most distant it kind of marks the edge of of the territory of beaconhole. There is no You know, it's as far as the king's rip goes
+[22:10] GM: By the way, it's the 15th out of 13 towers.
+[22:15] Paxton: Right.
+[22:20] GM: It's so funny that there's that because like it kept having. I think of having less. And unless I'm arguing with the LL I'm saying, you need 13, it's like, dude, there are 13, and then it just added more.
+[22:31] GM: I think more of them that looks good, right?
+[22:34] Paxton: It's like okay if this dude can't figure it f*** out, I'll just give him one more.
+[22:39] GM: In the added more little one, but I'm okay cool. So your Uh, you know you're heading back up through where we're calling this area that reaches yeah, the region. Right?
+[22:57] GM: So you're heading, so you head back through the reaches. In, like Like, so I just try to imagine like this area of this Delta area, you know, there wasn't a lot of easy way to cross these rivers right? Like so, but you know
+[23:19] Paxton: Put say that maybe like one main shipping channel. But lots of little, you know, tiny, not navigable waterways. Just marked marshi.
+[23:30] GM: Yeah, for sure of that as well. We consider that there's like one road. One road through here, right?
+[23:41] GM: So and there's
+[23:43] Paxton: Road into what's a call. But like, I don't know, I was thinking one place where ships with actual shipments of goods could come through this area. And imagine
+[23:56] GM: Yeah
+[23:57] Paxton: And are maybe not like massive sailing show, but still Harper, far
+[24:01] GM: Like there's no reason why not? Yeah, I sorry when I said I didn't imagine it's like I didn't. I never even thought of it, but I think it makes perfect sense, right?
+[24:09] GM: So yeah, later.
+[24:10] Paxton: Yeah, haven's reached seemed like, you know, the the shipping area where they know a little more cosmopolitan than some of the other areas because they're interacting with, you know, sailing vessels that come across the solvium or salivum.
+[24:27] GM: But I'm going to change officially, we're going to change it to sovium, because I think that's how we're pronouncing.
+[24:33] Paxton: It's easy to say.
+[24:34] GM: Yeah, so, you know, it's one of these things that like class suggested, and I was like that looks good and like, I never set it out loud until now, right?
+[24:43] Paxton: Yeah, I guess I get.
+[24:45] GM: Okay, again there. You're right. Yeah, exactly, okay.
+[24:49] GM: So the sovieum, right? Yeah, cool. I don't know what this building is here like, but I'm definitely going to keep it.
+[24:59] Paxton: Some ancient
+[25:00] GM: Ruin, right?
+[25:01] Paxton: This is the Armour, whatever
+[25:03] Roderic: Temple, maybe it's a temple to the water godge.
+[25:06] Paxton: Is it ruined temple to the water gods?
+[25:08] GM: Yeah, maybe I was so like the history of hagans reaches is that it was like I took this from, like basically every European like Roman kind of thing. This is that it was like a Roman fort kind of you know, like a imperium fort, then impairing for like, has been built. Over with another city.
+[25:27] GM: And then like another, you know, there's been like a 1000 years of city on top of each other right kind of thing. Right? So The other ones have been sort of like more consistent.
+[25:39] GM: This one has been kind of kind of like more of a layer. And I imagine that, like it's, you know, sync right? Like so, because marshi area suddenly build over a kind of thing, right?
+[25:51] GM: So yeah
+[25:53] Paxton: Tom little like Venice, yeah.
+[25:55] GM: Make a high
+[25:56] Paxton: So I put despite it being this trading hub of the kingdom of beaconhold, it really hasn't grown. It hasn't expanded right. It's just stayed the same for years and years.
+[26:10] GM: Yeah, it was part of the exactly like effectively. It's like it's like the thing that's like sort of permunate permuating. This is that there's been like this grand stagnation right kind of thing, and so like that is sort of affected this area quite a bit.
+[26:29] GM: But yeah like it's yeah, so okay cool. So as so is, you know, like you're making your way, you know you're at sort of like the Yeah, you sort of make your way through the swaps and marshes and stuff like that. So maybe there's 2 like maybe because clearly there's going to be some road there's going to crosses not show I like to get there and there might be like there must be like a road that sort of like runs along the base of the bone wall.
+[27:04] Paxton: Yeah, or I was even thinking, you know, this this crazy, you know, Pacific Criss trail or appleation trail kind of Hiking path across, maybe not the top of the right of the bone wall, but up in there where you can get between, but it's an arduous long. Journey across these Rocky Mountain tops that have little value.
+[27:32] GM: Yeah, Mat was A
+[27:33] Paxton: Outside of the spineboard.
+[27:34] GM: That was an awful military, you know, row built when these towers were built-in, it has not been, it has not been maintained the way that like the imperium is maintained so like that route is precarious. So but you're like up here like kind of between the between where the reach the reaches and the bone wall are. And it's a weird area because you're going from this area that is like Marcy and wet in vibrant with life to like it's almost it's almost like in thought exactly, but it's almost like you take a step from marshi living thing to dead shale rock kind.
+[28:24] GM: Of thing, right? Like, yeah it's not that there's no life on the bone wall, like or no plant life, but it is far and few between. And so that that transition happened very quickly, and so you are you have not made it to that transition.
+[28:41] GM: Yet you're sort of like on the sort of on the on the precipce of this, and there are, these I think we talked about youdminson. These farmers are like sort of refugees. Maybe is that what's
+[29:00] Paxton: Ah, like maybe some of them sure. I don't think I don't have an opinion either way.
+[29:05] GM: Talking, because you were going to like encounter, I think you would say something about encountering a group of people or something like that it was that right? Or
+[29:12] Paxton: Oh, yeah, just Yeah, like maybe traders, okay, something like that. Who had been trading and buying goods from farmers and things like that. Okay?
+[29:24] GM: Yeah, so like how about like these? This area like you're, you know, making your way up like one of these side rivers, and there is a there's a barge like one of these river barges that we would be taking things from from which called from where haven's reach, would be down to crownvale right and as you're walking, you see, what do we got here? Okay, as you know, you're walking like, you can see the barge ahead.
+[30:08] GM: And between you and the barge and you don't see like a lot of You don't see like the barge is like one of these eerie canal kind of bars, because I just happen to go to the Eric canal where, like there is a there's like a little like building on the barge, right? Where people can like live and sleep, and something like that. So the barge looks like it's more like it's been more than there's a camp.
+[30:36] GM: But between you and the camp, the camp is maybe like a 100 yd away, kind of thing you can see the smoke coming off of the campfire. The smell, like the campfire is being is powered by peat. So it's got like this very like, you know, musky like smoky kind of smell to it.
+[31:03] GM: And in the reeds that are along the river to the this thing is the right of view is where like the bowl walster's come, you see a body or someone is lying in the reeds in front of you. What do you do? It doesn't look like they're like lying in ambush, it looks like they're they're lying like on there
+[31:26] Paxton: Back face now no?
+[31:27] GM: It literally thinks up like kind of kind of thing like on their back, like half-submerged.
+[31:35] Paxton: I hesitate just a moment to see if they're moving, and then if not I approach quickly and see if I can get them out of the water.
+[31:46] GM: Okay, so I think you're scrutinising the situation right when you study someone during an intimate or unscrutinise examin when you closely investigate a charge situation and asked to jam one question about it and roll a wisdom plus role plus wisdom. Is that what you're doing? Yeah, sure, okay sounds great.
+[32:03] GM: So role plus please on
+[32:05] Paxton: Pick your out how to do this.
+[32:09] Roderic: You know what I found out guys? What's that? If you ask a um, an LLM like for something I can't do, and then say what LLM can do it because you can't It doesn't answer you, it just goes into a permanent like cycle, at least that's where it just happened to me interesting.
+[32:30] Paxton: I was like, I don't like you.
+[32:32] GM: What model are you using?
+[32:34] Roderic: ChatGPT, the newest one, whatever it is.
+[32:37] GM: It was like 5 and yeah, interesting
+[32:40] Roderic: And I have a paid membership for it.
+[32:42] GM: Are you asking to the curiosity?
+[32:44] Roderic: Um, so I wanted to make a beaver movie of the beaver running away like, you know, turning into a cloud, running into the portal. Yeah, but it couldn't do that. It could generate all like it generated me an entire like
+[32:59] GM: Like planned for the movies. Yeah, they're video mot, they're videos
+[33:04] Roderic: Can't make the movie united? Okay? Can you suggest an LLM that can make this into a movie?
+[33:09] Roderic: And it just started thinking, and then just kept thinking, and it did
+[33:15] GM: Interesting, can we try the prompt and curious? See if I there should be like a retry like underneath I assume so on ChatGPT like that. See maybe it just maybe they're something weird.
+[33:27] GM: How? But okay, okay, cool. So scrutinis, you got a 4 fantastic.
+[33:34] GM: Okay so but you get to what's so we did this in the wrong way. My fault, okay, that's okay as the GM1 question about it. Then, role so yeah, so what is what's the question you would in hindsight, knowing you're going to feel this question.
+[33:52] GM: And it's going to the answer to this is like, we're going to complicate.
+[33:57] Paxton: Yeah, no I will ask as if I had no idea. At my biggest concern here it was, is this person You know, is this person in danger? Am I going?
+[34:16] Paxton: Do I need to help them though it was? Yeah, is this person in danger? Okay, I think it's
+[34:24] GM: Great. So as you're trying to assess like, you know, you're moving up very careful very carefully trying to assess this person is danger. And It is a good closure.
+[34:39] GM: You're pretty certain that this person is no longer living, so therefore not in danger. But not in any morning, exactly.
+[34:52] Paxton: More, they aren't.
+[34:54] GM: And at as you you finish to assess that you start to feel wrapping around your wrapping around your feet. Some reeds are starting to wrap around your vines or starting to wrap around your feet and you look at me look like vines. But they look like a they almost look like scaled vines like a combination of a plant and a reptile, and it's now scaled around your left foot, which is the closest to closest to the river.
+[35:33] GM: And it has, it's got you grappled what do you want to do?
+[35:42] Paxton: Okay, I'm going to draw my sword and try to hack at the hack at the Vine and slice it off and escape. Okay?
+[35:52] GM: So this is an engager, go ahead and make an engager.
+[36:01] Paxton: Engage.
+[36:02] GM: Okay, partial associ so union retrade low, usually inflect condition on each other. So you're you're able to hack off, but as you as you hack it off the Spind, I come out of the scaled like scaled, like Vine, like they shoot out in your leg. And you take a condition as well, like you're free.
+[36:31] GM: So what you kind of condition are you taking on?
+[36:33] Paxton: Our condition decks that my ancle is kind of twisted or something as I as I hack. And it Quests, my ancle, and I've got a little bit of a limp for I don't know exactly how condition works. This is my first time actually playing chasing adventures.
+[36:51] Paxton: So oh
+[36:52] GM: Oh, because I'm just sorry, I forgot. No. It's okay.
+[36:56] GM: You're doing great given that you engave this with the system more as much as anyone else is in the session I like equal to J.
+[37:06] Paxton: So
+[37:07] GM: Which call it a condition just means that when you make a move using that stat, you roll a disadvantage. Yeah, that makes sense. So your world 2 dies are 3 dys and keep the lowest and then.
+[37:24] GM: Okay. So and just to remember, like, reiterate the system to you, just in general, right? Like, this is that you're going to roll in general, 2 dies plus a stat.
+[37:35] GM: And then you know, depending on the move. Actually sorry, you just ran, you just ran APV AI don't have to explain this tea yea.
+[37:44] Paxton: That's a pet, yeah, no, it's ppta, which is why and I and I read over the A 6 again. This past week, as I was trying to catch up to make sure I was proper condition to play.
+[38:01] GM: Okay, sounds good. Yeah, but they didn't have conditions in which called
+[38:07] Paxton: No, the scroll I
+[38:09] GM: Right like I don't know it was a clock, so it was different. Right. So the way it works here ISIS that you condition.
+[38:16] GM: And when you if you all your stats become condition, then you crumble, and then and crumble, you get some choices, which, for you know, one of the choices to die. But for you, that's not a permanent condition, or you know, permanent state. But uh, we can resturt he can resurrect yeah.
+[38:36] Garland: Oh, that's a full
+[38:37] Paxton: No, not A. Can I have to
+[38:40] GM: That is that is actually a really interesting way to take to consider it. So yeah.
+[38:46] Paxton: Yeah, no, that's so
+[38:48] Roderic: To dive holiday is something back, and back, and back.
+[38:53] Paxton: I don't know his greatest fear. Is what the f*** like can I even die? I was ready.
+[39:00] Paxton: I accepted death like I knew it was the end for me and that was okay. Um, now I'm not dead. What the f*** so ah yeah.
+[39:13] GM: Win, so the other thing is, is when you make a move with the conditioned stat. You get an experience point for that.
+[39:21] Paxton: Okay, and just that, does that remove the condition?
+[39:26] GM: No, yeah, yeah, no
+[39:28] Paxton: Conditioned, until.
+[39:30] GM: You settle in right, or it gets actually probably have read this again. Thank you they can be healed right? Yeah, but it doesn't.
+[39:40] GM: It doesn't just go away that some move has to move it right? Is that right? Everyone yeah, yeah, okay, right?
+[39:47] GM: Okay?
+[39:48] Roderic: And I do believe settling in does get rid of one condition if I'm not missing.
+[39:52] GM: I think they get rid of rid of all of them.
+[39:55] Roderic: I'll double-check as
+[39:58] GM: So Remove all your conditions and refresh armaria.
+[40:03] Roderic: Oh
+[40:05] Paxton: How does that's the one thing? How does Armour work?
+[40:09] GM: It just takes off. It just takes a condition, so like inside you would just tick off an Armour as opposed to get a condition.
+[40:16] Paxton: Okay? Because I've got one thing. I have I have Armour.
+[40:20] GM: Okay, I wasn't take the take the Armour himself. You do not have Armour on your careership, but I get your supposed to Armour.
+[40:28] Paxton: Right, I do, but I just didn't put it in the number I started Armour as equipment. Yeah, but I didn't put it on the Yeah, okay, so one are Armour, so I should have had one okay?
+[40:41] GM: So, you know you have no condition. Okay.
+[40:43] Paxton: Oh, the I went through the okay.
+[40:45] GM: So the spind, you know, like somehow the spines on your foot make, you know, make us it, you're smoky, leather armours, unable to
+[40:59] Paxton: Yeah, well, it's a it's a reinforced leather boot, so as like the spines and the Vine yank at my ancle instead of twisting the reinforcement keeps my ancle from twisting and I managed to manage to pull out, but you know, my that boot ancle is weakened an hour or something that's not going to be effective again. Whatever
+[41:27] GM: What actually you know what it really ISIS that I'll choose the narrative a little bit to make that. So you're good, you're going to you off. But as you off another Vine, 10 to a you know, scaled Vine comes out of the water, and it is the thing with the it is the thing with these spikes on it.
+[41:50] GM: And it slashes you across the slashes you across your chest and ripping like sort of like pulling at your Armour. And so like there's a thing in the water and you can kind of get a glimpse of it. It looks a little round, and it looks like it has multiple tantacles that are coming from it, and this is the thing that like you've never, you know, like you've never heard ever seen it right, and he's as you step by as you step back, you hear a cry for help inside the little like building area on the barge.
+[42:29] GM: What do you want to do?
+[42:32] Paxton: I is it daytime right now, or is it daytime? Okay yeah, then I'm going to I'm going to Leap onto the barge and kind of try to open the door and if it's locked, I'm going to shoulder it open.
+[42:49] GM: Okay, there's no doors. I like the barge they don't have a like AI sort of just to sort of describe a little more like it's. It looks like legisla.
+[42:59] GM: We can all have the same. It looks like
+[43:11] Castor: It's like this.
+[43:19] GM: So well, I said, there's an adore. Yes.
+[43:22] Paxton: Vegan, climbing out of it.
+[43:23] GM: Alright, actually, that's what I look like me. But, um, but this is this picture is the internet.
+[43:31] Paxton: So well yeah, I'm sure you put pictures on the internet before
+[43:36] GM: F*** y** got me Jesus. I admit it. I'm the pictures on the internet so you are the internet.
+[43:44] GM: I have the internet exactly so but all the doors are like the doors in the front and the doors and the side they're all open just like this picture. Right? So if so you're okay so what's going on is someone inside is being is being attacked.
+[44:02] GM: Right like is being harm somehow, so by leaping onto the barge, you can get to them faster, but you will risk being attacked by the tantacle thing in me, in the water. If you run around and keep away from the tantacles, and then run into kind of the side of the barge, you will not be attacked but you'll take longer to get to there.
+[44:28] Paxton: Yeah, I'm leaping.
+[44:30] GM: So this is a defy danger. You are going to be attacked by technical. As you know, leap across her.
+[44:39] GM: How like so you know, you define how you're defying this danger. Right, so like if you're powering through it or you know, dexing or you know, thinking out of the box kind of thing, like, how do you? How do you avoid this danger?
+[44:56] Paxton: Well, mister tantacle, I would like to proput.
+[44:59] GM: Pet, you can use charm yeah.
+[45:01] Paxton: Yeah
+[45:03] Roderic: Ah
+[45:04] GM: I would say that that will work though not this case. Yeah narrative, it doesn't work.
+[45:10] Paxton: That's a different scene.
+[45:13] GM: Yeah, so narratively has to work. Obviously you know that I don't know why you can yeah, exactly yeah.
+[45:20] Roderic: That's sucklements.
+[45:23] Paxton: Okay so yeah, I think The the actuis speeder fineness, I'm just sprinting straight past it dodging any sort of little moves that it does and leaping my way onto the boat, perfect godmoth. So to do okay, let me see it. Says plus decks I'm not sure how to make it.
+[45:50] GM: So when we click
+[45:51] Paxton: That particular, you know, that's not
+[45:54] GM: Got it. So when you click the file, I think it should tell you.
+[45:58] Paxton: No, yeah, okay, just seeing the yach, perfect.
+[46:03] GM: Okay? Great, so Yukian. So it's it leaves out of the water, and it will it roughs around your sword, and if you can either Leto the sword and make it onto the boat or you can or it's going to which call it, yeah so that's a bit of the bargain, right like it's like, I think costume sacrificing regular choice so you can do this, but it's going to pull your sort away.
+[46:46] Roderic: Resorted, go in with it.
+[46:49] Paxton: Tasks?
+[46:50] GM: You'll be in the water with it, but you'll you'll have your sword right? Like A
+[46:58] Paxton: You know what? I I'm more worried about? The person on the barge f*** the sword, I can get that back later.
+[47:05] Paxton: I'll go swimming perfect. Okay, I'm going to let it go and leap onto the leap onto the bar.
+[47:11] GM: Okay. So as you're in the area, the technical restaurant, you're sort of pulls it out of your hand is you land on you land on the boat. 33 point landing super year landing, and inside you hear a youar The Sound of a Woman she's crying for Help and you around the door and you see you see a Woman that is there is a another one of these tantacle creatures is like this round creature that has a few.
+[47:49] GM: Stubby kind of like insect kind of legs, and it has these a bunch of various tendacles, maybe 6 of them that are that are our sort of whipping around and she's in the corner and it's not her, it's got her pinned and you recognise her her, she is senable she's also a spine wordn, but she is a spine warden from sorry, she's a spine wordn from her Reece. She's someone you you served with. Oh, sure, and so she's in the corner she does, she doesn't appear to have a weapon?
+[48:33] GM: And she's sort of on the corner and the spine creature, is, you know. And there's like various boxes, and like which call it and Which card and barrels in here, right? So like it's a it's a constrained environment.
+[48:54] Paxton: Yesterday it is a long time I So I haven't totally pictured yet. How this is going to work? So that's figured out forgive of me.
+[49:05] Paxton: I've got this. I've got this unleash radience where I can fight using light as a weathon, so my intent, I guess a little bit that picture of fighting dire coyotes yesterday, where I can just kind of conjure light which is part of the I can create light so Um yeah. I'm going to I'm going to just extend my PaLM and fire a beam of like burning solar radiation at this spine creature.
+[49:41] GM: Sounds great. Oh, cool. Okay, fantastic.
+[49:47] GM: So you heard a foe, but choose one you can cause unlimited. You can cause unto you cause an intended cloud damage. Perhaps Choose and burn one of your fire.
+[50:01] GM: Traits, what is that?
+[50:03] Paxton: Yeah, so my fire has different fire. I should edit it. My light has different traits.
+[50:11] Paxton: It's distinctive so like people when I use it, people recognise that it's not that it's mine somehow I don't know exactly how yet, but it's fieries, so like
+[50:23] Garland: Sugar hands. It
+[50:24] Paxton: Yeah
+[50:26] Roderic: Purple.
+[50:26] GM: Okay.
+[50:28] Paxton: And what it's distinctive fiery near restrained? If you look at the bottom left of my character sheet where it says fire brand this is the traits of the fire.
+[50:40] GM: Oh, I see that.
+[50:42] Paxton: Some restrained so many allies have Armour against it, and it's spontaneous, which means I can create it rather than just use it pre-existing. So that's where I was saying it can come from my hand I see. Ah So that's what my fire's traits are.
+[51:02] Paxton: Um, but I want to draw unwanted attention.
+[51:06] GM: Okay. Great. So you assume you are going to does.
+[51:13] GM: Yeah, see you heard the phone, so I assume it's it's going to be a condition. So you which call it, so you hit this, and it has it also has Armour the scales on it and it bursts the Armour, and it turns towards you right and thinking that maybe this is the unwanted condition attention, but this is not the unwanted attention, I think this istention the unwanted attention. Is the one that has crawled in behind you?
+[51:48] GM: Which, from a below a wielding your sword, and you were now, you were now flinked by these two things. And what do you want to do?
+[52:03] Paxton: What does this ladies name?
+[52:05] GM: Her name is senna.
+[52:09] Paxton: That's a good name Sn A
+[52:11] GM: SEN and a exactly
+[52:13] Paxton: Okay. Senator you hurt, can you fight?
+[52:19] GM: I'm I. She's sort of seems to be like, yeah, a little disoriented almost, and she says, I can help I can help.
+[52:37] Paxton: I'm okay. You take the one inside and I turn to engage with the one The one with my sword. And I'm going to leap at it and try to wrestle my sword back.
+[52:53] GM: Okay so you can do that. So that's that would be an engage as well.
+[53:08] Paxton: Their endage.
+[53:09] GM: Yeah, that's an engage. But instead of instead of flooding condition, you'll take, oh no, actually yeah. So yeah, I can take something yeah.
+[53:20] GM: Exactly right, for example, yeah, perfect. Hey, okay. So as you so you leap at them and you start to wrestle, and you're kicking and punching this thing.
+[53:36] GM: So both of you take conditions, right, so like it's Armour is also affected. You take another condition. Okay, but it still has your sword and it, but it's not fighting with it's like it's the sword is kind of like in its headical doesn't really know how to do it to use it, but it is spotted these like they're almost like they're actually literally like roads, thorns that stick out of it's chemicals, right?
+[54:07] GM: And that's like ripping into you right kind of thing. So
+[54:11] Garland: All right, please can. Are you. Did you already have strike mark when you did?
+[54:17] Paxton: No, just marked it procode. That was a condition.
+[54:20] Garland: I wanted to make sure that you took experience yeah.
+[54:24] Paxton: So
+[54:25] GM: Suck army Armour earlier, right? Yeah, yeah. Yeah.
+[54:29] Paxton: Sorry, I condition strength there.
+[54:31] GM: Okay. And so you're fighting it, you're sort of wrapped up, you turn, and you see that Suna she is kneeling down next to next to one of the spine creature you had, like, hurt the Armour on. And her hand is touching it in her hand has become scaled.
+[55:00] GM: Similarly, to the way that the way that the which called the spine creature, is and is restoring the scales on it. It looks like she's healing.
+[55:14] Paxton: Oh, s***.
+[55:15] Roderic: Haha.
+[55:16] GM: What do you want to do?
+[55:21] Paxton: Ah What the hell are you doing senna? Stop this?
+[55:29] GM: She says you'll see soon, you'll understand and she looks up in her eyes which you didn't notice from her way they look almost for Tillion now
+[55:43] Paxton: That are fun.
+[55:45] GM: And you're not entirely sure that maybe maybe this isn't centre.
+[55:52] Paxton: I'm A I'm going to again. Do the light thing like fire? That beam of fiery light, but I'm going to do it at the boat, trying to light it on fire.
+[56:08] GM: Interesting, okay, so does the in we're establishing now so does your beams of light? They can light things on fire. It was fine.
+[56:18] Paxton: A tiries is one of the is one of the Whatever?
+[56:24] GM: Pretty? Oh destructive fiering near awesome. Okay?
+[56:27] GM: Great, okay, and to what end?
+[56:31] Paxton: So what I'm trying to do is like this boat on fire and have them. Earn while I leap into the water and escape.
+[56:42] GM: Okay, so your scape, so this is this is the intention to escape, right?
+[56:47] Paxton: Yeah, so okay.
+[56:49] GM: Fantastic. So, you Ah, so you can like the bone on fire. No problem, it just a matter of escaping, and what I'll say you can do ISIS that this would be defy danger decks, but you can do it with advantage.
+[57:08] GM: Okay, how's that Saudi and I keep calling to find danger, because that's what it's called in dungeon world? They started to defy totally. Alright.
+[57:19] GM: So you click, you're going to click, um? The wall mode you see Woo mode you're going to click advantage, and then you're going to do
+[57:27] Paxton: I think you don't want actually I'm going to change I'm going to change that I do want to light the boat on fire. Okay, but as it's on fire, I want to try to get my sword back.
+[57:38] GM: If that's okay, okay, that's that's okay. So I'm that then you're going to engage again. But no advantage
+[57:47] Paxton: Yeah, that's fine, no advantage. Okay, normal roll. But yeah, basically I want this these flames I want to shoot the flames kind of inside the the room first okay, maybe make it harder for them to come after me right?
+[58:07] Paxton: Anyway, um, okay.
+[58:11] GM: Haha, okay. So you should. You should the flame in as you try to like it.
+[58:16] GM: Your sword, you're kind of just trying to do too much at once. Only did you see the game? 1XP from using a condition
+[58:23] Paxton: Against that's a nice that's a nice little remember.
+[58:26] GM: Understanding, I mean that I mean all well, so I'm Claude, made this in my under direct
+[58:33] Paxton: In your hon.
+[58:35] GM: Exactly, okay. So I want to Okay, so you So as you should the Flames in and it starts? It starts to burn and you you engage it, your sword as you go to engage, you get your sword, the tendtle beast from inside wraps a technical around your around your awaist, and pulls you in so you can flying back, take a condition.
+[59:10] GM: And you are now laying at the feet of it in centna, while the boat starts to burn around you and senna. Senate, it sits down, and she says she says, my friend, you're not the only one who died in reborn at the tower. We've all been reborn, but you were reborn wrong.
+[59:34] GM: We were reborn in the vision of Moldrex.
+[59:42] Paxton: Well, I was reborning the vision of lucer at this is not right Moldrex, will not Conquer us and I you know, shoot more fired to raise the flames even higher.
+[59:56] GM: Okay, are you amazing immune to fire? Alright, no okay. Yeah, I didn't think so okay, it's fantastic.
+[01:00:03] Roderic: You do not want me. He could take in the future, though.
+[01:00:06] Garland: You do have one Armour against your viral, right?
+[01:00:09] Paxton: Yes, I have won Armour against my fire, and my drive is act callously or recklessly above death.
+[01:00:17] GM: Okay, how it was.
+[01:00:18] Garland: Yeah, I was kind of reading. What you are putting
+[01:00:23] GM: So
+[01:00:25] Paxton: Now if I need to kill there, if I need to die, whate
+[01:00:29] GM: So you're doing that's happened before you're unleashed radiance on them, right?
+[01:00:33] Paxton: Yeah, yeah, okay.
+[01:00:35] GM: Go ahead and so we'll be fighting. Scrolled down about again. You know, fantastic.
+[01:00:42] Paxton: That's the only thing I can do well.
+[01:00:44] GM: I saw your so tell me like I should have been I should established beforehand but like it isn't it? So you're just causing the fire to grow more. Are you shooting more fire?
+[01:00:58] GM: Like what does this look?
+[01:00:59] Paxton: Like, yeah, yeah, I'm shooting beams of light, essentially from my hands. And causing the insides of this barge to just get completely engulfed in flames. Okay?
+[01:01:19] GM: Ah, and then so So you will, you will kill them all. But you will take, how do we want to do this? So then I okay.
+[01:01:37] GM: So you're okay, like, I think it makes sense here, that, you know, the boat burns into bursts in the flames and you're not immunifier, so you die too, right?
+[01:01:52] Paxton: I think there's kind of 2 choices. Like one I die, 2 or 2 because of the you and nearby allies have + 1 Armour against it. Maybe I can burn that Armour and use that I think burn that Armour whatever, right that Armour, and I'm able to leap into the waters outside either one
+[01:02:15] GM: Okay, all
+[01:02:18] Paxton: Fears, obviously.
+[01:02:19] GM: I don't know. I don't think it's one of the other, so because you've got a success, right like as straight of success. So like, but narratively like the boat is going to burn down right.
+[01:02:31] GM: So like and you're not immune but you do have marmar from it. Okay, so that's fine. So what is your?
+[01:02:38] GM: What is the you? Heard the fro, but choose one. What are you in a kidnappy unintended clattal damage that doesn't make it.
+[01:02:44] Paxton: No, no, this is intended.
+[01:02:46] GM: Exactly right.
+[01:02:49] Paxton: In fact, the river lights on fire and Okay, anyway, I think I am going to to burn the trait near. I don't even know what that means. Right now, that was one thing, I didn't quite effort.
+[01:03:05] Garland: Mira means that it's only used like you can't shoot stuff. It's far away like that those are tags that gets put on weap.
+[01:03:12] GM: Exactly. Yeah.
+[01:03:13] Paxton: Yeah, it's useful when they're close enough to speak with even if you have to raise your voice a bit so like, but I don't get how that would I'm going to
+[01:03:25] Garland: Or like remind me to data is that the only thing you can burn that you choose, but like oh like I'm the burgeoner, then now, weapon doesn't have a distance tag, and that you can't
+[01:03:36] Paxton: Ray, yeah, okay. So all burn the restraint.
+[01:03:42] GM: How are you getting near? By the way, I don't know like when I look here.
+[01:03:47] Paxton: Yeah, I see. Look at spire brand it's not in yeah, it's not in bold, it's just Distance fiery oh I see the fire part of the okay, got part of the emilator like that initial move.
+[01:04:02] GM: Seat, ah. Yeah, okay, I'm on firework. Got it.
+[01:04:13] Paxton: Right? It's so in the text, it says it now think you have come a fiery and near when you fight with it additionally, choose 2 traits. Oh, that's and that's what Jay's saying.
+[01:04:23] Paxton: And that
+[01:04:24] Garland: Yeah, I think older technically can just
+[01:04:27] Paxton: Okay yeah so yeah, I'm going to I'm going to burn the trait restrain. I don't know how to note that, but
+[01:04:39] GM: Just so much.
+[01:04:44] Roderic: But camp that can't be used. Restraint can't be used a pill. You've taken a rest right or something like that.
+[01:04:52] Paxton: I don't know if this handles mark down. No, but I will hmm. Okay, okay.
+[01:04:59] Paxton: So you know what I mean?
+[01:05:01] GM: So near it means like, you know, like
+[01:05:03] Paxton: Yeah
+[01:05:05] GM: I don't know like 10 feet 12, you know, something 15 feet, maybe something like that, right? You know, like a IND, it would be like 3 squares or something like that.
+[01:05:16] Paxton: Yeah, it basically near on in this says, yeah, it's been speaking distance even if you need to raise your for.
+[01:05:23] GM: Oh, you even need to raise your voice. Yeah. So maybe even like, um, like 30 feets like one.
+[01:05:28] GM: Yeah, okay, cool, yeah clear. Okay, I got it of cool. Okay, so you So if you burn restraint, isn't that the reason why you were going to survive?
+[01:05:40] Roderic: Well, yeah, that means he doesn't hurt his friends, right?
+[01:05:43] Paxton: Or or myself? Yeah, okay. I'll burn the spontaneous then.
+[01:05:49] Paxton: So I can't create like for the time being.
+[01:05:52] GM: I'll let you do restrain. It's finally you got a success, it's fine, whatever let's not let's not spend too much time on it's okay with God whatever in The Strain. Okay, so you're so narrative, what happened?
+[01:06:04] GM: Do you escape like? So tell me what kinds
+[01:06:08] Paxton: Yes, so I'm like laying on my back in the in this In this little building on the barge II fire my light beam up at the roof at 1 of the supports for the roof that is already burning, and it just erupts into flames and billowing like, you know that like billowing flame cloud thing that you see in movie effects. That's essentially what happens here, just rolling cloud of flame. First through this.
+[01:06:49] Paxton: Bursts through this cabin and The the Whoever it is senna or senna, the senna Shaw of old tracks. And her 2 spiny minions. Also erupt in flame.
+[01:07:12] Paxton: I I roll out that open door on the side and leap over the leap over the edge of the boat into the water.
+[01:07:26] GM: Okay, cool. And then so you hit the water I because you you did restraint like I just want to add a little narrow to like you hit the water. But you're your not burnt, but you're hot that it like the water sort of sizzles as you enter it right like almost like rapidly cools.
+[01:07:53] GM: You down kind of thing, and the barg sort of starts to starts engulf in front Flames and Uh, you hear you hear Senna shark to scream. But then you hear other yells for help and screams as well as it seems like there were others on the barge as well, maybe stoed away within the within the witch, called within the like the boxes and cargo, and they all they all burn in front of you as you stand in sort of like this. That's waste.
+[01:08:38] Roderic: Well, aswards, that's where senna was in that box.
+[01:08:43] Paxton: Reelz
+[01:08:44] GM: We'll cut our way back to just terrims to sort of finish up his scene, and then on the world will end here, and I think it's a reasonable place to sort of establish things so cut back to which called Roderic and Roger. You were going to try to track down someone who might know about who might know about, which called, you know what happened is resolved, right? So Ah, so I think this is going to be I think this is going to be an exam in kind of thing.
+[01:09:23] GM: I mean, let me see how to figure out how I might do this, because like this is clearly probably, and I guess like there's a there's a move which called, ah I don't know. You know? Okay, so this is where this is where I'm going to people?
+[01:09:42] GM: Yeah, so this is where I'm going to well actually let's see what do you. What do you have a move? One.
+[01:09:47] Roderic: Can you closely investigate a charge situation?
+[01:09:52] GM: Hmm, yeah, I don't think that's right.
+[01:09:54] Roderic: How can I get an upperhand what would happen if
+[01:09:58] GM: Politically.
+[01:09:59] Roderic: Control yeah, it's scrutinised, and you study someone during an intimate or prying note.
+[01:10:08] GM: Okay, no, it's connect, is clearly connected, says, and you've got advantage on here, right? So there is a whereas can. Yeah, I think it's yeah, so it is the move.
+[01:10:19] GM: Connect, and when you connect for the fellow member of your organisation, you may choose to favour them to gain in advantage on the rule. So I think this makes some taster. So you can choose if you're going to choose a favour of them, if you declare that you favour them gain in advance of the role.
+[01:10:50] GM: Oh, yeah, so it just like this? Gives you narrative advantage to do the the which called the connect with them.
+[01:10:58] Roderic: I'm making sure these are my friends from other like departments and stuff like people I knew so I'm assuming that I favour. Okay, they favour me here.
+[01:11:07] GM: So let's talk about favouring real quick, like so favourite represents gratitude on our responsibility, our debt between pcs and another character. Right? So character of favours.
+[01:11:16] GM: Another, we'll feel inclined to act in their interest, even it's just to pay off a perceived debt. So it's not like a you know, a regular, it's not like, oh I like this. It means like you feel like, you know, embedded to them, right?
+[01:11:29] GM: Like Banned. So tell me who you're connecting with, and whether you fade them, favour them or not.
+[01:11:43] Roderic: Yeah, I'm going to assume my favourite them, and it's going to be Um.
+[01:12:05] Roderic: Archbishop Gregory and basically he overseas, the The Um. Your others, the clergy, uh like he's the administrator who basically says, okay, this is what you guys need to do, and you need to or am I trying to say like, basically, HR kind of okay, he he accepted that he's the person who actually puts them in the positions, you know what? I mean, like operations, that's what I'm trying to say got it.
+[01:12:44] Roderic: So these kind of operations for the church, and he puts people in the various places and what they need to do and like he knows, okay, I'm assigning these troops over here, I'm assigning this person here, you know, and so he would probably have the best idea as to bear where father griswald is
+[01:13:06] GM: Okay, sometimes sounds great. So go ahead. And roll.
+[01:13:09] Roderic: Ah, kind of favour. Do
+[01:13:11] GM: Yeah, okay, it's a good it's a good question, right? So when you're when you favour someone you note down other name, and the deals behind the favour, 2, you're going to museal favour soon, and then so favour means that they can when you accomplish senative task, or someone you can choose a fair to them, or when you act against someone you favour. Or deny their requests?
+[01:13:37] GM: Then that's a refuse. So like which called there's you can see there's like the favour moves down below end of you debe Frank, just to be clear, like I've never engaged with this system before. So I like this will be new for me as well.
+[01:13:57] Roderic: Oh, got it okay. Interesting. Oh, they can kind of do these things to me.
+[01:14:20] GM: Yes, exactly.
+[01:14:21] Roderic: I'm favouring him.
+[01:14:23] GM: Sort of like I all moves are done by a player, but like as AGM I can say, okay, they're they're asking you to do this thing, right? And if you refuse, that is your move for that, but yeah, it's a little funki, we're going to try it out, we'll see
+[01:14:39] Roderic: Okay.
+[01:14:41] Garland: Relationship, a current cognitive enabled proventional figures
+[01:14:45] GM: Okay, cool. So you connect and Okay, when you clearly know an N PC you can help and go look for them if you declare a bubble, okay, you eaily find them in, they're willing to help. Okay, so where do you find them?
+[01:15:05] Roderic: I would assume in their office like in the India, what is that area called like? Where all the bureaucrats are? Okay.
+[01:15:17] Roderic: Well, you know
+[01:15:18] GM: Bureaucray, it's fine like out, but um, is it like in the so we haven't establish a lot and Beacon, hold right? So is Is it like a church?
+[01:15:29] Roderic: Even holders where the main churches right?
+[01:15:32] GM: That is that is the capital and the main church. I mean the people I'm sure
+[01:15:37] Roderic: I wrote to the main church and I'm sure it's like almost like a mini Vatican where it has like everything there you know what I mean.
+[01:15:44] GM: Yeah, well yeah, I want to be. But it is the main church now, but it was it doesn't initially mean like it would have been like the seat. This is not the place where loser for was from, right like so, it would be gram, but not like a Vatican kind or like, you know, as grand is like the Vatican kind of thing.
+[01:16:05] GM: Zarming.
+[01:16:06] Roderic: Is that somewhere else in this value?
+[01:16:09] GM: Oh, that's no not in this valley somewhere else in the world. This place was like this place was like sort of the Western, the eastern reach of the imperium. And this like these fastest luche, which I'm mispronouncing these marked like quarter to the borders of the imperium, so there's several of these, like giant towers, they kind of the market, so yeah
+[01:16:33] Roderic: But. This Like of this whole area. Yes, it's a place that's in charge.
+[01:16:39] Roderic: Yes, 100%. There's like a school here. Yeah, there's like a massive church.
+[01:16:43] Roderic: There's like, you know, a place where they give out oms to the poor you know, things like that.
+[01:16:50] GM: It was like I like a religious district almost like Y.
+[01:16:54] Roderic: Exactly as well, it would assume there'd be a bureaucracy building. Yeah, and I'm going to go in there and that's a real going to just give me with this archbish.
+[01:17:01] GM: Imagine quick like is the is it part of the city, or is it like is it like separated from the city? Like, is it its own little? Its own little like golds.
+[01:17:13] Roderic: Be a district within the city, almost like, you know how there's like a nobles quarter quarter, usually and like, you know, slums and things like that in a fantasy city, maybe the same thing.
+[01:17:24] GM: Okay, I kind of imagine it. That's what I was kind of thinking too, right? And so and then maybe like where you are is like you get to be at a part of the sort of like sequet like secured for the rest of these like walls and there's a place where like, you know, the commoners can come, but it's not in this part, it's like, you know, it was like the whole like Swiss guard, you know, that's a Vatican thing, but like, you know, you're able to get into this area that it's not quite it's like a mini Vatican, right?
+[01:17:53] GM: It's not the grandeur like, yeah, okay, cool. Okay, so you're in here, and so as you enter, you know like you've You're being here before but like, you know you're reminded again, that well, this place used to be A place that felt wholly to you. They felt unified, and like you see little signs of this of this discism that seems to be going on people that walk by each other, they used to walk by that you would say, you know, high too, they look at you.
+[01:18:30] GM: Sort of like with disregard, and that maybe is not entirely unclear for like what your history is here, but like, you know, is that for other people as well. There's this
+[01:18:40] Roderic: And feel like darkness is getting in like is almost like a feeling of darkness, or does it feel like just that? There is there's a tension in the face.
+[01:18:51] GM: What are the second one? It's not like you feel like you're. You're used to like, you seen darkness before, and it doesn't it doesn't strike you as like there is this external force like puppet, you know, puppetry, kind of thing, it's like these people that you remember all used to have like a like you've interacted with other.
+[01:19:14] GM: We've talked about, like other these states, these other kingdoms, they have different sort of views of how the light should be viewed right like summer, very like some are very like. You must worship at the light. And if you don't, we're going to kill you other one other like began holders, relatively, we had established relatively open to it, you know what it feels like, actually I'm going to say it feels like the United States today.
+[01:19:44] GM: It feels like people are like, oh, this is mag this a livtard, right? You know, like there's annimosity there and you could argue that Trump is the darkness is causing all that, but there's no Trump in the scenario.
+[01:19:58] Paxton: Yeah, thanks, Lord.
+[01:20:00] Roderic: That's realise, unlike this world.
+[01:20:04] GM: Play.
+[01:20:04] Paxton: Well, 10 impacts in both
+[01:20:07] Castor: Call
+[01:20:08] Roderic: Bear all right. Set, I have no idea who this kind Boxing guy is, but it sounds funny.
+[01:20:14] GM: I actually don't know who came back then is either. But
+[01:20:17] Paxton: But the Attorney General of Texas, but anyway doesn't matter.
+[01:20:20] GM: Oh, okay. And so then so you enter the bureaucratic area. I'm sure it has a religious name, and you know you find Gregory, right?
+[01:20:34] Roderic: To saint in victory.
+[01:20:36] GM: Yeah, exactly. And subgragory, you know, he sees you, and you know, he gives you like the indicator that you know, he's he's happy to see you kind of thing. You know, like I don't know you're like a you know, puts his hand on your shoulder and he kisses.
+[01:20:51] GM: Your hand and he says Short light bear. It's it's very, it's very good that you're, you know you're back in the fault I'm you've returned in a precarious time.
+[01:21:07] Roderic: Artwork archbishop.
+[01:21:10] GM: Bear roboting, at least to me. And now your God Book, oh, my God.
+[01:21:22] Roderic: No dog.
+[01:21:24] GM: What happened Gregory says this is really not cool. Surlight bearer. He had no again now, again.
+[01:21:32] Roderic: Brief I was weird, I hadn't I had to hang up my thinking.
+[01:21:36] GM: Oh, now we can't
+[01:21:40] Roderic: Bath, okay, anyways. It, you know, you
+[01:21:46] Paxton: You can't know. I think you need to turn it back off and well you're still roboting like you're just breaking up.
+[01:21:51] Garland: We're grabbing like half of
+[01:21:54] Paxton: Good Halana. They went from, we went from you can hear a pindrop to, can you hear me now to
+[01:22:08] GM: It's like it's not, it's it?
+[01:22:09] Garland: Yeah, but we're not
+[01:22:14] Castor: Hello, luck.
+[01:22:16] Paxton: The incidification of everything
+[01:22:22] GM: Okay, so let's talk about some because I know Kenny, you could probably gotta go here soon. So So I know that this was session wise, you know, like I got to play the entire thing and everyone just got to listen to a lot of it, so I apologise by that. But I think it was A I like the ability to sort of like establish the individual stick.
+[01:22:44] GM: So hopefully that was okay for everyone.
+[01:22:48] Paxton: Totally.
+[01:22:50] GM: Um, so let's go.
+[01:22:53] Castor: Or maybe not for some people.
+[01:22:55] GM: Exactly.
+[01:22:58] Paxton: Apparently not from Ramsay, that's why he left. He's braid quit.
+[01:23:01] GM: I wanted to suck this up as like, you know, like a be able to set up the next thing. And I think we sort of was able to I was able to forish out all the stuff I wanted to force this sessions. That's great awesome, okay, good.
+[01:23:16] GM: I'm back. You're back, okay?
+[01:23:18] Castor: Drop
+[01:23:19] Paxton: Back again.
+[01:23:20] Roderic: Oh, my God I just noticed your picture. You're writing a lock dragon that's so cool.
+[01:23:28] GM: Anyways, okay, so he said, you know?
+[01:23:30] Paxton: Yeah, it was so quiet. We can hear as balls drop.
+[01:23:32] GM: You returned at a pacarrot, he says, you returned that a you know, you sort of chooses word carefully precarious time.
+[01:23:40] Roderic: Yes, I'm glad to see that you are still um embolded by the light.
+[01:23:48] GM: What can I do for you, my son?
+[01:23:52] Roderic: Are the griswald is missing?
+[01:23:54] GM: Yes, many many of the lifes faithful are missing. Unfortunately, I'm not entirely sure if If there's an neffarious end where they're, they have left to try to 2 further the lights agenda He seems to be choosing his words very carefully. And as he talks, his eye is sorted dart around a little bit like he feels like he cannot can be completely open.
+[01:24:26] Roderic: Do you know if anything that had happened? That has caused any of us.
+[01:24:32] GM: I can only say that scholars have some scholars have reported inconsistencies with scripture and historical events, and we do not know why, and at this point at this point which called Roderic, you're standing like in this office and in behind where Gregory's desk is it's like this. Desk, that is a it is a it's a it's a big out of a big scale like the scale of maybe a dragon or a serpent or something like that. And behind him is these bus of the heroes, of the imperum, and you're familiar with one of you studied them, and you now notice that one that you know, very well, Sariel is not among them, even though you knew that he was here every time you came in.
+[01:25:35] GM: But you do not you do not? See him here, and so as he says like there's been inconsisten, descripture and some historical offences of that way, we're not sure why this is when you really holding in and notice that the Sariel figures is missing or like the statue that is in this office is gone.
+[01:25:54] Roderic: Now at the game question, okay, no, do I know that everyone else has forgotten Sariel, no, and that only I remember him, no. No. Okay, then archbishop Gregory.
+[01:26:09] Roderic: I see, I see that one of one of the What are these things like the hero? Yeah, one of the heroes of the imperium is no longer buyer. Desk.
+[01:26:25] Roderic: Is there a reason for that?
+[01:26:26] GM: He turned right and he looks and he says he says, it's the 5 like normal, and you know that there's 6 of them, but he says the 5 are still here, which one is missing my son. Oh, he says that one is definitely not missing. I'm just joking it, just you robot it and left.
+[01:26:50] GM: You're amazing.
+[01:26:54] Castor: Oh, my gosh.
+[01:26:56] Paxton: He really is missing.
+[01:26:58] Roderic: You hear
+[01:26:59] GM: Now WeChat yeah
+[01:27:01] Roderic: Okay, I say what about sorry?
+[01:27:04] GM: He says, I do not know I do not know that one my son.
+[01:27:11] Roderic: Who suffers trusted man? The uh was the general of lusafer's armies.
+[01:27:17] GM: Who says I'm I didn't. I've caught me off guard here. I
+[01:27:27] Roderic: Last time I visited your office, you had him there and I point to where it was.
+[01:27:32] GM: He said, he's a combat. So he's just walking, I didn't say he walks over. And we're like, you know, his where that bus would be, you would expect like if it was removed or something like that there would be like duster or like some indicator but the layer of dust across it is like it never existed like it was never there.
+[01:27:56] GM: He said, there's the light has many powers, but uniformed dirtiness is not one of them.
+[01:28:12] Roderic: Interesting.
+[01:28:14] GM: I've known you for a long time like bar since you're a little since you're a little lad since I trust that you're your intuition here. But I can tell you I know nothing of the Sariel, maybe maybe this is part of what is ailing us? This man is great like you said.
+[01:28:36] GM: If he's not longer here, it's possible. His impact is his rippled through scholars should look into this for sure. I'm i'm just a so you know, I call myself an old bean counter but
+[01:28:53] Roderic: I think it's nice necessary that we do look into it. Um. I'll take the task upon myself to see how we can hopefully fix this in the future.
+[01:29:06] GM: So that I would say, be careful, given that these members have, well, maybe he pauses a little bit. Well, I remember griswal like if what you say is true, and the Sariel is now missing. Is it possible that data has had an effect on causing Griswald than the others to also have vanished that I mean, I remember them, we all know them.
+[01:29:34] GM: So I don't know something is definitely Arry.
+[01:29:41] Roderic: Yes, I agree. This is not like this is not like a Sariel. He wouldn't just abandon his post.
+[01:29:50] Roderic: Do you have any word or I mean griswal, this is not like griswald he wouldn't just abandon this post. Do you have any notion of when these people disappeared?
+[01:30:01] GM: The dinner of disappear. Once for sure they would retire one night and then began the next day, there was no signs of foul play, no Signs of forced injury. It is almost like they've left on purpose and no one to see them leave from.
+[01:30:24] Roderic: Any of these people who have supposedly left been found.
+[01:30:28] GM: No, not yet, we do have people searching for them. I do know that the coronavisual is very concerned about this as well as that's how I know normally when if the coronivil suspected a heritic and had removed them, they would act in a different way, and I do not believe that they're behind this. I do find this very troubling, and he's sort of lifts his he lifts his robes up and you see it tucked into his belt is sort of like an orinate ceremonial dagger.
+[01:31:11] GM: He says, I sleep with this now.
+[01:31:17] Roderic: I understand. And children. Of course, I mean, it's required.
+[01:31:26] GM: Exactly right, yeah.
+[01:31:29] Roderic: You must have at least 3 children a month.
+[01:31:32] GM: Claudus, for your notes, the child thing was a joke. Child thing was a joke.
+[01:31:39] Roderic: Looks in the house A Okay. I thank you for your help. If you hear anything please, I'll keep me informed.
+[01:31:53] Roderic: Um. I I'm just journey, too. Request yeah, to the spine, the weast.
+[01:32:06] Roderic: I need to investigate something that's been happening.
+[01:32:10] GM: Hours? Yes, the the spines they seem to be a rise well, maybe it has something to do with this, I would just say, be careful on the road there. These seem to be dynamic and treacherous times
+[01:32:27] Roderic: Well that's why I always sleep with this. And I tap my sword.
+[01:32:33] GM: So, very good. Well, we'll end there, so we'll be the end of the session, and then
+[01:32:40] Roderic: Ball, protect you.
+[01:32:41] GM: We're all using start at the bone wall next session. I think this lined everything I don't know if you're gone. But I was, I was saying, like, ah, sorry if this was disjointed for everyone but I think it was a good disor of establish these things and set it up for the next session.
+[01:32:59] Roderic: I think it's fine, but the only thing is, I'm the only one at the bone wall. No one else is going, oh the broad Laurel, maybe the port.
+[01:33:06] Garland: I worked. Oh, we're going to know in well.
+[01:33:09] GM: You know you're actually the last person of the bone wall.
+[01:33:13] Roderic: I didn't really like my poor act of care, we're my basically pot dogs. I went to the bathroom for like twice. So oh got it.
+[01:33:21] Roderic: I did not catch everything.
+[01:33:23] Paxton: But actually the phone, and in the water on the wrong side, sique is all exist to keep us out.
+[01:33:30] GM: Canadason, the regions which we've established. I don't know if you're looking at the map is up here like, yeah.
+[01:33:34] Roderic: I know I assume where it is, but that's not in the bone wall.
+[01:33:37] GM: The bone was this
+[01:33:39] Paxton: No, no, I'm in my own spot. You're in your own spot and beaven gramps are Are someone in the bone wall with a little girl?
+[01:33:50] GM: So we are going to start with everyone at the bonewal. They won't be at the same place in the bone wall.
+[01:33:56] Roderic: But closer to
+[01:33:57] GM: But yeah like we're, we're getting with the point where like you will all reunite right like ice.
+[01:34:03] Roderic: Okay, understood understood.
+[01:34:06] GM: Well, presumably, I mean, I'm not your dad. Do you guys can do it? F*** y** wanted?
+[01:34:10] GM: Just, I'd like you elder reunite, because I think
+[01:34:12] Roderic: The magic items made
+[01:34:14] GM: Exactly right.
+[01:34:15] Paxton: They do with it, I'm actually heading over to where Duston's marker is that's that's my next move. I'm just going to swim downstream until
+[01:34:25] GM: Okay, we'll see if the recording worked as well from everyone required. But anyways okay. So we're going to do the end of session.
+[01:34:35] GM: I don't know, expect this to be a high XP kind of thing, right? So but maybe right? Yeah, so what I mean, it's
+[01:34:42] Garland: Sorry good. It gets assured.
+[01:34:44] GM: It is shoting exactly right? Yeah, so
+[01:34:47] Garland: For everything, except for your drive, that should yeah, yeah, that's you know, I would argue that we did take something.
+[01:34:53] GM: Yeah, yeah, so okay. So did we discover something new and important about the world or characters? Oh, sure, what did we discover that was new?
+[01:35:03] GM: And important about the world of charac.
+[01:35:05] Roderic: I mean.
+[01:35:06] Castor: Old one. Is it not the Torch kiss the blue wall? Are going out and there's 14 of a million though, supposed to be 13.
+[01:35:13] GM: Them going out of
+[01:35:14] Paxton: 12 of them are lit, and what the hell?
+[01:35:17] GM: None of those were established in the sun that was all established.
+[01:35:20] Paxton: World.
+[01:35:21] Roderic: And Lucifer, like the whole faith is like breaking apart, okay for some reason, which They have to do the bone wall may have to do with the light or with the forgetting that happened.
+[01:35:33] GM: Okay, well we'll count we'll count about the like things there's established before, but like they weren't established in game. So you're right, so like, well, we'll establish those yeah?
+[01:35:42] Paxton: That was going to be my question, is this from the character's perspective, or from the players perspective?
+[01:35:48] Roderic: Oh, yeah, that's a good question.
+[01:35:50] GM: Yeah, I think I think we would do it from the player's perspective outside the character's perspective, right like that seems to be a reason, yeah, yeah.
+[01:35:59] Paxton: Yeah, that's fair. So that's what I was going to say about that one is establishing in insitu, that The this forgetting has happened.
+[01:36:12] GM: Yeah, which call it so Duston? I shut you down and I shouldn't have you were right? Sorry, wow, exactly.
+[01:36:21] GM: What did we visit or significantly? Alter a memorable location?
+[01:36:28] Paxton: I mean, I significantly altered that barge, but I don't think it was.
+[01:36:32] GM: I don't think sary there.
+[01:36:34] Garland: We visited the whitchones.
+[01:36:36] GM: 100% and Beacon, hold right. So like, I think
+[01:36:39] Garland: Yeah, nippy a hand deep and all yeah, how many mini
+[01:36:42] GM: Yeah, so I think both of those are there and Although I don't, I do feel like the Beacon holdway where we're not, we're not nearly as memorable as the witchestones and I think that was like the fact that the answer is that it wasn't, it probably means that we should have done better to make it more. Memorable, that's
+[01:37:03] Garland: That mean Y.
+[01:37:05] Roderic: I didn't describe the city to you very well though, if you want, I won't take an experience for
+[01:37:10] GM: Not don't know enough shared, right? Yeah, so yeah, you should take oh yeah?
+[01:37:14] Castor: Ticket experience. That's cool. Yeah, I got it.
+[01:37:18] Castor: I'll get it.
+[01:37:19] GM: Do we ever come noticeable obstacle? Amenia challenge?
+[01:37:23] Paxton: Ah, I did. Yeah.
+[01:37:25] Garland: Impact, we had quite an I think.
+[01:37:27] GM: So like exactly right?
+[01:37:28] Garland: Yeah, I had to grow up slightly. Slightly.
+[01:37:32] GM: Been a shared it shared, right, so yeah, I think that's kind kensa's notable or paxins was notable for sure. So I think, yes for all 3, right like we all. Yeah, yeah, okay, cool.
+[01:37:45] GM: And then what about drives? How do you guys feel like you did on your drives?
+[01:37:51] Paxton: Ah, I think I did callously.
+[01:37:54] Garland: I'm calling absolutely yeah, yeah, yeah? That's going to be yeah. That I think that's right, falls into that class, and that character better.
+[01:38:08] Paxton: So well It works.
+[01:38:13] Castor: Do you guys think that mirror is worth saving? Because I stubbornly try to protect something enough. I think no, no I didn't accomplish my Dre.
+[01:38:24] Garland: I mean, you argued you gave up your anonymity as a baby that can't speak to argue on behalf of the beavers too.
+[01:38:35] Castor: During
+[01:38:35] Paxton: Yeah, but he probably looks like every other beaver out there to these people like their beaver racist.
+[01:38:42] GM: These people
+[01:38:43] Garland: He's the one hello speed round the fruitbas. It's old mark.
+[01:38:52] Paxton: Apples embark apples and park, who wants some apples?
+[01:38:55] GM: So we're saying
+[01:38:56] Roderic: I don't think I did anything.
+[01:39:01] GM: What's your drive? Yeah, endanger to say or protect someone. Yeah like I should have probably given you a more of an opportunity for that.
+[01:39:08] GM: But I need to keep them in my mind as well. I should set the I like if I'm a good GM or like, you know, like a practise GMI should I should set this up for your, you know? Although I to be honest, like you guys all getting more experience than I kind of expected on this.
+[01:39:27] GM: I thought this was going to be, and I don't mean this in a bad way but like I didn't expect it to be A
+[01:39:34] Paxton: As a session, 2 point exactly right yea.
+[01:39:38] GM: So all right, well I was with it. So I mean, if you think you're you know, like, if you think you've did it, you know like this is up for you guys to decide as a group right? So yeah?
+[01:39:52] GM: So
+[01:39:55] Castor: Pope, I don't feel like I committed mind, okay? I didn't feel like I could commit my drive until Jamie the case. Are you and not like?
+[01:40:03] Castor: Hey, maybe
+[01:40:05] GM: And you can always change the drive, right? Like so
+[01:40:09] Paxton: Via, if you just have the yeah, gonna definitely have an epheny.
+[01:40:14] Garland: Yeah, better has been kind of an ongoing thing, trying to figure out all there. I'm i'm step forward for others. Hesitate, and I would say that the soldiers hesitated.
+[01:40:24] Garland: So hard that they tried to stop me from going to help. I'm going to save there. Yeah, I think
+[01:40:33] Paxton: Here's what yeah, I would agree with that one. I think the other two are a harder case, but
+[01:40:44] Castor: But he said park
+[01:40:45] GM: Hmm, II did not feel great about basically every session that we had in the previous story. Arc, I felt pretty good about this one, so
+[01:40:59] Paxton: Well, I'm glad I missed some of the last ones then.
+[01:41:03] Garland: Yeah, if you're like you've been a long time since we played. And I feel like for how long it's been since we played that we got back into it pretty good. Yeah, for help.
+[01:41:12] Paxton: Biggest difference. Is it Jose how someone else G m's pbta? It's like, oh.
+[01:41:19] Paxton: Wow, I feel so bad. I mean by
+[01:41:21] Garland: Yea.
+[01:41:22] GM: Whenever whenever I have doubted and just kind of Ken run another game and I'll be like, oh, this is okay, it's great.

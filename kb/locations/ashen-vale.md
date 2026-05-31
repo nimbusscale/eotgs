@@ -21,21 +21,9 @@ Garland serves as its accidental lord, with his grandson [[Aldric Garlandsson]] 
 
 ### Witch Stones
 
-A set of square-cut standing stones hidden somewhere on Garland's land, also known as the Shepherd's Teeth.
-They are decayed with age and covered in runes, hidden among overgrown hills by glamours and barriers [[Garland yn Greenholt|Garland]] set long ago — wards still in effect despite the magic he has since lost.
-Local legends know the [[Witch Stones]] exist somewhere in the Ashen Vale, but their exact location is considered "lost."
-Garland discovered them while preparing a well-hidden field for pasture.
-He studied them carefully over the years and guards the secret of their location.
-
-The Witch Stones are the source of Garland's magical power.
-He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries; the runes glow and pulse to communicate and guide his study.
-On returning to them in the downtime after the curse, [[Garland yn Greenholt|Garland]] felt a renewed connection unlike his old study-built bond — one that returns magic without restoring lost knowledge.
-His great-granddaughter [[Mira]] also hears the stones, but as actual words rather than the grinding and moaning of the earth — a more direct connection that is turning her into something like a cleric of the stones.
-The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, suggesting a connection between these ancient sites.
-The stones can be made to open portals to other rings of Witch Stones — Mira commanded them to tear open a stable portal onto the dead grey shale of the [[Bonewall]], where a matching ring stood, revealing them as anchors in a wider network whose builder and full reach are unknown.
-
-Garland speaks of the Ashen Vale openly, but doesn't volunteer information about the Witch Stones themselves.
-He would be very interested in investigating other Witch Stones if they exist elsewhere.
+The [[Witch Stones]] — a hidden ring of rune-carved standing stones also known as the Shepherd's Teeth — stand somewhere on Garland's land.
+They are the source of Garland's magic and, as recently revealed, can open a portal to a matching ring of stones on the [[Bonewall]].
+Garland speaks of the Ashen Vale openly, but guards the secret of their location and does not volunteer information about the stones themselves.
 
 ## The Families
 The Vale is held by a handful of powerful landowning families who act as its unofficial fiefdom under [[Aldric Garlandsson|Aldric]], the most powerful among them.

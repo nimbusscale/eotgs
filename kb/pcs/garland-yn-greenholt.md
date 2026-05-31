@@ -92,7 +92,8 @@ Has never had much use for gods.
 He would be very interested in investigating other Witch Stones if they exist elsewhere.
 On returning to them in the downtime he felt a renewed connection unlike the one he built through centuries of study — one that returns magic without knowledge.
 And he is not the only one who hears them: his great-granddaughter [[Mira]] hears the stones as actual words, not the grinding of the earth, raising the question of why the stones speak so differently to her.
-The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]], revealing them as anchors in a wider network whose builder and extent are unknown.
+The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]].
+Whether they connect to still more rings, or form a wider network, is unknown.
 
 ### Garland's Reluctant Apprentice
 [[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.

@@ -1,3 +1,0 @@
-# Castor
-Class: Druid
-Bac

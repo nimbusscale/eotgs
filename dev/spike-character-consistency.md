@@ -142,8 +142,8 @@ verbatim on every prompt. Write under **Artifacts → House-style block**.
 | 2 | **Roderic solo**, plain backdrop (de-gloss hard case) | identity + style | ~8 | DONE (JSON; pass at R4. De-gloss easy; the lesson was the *rubric* — judge must read identity off the refs, not the author's description) |
 | 3 | **Garland + Roderic together**, plain backdrop | two-subject consistency | ~4 | DONE (pass at R2; both identities hold with ZERO attribute bleed. Residual: knight's lower-body cloth arming-skirt recurs ~3/4 seeds — a single-figure Roderic-armor variance, not a two-subject problem) |
 | 4 | **Aurelion setting alone** (no characters) | setting → realized refs | ~8 | DONE (2 gens; pass at R1, confirmed R2. Setting consistency solved by text alone — same recipe as identity; no de-gloss fight. Seed `aurelion-downhill-r2.jpg`: reverse-angle downhill plate, clear stairs for M5) |
-| 5 | **Characters in the Aurelion cityscape** | full composite | ~4 | TODO |
-| 6 | Finalize findings + canon seeds + dev-plan summary | — | — | TODO |
+| 5 | **Characters in the Aurelion cityscape** | full composite | ~4 | DONE (2 gens; R1 locked as seed by HUMAN override of a strict judge `fail`. Full composite — identity + house style + setting — holds by text alone in ONE shot. Both M5 drifts were setting/armor nits, not identity; zero attribute bleed. Seed `garland-roderic-aurelion-m5-r1.jpg`) |
+| 6 | Finalize findings + canon seeds + dev-plan summary | — | — | DONE (conclusion written below; committed canon seeded to `config/image-prompts/` — house-style.json + canon/{garland,roderic,aurelion}; `dev/illustrate-session-plan.md` updated. Roderic flagged `needs_refinement`; Castor/Paxton canon deferred to a later session) |
 
 ## Milestone detail
 
@@ -169,13 +169,97 @@ refine → repeat under the escape valve → stop for human review or stuck-flag
   `garland-json-r1.jpg`), since the player Roderic refs are internally inconsistent and reintroduce
   the cloth-skirt + gloss drift.
 
-## Milestone 6 — Finalize
+## Milestone 6 — Finalize (DONE 2026-05-31)
 
-Promote the findings log to a conclusion: chosen canon format + rationale, which appearance fields
-matter, house-style phrasing that worked, how Roderic was de-glossed, recommended generation flags,
-and any "couldn't crack it" notes. Refined descriptors here seed `config/image-prompts/canon/`
-(`garland-yn-greenholt.*`, `sir-roderic-lightbearer.*`) and an Aurelion setting canon. Add a
-pointer/summary into `dev/illustrate-session-plan.md`.
+**The spike succeeded: cross-session visual consistency is achievable by TEXT ALONE.** The DO API is
+text-to-image only (no reference image at generation), and the question was whether a recurring
+character/location can be held consistent by injecting a reusable textual canon into every prompt. It
+can — proven across 12 generations and 5 milestones: identity (M1/M2), two subjects with zero
+attribute bleed (M3), setting (M4), and the full character-in-setting composite (M5).
+
+### Committed deliverables (the spike's output, now in the repo)
+
+- **`config/image-prompts/house-style.json`** — the global house-style block (M0). Rides verbatim on
+  every prompt; controls medium/palette/lighting/tone + an `avoid` list. *House style governs;
+  per-entity canon defines identity only.*
+- **`config/image-prompts/canon/garland-yn-greenholt.json`** — validated PC identity canon.
+- **`config/image-prompts/canon/sir-roderic-lightbearer.json`** — de-glossed PC identity canon,
+  marked `status: needs_refinement` (usable; user wants another pass) with an explicit
+  `DO_NOT_USE_AS_SOURCE` pointer away from the glossy player refs.
+- **`config/image-prompts/canon/aurelion.json`** — validated location setting canon + the proven
+  reverse-angle downhill scene recipe.
+- Each canon file carries `appearance`/`setting`, `critical_clauses`, `do_not_drift`, and the
+  validated-seed pointer. **Still TODO in a later session:** canon for Castor, Paxton, and recurring
+  NPCs (mechanical now — same recipe).
+
+### The technique (what to reuse)
+
+1. **Canon format = structured JSON. Locked (M1).** Beat prose for per-feature control (especially
+   eyes and pose); prose drifted to shadowed eyes + dramatic posing.
+2. **Two-layer prompt: house-style block (verbatim, global) + per-entity identity canon (injected).**
+   The split is load-bearing — it let Roderic keep his identity while losing the player-ref gloss.
+3. **Multi-subject = a `subjects` array** with explicit LEFT/RIGHT placement, "ONLY this figure has X"
+   qualifiers, and a `do_not_include` block naming the bleed directly. Zero bleed in M3 and M5, no
+   reference image needed.
+4. **Adversarial judge methodology (the M2 deliverable).** A fresh skeptical judge per iteration, given
+   the candidate + reference SEEDS and told to read each feature *category* off the refs itself and
+   flag anything added/removed — NOT pre-fed the author's feature list (that validates the author's
+   errors; it rubber-stamped a wrong beard+tabard for 3 rounds in M2). Pass any human override as a
+   known intended departure so it isn't re-flagged.
+5. **The human / own-eyes gate is the FINAL authority, and the judge over-fires.** The judge is tuned
+   to avoid false *passes*, so it produces false *fails* (M5 R1 scored 6 on a misread sword-hanger +
+   a composition preference; the user passed it). Treat the score as a drift-finder, not a grade.
+
+### Which appearance fields actually matter
+
+Diagnostic identity markers that must be pinned: **ears** (pointed vs rounded — the elf/human tell),
+**facial hair** (present/absent), **hair** (color/length), **eyes** (color *and* that they're lit),
+**armor/garment construction** (metal vs cloth; which garments present/absent), **heraldry/emblems**.
+Held items (book/sword) are optional per-scene kit, not identity.
+
+### Recurring drifts + the fixes that worked
+
+- **Deep-set eyes sink into brow shadow, killing the diagnostic iris color (M1, recurs everywhere).**
+  Fix: positively light the eyes — soft warm even *frontal fill*, head level-to-slightly-raised.
+  Demanding flat/no-directional light BACKFIRES. Carried as a `critical_clauses.eye_lighting` on both
+  PC canons.
+- **Roderic defaults to a beard/stubble (M2).** Fix: belt-and-suspenders — push clean-shaven both
+  positively in `face` AND negatively in `do_not_include`. One alone leaks stubble.
+- **Roderic's cloth arming-skirt between the legs (M3, M5 — the one we couldn't fully crack with
+  words).** From the player ref's white surcoat skirt. Escalating prompt clauses *reduce but do not
+  eliminate* it — it's generation variance defeated by **RE-ROLLING**, not more words. Budget a
+  re-roll or accept bare steel faulds. (Root cause: the glossy, internally-inconsistent player refs —
+  hence canon sources Roderic from the validated spike seed, not the refs.)
+- **Refinement edits can induce NEW defects (M1) or break geometry (M5 R2's nonsensical stair).** When
+  a candidate already reads correctly, prefer it over a "more faithful" but broken refinement.
+
+### How Roderic was de-glossed
+
+House style did the work: matte scratched steel, tarnished (non-gleaming) lion, faded cloth, muted
+low-contrast light, candid pose. The de-gloss itself was *easy from R1* — the hard part was the
+*canon derivation* (author against the refs feature-by-feature, then apply human overrides) and the
+*judge rubric*, not the rendering. Identity is sourced from the validated seed `roderic-json-r4.jpg`,
+NOT the player refs (`roderic-pose.jpg` / `roderic-horse.jpg`), which reintroduce the gloss + skirt.
+
+### Recommended generation flags
+
+`python3 scripts/generate-image.py --prompt-file <spec.json> --name <slug> --out-dir images --wide`
+— `--wide` (1536×1024) for scenes/composites/cityscapes; `--tall` for single-figure portraits;
+quality `high` (the script default). Pass a `.json` spec (re-serialized whole as the prompt).
+
+### "Couldn't crack it" notes
+
+- Roderic's lower-body cloth-skirt is a **re-roll**, not a prompt problem (above).
+- Forcing figures onto stair treads broke perspective (M5 R2); a flat overlook terrace at the top of
+  the stair is the reliable character stage for the Aurelion downhill plate.
+- Roderic's canon is `needs_refinement` per the user — expect one more iteration session for him, then
+  Castor + Paxton.
+
+### Hand-off
+
+`dev/illustrate-session-plan.md` updated with a spike-results summary (its "PCs have no image-map
+entry" prerequisite was already satisfied in an earlier session — verified). The plan is ready to
+execute Phases 2–5; no discovery work remains, only build-out and per-entity canon coverage.
 
 ---
 
@@ -557,3 +641,62 @@ placement. Spec: `image/spike/aurelion-downhill-r2-spec.json` (= house-style blo
 Aurelion setting canon + reverse-angle downhill scene block), reconstructable from the blocks above.
 R1 (`aurelion-downhill-r1.jpg`) is the runner-up/confirmation (also a judged pass; split stair + dome
 crowding the edge). Scratch dir is gitignored; specs are reconstructable from the recorded blocks.
+
+#### M5 — Garland + Roderic in the Aurelion cityscape (2026-05-31) · 2 generations · **R1 locked as seed by HUMAN override of a strict judge `fail`; full composite holds by text alone**
+
+The full target: compose proven character canon (M3 seed identities) + proven setting canon (M4 base
+plate) into one frame. Single composite spec = house-style block + **both** validated identity canons
+(as the placed `subjects` array, with the two Roderic overrides) + the M4 Aurelion setting canon + the
+M4 reverse-angle downhill scene block, with the foreground stair re-tasked as the figures' stage →
+generate `--wide` into `image/spike/` → one adversarial judge subagent (candidate + the M3 seed
+`garland-roderic-json-r2.jpg`, solo seeds `garland-json-r1.jpg` / `roderic-json-r4.jpg`, and the M4
+setting seed `aurelion-downhill-r2.jpg`; **identity source = the spike SEEDS, not the player refs**) →
+own-eyes gate → **human review**. Specs preserved alongside the images
+(`garland-roderic-aurelion-m5-r{1,2}-spec.json`).
+
+| Round | Candidate | Score | Verdict | Notes |
+|-------|-----------|-------|---------|-------|
+| R1 | `garland-roderic-aurelion-m5-r1.jpg` | 6 | judge `fail` → **HUMAN PASS (chosen seed)** | Both identities dead-on, ZERO bleed; house style grounded; Aurelion unmistakable (centered tarnished dome, gate, curtain wall, processional road, fields); figures convincingly integrated at correct scale on a flat overlook terrace at the TOP of the stair. Judge `fail` was two non-identity nits: (1) a small dark hip-drape it pattern-matched to the M3 cloth-skirt — actually reads as a leather sword-hanger, not the white surcoat-skirt; (2) figures on the terrace rather than mid-stair (a composition preference). **Human (user) judged R1 good and overrode the strict score** — per the spike's own rule that human/own-eyes judgment is the final gate. |
+| R2 | `garland-roderic-aurelion-m5-r2.jpg` | — | **fail (human)** | Refinement attempt: plant the figures ON the visible stair treads + harden the anti-cloth-skirt clause. Armor came back cleaner (bare steel faulds, no drape) and identities/style/city all held, BUT the **stair geometry was nonsense** — a lopsided curved amphitheater fan sweeping to the lower-right, disconnected from the flat scrap the figures stand on. Spatially incoherent; rejected by the user on sight. R1's coherent terrace beats R2's broken stair. |
+
+**Outcome:** Milestone **passed at R1 by human override**, R2 rejected for broken stair geometry. 2 of
+~4 gens used. The spike's central question is now answered end-to-end: **identity + house style +
+setting all hold together in a single text-only generation, with zero attribute bleed, on the first
+composite try.**
+
+**Findings:**
+- **THE FULL COMPOSITE WORKS BY TEXT ALONE — the spike's deliverable is proven.** Stacking the three
+  validated text blocks (house style + placed two-subject identity canon + setting canon + scene) in
+  one spec produced a coherent, on-model, on-style, on-setting two-character cityscape on the **first**
+  generation. No reference image fed to generation; no inpainting; no compositing. Identity held (both
+  figures, every feature), house style held (grounded, matte, tarnished, anti-heroic), setting held
+  (unmistakably Aurelion), and the figures integrated into the scene at believable scale and lighting.
+- **Zero attribute bleed persisted into the composite.** The `subjects`-array technique from M3 (named,
+  placed LEFT/RIGHT entries with "ONLY this figure has X" qualifiers + a `do_not_include` block naming
+  the bleed directly) carried through unchanged even with a full environment added. The young knight
+  never inherited the elf's beard/ears/age; the elf never gained plate.
+- **The judge over-fires on the known cloth-skirt and on composition; the human gate is essential.**
+  The R1 `fail` was a strict-rubric artifact, not a real defect: the judge reflexively flagged a leather
+  sword-hanger as the M3 cloth-skirt (false positive) and dinged a terrace-vs-mid-stair composition
+  choice. Both are exactly the kind of plausible-but-wrong call the own-eyes/human gate exists to catch
+  in the *lenient* direction — here the human RAISED a strict score rather than lowering a lenient one.
+  Carry into M6: the adversarial judge is calibrated to avoid false *passes*, so it produces false
+  *fails*; treat its score as a drift-finder, not a final grade, and let the human/own-eyes gate make
+  the call.
+- **Refinement can regress geometry, not just attributes.** R2's attempt to force figures onto the stair
+  produced spatially incoherent steps — a reminder that adding a hard compositional constraint to a
+  busy scene can break perspective. When R1 already reads correctly, prefer it over a "more faithful"
+  but broken refinement (echoes M1's "refinement edits induce new defects" finding).
+- **Identity source = spike seeds, confirmed sound.** Authoring/judging identity against the validated
+  spike seeds (not the internally-inconsistent player Roderic refs) kept the cloth-skirt + gloss drift
+  from being *reintroduced* — R1's only skirt-adjacent element was a minor hip-drape, far milder than
+  the player-ref-driven surcoat-skirt that plagued M3.
+
+**M5 canon seed (chosen):** `image/spike/garland-roderic-aurelion-m5-r1.jpg` — the full composite the
+user accepted: both identities correct and distinct (zero bleed), grounded house style, unmistakable
+Aurelion cityscape (centered tarnished dome, imperial gate, curtain wall, processional road, fields),
+figures integrated at human scale with a bold gold Light-cross on bare matte plate and the blue lion
+shield. Its spec is `image/spike/garland-roderic-aurelion-m5-r1-spec.json` (= house-style block + both
+validated identity canons as a placed `subjects` array + Aurelion setting canon + reverse-angle downhill
+scene block), fully reconstructable from the blocks recorded in this doc. R2 is superseded (broken stair
+geometry). Scratch dir is gitignored; the spec is reconstructable from the recorded blocks.

@@ -1,0 +1,66 @@
+{
+  "_comment": "VISUAL CANON — Garland yn Greenholt (PC). Identity only; rendering is handled by the global house-style block (config/image-prompts/house-style.json). Inject this entity's `appearance` (and `critical_clauses`/`do_not_drift`) into any scene spec that features Garland, so he looks the same across sessions. Validated in the character-consistency spike (M1 judged pass at R1; held in the M3 two-subject and M5 composite seeds with zero attribute bleed). Canon format is structured JSON, locked in M1 (JSON beat prose for per-feature control of eyes/pose).",
+
+  "name": "Garland yn Greenholt",
+  "slug": "garland-yn-greenholt",
+  "entity_type": "pc",
+  "status": "validated",
+  "source_image": "images/pcs/garland-portrait.jpg (+ images/pcs/garland-second-harvest.jpg, images/pcs/garland-and-castor-beaver.jpg)",
+  "validated_seed": "image/spike/garland-json-r1.jpg (gitignored spike scratch; M1 judged pass — the realized look this canon reproduces)",
+  "derived_from": "player reference images (grounded, internally consistent — safe to use as the identity source) + kb/pcs/garland-yn-greenholt.md; validated by spike M1/M3/M5",
+
+  "appearance": {
+    "face": [
+      "extraordinarily old man, weathered and deeply lined",
+      "sun-creased leathery skin, age spots, prominent crow's feet and forehead lines",
+      "pale blue-grey eyes, alert and clear",
+      "high cheekbones, gaunt but vital",
+      "long straight nose, heavy expressive brow"
+    ],
+    "ears": "long, pointed elven ears, clearly visible (Greenholt Bloodline marker — always pointed, never rounded)",
+    "hair": [
+      "silver-white / pale grey",
+      "shoulder-length, swept back off the face",
+      "wavy and somewhat tousled/wispy",
+      "thinning slightly at the temples"
+    ],
+    "beard": [
+      "full white-grey beard, medium-long",
+      "covers jaw, chin and upper lip",
+      "slightly unkempt, soft and bushy",
+      "matching grey moustache"
+    ],
+    "build": [
+      "tall and rangy, broad-shouldered but lean",
+      "sinewy, wiry old-man strength; veined weathered hands",
+      "upright posture, vigorous despite centuries of age",
+      "bearing of an old soldier — steady, unhurried, sturdy"
+    ],
+    "attire": [
+      "worn olive/brown wool hooded cloak, draped over one shoulder",
+      "round metal disc brooch clasp at the throat",
+      "homespun undyed/linen-brown tunic, layered",
+      "wide brown leather belt with leather straps and pouches",
+      "muddy, well-traveled, earth-toned"
+    ],
+    "signature_items": [
+      "weathered leather-bound spellbook, thick and battered, bound with cord/straps (carried in one hand or at the belt; may be absent in a given scene)",
+      "greatsword 'Second Harvest' — long double-edged blade, plain straight crossguard, worn grip, sheathed or grounded point-down, never raised (may be absent in a given scene)"
+    ]
+  },
+
+  "critical_clauses": {
+    "eye_lighting": "Garland's deep-set old eyes default into brow shadow, killing the diagnostic pale blue. Put a soft, warm, even frontal fill on the face (head level-to-slightly-raised) so the light falls fully on the eyes and the pale-blue irises read clearly — do NOT demand flat/no-directional light (that backfires; ask positively for soft even overcast fill)."
+  },
+
+  "do_not_drift": [
+    "ears must stay long and pointed (elven) — never rounded",
+    "must read as EXTRAORDINARILY OLD and weathered — no youthful vigor, no de-aging",
+    "no plate armor — wool cloak + leather only",
+    "eyes must be lit and pale-blue/blue-grey readable, not sunk in brow shadow",
+    "candid/un-posed — no heroic stance, no raised or brandished weapon, no 'posed studio' frontal key-lit portrait"
+  ],
+
+  "multi_subject_notes": "When Garland shares a frame with another character, place him via a `subjects` array entry with explicit LEFT/RIGHT placement and 'ONLY this figure has pointed ears / a beard / silver hair / no plate' qualifiers, plus a do_not_include line naming the bleed directly. This produced ZERO attribute bleed in the M3 two-shot and M5 composite (no reference image needed).",
+  "style_notes": "Rendering handled globally by house-style.json; this file is identity only. Garland is the 'grounded/easy' case — no de-gloss fight; player refs are already on-style."
+}

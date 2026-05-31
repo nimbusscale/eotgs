@@ -1,0 +1,48 @@
+{
+  "_comment": "VISUAL CANON — Sir Roderic Lightbearer (PC). Identity only; rendering is handled by the global house-style block (config/image-prompts/house-style.json). Inject this entity's `appearance` (and `critical_clauses`/`do_not_drift`) into any scene spec featuring Roderic. Derived in the character-consistency spike (M2 judged pass at R4) by DE-GLOSSING the player refs and applying two human overrides; held in the M3 two-subject and M5 composite seeds. Canon format is structured JSON (locked in M1).",
+
+  "name": "Sir Roderic Lightbearer",
+  "slug": "sir-roderic-lightbearer",
+  "entity_type": "pc",
+  "status": "needs_refinement",
+  "status_note": "USABLE but flagged for another iteration pass (user, 2026-05-31). The player refs read as a glossy epic hero and were the root of recurring gloss + cloth-arming-skirt drift; this canon de-glosses them, but Roderic still wants a dedicated refinement session to settle the lower-body armor and lock a clean seed. Refine in a separate session.",
+
+  "source_image": "image/spike/roderic-json-r4.jpg (gitignored spike scratch — the VALIDATED, de-glossed seed; use THIS as the identity source)",
+  "DO_NOT_USE_AS_SOURCE": "images/pcs/roderic-pose.jpg and images/pcs/roderic-horse.jpg — the player refs. They are a glossy, internally-inconsistent epic-hero look (white surcoat skirt + gold-gloss plate that contradict this canon) and reintroduce the gloss + cloth-skirt drift. Per user direction, do NOT author or judge Roderic's identity from these; keep ONLY his face and lion heraldry from them, nothing about rendering or armor construction.",
+  "derived_from": "player refs (face + lion heraldry only) → de-glossed + two human overrides; validated by spike M2/M3/M5",
+
+  "human_overrides": [
+    "CLEAN-SHAVEN: both player refs read clean-shaven; the model strongly wants to beard this weathered knight. Roderic has NO facial hair at all — no beard, moustache, goatee, sideburns, or stubble. (Supersedes any ref.)",
+    "NO TABARD/SURCOAT: the glossy standing ref shows a white cloth tabard with the cross; canon is BARE FULL PLATE with the Light-cross inlaid directly into the steel breastplate — no cloth garment over the torso, and no cloth arming-skirt between the legs. (Supersedes the ref; user confirmed 2026-05-31.)"
+  ],
+
+  "appearance": {
+    "face": "a man in his late twenties to early thirties, FRESHLY CLEAN-SHAVEN with completely smooth, bare, hairless skin on the jaw, chin, cheeks and upper lip — absolutely no beard, no moustache and not even faint stubble; a smooth-shaven young knight's face; fair-skinned and handsome, the weariness carried in the eyes and expression rather than in skin scruff; strong square jaw, straight nose, faint old scar; clear pale blue eyes, wide open and well-lit; rounded human ears; a candid, weary, un-posed expression",
+    "hair": "wavy, tousled blond hair, medium-short, swept back off the brow and slightly matted from the road; dirty-gold, not bright",
+    "build": "tall and athletic, broad-shouldered, the solid frame of a frontline fighter; an unhurried, settled soldier's bearing",
+    "armor": "a FULL PLATE harness worn over the whole torso with NO cloth garment over it — no tabard, no surcoat, no fabric draped across the chest, and NO cloth arming-skirt or surcoat-skirt hanging between the legs; the breastplate, pauldrons, vambraces, gauntlets, faulds, tassets, cuisses and greaves are bare DULL MATTE scratched steel, dented and field-worn, faintly oxidized and grey, with tarnished dark amber-brass trim that does not gleam; the lower body shows only bare steel faulds/tassets/cuisses — nothing cloth hangs between the legs; scuffed and battle-used, never polished",
+    "emblem": "a single muted but clearly visible amber-gold cross of the Light worked DIRECTLY INTO the steel breastplate as an inlaid emblem on the metal itself (NOT printed on any cloth); small worn amber Light-cross motifs repeat as faded engraving on a pauldron and the belt",
+    "cloak": "a faded, dusty deep-blue wool cloak, road-worn and frayed at the hem, hanging from the shoulders behind the plate",
+    "heraldry": "a battered kite/heater shield slung on the left arm bearing his arms — a rampant lion in tarnished amber-gold on a faded deep-blue field; the shield is scratched and dented from use",
+    "held_item": "a plain longsword with a worn leather-wrapped grip, sheathed or held loosely point-down, nothing raised or brandished"
+  },
+
+  "critical_clauses": {
+    "clean_shaven_belt_and_suspenders": "The model defaults to bearding/stubbling this knight. Push clean-shaven BOTH positively in `face` ('freshly clean-shaven, smooth bare hairless skin, weariness in the eyes not skin scruff') AND negatively in do_not_include ('no beard, moustache, goatee, sideburns, stubble or five-o'clock shadow'). One alone leaks stubble (spike R3); both together cleared it (R4).",
+    "eye_lighting": "Same as Garland — deep-set eyes drop into brow shadow. Soft warm even frontal fill on the face (head level-to-slightly-raised) so the pale-blue irises read clearly. Side effect: a slight upward/noble gaze; acceptable, watch it in composites.",
+    "no_cloth_skirt_reroll": "The stubborn defect (from the player ref's surcoat skirt): a cloth arming-skirt/fabric drape recurs between the legs below the steel faulds (~3/4 seeds in M3, again in M5 R1). Escalating prompt clauses REDUCE but do not eliminate it — it is generation variance defeated by RE-ROLLING, not more words. Budget a re-roll or two for Roderic's lower body, or accept bare steel faulds as close-enough."
+  },
+
+  "do_not_drift": [
+    "no beard, moustache, goatee, sideburns, stubble or five-o'clock shadow of any kind — clean-shaven (override #1)",
+    "no tabard, surcoat or cloth garment over the breastplate, and no cloth arming-skirt/surcoat-skirt/fabric drape between the legs — bare steel only (override #2)",
+    "no glossy mirror-polish or gleaming/pristine plate — matte, tarnished, scratched, field-worn",
+    "ears rounded and human — never pointed",
+    "no white surcoat skirt or bright gold-gloss plate (the player-ref look) — that is exactly the drift this canon exists to prevent",
+    "eyes lit and pale-blue readable, not in brow shadow",
+    "candid/un-posed — no heroic stance, no raised or brandished weapon"
+  ],
+
+  "multi_subject_notes": "Place via a `subjects` array entry with explicit placement and 'rounded human ears, clean-shaven, young, in plate' qualifiers, plus a do_not_include line forbidding the elf's beard/pointed ears/age. Zero bleed in M3/M5.",
+  "style_notes": "Rendering handled globally by house-style.json. Roderic is the de-gloss HARD case: the house style is doing the de-glossing, and his identity must be sourced from the validated spike seed, not the glossy player refs."
+}

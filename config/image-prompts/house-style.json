@@ -1,0 +1,27 @@
+{
+  "_comment": "GLOBAL HOUSE-STYLE BLOCK for all generated campaign illustrations. Rides VERBATIM on every scene prompt (characters, locations, composites). Derived in the character-consistency spike (M0, 2026-05-31) from the Eisen Dorn portrait spec + the realized Aurelion exterior images + Garland's grounded reference, and validated to hold across all 12 spike generations (M1-M5). This is the 'house style governs; references define identity only' anchor: it controls rendering/medium/palette/light/tone; per-entity canon files control identity only. /illustrate-session loads this as the style layer (supersedes deriving style ad hoc from old specs).",
+
+  "medium": "Painterly photoreal concept art with a documentary, war-photography tone; soft visible brushwork over realistic form; obsessive material-wear detail (oxidized metal, cracked leather, mended cloth, weathered stone, sun-lined skin); grounded, anti-heroic, human-scale, not a hero painting",
+  "palette": [
+    "warm limestone and ochre stone",
+    "tarnished amber-gold, never bright or gleaming",
+    "dull matte steel and old iron",
+    "weathered dark-brown leather",
+    "road-dust gray and slate",
+    "sun-bleached sage and faded muted green",
+    "overcast pewter-to-pale-amber sky",
+    "weathered sun-lined skin tones"
+  ],
+  "lighting": "Diffuse, atmospheric, practical light — hazy overcast or a low muted golden-hour glow filtered through dust and cloud; soft volumetric god-rays only in sacred interiors; low contrast, no crisp spotlighting or dramatic shafts on people",
+  "tone": "Post-imperial melancholy at human scale; faded grandeur worn down at its working surfaces and outlived by the small, tired people in its shadow; subjects settled, candid, un-posed, weary; endurance without illusion; honor the mundane over the epic",
+  "avoid": [
+    "heroic posing or triumphant stances",
+    "glossy mirror-polish or pristine gleaming armor/metal",
+    "bright saturated skies and vivid color",
+    "crisp high-contrast cinematic spotlighting",
+    "epic-fantasy hero gloss and idealized beauty",
+    "clean matching equipment with no wear",
+    "drawn-weapon battle tension",
+    "youthful vigor where age and wear belong"
+  ]
+}

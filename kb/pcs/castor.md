@@ -70,11 +70,17 @@ He has traveled across the continent as a beaver, including to regions with sava
 In animal form he can speak.
 His beaver sense of smell is specialized — excellent for beaver-specific scents like pheromones and territorial markers, but less effective for general tracking.
 
+He has grown into a new elemental power: he can dissolve into wind, moving "between worlds," which he used to rush after [[Mira]] through the [[Witch Stones]] portal to the [[Bonewall]].
+In wind form he can pass only through openings a breeze could move through — a wide crack will let him by, but a narrow one will not.
+
 ## The Beaver Dam
 Castor is connected to a beaver community and a dam on the [[Ashen Flow]] at [[Beaver Lake]] that has stood for 120+ years.
 The dam was his society and home during his years as a beaver.
 He was enamored with beaver society and how they lived.
 The beaver colony knows and recognizes him — it is essentially his home.
+He predates the Great Beaver Dam itself: he first settled at a modest dam for the sake of the beaver Aspen, and helped it grow into the great dam that tamed the [[Ashen Flow]].
+Among the beavers he was the respected elder, holding authority through regard rather than rank.
+He is now conflicted over Aspen's descendant [[Tamarack]], whose ambition to dam the whole river he admires but fears will get the colony exterminated.
 In beaver society, holding a stick signifies authority.
 He can communicate with beavers through gestures, body language, and tail-slapping — not verbal speech, but enough to convey urgency and general ideas.
 During [[Session 1]], he shifted into beaver form and used these methods to convince the colony to evacuate downstream ahead of the cursed waters.
@@ -91,7 +97,7 @@ Not a believer one way or another now.
 - [[Edric Bloom]] — Lowkey Camaraderie
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
-- [[Mira]] — Garland's young, demanding self-declared apprentice and Castor's distant kin; he has taken a liking to her
+- [[Mira]] — Garland's young, demanding self-declared apprentice and Castor's distant kin; he has taken a liking to her, and she calls him "Pop pop"
 
 ## Hooks
 
@@ -107,8 +113,9 @@ What happened to his family line, and why they forgot him, is unresolved.
 
 ### The Wayward Colony
 Castor returned home to the [[Ashen Vale]] feeling obligated to bring the beavers of [[Beaver Lake]] back to the tribe's "old ways" after their numbers grew unwieldy and they began troubling the surrounding human settlements.
-But his authority has faltered — the sticks that once signified command no longer command, and many beavers openly rebel, swept up in bold new activity after generations tied to the same lake.
+But his authority has faltered — the sticks that once signified command no longer command, and the colony has fractured under the upstart [[Tamarack]], a descendant of the beaver Aspen, who leads them to dam the whole river rather than keep to one home.
 He suspects some of them know he was the one who brought ruin to the vale in the first place, and that his neighbors and fellows are seizing the chance to act out.
+The spreading dams have cut into the lowland orchards and farms and soured the Vale's great families against the colony, bringing armed men to demand Castor be handed over and the beavers broken.
 Whether he can heal the rift between his found family and the vale's people — or whether the colony has simply outgrown the old ways — is unresolved.
 
 ### Reclaiming the Man, and More
@@ -134,3 +141,4 @@ What this role means and what it demands of him is unresolved.
 - [[Session 3]] — Shifted into dog form to avoid recognition from wanted posters; scouted the mine tunnels in beaver form; broke his vow of celibacy with [[Tufa]] the rock rat in exchange for tunnel intelligence; took a rock rat bite to the throat, losing his voice; grappled a rat off [[Garland yn Greenholt|Garland]] during the breakthrough
 - [[Session 4]] — Shapeshifted into a mouse with a beaver-like head to steal dungeon keys and free [[Sir Roderic Lightbearer|Roderic]]; gnawed through a chair leg, a guard's key strap, and wood for barricades; freed Harlequin prisoners; the mouse transformation locked him out of beaver form; felt the interlocking herald connection at the [[Shrine of Renewal]]
 - [[Session 5]] — Communed with the dormant [[God of Renewal|The God of Renewal]] at the [[Shrine of Renewal]], feeling an overwhelming sense of homecoming; confronted the [[Dark Harlequin|The Dark Harlequin]] who tried to recruit him and claimed the [[Laughing One|The Laughing One]] cursed him; touched the cocoon and received a vision of himself as protector; shifted into a wolverine and drove off the Dark Harlequin; built a dam-like barricade to fortify the Shrine entrance; participated in the gathering of all six heralds that opened the cocoon
+- [[Session 6]] — At a Sunday dinner at the [[Witch Stones]], confronted [[Captain Vask]]'s delegation in beaver form, introducing himself as "Garland's uncle"; defended the beavers against the Vale's three great families; learned Aldric somehow knew the beaver could speak; dissolved into wind for the first time to chase [[Mira]] through the Witch Stone portal onto the [[Bonewall]]

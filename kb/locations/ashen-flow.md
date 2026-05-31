@@ -22,9 +22,12 @@ The dam blocks the Upper Ashen Flow, forming a lake.
 It filters the water — below it, the Lower Ashen Flow runs clean into the vale.
 
 This dam was [[Castor]]'s society and home during his years as a beaver.
-He was enamored with beaver society and how they lived.
+He was enamored with beaver society and how they lived, and it was he who first settled here for the sake of the beaver Aspen and helped a modest dam grow into the great one that tamed the river.
 
 The dam currently holds back the cursed water from [[Ashbrook]], but the dam and the beavers maintaining it are aging rapidly under the curse's influence.
+
+Since the curse passed, the beaver community has fractured much like the [[The Light|Light]].
+Led by Aspen's ambitious descendant [[Tamarack]], the beavers have begun damming the lower [[Ashen Flow]] beyond their old home at [[Beaver Lake]], cutting into orchards and farmland and becoming pests — which has soured the Vale's great families against the colony and brought armed men demanding the beavers be broken.
 
 ## Lower Ashen Flow
 The clean, calm portion of the river that runs through the [[Ashen Vale]].

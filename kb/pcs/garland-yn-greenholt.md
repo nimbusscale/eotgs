@@ -53,6 +53,10 @@ He escorted [[Castor]] as far as the vale before they parted ways.
 At some point he made his way back to the [[Witch Stones]] to reconnect, and felt a renewed bond — but one different from the connection he had built through centuries of patient study.
 This new connection has begun returning his magic to him without restoring the lost knowledge, surfacing as a capacity for ritual magic he did not have before.
 
+He now shelters and mentors [[Mira]] at the Witch Stones, helping her heal from the ruin that wounded Crownvale's children.
+When she commanded the stones to tear open a portal onto the [[Bonewall]], Garland recognized the gate-craft as a far more powerful form of magic he had once owned and has since lost.
+To follow her through it he Favored [[Sergeant Iyer]] and swore to bring her back to [[Crownvale]] on his own life, and crossed the threshold to the Bonewall alongside [[Castor]].
+
 ## Religion
 Has never had much use for gods.
 
@@ -78,7 +82,8 @@ Has never had much use for gods.
 - [[Rowan yn Greenholt]] — Great-grandchild through his second family; lived in [[Ashbrook]] and perished when the town fell
 - [[Aldric Garlandsson]] — Grandson through his second family, who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
 - His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
-- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth
+- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
+- [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
 
 ## Hooks
 
@@ -87,6 +92,7 @@ Has never had much use for gods.
 He would be very interested in investigating other Witch Stones if they exist elsewhere.
 On returning to them in the downtime he felt a renewed connection unlike the one he built through centuries of study — one that returns magic without knowledge.
 And he is not the only one who hears them: his great-granddaughter [[Mira]] hears the stones as actual words, not the grinding of the earth, raising the question of why the stones speak so differently to her.
+The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]], revealing them as anchors in a wider network whose builder and extent are unknown.
 
 ### Garland's Reluctant Apprentice
 [[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.
@@ -112,6 +118,12 @@ What called him away, and how his friend came to die, remain unspoken — a buri
 The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.
 Whether it connects to actual elven ancestry or something else entirely remains an open question.
 
+### Aldric's Unnatural Reach
+[[Aldric Garlandsson|Aldric]], Garland's grandson, is consolidating power across the [[Ashen Vale]] — and now somehow knows everything that happens within it, down to the fact that the beaver [[Castor]] could speak.
+Strange black ravens that are not quite ravens crept toward the [[Witch Stones]] as his soldiers parleyed, one veering off where the warding glamours held.
+How Aldric sees and hears so much, whether the ravens are his eyes, and what his promise that "all will be revealed" once his power is complete truly means are open threads that could grow into a reckoning with his own bloodline.
+*(See also [[Castor]]'s "The Wayward Colony" — the beaver troubles Aldric's men came to end.)*
+
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
 - [[Session 1]] — Soothed a horse with illusion before surrendering it to the dire coyotes; erected a spirit wall at Beaver Lake to hold back the ruin; found Aldric's livery at the lake; disguised himself in Crownvale but was recognized by Mira; slipped her a warning letter for Aldric; purchased horses
@@ -119,3 +131,4 @@ Whether it connects to actual elven ancestry or something else entirely remains 
 - [[Session 3]] — Witnessed his herald curse devastating a farmer's memory; proposed entering [[Aurelion]] through the old mines; conjured light, wards, and illusions to navigate the tunnels; knocked out an elite Aureate guard with [[Second Harvest]] to breach past the guarded junction
 - [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
 - [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
+- [[Session 6]] — Hosted a Sunday dinner at the [[Witch Stones]] with [[Castor]] and [[Mira]]; faced [[Captain Vask]]'s delegation, conceding Mira's return while defending Castor and the beavers; recognized Mira's portal as gate-craft he once knew and lost; broke Vask's grip, was tackled by [[Sergeant Iyer]], then Favored Iyer and swore on his life to compel him aside, crossing the portal to the [[Bonewall]] after Mira and Castor

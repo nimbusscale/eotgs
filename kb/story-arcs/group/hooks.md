@@ -24,6 +24,7 @@ The Xan-Kor erased Sariel from existence — not killed, but removed backward th
 Reality is slowly catching up to this fact, which is why the Xan-Kor's prison is weakening.
 Sariel may still exist — wherever erased things go, they are not necessarily destroyed.
 Whether Sariel can be found or restored is an open question.
+The erasure is now manifesting physically: in [[Session 6]], [[Sariel]]'s bust vanished from a [[Beaconhold]] office without leaving even a trace of dust, and the clergy can no longer remember him — yet [[Sir Roderic Lightbearer|Roderic]] still does, raising the question of why the forgetting has not touched him.
 
 ## The Bonewall's Darkness
 **Source:** [[Session 2]]
@@ -34,11 +35,13 @@ The ancient wards are now weakening as ruin's influence spreads, destabilized by
 Moldrex acts through armies, followers, and strategy — the forces of Öuth Krelt are directed and intelligent, pursuing specific goals.
 Moldrex wants something from the [[Solivum]] and has been waiting for an opportunity to reach it.
 What Moldrex seeks and whether the party's actions have inadvertently enabled the breach are open questions.
+In [[Session 6]] the threat gained a clearer shape: Carnforth, the northernmost Spine, went fully dark, and the warden [[Senna]] — who died at a failing tower and was reborn "in the vision of Moldrex," scaled and reptile-eyed — revealed that Moldrex may be remaking the wardens who fall, raising the question of whether every Spinewarden who dies at the towers returns as its servant.
 
-## The Tunnels Beneath Aurelion
-**Source:** [[Session 3]]
-**Related:** [[Aurelion]], [[Imperium Lucis Aeternae]]
+## The Vanishing Faithful
+**Source:** [[Session 6]]
+**Related:** [[The Light]], [[Primus Griswald]], [[Corona Vigil]], [[Inquisitor Voss]]
 
-The underground tunnel network beneath [[Aurelion]] runs through abandoned gold mines that honeycomb the ground.
-A central junction may have been a shrine or royal passage built by the city's first king.
-The tunnels' original purpose, their connection to the Imperium's lost gold-extraction technology, and what else lies buried in the depths are all unexplored.
+The faithful of [[The Light]] are disappearing overnight from [[Beaconhold]], vanishing from their beds without a trace of struggle.
+Among the missing is [[Primus Griswald]], head of the Light's academies and [[Sir Roderic Lightbearer|Roderic]]'s mentor.
+The [[Corona Vigil]]'s old power and dread have withered to almost nothing in the same span, and its inquisitor [[Inquisitor Voss]] was reduced to begging a half-heretic's help.
+Whether the missing left willingly or were taken, and how the vanishings connect to the unraveling of scripture and the erasure of [[Sariel]], is unknown.

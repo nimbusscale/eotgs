@@ -60,7 +60,7 @@ When the Light stirs in him, he goes unnervingly still before acting.
 He loves dawn over water, hot black tea, the sound of harbor work beginning before the city wakes, and plain soldier's food; he hates enclosed spaces and sometimes wakes in a cold sweat, remembering the mausoleum.
 
 ## Relationships
-None Established
+- [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, revealed to have been reborn in the vision of [[Moldrex]]; Its presumed he killed her when he burned her barge in the [[The Reaches|Reaches]]
 
 ## Hooks
 
@@ -73,9 +73,13 @@ This personal quest intersects the party's wider investigation into [[The Bonewa
 Paxton has "died" several times since the ritual, but it never seems to take, and each time he returns something about him is different.
 What is changing in him with each resurrection, and what the Light is slowly making him into, is unresolved.
 
+### Too Quick to Burn
+Aboard Senna's barge in the [[The Reaches|Reaches]], Paxton set the vessel ablaze and threw himself into the river to escape — and only as the screams rose did he realize others had been hidden aboard, captives or stowaways, who burned because he had been too quick to spend his own life to count the cost to anyone else's.
+His readiness to treat his survival, pain, and death as expendable has a price others pay, and what it will cost him to learn that is unresolved.
+
 ### Burned by the Light
 Paxton arrives owing a debt of favor to a party member his Light has already burned.
 What happened, and what that person lost, is an open question to be answered in play.
 
 ## Session Appearances
-*None yet — joins the party after [[Edric Bloom]]'s disappearance beneath the Chryseum.*
+- [[Session 6]] — Recounted his death at [[Bonewall|Hallowreach]] and his waking in the mausoleum with the Light in his chest; heard that Carnforth had gone dark and turned back toward the wall; in the [[The Reaches|Reaches]] found [[Senna]] healing marsh-creatures with scaled hand and reptilian eyes, learned she had been reborn in the vision of [[Moldrex]] and he "wrong" in Lucifer's, and burned her barge to escape — killing Senna and unknown others hidden aboard

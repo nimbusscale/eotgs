@@ -58,18 +58,17 @@ images it needs. Then return here and execute Phases 1–5.
   the provider). Curated library images remain the source the canon is written from — and are ready
   to feed a reference-capable provider (gpt-image edits / IP-Adapter) if one is added later.
 
-## Phase 1 — Move & adapt the generator script
+## Phase 1 — Move & adapt the generator script ✅ DONE
 
-Move `image/request.py` → `scripts/generate-image.py` (plain `mv`; the file is untracked) and edit it:
+`image/request.py` was moved to `scripts/generate-image.py` (now tracked) and adapted:
 
-- **Env var:** read `SANDBOX_MODEL_ACCESS_KEY` instead of `MODEL_ACCESS_KEY` (line 222). Update the
-  missing-key error message (line 224–227) — drop the stale `image/curl.sh` reference.
-- **Default out-dir:** the script now sits in `scripts/`, so `SCRIPT_DIR` is wrong as a default.
-  Add `REPO_ROOT = Path(__file__).resolve().parent.parent` and default `--out-dir` to
-  `REPO_ROOT / "images"` so files land where `build_site.py` syncs from.
-- **Docstring/usage:** update the example paths and env-var name.
+- **Env var:** reads `SANDBOX_MODEL_ACCESS_KEY` instead of `MODEL_ACCESS_KEY`; missing-key error
+  message updated, stale `image/curl.sh` reference dropped.
+- **Default out-dir:** `SCRIPT_DIR` replaced with `REPO_ROOT = Path(__file__).resolve().parent.parent`
+  and `DEFAULT_OUT_DIR = REPO_ROOT / "images"`, so files land where `build_site.py` syncs from.
+- **Docstring/usage:** example paths and env-var name updated.
 - Everything else (DO endpoints, `openai-gpt-image-2`, `--prompt-file` JSON-passed-whole,
-  `--name`/`--tall`/`--wide`/`--square`, LLM-naming fallback, b64/url handling) stays as-is.
+  `--name`/`--tall`/`--wide`/`--square`, LLM-naming fallback, b64/url handling) unchanged.
 
 ## Phase 2 — Relocate existing specs & clean up
 

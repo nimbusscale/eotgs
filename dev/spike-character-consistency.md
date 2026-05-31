@@ -75,12 +75,13 @@ Each iteration costs a real image-gen call + a judge's vision reads, so the loop
 
 ## Generator usage
 
-`image/request.py` reads `SANDBOX_MODEL_ACCESS_KEY` (not the customer `MODEL_ACCESS_KEY`). Run in
-place; write to the gitignored scratch dir:
+`scripts/generate-image.py` reads `SANDBOX_MODEL_ACCESS_KEY` (not the customer `MODEL_ACCESS_KEY`)
+and defaults its out-dir to the repo's `images/`. For the spike, pass `--out-dir image/spike` to keep
+candidates in the gitignored scratch dir:
 
 ```bash
 mkdir -p image/spike
-python3 image/request.py --prompt-file <spec.json> --name <slug> --out-dir image/spike --wide
+python3 scripts/generate-image.py --prompt-file <spec.json> --name <slug> --out-dir image/spike --wide
 # --tall for portrait framing; default --wide is 1536x1024
 ```
 

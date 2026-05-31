@@ -275,7 +275,7 @@ The kingdom may claim mountains, valleys, and regions, but only truly controls t
 - [[Marrow County]] — A minor but strategically placed county bordering the capital
 - [[Ashen Vale]] — Border region to the south
 - [[Eastern Rivers]] — Border region to the east
-- [[Havens Reach]] — Port town on the border between the kingdom, the [[Eastern Rivers]], and the [[Solivum]]
+- [[Havens Reach]] — Port town on the border between the kingdom, the [[Eastern Rivers]], and the [[Solvium]]
 
 ### Associated NPCs
 - [[Sir Roderic Lightbearer]] — Raised in the capital city
@@ -389,17 +389,17 @@ Wooded slopes, mossy, shrouded in mist and steam.
 
 ### Description
 An independent region of cliffs, ravines, and treacherous terrain.
-Lies between [[Beaconhold]]'s environs and the [[Solivum]].
+Lies between [[Beaconhold]]'s environs and the [[Solvium]].
 A labyrinth of broken rock — confusing and dangerous to navigate.
 The [[Eastern Rivers]] cut through, providing the only reliable passage.
 
 ### Connected Locations
 - [[Beaconhold]] — The kingdom to the west
-- [[Solivum]] — The great lake to the east, accessible through the river passages
+- [[Solvium]] — The great lake to the east, accessible through the river passages
 - [[Eastern Rivers]] — Cut through the Cragmarr, providing passage
 
 ### Events Here
-- [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Solivum
+- [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Solvium
 
 
 ## Crownvale
@@ -445,7 +445,7 @@ Aldric styles himself a lord here, basing his authority on the [[Greenholt Blood
 An independent region bordering the Kingdom of [[Beaconhold]].
 Fed by springs and snowmelt from the [[Bonewall]].
 Remote enough that tax collectors don't visit.
-The rivers cut through the [[Cragmarr]], providing passage to the [[Solivum]].
+The rivers cut through the [[Cragmarr]], providing passage to the [[Solvium]].
 
 ### Notable Features
 - [[Edric Bloom]]'s homeland
@@ -456,8 +456,8 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Solivum]].
 - [[Beaconhold]] — The kingdom to the west
 - [[Bonewall]] — The mountain range that feeds the rivers
 - [[Cragmarr]] — The rivers cut through this region, providing the only reliable passage to the lake
-- [[Solivum]] — The great lake the rivers feed into
-- [[Havens Reach]] — Port town where the Eastern Rivers meet the Solivum
+- [[Solvium]] — The great lake the rivers feed into
+- [[Havens Reach]] — Port town where the Eastern Rivers meet the Solvium
 
 ### Associated NPCs
 - [[Edric Bloom]] — Born in a small village here
@@ -472,7 +472,7 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Solivum]].
 **First Visited:** Not yet visited
 
 ### Description
-A port town on the shores of the [[Solivum]], at the border between the Kingdom of [[Beaconhold]], the [[Eastern Rivers]], and the lake.
+A port town on the shores of the [[Solvium]], at the border between the Kingdom of [[Beaconhold]], the [[Eastern Rivers]], and the lake.
 Built on the ruins of a larger [[Imperium Lucis Aeternae|Imperium]]-era settlement that was razed during the fall of the Imperium.
 The town was rebuilt and had been growing into its own before the stagnation set in; it never grew past that point.
 The old ruins are still visible beneath and around the current settlement — foundations too large for the buildings sitting on them, streets that lead to nothing, the outline of walls that once enclosed a much larger city.
@@ -483,13 +483,13 @@ Nobody in the current era remembers the origin with certainty.
 The Imperium-era name of the original settlement has been largely forgotten.
 
 ### Notable Features
-- [[Beaconhold]]'s primary access point to trade on the [[Solivum]]
+- [[Beaconhold]]'s primary access point to trade on the [[Solvium]]
 - Built on Imperium-era ruins; the old settlement was significantly larger
 - The town has been stagnant for centuries — never declining, never growing
 - Birthplace of [[Paxton Lumnus]]
 
 ### Connected Locations
-- [[Solivum]] — The great lake it sits upon
+- [[Solvium]] — The great lake it sits upon
 - [[Eastern Rivers]] — The river region to its north and east
 - [[Cragmarr]] — The broken terrain connecting it to Beaconhold proper
 - [[Beaconhold]] — The kingdom it belongs to
@@ -578,7 +578,7 @@ Old maps sometimes mark the region with warnings or simply leave it blank.
 - [[Thirteen Spines]] — The ward towers that hold its forces at bay
 
 
-## The Solivum
+## The Solvium
 
 **Type:** Region (Body of Water)
 **First Visited:** [[Session 0]]
@@ -589,10 +589,10 @@ So large it functions as an inland ocean — the far shores are not visible from
 Multiple city-states and kingdoms line its shores.
 [[Beaconhold]]'s port town of [[Havens Reach]] provides access to lake trade.
 Accessible through the [[Cragmarr]] via the river passages.
-Multiple other kingdoms and city-states exist around the Solivum and beyond, none yet established.
+Multiple other kingdoms and city-states exist around the Solvium and beyond, none yet established.
 
 ### Name
-The name "Solivum" is of [[Imperium Lucis Aeternae|Imperium]]-era origin.
+The name "Solvium" is of [[Imperium Lucis Aeternae|Imperium]]-era origin.
 Its meaning is debated — possibly derived from *solus* (alone) or *solvere* (to release).
 Sailors and scholars disagree on the etymology.
 Some believe it reflects the feeling of isolation experienced on its vast surface; others suspect the name predates common usage and holds deeper significance lost to history.
@@ -606,7 +606,7 @@ Some believe it reflects the feeling of isolation experienced on its vast surfac
 - [[Eastern Rivers]] — The rivers that feed the lake
 - [[Cragmarr]] — The terrain between the lake and Beaconhold
 - [[Beaconhold]] — Connected via [[Havens Reach]]
-- [[Havens Reach]] — Port town on the border between Beaconhold, the Eastern Rivers, and the Solivum
+- [[Havens Reach]] — Port town on the border between Beaconhold, the Eastern Rivers, and the Solvium
 
 ### Events Here
 - [[Session 0]] — Established as a major geographical feature

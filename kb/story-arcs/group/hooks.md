@@ -33,7 +33,7 @@ The erasure is now manifesting physically: in [[Session 6]], [[Sariel]]'s bust v
 The [[Thirteen Spines]] — thirteen ward towers along the [[Bonewall]] — have held back [[Moldrex]], an evil New God sealed in [[Öuth Krelt]] beyond the mountains.
 The ancient wards are now weakening as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
 Moldrex acts through armies, followers, and strategy — the forces of Öuth Krelt are directed and intelligent, pursuing specific goals.
-Moldrex wants something from the [[Solivum]] and has been waiting for an opportunity to reach it.
+Moldrex wants something from the [[Solvium]] and has been waiting for an opportunity to reach it.
 What Moldrex seeks and whether the party's actions have inadvertently enabled the breach are open questions.
 In [[Session 6]] the threat gained a clearer shape: Carnforth, the northernmost Spine, went fully dark, and the warden [[Senna]] — who died at a failing tower and was reborn "in the vision of Moldrex," scaled and reptile-eyed — revealed that Moldrex may be remaking the wardens who fall, raising the question of whether every Spinewarden who dies at the towers returns as its servant.
 

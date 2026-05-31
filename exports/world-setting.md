@@ -151,7 +151,7 @@ Moldrex has been sealed in [[Öuth Krelt]] for centuries — long enough to plan
 Unlike the Old Gods, who are impersonal forces of nature that do not notice humanity, Moldrex has intentions.
 Moldrex acts through armies, followers, strategy, and purpose.
 The forces of Öuth Krelt are not a tide of mindless darkness — they are directed, intelligent, and pursuing specific goals.
-Moldrex wants something from the [[Solivum]] and has been waiting for an opportunity to reach it.
+Moldrex wants something from the [[Solvium]] and has been waiting for an opportunity to reach it.
 
 ### Current Situation
 The ancient wards of the [[Thirteen Spines]] are weakening — destabilized by the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
@@ -164,7 +164,7 @@ For the first time in living memory, the barrier that has held Moldrex's forces 
 - [[Thirteen Spines]] — The ward towers holding Moldrex's forces at bay
 - [[Öuth Krelt]] — The land beyond the Bonewall where Moldrex rules
 - [[The Light]] — The faith responsible for maintaining the wards
-- [[Solivum]] — The great lake that Moldrex's forces appear to be targeting
+- [[Solvium]] — The great lake that Moldrex's forces appear to be targeting
 
 ### Sources
 - [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established

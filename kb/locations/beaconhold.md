@@ -28,7 +28,7 @@ The kingdom may claim mountains, valleys, and regions, but only truly controls t
 - [[Marrow County]] — A minor but strategically placed county bordering the capital
 - [[Ashen Vale]] — Border region to the south
 - [[Eastern Rivers]] — Border region to the east
-- [[Havens Reach]] — Port town on the border between the kingdom, the [[Eastern Rivers]], and the [[Solivum]]
+- [[Havens Reach]] — Port town on the border between the kingdom, the [[Eastern Rivers]], and the [[Solvium]]
 
 ## Associated NPCs
 - [[Sir Roderic Lightbearer]] — Raised in the capital city

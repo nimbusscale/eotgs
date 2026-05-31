@@ -96,11 +96,18 @@ Was culturally religious when younger, going through the motions, but lost touch
 Not a believer one way or another now.
 
 ### Relationships
-- [[Garland yn Greenholt]] — Devoted Affection; Garland is in truth his great-grand-nephew, yet Castor regards the more mature Garland as a father figure despite being technically older; Garland helped lift his curse, and Castor visits him regularly during the downtime
+- [[Garland yn Greenholt]] — Devoted Affection; Garland is in truth his great-grand-nephew, yet Castor regards the more mature Garland as a father figure despite being technically older; Garland helped lift his curse, leaving Castor with a standing debt of gratitude, and Castor visits him regularly during the downtime
 - [[Edric Bloom]] — Lowkey Camaraderie
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
 - [[Mira]] — Garland's young, demanding self-declared apprentice and Castor's distant kin; he has taken a liking to her, and she calls him "Pop pop"
+
+### Favors
+
+#### Castor favors [[Garland yn Greenholt]]
+When Castor returned to the cursed homelands an aged beaver, it was [[Garland yn Greenholt|Garland]] who puzzled out his affliction and lifted enough of it to give him back his human shape — whether he wanted it or not.
+Castor has carried a quiet debt to him ever since: the gratitude of a creature handed back a life he had stopped expecting, owed to a man he regards as a father despite being his elder by lifetimes.
+*[[Session 0]] · Active — a standing debt of gratitude, his since Garland gave him back his humanity.*
 
 ### Hooks
 
@@ -321,6 +328,13 @@ Has never had much use for gods.
 - [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
 - [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
 
+### Favors
+
+#### Garland favors [[Sergeant Iyer]]
+At the [[Witch Stones]], when [[Captain Vask]] came to collect [[Mira]] and Iyer wrestled Garland to the ground, Garland bent the sergeant to defy his own captain and grant him passage through the portal.
+He swore on his own life to bring Mira back to [[Crownvale]].
+*[[Session 6]] · Gratify · Active — a bond of obligation now runs between them.*
+
 ### Hooks
 
 #### The Witch Stones
@@ -435,6 +449,9 @@ He loves dawn over water, hot black tea, the sound of harbor work beginning befo
 ### Relationships
 - [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, revealed to have been reborn in the vision of [[Moldrex]]; Its presumed he killed her when he burned her barge in the [[The Reaches|Reaches]]
 
+### Favors
+_None yet._
+
 ### Hooks
 
 #### The Flawed Wards
@@ -526,7 +543,14 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Castor]] — Lowkey Doubts
 - [[Primus Griswald]] — His mentor and patron, who recruited him as a boy and spared him from disgrace after the lost battalion; now vanished
 - [[Inquisitor Voss]] — A Corona Vigil inquisitor who once branded him a heretic, now an uneasy ally who charged him to investigate the failing wards
-- [[Vicar Lucis Gregory]] — A longstanding contact in the Beaconhold church who has known him since boyhood
+- [[Vicar Lucis Gregory]] — A longstanding contact in the Beaconhold church who has known him since boyhood; Roderic has long owed him a favor, a standing debt whose origin is unspoken
+
+### Favors
+
+#### Roderic favors [[Vicar Lucis Gregory]]
+Roderic and the old vicar go back to his boyhood in the [[Beaconhold]] church, and somewhere across that long history Roderic came to owe him — a standing debt whose origin neither has cause to name.
+It was always there; it simply came to light when Roderic returned to lean on Gregory for the truth of the vanishing faithful and [[Sariel]]'s unmaking, and the frightened administrator gave him what he knew and took him at his word.
+*Pre-campaign · Active — a long-standing debt, brought to light in [[Session 6]] rather than newly made.*
 
 ### Hooks
 

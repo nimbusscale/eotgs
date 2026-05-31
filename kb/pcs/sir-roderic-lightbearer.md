@@ -66,7 +66,14 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Castor]] — Lowkey Doubts
 - [[Primus Griswald]] — His mentor and patron, who recruited him as a boy and spared him from disgrace after the lost battalion; now vanished
 - [[Inquisitor Voss]] — A Corona Vigil inquisitor who once branded him a heretic, now an uneasy ally who charged him to investigate the failing wards
-- [[Vicar Lucis Gregory]] — A longstanding contact in the Beaconhold church who has known him since boyhood
+- [[Vicar Lucis Gregory]] — A longstanding contact in the Beaconhold church who has known him since boyhood; Roderic has long owed him a favor, a standing debt whose origin is unspoken
+
+## Favors
+
+### Roderic favors [[Vicar Lucis Gregory]]
+Roderic and the old vicar go back to his boyhood in the [[Beaconhold]] church, and somewhere across that long history Roderic came to owe him — a standing debt whose origin neither has cause to name.
+It was always there; it simply came to light when Roderic returned to lean on Gregory for the truth of the vanishing faithful and [[Sariel]]'s unmaking, and the frightened administrator gave him what he knew and took him at his word.
+*Pre-campaign · Active — a long-standing debt, brought to light in [[Session 6]] rather than newly made.*
 
 ## Hooks
 

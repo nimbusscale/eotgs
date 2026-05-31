@@ -111,7 +111,7 @@ Paxton answered with fire, burning the barge down to the waterline and throwing 
 ### Session Notes
 A deliberately disjointed "vignette" session, establishing each character's individual setup before the party reunites at the Bonewall next session; much of it was collaborative worldbuilding rather than shared play.
 First session with [[Paxton Lumnus]] replacing [[Edric Bloom]]; the player was new to the Chasing Adventure / Grimwild system.
-The group worked through the Favour mechanic for the first time (Garland Favoring [[Sergeant Iyer]]) and Paxton's player tested the crumble-and-return rules for the first time.
+The group worked through the Favor mechanic for the first time (Garland Favoring [[Sergeant Iyer]]) and Paxton's player tested the crumble-and-return rules for the first time.
 
 
 ## Session 5: The Cocoon Opens

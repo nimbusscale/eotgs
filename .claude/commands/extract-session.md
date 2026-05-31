@@ -124,6 +124,22 @@ All narrative content must read like fiction. A reader should never be able to t
 
 Include only when the GM was explicitly uncertain, said "let's rule it this way for now," or said they need to check the book later. Do NOT include confident rules explanations or character fiction establishment.
 
+#### Favors
+
+A **Favor** is a Chasing Adventure GM move: a bond of obligation between a character and another party (PC or NPC). It is **gained** via **Gratify** (a character does someone a service or compels them, earning a debt), **spent** via **Appease** (cashing the favor in to get cooperation) or **Refuse** (calling on the favor but being turned down), and **lost** via **Antagonize** (the bond is broken by mistreatment or betrayal).
+
+Record a `favors:` entry whenever a character:
+- **Favors** another character or swears an obligation to them (`move: gratify`, `status: active`);
+- **cashes one in** — calls on an existing favor for cooperation (`move: appease`) or is refused (`move: refuse`);
+- **breaks one** through mistreatment or betrayal (`move: antagonize`, `status: lost`);
+- **reveals** a favor that already existed (`move: reveal`) — see below.
+
+For each entry capture the in-fiction `event` (the real moment, one sentence per line, narrative voice — never name the move "in the fiction"), any `sworn` promise, the `move`, and the resulting `status` (active | spent | lost | open). Set `favorer` to the one who owes / feels the obligation, `favored` to the one owed, and `pc_anchor` to the PC whose page the favor lands on. When a party is unnamed (e.g. "a companion the Light has already burned"), use a short description in place of the name and set `status: open` so it can be resolved later.
+
+**Revealed favors (Connect and other play-to-find-out moves).** A favor is sometimes not *created* in play but *uncovered* — a Connect move (or similar backstory declaration) establishes that an NPC, the relationship, AND a favor between them were all already true. The favor did not begin in this session; the table merely learned of it. Record these with `move: reveal`, set `session_established` to when the bond actually formed (a prior session number, or "pre-campaign" / omit if it predates play or is unknown), and describe the surfacing scene in `event`. Do **not** tag a revealed favor as `gratify`, and do not let the fiction imply this session's events incurred the debt. The incorporated annotation uses the origin (e.g. "Pre-campaign") in place of a favor-move, mirroring an open backstory favor.
+
+Favors are captured **both** structurally here (so the mechanic is tracked on purpose) **and** as fiction in the `summary` and any relevant `entity_updates` (so the bond reads as story). Do not let the structural capture replace the narrative.
+
 #### Entity update scope
 
 Entity updates should contain only **durable facts** that would belong on the entity's wiki page and matter beyond this session. Think of it as updating a reference card, not narrating what happened.
@@ -205,6 +221,7 @@ Then report:
 - Arc progress: {n} arcs updated
 - Notable quotes: {n}
 - Rules clarifications: {n}
+- Favors: {n}
 
 **Unresolved references (for review):**
 - {reference} (~line {n}) — {likely_match}
@@ -294,6 +311,21 @@ rules_clarifications:
   - topic: "Topic"
     clarification: |
       What was ruled and context.
+
+favors:
+  - move: "gratify"            # gratify | appease | refuse | antagonize | reveal
+    favorer: "Garland yn Greenholt"   # the one who owes / feels the obligation
+    favored: "Sergeant Iyer"          # the one owed (PC or NPC; description if unnamed)
+    pc_anchor: "Garland yn Greenholt" # the PC whose page this lands on
+    event: |
+      The real, in-fiction moment that created, revealed, or changed the favor (one sentence per line).
+    sworn: |
+      What was promised, if anything. Omit if none.
+    session_established: 6     # session the favor ORIGINATED — for a `reveal` this is when the
+                               # bond actually formed (often before play): use the prior session
+                               # number, or "pre-campaign" / omit if it predates play / is unknown.
+                               # NOT the session it surfaced in (that goes in `event`).
+    status: "active"           # active | spent | lost | open
 
 filtered_sections:
   - line_range: "start-end"

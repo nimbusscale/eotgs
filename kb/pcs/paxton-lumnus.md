@@ -62,6 +62,9 @@ He loves dawn over water, hot black tea, the sound of harbor work beginning befo
 ## Relationships
 - [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, revealed to have been reborn in the vision of [[Moldrex]]; Its presumed he killed her when he burned her barge in the [[The Reaches|Reaches]]
 
+## Favors
+_None yet._
+
 ## Hooks
 
 ### The Flawed Wards

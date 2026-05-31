@@ -93,11 +93,18 @@ Was culturally religious when younger, going through the motions, but lost touch
 Not a believer one way or another now.
 
 ## Relationships
-- [[Garland yn Greenholt]] — Devoted Affection; Garland is in truth his great-grand-nephew, yet Castor regards the more mature Garland as a father figure despite being technically older; Garland helped lift his curse, and Castor visits him regularly during the downtime
+- [[Garland yn Greenholt]] — Devoted Affection; Garland is in truth his great-grand-nephew, yet Castor regards the more mature Garland as a father figure despite being technically older; Garland helped lift his curse, leaving Castor with a standing debt of gratitude, and Castor visits him regularly during the downtime
 - [[Edric Bloom]] — Lowkey Camaraderie
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
 - [[Mira]] — Garland's young, demanding self-declared apprentice and Castor's distant kin; he has taken a liking to her, and she calls him "Pop pop"
+
+## Favors
+
+### Castor favors [[Garland yn Greenholt]]
+When Castor returned to the cursed homelands an aged beaver, it was [[Garland yn Greenholt|Garland]] who puzzled out his affliction and lifted enough of it to give him back his human shape — whether he wanted it or not.
+Castor has carried a quiet debt to him ever since: the gratitude of a creature handed back a life he had stopped expecting, owed to a man he regards as a father despite being his elder by lifetimes.
+*[[Session 0]] · Active — a standing debt of gratitude, his since Garland gave him back his humanity.*
 
 ## Hooks
 

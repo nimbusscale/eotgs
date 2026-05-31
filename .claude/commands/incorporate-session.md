@@ -94,6 +94,7 @@ Map each YAML field to the KB operations it drives:
 | `questions_resolved`, `arc_progress` | Story arc updates |
 | `notable_quotes` | Session file (Notable Quotes) |
 | `rules_clarifications` | PC files (Key Traits) if relevant; otherwise review in extracted YAML |
+| `favors` | Update the `## Favors` section on each entry's `pc_anchor` page (Step 9b) |
 | `unresolved_references` | `review/pending-changes.md` |
 | `gm_observations` | `gm-notes/` only (review in extracted YAML) |
 | `filtered_sections` | Report only (not written to KB) |
@@ -315,6 +316,28 @@ Information worth recording should go in the appropriate section:
 Transient session details (temporary barriers, items found during a scene) belong in the session file only — not duplicated to entity files.
 Only update entity files with information that changes the permanent understanding of that entity.
 
+### Step 9b — Update PC Favor sections
+
+For each entry in `favors:`, record the bond on the anchoring PC's `## Favors` section. This is the move-aware, fiction-first record of obligations.
+
+1. Open the `pc_anchor` PC page in `kb/pcs/`.
+2. Match the entry on `favorer` + `favored` against the existing `###` sub-entries in `## Favors`.
+3. **New favor** (`move: gratify` with no matching entry): append a `###` entry. The heading reads as the bond (e.g. `### Garland favors [[Sergeant Iyer]]`). Render `event` (and `sworn`, if present) as fiction prose, one sentence per line, then add the annotation line:
+   ```markdown
+   *[[Session N]] · Gratify · <Status> — <one-line fiction-flavored note>*
+   ```
+   where `<Status>` is the entry's `status` capitalized (Active | Spent | Lost | Open). If the section holds only a `_None yet._` placeholder, replace it.
+3b. **Revealed favor** (`move: reveal` with no matching entry): also a new `###` entry, but the bond pre-existed and was only surfaced this session (e.g. via a Connect move) — it was **not** incurred now. Write the prose so it reads as a long-standing debt that came to light, never as one created by this session's events. Use the **origin** in place of the favor-move in the annotation:
+   ```markdown
+   *<Origin> · <Status> — <note>, brought to light in [[Session N]] rather than newly made.*
+   ```
+   where `<Origin>` is `Pre-campaign` (if it predates play or is unknown) or `[[Session K]]` for the session the bond actually formed (from `session_established`). Do not write `Gratify` for a revealed favor.
+4. **Existing favor** (`move: appease` / `refuse` / `antagonize`, or any status change against a matched entry): append a new annotated fiction line under the matched `###` entry (newest last, so it reads as an evolving story) and update the entry's current `<Status>` — `antagonize` or a broken bond → `Lost`; a spent/cashed favor → `Spent`.
+5. **Resolving an `open` favor**: when the party or terms of a previously-open favor become known, edit the matched entry in place (fill in the name/`[[wiki-link]]`, update the annotation) rather than appending a new entry.
+6. Maintain one-sentence-per-line and preserve/add `[[wiki-links]]`. Keep each entry **fiction-first** — the move and status live only in the italic annotation line, never in the prose.
+
+**Keep narrative in sync:** the in-fiction bond should still appear in the affected entities' `## Relationships` sections (driven by `entity_updates`, as today). The `## Favors` section is the move-aware record; `## Relationships` is the relational summary — both should agree.
+
 ### Step 10 — Split GM-private vs player-visible content
 
 Route content based on sensitivity:
@@ -328,6 +351,8 @@ Route content based on sensitivity:
 | Story hooks (open questions, mysteries the players know about) | group: `kb/story-arcs/group/hooks.md`; character: PC `## Hooks` |
 | GM answers to hooks, planned reveals for hooks | `gm-notes/` (reference the hooks file) |
 | NPC secrets the players haven't learned | `gm-notes/` |
+| Structured Favor record (the bond, its move and status) | PC `## Favors` section (player-visible) |
+| GM-private strategic follow-up on a favor (which way to pull the lever, who it endangers, complications it invites) | `gm-notes/character-threads.md` (point at the PC `## Favors` section as the record) |
 | `gm_observations` from YAML | Session file (Session Notes) for pacing/engagement observations; `gm-notes/` for plot-direction notes |
 
 When content mixes both, split it: player-visible parts go to the KB, GM-private parts go to `gm-notes/`.
@@ -350,6 +375,7 @@ GM-private content from sessions is rare — mainly meta-observations about plot
 - [ ] Contradictions and unresolved references have been flagged in `pending-changes.md`.
 - [ ] GM-private content has been routed to `gm-notes/`.
 - [ ] Story hooks have been identified and added to the appropriate location (PC files for character hooks, hooks.md for group hooks).
+- [ ] PC Favor sections updated for all `favors:` entries.
 - [ ] All generated prose uses one-sentence-per-line.
 - [ ] All entity references use `[[wiki-link]]` syntax.
 
@@ -388,6 +414,9 @@ After processing, report:
 - ...
 
 **Story hooks identified / activated:**
+- ...
+
+**Favor updates:**
 - ...
 
 **Notable quotes extracted:** {count}

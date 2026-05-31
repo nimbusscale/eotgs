@@ -14,7 +14,7 @@ He could no longer remember the hero [[Sariel]] even when Roderic described him,
 Frightened by the dustless patch where Sariel's bust had stood, he now sleeps with a ceremonial dagger at his side.
 
 ## Relationships
-- [[Sir Roderic Lightbearer]] — Has known him since boyhood; a sympathetic contact within the church hierarchy
+- [[Sir Roderic Lightbearer]] — Has known him since boyhood; a sympathetic contact within the church hierarchy, who has long owed Gregory a favor whose origin is unspoken
 - [[The Light]] — Administrator of its Beaconhold operations
 
 ## Key Events

@@ -24,6 +24,10 @@ STR X, DEX X, INT X, WIS X, CHA X
 ## Relationships
 - [[Entity]] - [Relationship description]
 
+## Favors
+<!-- Favor bonds this character is party to. Fiction-first; annotate each with session, move, status. -->
+_None yet._
+
 ## Hooks
 
 ### [Hook Name]

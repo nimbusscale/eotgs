@@ -85,6 +85,13 @@ Has never had much use for gods.
 - [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
 - [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
 
+## Favors
+
+### Garland favors [[Sergeant Iyer]]
+At the [[Witch Stones]], when [[Captain Vask]] came to collect [[Mira]] and Iyer wrestled Garland to the ground, Garland bent the sergeant to defy his own captain and grant him passage through the portal.
+He swore on his own life to bring Mira back to [[Crownvale]].
+*[[Session 6]] · Gratify · Active — a bond of obligation now runs between them.*
+
 ## Hooks
 
 ### The Witch Stones

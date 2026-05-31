@@ -52,6 +52,15 @@ findings here and in `dev/illustrate-session-plan.md`:
 - **House style governs; references define identity only** (face, build, hair, attire, heraldry —
   not rendering style). Roderic's reference is a glossy epic-hero outlier; he keeps face + lion
   heraldry but loses the gloss.
+- **For M5+, the chosen spike SEED images supersede the player-provided refs as the identity source
+  (decided post-M3).** The player Roderic refs are **internally inconsistent** (the glossy
+  `roderic-pose.jpg` wears a white surcoat skirt and gold-gloss plate that contradict the override
+  canon), which is the root cause of the recurring cloth-arming-skirt drift. The validated spike
+  seeds (`roderic-json-r4.jpg`, `garland-json-r1.jpg`, the joint `garland-roderic-json-r2.jpg`) are
+  internally consistent and already bake in the de-gloss + overrides — use them, not the player refs,
+  as the identity reference for M5 composites and for judging M5. (Generation stays text-only; "use
+  the seed" means author/judge identity against the seed image, and reuse the seed's validated JSON
+  appearance block as the prompt canon.)
 - **Canon format: LOCKED to structured JSON** (decided in M1 — JSON outscored prose in both A/B
   rounds and gave tighter per-feature control over eyes and pose). Use JSON appearance blocks for M2+.
 - **Subject characters:** Garland (3 refs, grounded — easy) and Roderic (2 refs, glossy — hard).
@@ -131,7 +140,7 @@ verbatim on every prompt. Write under **Artifacts → House-style block**.
 | 0 | Prep: house-style block (subagent, no gen) | — | — | DONE |
 | 1 | **Garland solo**, plain backdrop (also: pick JSON vs prose) | identity + style | ~8 | DONE (JSON locked; pass at R1) |
 | 2 | **Roderic solo**, plain backdrop (de-gloss hard case) | identity + style | ~8 | DONE (JSON; pass at R4. De-gloss easy; the lesson was the *rubric* — judge must read identity off the refs, not the author's description) |
-| 3 | **Garland + Roderic together**, plain backdrop | two-subject consistency | ~4 | TODO |
+| 3 | **Garland + Roderic together**, plain backdrop | two-subject consistency | ~4 | DONE (pass at R2; both identities hold with ZERO attribute bleed. Residual: knight's lower-body cloth arming-skirt recurs ~3/4 seeds — a single-figure Roderic-armor variance, not a two-subject problem) |
 | 4 | **Aurelion setting alone** (no characters) | setting → realized refs | ~8 | TODO |
 | 5 | **Characters in the Aurelion cityscape** | full composite | ~4 | TODO |
 | 6 | Finalize findings + canon seeds + dev-plan summary | — | — | TODO |
@@ -155,6 +164,10 @@ refine → repeat under the escape valve → stop for human review or stuck-flag
   exterior, Chryseum interior); judge against the realized Aurelion reference images for match.
 - **M5 — Characters in the Aurelion cityscape.** Compose proven character canon + proven setting
   canon; the full target. Judge checks identity, house style, **and** setting match together.
+  **Identity source = the spike SEED images, NOT the player refs** (see Key decisions): judge
+  identity against `garland-roderic-json-r2.jpg` (and the solo seeds `roderic-json-r4.jpg` /
+  `garland-json-r1.jpg`), since the player Roderic refs are internally inconsistent and reintroduce
+  the cloth-skirt + gloss drift.
 
 ## Milestone 6 — Finalize
 
@@ -391,3 +404,60 @@ steel, faded blue cloak, rampant-lion-on-blue shield, point-down longsword, plai
 spec is `image/spike/roderic-json-r4-spec.json` (= the validated JSON appearance block above +
 clean-shaven/eye-lighting clauses + house-style block + plain-backdrop scene), fully reconstructable
 from the blocks in this doc. R1–R3 are superseded (wrong canon).
+
+#### M3 — Garland + Roderic together (2026-05-31) · 4 generations (cap reached) · **pass at R2 (own-eyes cleared); identities hold with ZERO bleed**
+
+Loop: single joint spec = house-style block + **both** validated identity canons (Garland's JSON
+appearance block + Roderic's de-glossed JSON block w/ the two overrides) cast as a `subjects` array
+with explicit LEFT(old elf)/RIGHT(young knight) placement and contrast cues, + a two-shot
+plain-backdrop scene → generate `--wide` into `image/spike/` → one adversarial judge subagent per
+candidate (candidate + **all 5 refs**, reading features off the refs per the M2 rubric, with
+Roderic's two overrides passed as known intended departures) → refine → own-eyes gate on any pass.
+Specs preserved alongside the images (`garland-roderic-json-r{1,2,3,4}-spec.json`).
+
+| Round | Candidate | Score | Verdict | Notes |
+|-------|-----------|-------|---------|-------|
+| R1 | `garland-roderic-json-r1.jpg` | 7 | fail | Both identities perfect, zero bleed, grounded style — single defect: a knotted **cloth tabard-skirt** draped over the knight's lower torso/groin (override #2 violation). |
+| R2 | `garland-roderic-json-r2.jpg` | **8.5** | **pass** | Strengthened armor clause (bare steel faulds, no waist cloth) cleared it. Clean bare plate, steel faulds, no cloth anywhere. **Own-eyes gate cleared** feature-by-feature vs refs. **Chosen seed.** |
+| R3 | `garland-roderic-json-r3.jpg` | 7 | fail | Confirmation re-roll, **same spec as R2**: identity/bleed/style/eyes all held again, but the **cloth arming-skirt between the legs recurred** below the steel faulds. |
+| R4 | `garland-roderic-json-r4.jpg` | 6 | fail | Hardened the clause further (positive: "bare steel cuisses, nothing hangs between the legs"). Cloth drape between the legs **still** read (borderline/ambiguous). Cap reached. |
+
+**Outcome:** Milestone **passed at R2** (judged pass + own-eyes gate cleared), then the ~4-gen cap
+fired while trying to land a second fully-clean confirmation. The core M3 question is answered
+decisively across **all four** generations.
+
+**Findings:**
+- **Two-subject identity consistency: SOLVED by text alone, with ZERO attribute bleed in 4/4 gens.**
+  Garland (pointed ears, white beard, silver hair, wool cloak + disc brooch, spellbook, no plate) and
+  Roderic (clean-shaven, blond, rounded ears, matte plate, cross-on-steel, lion shield) each held
+  every feature simultaneously. The young knight never inherited the elf's beard or pointed ears; the
+  old elf never gained plate; they always read as two different people of different ages and races.
+- **The technique that worked: a `subjects` array with explicit placement + contrast cues.** Casting
+  the two validated canons as named, placed (LEFT old elf / RIGHT young knight) entries — each with
+  "ONLY this figure has X" qualifiers (pointed ears, beard) and a `do_not_include` block that names
+  bleed directly ("the young knight must have NO beard, NO pointed ears; the old elf must NOT wear
+  plate") — was enough. No reference image, no inpainting. House style + eye-lighting clauses
+  transferred unchanged from M1/M2 and held.
+- **House style + eyes: held in all 4.** Grounded, matte, muted, anti-heroic; both faces lit, irises
+  readable. The M1/M2 eye-lighting clause needs no change for two-shots.
+- **Residual drift (the ONE stubborn thing): the knight's lower-body cloth arming-skirt.** Roderic's
+  glossy `roderic-pose.jpg` ref wears a white surcoat **skirt** over the groin; the model keeps
+  reaching for it and renders a cloth drape between the legs below the steel faulds. It appeared in
+  R1, R3 and R4 and was only fully clean in R2. Escalating positive+negative clauses ("bare steel
+  faulds/tassets/cuisses, nothing hangs between the legs, the gap shows only metal") **reduced but did
+  not eliminate** it — this is generation variance on a single feature, defeated by **re-rolling**,
+  not by more prompt words. NB: this is the *same* single-subject Roderic-armor quirk, surfacing
+  again; it is **not** a two-subject failure. Carry into M5 and finalize: budget a re-roll or two for
+  Roderic's lower body, or accept a steel faulds-skirt as close-enough.
+- **Judge methodology (M2 rubric) transferred cleanly to two subjects.** Giving the judge all five
+  refs + only feature *categories* (per figure) + the two overrides as known departures produced
+  reliable per-figure verdicts and caught the cloth-skirt every time it appeared. The own-eyes gate
+  agreed with the judge on every round (no false pass this milestone).
+
+**M3 canon seed (chosen):** `image/spike/garland-roderic-json-r2.jpg` — the judged pass that cleared
+the own-eyes gate: both identities correct and distinct, zero bleed, knight in clean bare matte plate
+(steel faulds, no cloth), grounded house style, eyes lit on both. Its spec is
+`image/spike/garland-roderic-json-r2-spec.json` (= house-style block + both validated identity
+canons as a placed `subjects` array + two-shot plain-backdrop scene), fully reconstructable from the
+blocks in this doc. R1/R3/R4 are superseded (cloth-skirt drift). Scratch dir is gitignored; the spec
+is reconstructable from the recorded blocks.

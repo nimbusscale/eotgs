@@ -141,7 +141,7 @@ verbatim on every prompt. Write under **Artifacts → House-style block**.
 | 1 | **Garland solo**, plain backdrop (also: pick JSON vs prose) | identity + style | ~8 | DONE (JSON locked; pass at R1) |
 | 2 | **Roderic solo**, plain backdrop (de-gloss hard case) | identity + style | ~8 | DONE (JSON; pass at R4. De-gloss easy; the lesson was the *rubric* — judge must read identity off the refs, not the author's description) |
 | 3 | **Garland + Roderic together**, plain backdrop | two-subject consistency | ~4 | DONE (pass at R2; both identities hold with ZERO attribute bleed. Residual: knight's lower-body cloth arming-skirt recurs ~3/4 seeds — a single-figure Roderic-armor variance, not a two-subject problem) |
-| 4 | **Aurelion setting alone** (no characters) | setting → realized refs | ~8 | TODO |
+| 4 | **Aurelion setting alone** (no characters) | setting → realized refs | ~8 | DONE (2 gens; pass at R1, confirmed R2. Setting consistency solved by text alone — same recipe as identity; no de-gloss fight. Seed `aurelion-downhill-r2.jpg`: reverse-angle downhill plate, clear stairs for M5) |
 | 5 | **Characters in the Aurelion cityscape** | full composite | ~4 | TODO |
 | 6 | Finalize findings + canon seeds + dev-plan summary | — | — | TODO |
 
@@ -301,7 +301,53 @@ _(M2 — DONE 2026-05-31, after a correction pass. Derived from his 2 (glossy) r
 - **Eye-lighting (in `composition`).** "The head is level-to-slightly-raised and the face turns toward the viewer into a soft, warm, even frontal fill light, so the light falls fully on the eyes and the deep-set sockets never drop into brow shadow — the pale-blue irises must be clearly, brightly visible." Side-effect: a slight upward/noble gaze; acceptable, watch it in joint/composite frames.
 
 ### Aurelion setting canon
-_(M4 — TBD)_
+_(M4 — DONE 2026-05-31. Derived by subagent from the 4 Aurelion exterior **specs** (`aurelion-approach`, `aurelion-street-level`, `crest-aurelion-castle-v2`, `chryseum-exterior`) **and** the 4 realized exterior images, trusting the image where it diverged from the spec. **Setting identity only** — rendering is the house-style block. Validated by two judged passes (8/10) that both cleared the own-eyes gate; seed = `aurelion-downhill-r2.jpg`. The judge weights approach/street/castle as the style anchors and treats the Chryseum exterior's extra polish as the sacred-building exception so a whole-city shot isn't pulled glossy.)_
+
+**Spec-vs-image divergences resolved (image chosen):** castle facade reads more uniformly gold-trimmed and more battlemented/fortress-like than the spec's "selective maintenance, not a fortress"; Chryseum windows read warm pale gold-white, not the spec's cool blue-white; dome color is bright-warm-gold up close (chryseum-exterior) but greener verdigris-dominant at city distance (approach) — canon carries both, and the downhill cityscape uses the **distance** read (tarnished amber-and-verdigris, never bright).
+
+**Validated JSON setting canon (identity only; rides with the house-style block, never replaces it):**
+
+```json
+{
+  "city_identity": "Aurelion — a once-imperial golden city in slow decline, built up a hillside, its grandeur tarnished and patched but still functioning; honey-limestone Roman-scale bones beneath centuries of smaller, poorer construction.",
+  "architecture": {
+    "stacked_eras": [
+      "Base: massive Imperium-era honey/pale limestone — large precisely-cut blocks, engineered walls, arched gateways, colonnades with carved capitals, weathered gilded inscriptions; the structural foundation of everything above.",
+      "Middle: medieval-scale stone and brick housing — narrower, lower, less ambitious, settling unevenly on the imperial base.",
+      "Top: improvised timber-frame upper stories, plaster/wattle, mismatched terracotta and gray tile roofs, lean-tos and cantilevered overhangs cramming the skyline."
+    ],
+    "compression": "Each layer smaller and more modest than the one below; dense tiled rooftops climb and compress up the hill, packed tightly between and atop imperial stonework.",
+    "sacred_verticality": "Luciferian sacred structures break the pattern with clean verticals, soaring symmetrical proportions, radiating order — a Byzantine-domed-basilica-meets-Gothic-cathedral massing topped by a gilded dome."
+  },
+  "landmarks": {
+    "chryseum": "The cathedral of the Light and the city's brightest, warmest focal point. A towering symmetrical limestone facade flanked by slender pinnacled buttress-towers, crowned by a large ribbed dome topped by a lantern/cupola — bright warm gold up close (faint verdigris) but read as GREENER verdigris-and-amber across the city; the warmest point in a whole-city frame but tarnished, NOT mirror-bright.",
+    "crest_aurelion": "Count Marrow's seat — a pale limestone palace-vault on the highest rise, a battlemented multi-towered fortress-palace with crenellated rectangular towers and gold-trimmed cornices, ringed by cypress trees; the high vantage point for a downhill reverse-angle shot is at/just below it.",
+    "city_gate": "A wide single-arched imperial gate set in long curtain walls, faintly gold-inscribed around the arch, oversized for current traffic.",
+    "processional_spine": "A broad straight pale stone-paved stair-road forms the city's axis, running from the castle gates at the crown straight down through the city to the imperial gate and road at the base — cleaner and straighter than the cramped streets it cuts through."
+  },
+  "materials": [
+    "Tarnished gold and verdigris green — never bright (except the Chryseum dome seen up close); gilded trim, inscriptions and domes gone aged amber and green-gold.",
+    "Honey/pale limestone and warm sandstone — the dominant imperial stone, sun-warmed but weathered.",
+    "Weathered brown timber framing, dirty plaster cream/white — the upper improvised stories.",
+    "Mismatched roof tiles — terracotta, gray and patched brown patchwork.",
+    "Tarnished gold-over-steel Aureate guard kit — gilded plate worn through to dull steel at stress points, mended cloaks.",
+    "Stone-paved imperial roads and stairs with weeds in the cracks; moss reclaiming cracked masonry."
+  ],
+  "layout_grammar": {
+    "site": "Built on and up a hill; dense construction layers and compresses as it climbs, castle at the crown, Chryseum dome breaking the roofline.",
+    "spine": "A single dominant processional axis (castle → stair → avenue → gate → road) organizes the city and leads the eye uphill to the seats of power or downhill to the gate and open country.",
+    "defenses": "Long imperial curtain walls and a wide arched gate enclose the base of the hill.",
+    "hinterland": "Beyond the walls: thin, tired fields and sparse/leafless orchards, scattered patched farmsteads, rolling dry-gold countryside and low hills, threaded by the oversized old imperial stone road."
+  },
+  "populace_atmosphere": "Decline, not ruin — patched, tired, functioning. Chimney and hearth smoke rising throughout the rooftops; subdued, no festivity, no active destruction; Aureate patrols omnipresent rather than violent; a city that remembers being important and knows it no longer is."
+}
+```
+
+**M4 reverse-angle scene block (the composition that worked — reusable as the M5 base plate):** high vantage at/just below Crest Aurelion looking DOWN and OUT; FG = top of one broad **continuous** processional stair descending away from the camera, kept CLEAR/empty (plain balustrade + cypress flanking, not funerary plinths) so M5 figures can be placed on it; MID = layered terracotta/tile rooftops + the tarnished gold-verdigris dome roughly centered, chimney smoke; BG = curtain wall + arched gate, processional road out, thin fields/orchards, low hills, overcast pewter-to-pale-amber sky with a muted golden-hour break. Full spec: `image/spike/aurelion-downhill-r2-spec.json` (gitignored scratch; reconstructable from the house-style block + the canon above + this scene block).
+
+**Aurelion setting seed (chosen for M5):** `image/spike/aurelion-downhill-r2.jpg` — judged pass (8/10), own-eyes gate cleared: same dome/materials/gate/wall/road/fields as the realized exteriors, grounded house style with no gloss creep, and a single clear continuous foreground stair ready for M5 character placement. Runner-up: `image/spike/aurelion-downhill-r1.jpg` (also a judged pass at 8/10; dome crowded the left edge and the foreground stair was split by a central spine).
+
+**Seed-choice nuance (user, 2026-05-31):** the judge scored R1 and R2 **equal at 8/10** on identity + house style — R2 was chosen as the M5 base plate purely on composition (centered dome, single continuous stair = a cleaner stage for figures). The **user prefers R1 as the truer picture of how they imagine Aurelion**, but is fine using R2 as the M5 basis. So: **R2 = M5 base plate; R1 = the better stand-alone Aurelion image.** Do not "correct" the M5 seed back to R1 in a later session — the split is intentional. (Both are reverse-angle shots in which Crest Aurelion itself is out of frame; if M5 work decides the castle must be visible, a flank-vantage regen supersedes this pick entirely.)
 
 ### Iteration & judge log
 _(M1–M5 — append dated entries: milestone, gens used, final score, verdict, key drift, outcome)_
@@ -461,3 +507,53 @@ the own-eyes gate: both identities correct and distinct, zero bleed, knight in c
 canons as a placed `subjects` array + two-shot plain-backdrop scene), fully reconstructable from the
 blocks in this doc. R1/R3/R4 are superseded (cloth-skirt drift). Scratch dir is gitignored; the spec
 is reconstructable from the recorded blocks.
+
+#### M4 — Aurelion setting alone, no characters (2026-05-31) · 2 generations · **pass at R1, confirmed at R2 (both own-eyes cleared); first SETTING milestone**
+
+First **setting** milestone (M1–M3 were characters). Same loop, adapted: a prep subagent derived a
+structured-JSON **Aurelion setting canon** (identity only) from the 4 Aurelion exterior specs **and**
+the 4 realized exterior images, trusting the image on divergence → assemble scene spec = house-style
+block (verbatim) + setting canon + a **reverse-angle downhill scene block** → generate `--wide` into
+`image/spike/` → one adversarial judge subagent per candidate (candidate + **all 4 realized
+exteriors**, style anchored on approach/street/castle with the Chryseum's polish treated as the
+sacred-building exception) → own-eyes gate on each pass. Specs preserved alongside the images
+(`aurelion-downhill-r{1,2}-spec.json`).
+
+| Round | Candidate | Score | Verdict | Notes |
+|-------|-----------|-------|---------|-------|
+| R1 | `aurelion-downhill-r1.jpg` | **8** | **pass** | First try. Correct high reverse vantage looking down/out; clear descending foreground stairs; tarnished gold-verdigris dome; curtain wall + arched gate + receding fields — reads as the same city, grounded house style, no gloss creep, no characters. **Own-eyes gate cleared.** Judge nits (non-blocking): dome crowded the left frame edge; foreground stair split by a central spine; flanking plinths read slightly funerary. |
+| R2 | `aurelion-downhill-r2.jpg` | **8** | **pass** | Confirmation with the R1 nits folded in (center the dome, one continuous stair run, plain civic balustrade not tombs). Dome centered, single broad continuous descending stair = a cleaner M5 base plate; identity/style/no-characters all held again. **Own-eyes gate cleared. Chosen seed.** |
+
+**Outcome:** Milestone **passed at R1** (judge pass + own-eyes gate) and **confirmed at R2**. Only 2 of
+~8 generations used — the setting technique converged immediately, even faster than the character
+milestones.
+
+**Findings:**
+- **Setting consistency: SOLVED by text alone, like identity.** The same recipe that carried character
+  identity (text-only JSON canon + the verbatim house-style block) carried *setting* identity on the
+  first generation. The derived Aurelion canon reproduced the dome (tarnished gold/verdigris, ribbed,
+  lantern-topped), the three stacked eras, the imperial gate + curtain wall, the processional
+  stair-spine, and the thin-fields hinterland — unmistakably the **same city** as the refs, reverse-angled, not a generic medieval town. No reference image fed to generation.
+- **No de-gloss problem for the setting (as predicted).** The M0 house-style block was *derived from*
+  these realized exteriors, so matching the exteriors and matching the house style were the same thing.
+  The dome came back tarnished, not bright, both rounds — none of the M2/M3 gloss fight (which was a
+  Roderic *player-ref* issue, not a setting one).
+- **The judge's sacred-building exception mattered.** Telling the judge to anchor style on
+  approach/street/castle and treat the Chryseum exterior's extra polish as the sacred exception kept
+  the whole-city shot from being pulled glossy by the one ornate ref.
+- **Refinement edits here were cheap and additive, not regressive** (unlike M1's score decline). R1→R2
+  notes (center dome, single continuous stair, civic-not-funerary balustrade) all landed cleanly and
+  improved the M5 base plate without breaking anything — a setting wide shot has more compositional
+  slack than a tightly-specified portrait.
+- **Composition-for-M5 is a real, separable criterion.** Both rounds passed identity+style; R2 won the
+  seed purely on M5-readiness (centered dome, one clear continuous stair plane for figure placement).
+  Carry into M5: the reverse-angle downhill plate with a clear stair is the intended stage for the
+  Garland+Roderic composite (identity source = the M3 seed `garland-roderic-json-r2.jpg`).
+
+**M4 setting seed (chosen):** `image/spike/aurelion-downhill-r2.jpg` — judged pass (8) that cleared the
+own-eyes gate: same dome/materials/gate/wall/road/fields as the realized exteriors, grounded house
+style, centered tarnished dome, and a single clear continuous foreground stair ready for M5 character
+placement. Spec: `image/spike/aurelion-downhill-r2-spec.json` (= house-style block + validated
+Aurelion setting canon + reverse-angle downhill scene block), reconstructable from the blocks above.
+R1 (`aurelion-downhill-r1.jpg`) is the runner-up/confirmation (also a judged pass; split stair + dome
+crowding the edge). Scratch dir is gitignored; specs are reconstructable from the recorded blocks.

@@ -291,7 +291,9 @@ def copy_images(image_map):
         if not src.exists():
             warnings.append(f"  image source missing: {src.relative_to(REPO_ROOT)}")
             continue
-        shutil.copy2(src, IMAGE_DEST_DIR / name)
+        dest = IMAGE_DEST_DIR / name
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dest)
     return warnings
 
 

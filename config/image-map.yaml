@@ -9,6 +9,35 @@
 # Omit `hero` to send every image to the gallery — use this for pages where
 # no single image represents the whole entity (e.g. faction pages).
 
+pcs/castor:
+  hero: { file: pcs/castor-human.jpg, alt: "Castor in human form" }
+  gallery:
+    - { file: pcs/garland-and-castor-beaver.jpg, caption: "Garland cradling Castor in his true beaver form" }
+
+pcs/garland-yn-greenholt:
+  hero: { file: pcs/garland-portrait.jpg, alt: "Garland yn Greenholt" }
+  gallery:
+    - { file: pcs/garland-second-harvest.jpg, caption: "Garland walks the vale, Second Harvest in hand" }
+    - { file: pcs/garland-and-castor-beaver.jpg, caption: "The old guardian and his beaver kin" }
+
+pcs/paxton-lumnus:
+  hero: { file: pcs/paxton-portrait.jpg, alt: "Paxton Lumnus" }
+  gallery:
+    - { file: pcs/paxton-and-the-light.jpg, caption: "Paxton unleashes the Light against the pack" }
+    - { file: pcs/paxton-pose.jpg, caption: "Bearing the dawn's burden across broken country" }
+
+pcs/sir-roderic-lightbearer:
+  hero: { file: pcs/roderic-pose.jpg, alt: "Sir Roderic Lightbearer" }
+  gallery:
+    - { file: pcs/roderic-horse.jpg, caption: "The Lightbearer rides for the failing wards" }
+
+npcs/aldric-garlandsson:
+  gallery:
+    - { file: aldric-and-crown-vale.jpg, caption: "Aldric with his wife and the infant Mira, before Crownvale" }
+
+npcs/mira:
+  hero: { file: mira.jpg, alt: "Mira" }
+
 npcs/captain-eisen-dorn:
   hero: { file: eisen-dorn-portrait.jpg, alt: "Captain Eisen Dorn" }
 

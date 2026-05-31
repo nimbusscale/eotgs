@@ -15,9 +15,19 @@ process. The human only weighs in at **milestone boundaries**:
 3. Run the loop: generate a candidate into `image/spike/` → hand the candidate **plus** the
    reference image(s) to an **adversarial judge subagent** → apply its drift notes to the next
    prompt → repeat, governed by the **escape valve**.
-4. On milestone success **or** an escape-valve halt: write the result/verdict into **Artifacts**,
-   flip the checklist entry, and **stop for the human** — show the best image(s), or the stuck-flag
-   (best-so-far + persistent drift + a hypothesis for a different approach).
+4. **Own-eyes gate (do NOT skip on a judge `pass`).** When the judge returns a `pass`, the main agent
+   must **open the candidate itself and compare it to the reference image(s) feature-by-feature**
+   (facial hair, face, hair, eyes, build, armor/garment construction, heraldry — plus the recorded
+   human overrides) before calling anything done. This is a deliberate side-by-side check, not a
+   "looks good" glance — a subagent judge and the orchestrator share blind spots, and in M2 both the
+   judge *and* the author missed an added beard + tabard that the human caught at once. If the
+   own-eyes check finds drift the judge missed, treat it as a `fail`, feed it back as a refine note,
+   and keep looping. Carryover: when in real doubt about an identity feature, surface the candidate to
+   the **human** before locking the seed.
+5. On milestone success (judge `pass` **and** own-eyes gate clears) **or** an escape-valve halt:
+   write the result/verdict into **Artifacts**, flip the checklist entry, and **stop for the human**
+   — show the best image(s), or the stuck-flag (best-so-far + persistent drift + a hypothesis for a
+   different approach).
 
 **Orchestration:** main agent drives the loop, spawning **one adversarial judge subagent per
 iteration** (raw image bytes stay in the subagent; only the verdict text returns). No Workflow.
@@ -56,6 +66,15 @@ main failure mode). It returns structured text:
 
 - **Identity** (characters only): per-feature pass/fail — face, hair, ears (Garland), beard
   (Garland), build/age, attire, heraldry (Roderic's lion shield + cross motifs).
+  **CRITICAL (learned the hard way in M2): the reference images are the SOLE source of identity
+  truth, and the judge must READ each feature off the refs itself.** Do NOT pre-feed the judge the
+  author's feature description — a judge told what to expect validates the *author's* canon and will
+  confirm its errors (in M2 it rubber-stamped a wrongly-specified beard and tabard for three rounds).
+  Give the judge only the feature *categories* to check (facial hair, face/jaw, hair, eyes, build,
+  armor construction — metal vs cloth, garments present/absent — heraldry) and tell it to flag
+  anything **added or removed** vs the refs. **Exception:** any explicit **human override** of the
+  reference (recorded in the canon, e.g. Roderic's "no tabard, clean-shaven") is authoritative — pass
+  it to the judge as a known intended departure so it isn't re-flagged as drift.
 - **House style:** grounded vs. glossy, palette, lighting, post-imperial tone. For Roderic
   specifically: no mirror-polish armor, no bright blue sky, no triumphant hero pose.
 - **Setting** (M4/M5): match to the realized Aurelion reference images.
@@ -68,8 +87,9 @@ Each iteration costs a real image-gen call + a judge's vision reads, so the loop
 
 - **Per-character / per-setting cap:** ~**8** generations. **Joint (M3) and composite (M5):** ~**4**.
 - **No-progress halt:** stop early if the judge score does not improve for **3 consecutive** rounds.
-- **Stop condition:** milestone ends on first `pass` (ideally confirmed on a second candidate) **or**
-  when a cap / no-progress halt fires.
+- **Stop condition:** milestone ends on the first `pass` that **also clears the own-eyes gate**
+  (step 4) — ideally confirmed on a second candidate — **or** when a cap / no-progress halt fires. A
+  judge `pass` alone is not done; the orchestrator must eyeball it against the refs first.
 - **On halt:** do **not** keep spending. Surface best-so-far image, the persistent drift, and a
   hypothesis for a different approach; await human intervention.
 
@@ -110,7 +130,7 @@ verbatim on every prompt. Write under **Artifacts → House-style block**.
 |---|-----------|--------------|-----|--------|
 | 0 | Prep: house-style block (subagent, no gen) | — | — | DONE |
 | 1 | **Garland solo**, plain backdrop (also: pick JSON vs prose) | identity + style | ~8 | DONE (JSON locked; pass at R1) |
-| 2 | **Roderic solo**, plain backdrop (de-gloss hard case) | identity + style | ~8 | TODO |
+| 2 | **Roderic solo**, plain backdrop (de-gloss hard case) | identity + style | ~8 | DONE (JSON; pass at R4. De-gloss easy; the lesson was the *rubric* — judge must read identity off the refs, not the author's description) |
 | 3 | **Garland + Roderic together**, plain backdrop | two-subject consistency | ~4 | TODO |
 | 4 | **Aurelion setting alone** (no characters) | setting → realized refs | ~8 | TODO |
 | 5 | **Characters in the Aurelion cityscape** | full composite | ~4 | TODO |
@@ -240,7 +260,32 @@ _(M1 — derived by subagent from his 3 refs + `kb/pcs/garland-yn-greenholt.md`.
 > An extraordinarily old man with elven features: long pointed ears clearly visible (his defining trait), and a centuries-old face that is deeply weathered, leathery and lined, with high gaunt cheekbones, a long straight nose, a heavy expressive brow, and clear pale blue-grey eyes. He has shoulder-length wavy silver-white hair swept back off his face, and a full grey-white beard and moustache, medium-long and slightly unkempt. Tall, rangy and broad-shouldered yet lean, with sinewy old-man strength, veined weathered hands, and an upright, vigorous soldier's bearing despite his great age. He wears a worn olive-brown wool hooded cloak fastened at the throat by a round metal disc brooch, over a homespun earth-toned tunic and a wide brown leather belt with straps and pouches. His signature gear: a battered leather-bound spellbook and the plain-crossguard greatsword "Second Harvest" (either may be absent in a given scene).
 
 ### Identity canon — Sir Roderic Lightbearer
-_(M2 — TBD)_
+_(M2 — DONE 2026-05-31, after a correction pass. Derived from his 2 (glossy) refs + `kb/pcs/sir-roderic-lightbearer.md`, then de-glossed. Identity only; rendering handled by the house-style block. **Format: structured JSON, per the M1 lock.** Seed = `roderic-json-r4.jpg`.)_
+
+**Two human (user) overrides of the reference — these supersede the ref images and are authoritative canon:**
+1. **Clean-shaven.** Both refs read clean-shaven; early rounds wrongly wrote in "stubble" and the model amplified it to a full beard. Roderic has **no facial hair at all**.
+2. **No tabard / surcoat.** The glossy standing ref does show a white cloth tabard with the cross on it, but the user's canon is **bare full plate with the Light-cross inlaid directly into the steel breastplate** — no cloth garment over the torso. (User confirmed 2026-05-31.)
+
+**Validated JSON appearance block (de-glossed; clean-shaven; cross-on-plate, no tabard):**
+
+```json
+{
+  "appearance": {
+    "face": "a man in his late twenties to early thirties, FRESHLY CLEAN-SHAVEN with completely smooth, bare, hairless skin on the jaw, chin, cheeks and upper lip — absolutely no beard, no moustache and not even faint stubble; a smooth-shaven young knight's face; fair-skinned and handsome, the weariness carried in the eyes and expression rather than in skin scruff; strong square jaw, straight nose, faint old scar; clear pale blue eyes, wide open and well-lit, the face turned slightly UP into a soft frontal light so the pale-blue irises read clearly and brightly with no shadow pooling under the brow; a candid, weary, un-posed expression",
+    "hair": "wavy, tousled blond hair, medium-short, swept back off the brow and slightly matted from the road; dirty-gold, not bright",
+    "build": "tall and athletic, broad-shouldered, the solid frame of a frontline fighter; an unhurried, settled soldier's bearing",
+    "armor": "a FULL PLATE harness worn over the whole torso with NO cloth garment over it — no tabard, no surcoat, no fabric draped across the chest; the breastplate, pauldrons, vambraces, gauntlets, faulds and greaves are bare DULL MATTE scratched steel, dented and field-worn, faintly oxidized and grey, with tarnished dark amber-brass trim that does not gleam; scuffed and battle-used, never polished",
+    "emblem": "a single muted amber-gold cross of the Light worked DIRECTLY INTO the steel breastplate as an inlaid emblem on the metal itself (NOT printed on any cloth); small worn amber Light-cross motifs repeat as faded engraving on a pauldron and the belt",
+    "cloak": "a faded, dusty deep-blue wool cloak, road-worn and frayed at the hem, hanging from the shoulders behind the plate",
+    "heraldry": "a battered kite shield slung on the left arm bearing his arms — a rampant lion in tarnished amber-gold on a faded deep-blue field; the shield is scratched and dented from use",
+    "held_item": "a plain longsword with a worn leather-wrapped grip, sheathed or held loosely point-down, nothing raised or brandished"
+  }
+}
+```
+
+**Two clauses to carry into every Roderic prompt:**
+- **Clean-shaven (hard).** The model strongly defaults to giving this weathered knight a beard/stubble. Push it positively in `face` ("freshly clean-shaven, smooth bare hairless skin… weariness in the eyes not skin scruff") **and** negatively in `do_not_include` ("no beard, moustache, goatee, sideburns, stubble or five-o'clock shadow"). Belt-and-suspenders was needed; one alone leaked stubble (see R3).
+- **Eye-lighting (in `composition`).** "The head is level-to-slightly-raised and the face turns toward the viewer into a soft, warm, even frontal fill light, so the light falls fully on the eyes and the deep-set sockets never drop into brow shadow — the pale-blue irises must be clearly, brightly visible." Side-effect: a slight upward/noble gaze; acceptable, watch it in joint/composite frames.
 
 ### Aurelion setting canon
 _(M4 — TBD)_
@@ -295,3 +340,54 @@ block + plain-backdrop scene). Note: that scratch dir is gitignored, but the spe
 reconstructable from the blocks recorded in this doc. `garland-json-r3.jpg` is the runner-up (cleanest composition, but
 eyes in shadow). Ranking beyond the seed pick doesn't matter — the spike's deliverable is the
 technique, which holds across all rounds.
+
+#### M2 — Roderic solo (2026-05-31) · 5 generations · **pass at R4 (after a canon + rubric correction)**
+
+Loop: de-glossed Roderic identity canon (JSON) + house-style block + plain-backdrop scene →
+generate `--tall` into `image/spike/` → one adversarial judge subagent per candidate (candidate + 2
+glossy refs) → refine. Specs preserved alongside the images (`roderic-json-r{1,2,2b,3,4}-spec.json`).
+
+| Round | Candidate | Score | Verdict | Notes |
+|-------|-----------|-------|---------|-------|
+| R1 | `roderic-json-r1.jpg`  | 8 | fail (old rubric) | De-gloss landed first try. Eyes in brow shadow. **But the canon was wrong (see below) and the old judge couldn't see it.** |
+| R2 | `roderic-json-r2.jpg`  | 9 | "pass" (old rubric) | Eye-lighting clause fixed the eyes. **False pass** — beard + tabard drift uncaught because the judge was pre-fed the (wrong) feature list. |
+| R2b | `roderic-json-r2b.jpg` | 9 | "pass" (old rubric) | Re-roll; same false pass. |
+| — | _(user review)_ | — | — | **User caught two identity errors the rubric missed:** (1) every candidate had a full beard/moustache, but the refs are **clean-shaven**; (2) every candidate wore a cloth **tabard**, but canon is bare **full plate**, cross on the steel. |
+| R3 | `roderic-json-r3.jpg`  | 6 | fail (new rubric) | Canon fixed (clean-shaven + cross-on-plate, no tabard) **and** rubric fixed (judge reads features off the refs itself). New judge promptly caught residual blond **stubble** + eyes back in shadow. |
+| R4 | `roderic-json-r4.jpg`  | 7→**pass** | **pass** | Forced clean-shaven (positive *and* negative) + re-lit eyes. Clean-shaven ✓, eyes pale-blue ✓, bare plate + cross-on-steel ✓, full de-gloss ✓. New judge scored 7 only because — faithfully reading the ref — it wanted the tabard *restored*; that's the user-overridden point, so it's a **pass by canon**. **Chosen seed.** |
+
+**Outcome:** Milestone passed at R4. 5 of ~8 generations used. The first "pass" (R2) was a **false
+positive** caught by the human, which exposed the most important finding of the whole spike:
+
+**Findings:**
+- **THE RUBRIC BUG (most important).** A judge that is *told* the identity features validates the
+  **author's description**, not the character. My R1–R2b judge prompt asserted "blond hair… white
+  surcoat with a gold cross" as fact, so it confirmed my two canon errors (beard, tabard) and even
+  rationalized the beard away ("matches the clean-shaven refs"). **Fix: the judge must treat the
+  reference images as the SOLE source of identity truth and read every feature off them itself** —
+  given only feature *categories* to check (facial hair, face, hair, eyes, build, armor
+  construction, heraldry) and told to flag anything ADDED or REMOVED vs the refs. The corrected
+  judge caught the stubble immediately. This judge methodology is the real M2 deliverable and must
+  govern M3–M5. (Updated judge prompt is reflected in the agent calls; reuse it.)
+- **Canon derivation is the weak link, not generation.** Both errors originated in *my* text
+  ("stubble", "off-white linen surcoat"), then the model faithfully amplified them (stubble → full
+  beard). Author the canon **against the refs feature-by-feature**, and have the human confirm
+  identity before trusting any "pass."
+- **Human overrides supersede the reference.** The user removed the tabard the refs actually show.
+  Record such overrides explicitly in the canon (see the two overrides above) so later judges —
+  which are told refs=truth — don't keep flagging the intended departure as drift.
+- **De-gloss itself is solved by text alone and was genuinely easy** — matte steel, tarnished lion,
+  faded cloth, muted light, candid pose, plain backdrop all landed from R1 and held every round.
+  *House style governs; references define identity only* — confirmed.
+- **Clean-shaven needs belt-and-suspenders.** The model wants to beard this weathered knight.
+  Positive face phrasing alone (R3) still leaked stubble; positive + negative (R4) cleared it.
+- **The M1 eye-shadow drift recurs and the M1 fix transfers** — positively light the eyes (face up,
+  soft frontal fill). Generation variance can still drop them into shadow (R3), so keep the clause
+  strong.
+
+**Roderic canon seed (chosen):** `image/spike/roderic-json-r4.jpg` — the judged pass: clean-shaven
+young knight, pale-blue eyes lit, bare matte full plate with the gold Light-cross inlaid in the
+steel, faded blue cloak, rampant-lion-on-blue shield, point-down longsword, plain grey backdrop. Its
+spec is `image/spike/roderic-json-r4-spec.json` (= the validated JSON appearance block above +
+clean-shaven/eye-lighting clauses + house-style block + plain-backdrop scene), fully reconstructable
+from the blocks in this doc. R1–R3 are superseded (wrong canon).

@@ -14,12 +14,12 @@ The surrounding countryside shows decline: thin fields, sparse orchards, and a o
 The city employs dog catchers to deal with a stray dog problem.
 The party is wanted in Aurelion — posters accuse them of subverting the county and stealing goods on behalf of [[Count Albrecht Marrow]].
 
-## Crest Aurelion
+## [[Crest Aurelion]]
 [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle.
 Contains a massive vault with diminishing gold reserves and a secret passage connecting it to the count's private chambers, discovered by [[Garland yn Greenholt|Garland]] during [[Beaconhold]]'s conquest centuries ago.
 [[Beaconhold]] conquered Crest Aurelion by forcing the capitulation of a Morrow ancestor who ruled it.
 
-## The Chryseum
+## [[The Chryseum]]
 The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]].
 Features a massive gold dome that dominates the skyline — the last prominent reminder of the city's golden past.
 The interior features a massive [[Whiteglass]] stained-glass window radiating clean light, rows of pews, soaring vaults of white gold and candlelight, and a mysterious swirling pattern on the nave floor.
@@ -28,7 +28,7 @@ A church dungeon lies below — a sunken courtyard lined with cells on three sid
 The [[Order of the First Dawn]] serves as the Chryseum's paladinic order.
 The Chryseum district is accessible via the underground tunnel network.
 
-### The Shrine of Renewal
+### [[The Shrine of Renewal]]
 An ancient, pre-Luciferian chamber hidden beneath the Chryseum, accessible via a concealed spiral staircase activated by renewal-aligned power.
 The space is organic rather than constructed — shaped by forces older than the [[Imperium Lucis Aeternae|Imperium]], older than everything the party has encountered save [[The Nodrum]] and the [[Witch Stones]].
 The chamber predates the Chryseum, the Imperium, and the Luciferian era.
@@ -45,7 +45,7 @@ When all six heralds gathered, the cocoon opened and the chamber transformed fro
 - **Renewal Energy** — Residual energy in the shrine partially counteracts ruin; [[Garland yn Greenholt|Garland]]'s spellbook pages grew slightly stronger in its presence
 - **Herald Resonance** — Multiple heralds feel an interlocking connection here, like puzzle pieces drawn together; at least five heralds are needed to unlock the cocoon, but even five proved insufficient without [[Count Albrecht Marrow|Count Marrow]]
 
-## The Mendrath Baths
+## [[The Mendrath Baths]]
 A gilded bathhouse built by dwarves, accessible via the underground tunnels.
 
 ## Underground Tunnel Network
@@ -56,7 +56,7 @@ The Aureate patrol the tunnels but typically assign their lowest-ranking soldier
 The critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command.
 [[Tufa]] the rock rat warned of undead deeper in the passages.
 
-## The Aureate
+## [[The Aureate]]
 [[Count Albrecht Marrow]]'s soldiers, led by [[Captain Eisen Dorn|First Aureate Eisen Dorn]].
 They enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers.
 

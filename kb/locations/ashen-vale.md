@@ -14,7 +14,7 @@ Fiefdoms were granted to war veterans like [[Garland yn Greenholt|Garland]] afte
 - Fed by the [[Ashen Flow|Lower Ashen Flow]], which runs clean after being filtered by the great beaver dam upstream
 - Fertile farmland enriched by volcanic ash
 
-## Greenholt
+## [[Greenholt]]
 
 [[Garland yn Greenholt]]'s fiefdom, granted after [[Beaconhold|Beacon Hold]]'s conquest and largely left to self-govern.
 Garland serves as its accidental lord, with his grandson [[Aldric Garlandsson]] now ruling from [[Crownvale]].

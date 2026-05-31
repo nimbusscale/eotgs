@@ -73,25 +73,34 @@ He has traveled across the continent as a beaver, including to regions with sava
 In animal form he can speak.
 His beaver sense of smell is specialized — excellent for beaver-specific scents like pheromones and territorial markers, but less effective for general tracking.
 
+He has grown into a new elemental power: he can dissolve into wind, moving "between worlds," which he used to rush after [[Mira]] through the [[Witch Stones]] portal to the [[Bonewall]].
+In wind form he can pass only through openings a breeze could move through — a wide crack will let him by, but a narrow one will not.
+
 ### The Beaver Dam
 Castor is connected to a beaver community and a dam on the [[Ashen Flow]] at [[Beaver Lake]] that has stood for 120+ years.
 The dam was his society and home during his years as a beaver.
 He was enamored with beaver society and how they lived.
 The beaver colony knows and recognizes him — it is essentially his home.
+He predates the Great Beaver Dam itself: he first settled at a modest dam for the sake of the beaver Aspen, and helped it grow into the great dam that tamed the [[Ashen Flow]].
+Among the beavers he was the respected elder, holding authority through regard rather than rank.
+He is now conflicted over Aspen's descendant [[Tamarack]], whose ambition to dam the whole river he admires but fears will get the colony exterminated.
 In beaver society, holding a stick signifies authority.
 He can communicate with beavers through gestures, body language, and tail-slapping — not verbal speech, but enough to convey urgency and general ideas.
 During [[Session 1]], he shifted into beaver form and used these methods to convince the colony to evacuate downstream ahead of the cursed waters.
 The dam currently holds back the cursed waters flowing from [[Ashbrook]], but [[Garland yn Greenholt|Garland]]'s spirit wall upstream is the primary barrier — and it will not hold forever.
+In the downtime after the curse passed, the colony has grown unruly and unwieldy.
+Many beavers have cast off the tribe's "old ways" and spread downstream to trouble the [[Ashen Vale]]'s human settlements, and Castor's sticks of authority no longer command them as they once did.
 
 ### Religion
 Was culturally religious when younger, going through the motions, but lost touch with that entire aspect of his life during his beaver years.
 Not a believer one way or another now.
 
 ### Relationships
-- [[Garland yn Greenholt]] — Devoted Affection; views Garland as a father figure despite being technically older; Garland helped lift his curse
+- [[Garland yn Greenholt]] — Devoted Affection; Garland is in truth his great-grand-nephew, yet Castor regards the more mature Garland as a father figure despite being technically older; Garland helped lift his curse, and Castor visits him regularly during the downtime
 - [[Edric Bloom]] — Lowkey Camaraderie
 - [[Sir Roderic Lightbearer]] — Growing Respect
 - Views Edric's rashness with bewilderment — "I can't tell anymore what is old"
+- [[Mira]] — Garland's young, demanding self-declared apprentice and Castor's distant kin; he has taken a liking to her, and she calls him "Pop pop"
 
 ### Hooks
 
@@ -104,6 +113,20 @@ Whether the Laughing One truly cursed Castor or the Dark Harlequin was lying rem
 Castor's family never seemed to remember him after he was cursed.
 His loyalty to them persists despite this.
 What happened to his family line, and why they forgot him, is unresolved.
+
+#### The Wayward Colony
+Castor returned home to the [[Ashen Vale]] feeling obligated to bring the beavers of [[Beaver Lake]] back to the tribe's "old ways" after their numbers grew unwieldy and they began troubling the surrounding human settlements.
+But his authority has faltered — the sticks that once signified command no longer command, and the colony has fractured under the upstart [[Tamarack]], a descendant of the beaver Aspen, who leads them to dam the whole river rather than keep to one home.
+He suspects some of them know he was the one who brought ruin to the vale in the first place, and that his neighbors and fellows are seizing the chance to act out.
+The spreading dams have cut into the lowland orchards and farms and soured the Vale's great families against the colony, bringing armed men to demand Castor be handed over and the beavers broken.
+Whether he can heal the rift between his found family and the vale's people — or whether the colony has simply outgrown the old ways — is unresolved.
+
+#### Reclaiming the Man, and More
+After so long resigned to the life of a beaver, a renewed curiosity has sparked in Castor.
+His short time adventuring, the breaking of his vow of celibacy, and the growing pull of his shapeshifting power have stirred old regrets, loves lost, and a wanderlust he thought had long since calloused over.
+He finds himself burdened with a mid-life crisis despite having spent far more of his life as a wetland creature than a man.
+He no longer wants merely to reclaim his humanity — he wants to learn what his mitigated curse is truly capable of, suspecting destiny has marked him as something unusual.
+There is no getting around it, though: this is a man who has spent human lifetimes as a beaver.
 
 #### Castor's Offspring
 [[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
@@ -121,6 +144,7 @@ What this role means and what it demands of him is unresolved.
 - [[Session 3]] — Shifted into dog form to avoid recognition from wanted posters; scouted the mine tunnels in beaver form; broke his vow of celibacy with [[Tufa]] the rock rat in exchange for tunnel intelligence; took a rock rat bite to the throat, losing his voice; grappled a rat off [[Garland yn Greenholt|Garland]] during the breakthrough
 - [[Session 4]] — Shapeshifted into a mouse with a beaver-like head to steal dungeon keys and free [[Sir Roderic Lightbearer|Roderic]]; gnawed through a chair leg, a guard's key strap, and wood for barricades; freed Harlequin prisoners; the mouse transformation locked him out of beaver form; felt the interlocking herald connection at the [[Shrine of Renewal]]
 - [[Session 5]] — Communed with the dormant [[God of Renewal|The God of Renewal]] at the [[Shrine of Renewal]], feeling an overwhelming sense of homecoming; confronted the [[Dark Harlequin|The Dark Harlequin]] who tried to recruit him and claimed the [[Laughing One|The Laughing One]] cursed him; touched the cocoon and received a vision of himself as protector; shifted into a wolverine and drove off the Dark Harlequin; built a dam-like barricade to fortify the Shrine entrance; participated in the gathering of all six heralds that opened the cocoon
+- [[Session 6]] — At a Sunday dinner at the [[Witch Stones]], confronted [[Captain Vask]]'s delegation in beaver form, introducing himself as "Garland's uncle"; defended the beavers against the Vale's three great families; learned Aldric somehow knew the beaver could speak; dissolved into wind for the first time to chase [[Mira]] through the Witch Stone portal onto the [[Bonewall]]
 
 
 ## Edric Bloom
@@ -247,12 +271,27 @@ While preparing a well-hidden field for pasture, he discovered a set of standing
 He originally learned spellcraft by deciphering the carvings on the Witch Stones and listening to them speak through the sounds of grinding earth over centuries.
 He guarded the secret of their location carefully once he learned the power that dwelt there.
 
-With his wife long gone (and several of his children having passed as well), and tired of being called lord, he left the farm in the hands of the ever-growing clan he begat, and set off with fife and drum in hand.
+When he first re-settled the vale, Garland raised a large and prolific family whose descendants — together with people who immigrated from nearby lands — repopulated the region.
+His first wife aged and died as any human would, and even his longest-lived children from that first family are likely gone by the time the story begins.
+About a hundred years ago, something drew him away from the vale on a long journey that took him far from home.
+While dealing with whatever had called him there, he became close friends with a man whose death he was ultimately responsible for — a guilt he carries still.
+When he finally returned to the [[Ashen Vale]], he brought the dead man's widow and her child with him, and in time he married her.
+From this second family descend his grandson [[Aldric Garlandsson|Aldric]] and his great-grandchild [[Rowan yn Greenholt|Rowan]].
+With both his wives long gone and many of his children passed as well, and tired of being called lord, he left the farm in the hands of the ever-growing clan he begat, and set off with fife and drum in hand.
 
 He speaks openly about his past without hiding dates or times — his long life is not a secret.
 He feels he is in his "third act" — near the end of his life — and is at peace with this.
 He has made peace with losing loved ones over his long lifetime.
 He expects the end will come in the near future, though when is unknown.
+
+In the downtime after the curse, Garland returned to the [[Ashen Vale]] to take stock of ruin's lingering effects and do what he could to mitigate them and be a comforting presence — watching his grandson [[Aldric Garlandsson|Aldric]] from a distance but steering wide of him.
+He escorted [[Castor]] as far as the vale before they parted ways.
+At some point he made his way back to the [[Witch Stones]] to reconnect, and felt a renewed bond — but one different from the connection he had built through centuries of patient study.
+This new connection has begun returning his magic to him without restoring the lost knowledge, surfacing as a capacity for ritual magic he did not have before.
+
+He now shelters and mentors [[Mira]] at the Witch Stones, helping her heal from the ruin that wounded Crownvale's children.
+When she commanded the stones to tear open a portal onto the [[Bonewall]], Garland recognized the gate-craft as a far more powerful form of magic he had once owned and has since lost.
+To follow her through it he Favored [[Sergeant Iyer]] and swore to bring her back to [[Crownvale]] on his own life, and crossed the threshold to the Bonewall alongside [[Castor]].
 
 ### Religion
 Has never had much use for gods.
@@ -273,18 +312,29 @@ Has never had much use for gods.
 **Known Spells:** Immunity, Invisibility
 
 ### Relationships
-- [[Castor]] — Complex Guardianship; believes Castor is a relative (same [[Greenholt Bloodline]], same origin in the [[Ashen Vale]]); helped lift Castor's curse, giving him back his humanity (whether Castor wanted it or not); views himself as the "elder" figure despite Castor being technically older
+- [[Castor]] — Complex Guardianship; Castor is in fact his great-grand-uncle (same [[Greenholt Bloodline]], same origin in the [[Ashen Vale]]); helped lift Castor's curse, giving him back his humanity (whether Castor wanted it or not); views himself as the "elder" figure despite Castor being technically older
 - [[Sir Roderic Lightbearer]] — Growing Camaraderie
 - [[Edric Bloom]] — Lowkey Affection; views Edric's rashness as that of a child — "Rash in my youth... maybe he'll grow out of it."
-- [[Rowan yn Greenholt]] — Great-grandchild who lived in [[Ashbrook]] and perished when the town fell
-- [[Aldric Garlandsson]] — Grandson who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
-- [[Mira]] — Aldric's ten-year-old daughter; calls Garland "Pappy"; a warm relationship
+- [[Rowan yn Greenholt]] — Great-grandchild through his second family; lived in [[Ashbrook]] and perished when the town fell
+- [[Aldric Garlandsson]] — Grandson through his second family, who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
+- His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
+- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
+- [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
 
 ### Hooks
 
 #### The Witch Stones
 [[Garland yn Greenholt]] wants to understand the [[Witch Stones]] better — what they do, how their power works, and the drama around them.
 He would be very interested in investigating other Witch Stones if they exist elsewhere.
+On returning to them in the downtime he felt a renewed connection unlike the one he built through centuries of study — one that returns magic without knowledge.
+And he is not the only one who hears them: his great-granddaughter [[Mira]] hears the stones as actual words, not the grinding of the earth, raising the question of why the stones speak so differently to her.
+The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]].
+Whether they connect to still more rings, or form a wider network, is unknown.
+
+#### Garland's Reluctant Apprentice
+[[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.
+She hears the [[Witch Stones]] as words and is becoming something like a cleric of them, a connection that may run deeper than Garland's own.
+The irony cuts close: a man trying to find his way back to himself finds himself saddled with teaching a child the very lessons he most needs to relearn.
 
 #### Garland's Third Act
 Garland feels he is in his "third act" — near the end of his life.
@@ -296,9 +346,20 @@ Garland holds an ancient founding share in [[The Starfall Caravan Company]] and 
 A company officer named [[Cassian Vellor]] suspects Garland is a fraud — a necromancer or something worse wearing the founder's identity — and is actively investigating.
 Cassian's investigation could draw unwanted attention to the party at a time when they are already wanted.
 
+#### The Journey of a Hundred Years
+About a hundred years ago, something drew [[Garland yn Greenholt|Garland]] away from the [[Ashen Vale]] on a long journey far from home.
+While there he was responsible for the death of a man he had come to call a friend, and he returned bearing the dead man's widow and child, whom he later took as his second family.
+What called him away, and how his friend came to die, remain unspoken — a buried chapter from which his grandson [[Aldric Garlandsson|Aldric]]'s line ultimately springs.
+
 #### The Greenholt Bloodline Origin
 The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.
 Whether it connects to actual elven ancestry or something else entirely remains an open question.
+
+#### Aldric's Unnatural Reach
+[[Aldric Garlandsson|Aldric]], Garland's grandson, is consolidating power across the [[Ashen Vale]] — and now somehow knows everything that happens within it, down to the fact that the beaver [[Castor]] could speak.
+Strange black ravens that are not quite ravens crept toward the [[Witch Stones]] as his soldiers parleyed, one veering off where the warding glamours held.
+How Aldric sees and hears so much, whether the ravens are his eyes, and what his promise that "all will be revealed" once his power is complete truly means are open threads that could grow into a reckoning with his own bloodline.
+*(See also [[Castor]]'s "The Wayward Colony" — the beaver troubles Aldric's men came to end.)*
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -307,6 +368,7 @@ Whether it connects to actual elven ancestry or something else entirely remains 
 - [[Session 3]] — Witnessed his herald curse devastating a farmer's memory; proposed entering [[Aurelion]] through the old mines; conjured light, wards, and illusions to navigate the tunnels; knocked out an elite Aureate guard with [[Second Harvest]] to breach past the guarded junction
 - [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
 - [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
+- [[Session 6]] — Hosted a Sunday dinner at the [[Witch Stones]] with [[Castor]] and [[Mira]]; faced [[Captain Vask]]'s delegation, conceding Mira's return while defending Castor and the beavers; recognized Mira's portal as gate-craft he once knew and lost; broke Vask's grip, was tackled by [[Sergeant Iyer]], then Favored Iyer and swore on his life to compel him aside, crossing the portal to the [[Bonewall]] after Mira and Castor
 
 
 ## Paxton Lumnus
@@ -371,7 +433,7 @@ When the Light stirs in him, he goes unnervingly still before acting.
 He loves dawn over water, hot black tea, the sound of harbor work beginning before the city wakes, and plain soldier's food; he hates enclosed spaces and sometimes wakes in a cold sweat, remembering the mausoleum.
 
 ### Relationships
-None Established
+- [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, revealed to have been reborn in the vision of [[Moldrex]]; Its presumed he killed her when he burned her barge in the [[The Reaches|Reaches]]
 
 ### Hooks
 
@@ -384,12 +446,16 @@ This personal quest intersects the party's wider investigation into [[The Bonewa
 Paxton has "died" several times since the ritual, but it never seems to take, and each time he returns something about him is different.
 What is changing in him with each resurrection, and what the Light is slowly making him into, is unresolved.
 
+#### Too Quick to Burn
+Aboard Senna's barge in the [[The Reaches|Reaches]], Paxton set the vessel ablaze and threw himself into the river to escape — and only as the screams rose did he realize others had been hidden aboard, captives or stowaways, who burned because he had been too quick to spend his own life to count the cost to anyone else's.
+His readiness to treat his survival, pain, and death as expendable has a price others pay, and what it will cost him to learn that is unresolved.
+
 #### Burned by the Light
 Paxton arrives owing a debt of favor to a party member his Light has already burned.
 What happened, and what that person lost, is an open question to be answered in play.
 
 ### Session Appearances
-*None yet — joins the party after [[Edric Bloom]]'s disappearance beneath the Chryseum.*
+- [[Session 6]] — Recounted his death at [[Bonewall|Hallowreach]] and his waking in the mausoleum with the Light in his chest; heard that Carnforth had gone dark and turned back toward the wall; in the [[The Reaches|Reaches]] found [[Senna]] healing marsh-creatures with scaled hand and reptilian eyes, learned she had been reborn in the vision of [[Moldrex]] and he "wrong" in Lucifer's, and burned her barge to escape — killing Senna and unknown others hidden aboard
 
 
 ## Sir Roderic Lightbearer
@@ -421,11 +487,12 @@ However, he did have a talent for protecting the weak and fighting evil and repr
 He transferred from the healing order to the church's war college.
 
 Roderic spent years on the battlefields spreading the church's doctrine and eliminating evil.
-On his last campaign, tragedy struck and he lost his entire battalion.
-He blamed his insufficient faith for the destruction.
-He is now on assignment from the church as a knight errant — not on sabbatical, but specifically tasked with redemption through deeds.
-His order is called "The Redeemers of Light."
-He reports to a superior in the church hierarchy and retains the authority and recognition of a paladin of the [[The Light]].
+His last campaign was the one that broke him: a company of paladins sent into the tomb of the hero who long ago stopped the darkness and raised the towers, to recover a relic they believed could let them push into the darkness on the far side of the [[Bonewall]].
+Roderic remembers nothing of that night — only waking among his companions, all dead and mutilated beyond recognition, the relic gone.
+He is presumed the sole survivor, though the unidentifiable remains leave even that uncertain.
+Suspected of having submitted to the darkness himself, he was made an outcast; for years he blamed his own insufficient faith for the destruction.
+His mentor [[Primus Griswald]] — the man who had recruited him as a boy and steered him to the paladins — alone believed him innocent, and rather than let him face Beaconhold's judgment, arranged for him to become a knight-errant of "The Redeemers of Light," tasked with redemption through deeds.
+He retains the authority and recognition of a paladin of [[The Light]] — but with Griswald now vanished, it is unclear who commands him, leaving him free to investigate the failing wards at the [[Inquisitor Voss|Vigil inquisitor]]'s request.
 
 ### Religion
 Devoted worshipper of [[Lucifer]], the God of Radiance, following the [[The Light|Luciferian faith]].
@@ -457,13 +524,20 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Edric Bloom]] — Playful Camaraderie; views Edric's rashness as immaturity — "He should be mature already... maybe he'll grow up."
 - [[Garland yn Greenholt]] — Deep Respect
 - [[Castor]] — Lowkey Doubts
+- [[Primus Griswald]] — His mentor and patron, who recruited him as a boy and spared him from disgrace after the lost battalion; now vanished
+- [[Inquisitor Voss]] — A Corona Vigil inquisitor who once branded him a heretic, now an uneasy ally who charged him to investigate the failing wards
+- [[Vicar Lucis Gregory]] — A longstanding contact in the Beaconhold church who has known him since boyhood
 
 ### Hooks
 
 #### Roderic's Lost Battalion
-On his last campaign, Roderic lost his entire battalion.
-He blamed his insufficient faith for the destruction.
-What happened on that campaign, and whether the guilt is justified, is unexplored.
+Roderic's company of paladins died in the [[Bonewall]], sent into the tomb of the hero who long ago stopped the darkness and raised the towers, seeking a relic they believed could let them push past the wall.
+He woke among his mutilated companions with the relic gone, remembers nothing of the night, and was cast out as the suspected, sole survivor — saved from worse only by [[Primus Griswald]]'s faith in him.
+What the relic was, whose tomb it truly was, and what happened the night his battalion died all remain unknown — and Griswald, the one man who knew the truth of his innocence, has now vanished.
+
+#### Roderic Remembers Sariel
+Where the clergy of Beaconhold can no longer recall the hero [[Sariel]] — his bust vanished from [[Vicar Lucis Gregory]]'s office without even a trace of dust — Roderic remembers him clearly, as the right hand of [[Lucifer]] and the general who imprisoned the God of Ruin and the [[Xan-Kor]].
+Why the forgetting that is unmaking Sariel from record and memory has not touched Roderic is an open question.
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -472,3 +546,4 @@ What happened on that campaign, and whether the guilt is justified, is unexplore
 - [[Session 3]] — Separated from the party while entering [[Aurelion]] through the mine tunnels
 - [[Session 4]] — Sent intelligence to [[Beaconhold]] via a Luciferian priest; captured by the Aureate and imprisoned beneath the Chryseum; freed by [[Castor]] and [[Garland yn Greenholt|Garland]]; issued a divine decree commanding freed Harlequins back into their cells; negotiated passage with [[Dawnwarden Brenn]]; used Eyes of the Faithful to confirm Brenn and Severin's sincerity; descended into the [[Shrine of Renewal]] and felt the interlocking herald connection; resolved his theological crisis by interpreting his journey as divinely guided
 - [[Session 5]] — Infiltrated besieged [[Aurelion|Crest Aurelion]] with [[Garland yn Greenholt|Garland]] to retrieve [[Count Albrecht Marrow]]; bluffed past Aureate guards using [[Luminary Severin Morrow|Severin]]'s [[Whiteglass|whiteglass]] pendant; fought [[Order of the Eclipsed Sword]] soldiers in the vault and was branded a heretic by a [[Corona Vigil]] inquisitor; cleared the [[Chryseum|The Chryseum]] of rioters with a divine decree; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it puppeteered a dead paladin's corpse; used Eyes of the Faithful to confirm the sincerity of the followers of renewal; participated in the gathering of all six heralds that opened the cocoon
+- [[Session 6]] — Returned to a [[Beaconhold]] whose Light had fractured and whose scripture had subtly changed; was lured to the imperial tunnels under [[Primus Griswald]]'s name and met [[Inquisitor Voss]] instead, learning Griswald and other faithful had vanished; weighed Voss's words as true and accepted the charge to investigate the failing Bonewall wards; learned the full story of his lost battalion; pressed [[Vicar Lucis Gregory]] and discovered [[Sariel]]'s bust gone without a trace of dust, the clergy unable to remember the hero he still recalls

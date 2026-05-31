@@ -8,7 +8,7 @@
 **Affiliation:** [[Crownvale]], [[Ashen Vale]]
 
 ### Description
-Grandson of [[Garland yn Greenholt]].
+Grandson of [[Garland yn Greenholt]] through Garland's second family — the line that began when Garland returned from a long journey roughly a century ago bearing a dead friend's widow and her child, whom he wed.
 He rules [[Crownvale]], the seat of power in the [[Ashen Vale]], styling himself as a would-be petty king of the vale.
 He is rebuilding an [[Imperium Lucis Aeternae|Imperium]]-era fort as his keep in Crownvale.
 His guards wear brigandine armor and carry spears topped with his livery.
@@ -16,14 +16,20 @@ His livery colors are green and gold.
 He has a ten-year-old daughter named [[Mira]] and at least one other younger child.
 His consolidation of power relies on [[Garland yn Greenholt|Garland]]'s absence — he would not be happy to see his grandfather in Crownvale.
 
+He is consolidating power across the whole [[Ashen Vale]] and now somehow knows everything that happens within it — he was aware even that the beaver [[Castor]] could speak.
+He frames the consolidation as building a Vale strong enough to stand against the aggressions of Marrow and Beaconhold, promising that "all will be revealed" once his power is complete.
+He has devoted considerable resources to recovering his runaway daughter [[Mira]], sending [[Captain Vask]], [[Sergeant Iyer]], and the heads of the Vale's three great families to retrieve her and to end the beaver troubles souring the lowlands.
+
 ### Role
 His seat of power at [[Crownvale]] lies directly in the path of the curse if it gets past the beaver dam on the [[Ashen Flow]].
 [[Rowan yn Greenholt]]'s letter mentioned spotting what appeared to be Aldric's livery on a stranger who visited [[Ashbrook]] before its fall.
+His expanding, uncannily well-informed authority — and the strange black ravens that crept toward the [[Witch Stones]] as his men parleyed — mark him as a growing power and mystery in the Vale.
 
 ### Relationships
 - [[Garland yn Greenholt]] — His grandfather; complicated relationship — his authority depends on Garland's absence
 - [[Rowan yn Greenholt]] — Cousin
 - [[Mira]] — His ten-year-old daughter
+- [[Captain Vask]] — The head of his guard, a true believer who speaks for his authority
 - [[Sergeant Iyer]] — One of his guards
 - [[Crownvale]] — Ruler
 
@@ -31,11 +37,13 @@ His seat of power at [[Crownvale]] lies directly in the path of the curse if it 
 - [[Session 0]] — Established as ruler of Crownvale; his livery was spotted at Ashbrook before the curse
 - [[Session 1]] — A fresh scrap of his livery was found at [[Beaver Lake]]; [[Edric Bloom|Edric]]'s investigation of [[Sergeant Iyer]] suggests Aldric is not directly involved with the ruin's release; [[Mira]] recognized [[Garland yn Greenholt|Garland]] and was given a warning letter for Aldric
 - [[Session 2]] — Another piece of green-and-gold livery found planted on a branch near [[The Nodrum]]; the Harlequin Jimmy confessed the livery scraps were all planted by the Harlequins as a trick to exploit Garland's paranoia, largely exonerating Aldric; the Dark Harlequin sent Garland a vision of [[Mira]] and children in danger at Aldric's castle
+- [[Session 6]] — Though not present, his reach drove events at the [[Witch Stones]]: his men revealed he knows everything in the Vale (even that the beaver could speak), and he had sent [[Captain Vask]], [[Sergeant Iyer]], and the three great families to retrieve [[Mira]] and break the beaver colony
 
 ### Session Appearances
 - [[Session 0]]
 - [[Session 1]]
 - [[Session 2]]
+- [[Session 6]] — Through his agents (not present in person)
 
 
 ## First Aureate Eisen Dorn
@@ -73,6 +81,37 @@ He and [[Edric Bloom]] met when Edric successfully talked down a group of peasan
 - Witnessed [[Edric Bloom]] talk down peasants protesting a grain tax
 - Confided to [[Edric Bloom|Edric]] during a drunken evening that [[Aurelion]]'s underground is riddled with smuggler tunnels, revealing the entrance location and the layout of the central junction; warned Edric never to use this knowledge, admitting he felt unusually comfortable confiding in the bard
 - [[Session 3]] — Arrived at the guarded tunnel junction to replace idle guards with elite soldiers, warning of a threat to the city; tightened security at the critical passage leading toward the Chryseum district
+
+
+## Captain Vask
+
+**First Appeared:** [[Session 6]]
+**Status:** Active
+**Affiliation:** [[Aldric Garlandsson]], [[Crownvale]]
+
+### Description
+The older head of [[Aldric Garlandsson|Aldric]]'s guard, marked by a golden brooch shaped like a crown upon a mountain — the symbol of [[Crownvale]].
+A true believer in Aldric, he sincerely sings his lord's praises and speaks for his growing authority over the Vale.
+
+### Role
+He led the party sent to the [[Witch Stones]] to retrieve [[Mira]] and to pressure [[Castor]] over the beaver troubles, escorting the heads of the Vale's three great families.
+He revealed that Aldric somehow knows everything that happens in the Vale — even that the beaver could speak.
+He frames Aldric's consolidation as building the Vale into a "proud land" able to stand against the aggressions of Marrow and Beaconhold, and promises that once that power is complete "all will be revealed."
+
+### Methods
+He commands through loyalty and conviction rather than cruelty, genuinely persuaded of Aldric's greatness.
+At the Witch Stones he tried to hold [[Garland yn Greenholt|Garland]] back from the portal, but was overruled when his own sergeant defied him.
+
+### Relationships
+- [[Aldric Garlandsson]] — His lord, whom he reveres
+- [[Sergeant Iyer]] — His subordinate, who defied him at the Witch Stones
+- [[Garland yn Greenholt]] — Confronted at the Witch Stones
+
+### Key Events
+- [[Session 6]] — Led the delegation to the Witch Stones; revealed Aldric's uncanny knowledge of the Vale; tried and failed to stop Garland from following Mira through the portal
+
+### Session Appearances
+- [[Session 6]]
 
 
 ## Count Albrecht Marrow
@@ -161,6 +200,40 @@ She shared a radical theology with the party — that Lucifer's suppression of r
 ### Session Appearances
 - [[Session 4]]
 - [[Session 5]]
+
+
+## Inquisitor Voss
+
+**First Appeared:** [[Session 5]]
+**Status:** Active
+**Affiliation:** [[Corona Vigil]], [[The Light]]
+
+### Description
+A Corona Vigil inquisitor — an "illuminant" of the Light — small and older in frame.
+He first clashed with [[Sir Roderic Lightbearer|Roderic]] in the Aurelion vault during [[Count Albrecht Marrow|Count Marrow]]'s extraction, branding him a heretic.
+He is bitter that the Vigil no longer commands the fear and power it once did, its old dread thinned to almost nothing.
+
+### Role
+He lured Roderic into the [[Beaconhold]] tunnels by signing a message with [[Primus Griswald]]'s name.
+Though he still doubts Roderic's purity of faith, he believes Roderic's very straying makes him uniquely able to understand the crisis, and he asked for an uneasy alliance — to ride to the [[Bonewall]] and discover why the thirteen wards are failing and what has weakened the Light.
+He confessed that Griswald and other faithful had vanished without a trace.
+
+### Methods
+He works through subterfuge and assumed names where the Vigil's authority no longer compels.
+He can recognize the limits of his own orthodoxy and set them aside when the threat demands it.
+
+### Relationships
+- [[Sir Roderic Lightbearer]] — Former antagonist turned uneasy ally; doubts his faith but trusts his usefulness
+- [[Primus Griswald]] — Whose name he borrowed as a lure
+- [[Corona Vigil]] — His order, now greatly diminished
+
+### Key Events
+- [[Session 5]] — Clashed with Roderic in the Aurelion vault and branded him a heretic
+- [[Session 6]] — Lured Roderic into the Beaconhold tunnels under Griswald's name; revealed the vanishings and the Vigil's decline; charged Roderic to investigate the failing Bonewall wards
+
+### Session Appearances
+- [[Session 5]] — In the Aurelion vault (unnamed at the time)
+- [[Session 6]]
 
 
 ## Luminary Severin Morrow
@@ -262,16 +335,50 @@ Edric is ostensibly tasked with returning the Seal to her — though the party h
 Precocious and sharp-eyed, she recognized [[Garland yn Greenholt|Garland]] despite his disguise, calling him "Pappy" and identifying him by his feet.
 She has a warm relationship with her great-grandfather.
 
+Like Garland, she hears the [[Witch Stones]] — but where he hears only the slow grinding and moaning of the earth, Mira hears and understands them as actual words, and her touch makes the stones glow.
+During [[Garland yn Greenholt|Garland]]'s return to the [[Ashen Vale]] she became dead-set on declaring herself his apprentice, attaching herself to him with a child's stubborn certainty.
+Beneath that precociousness lies a deeper wound: the ruin that harmed Crownvale's children drove her into a deep depression, and it was then that she began hearing the stones' voices, which led her to the hidden Witch Stones, whose ancient magic started to heal her.
+
 ### Role
-Serves as an unwitting go-between, delivering [[Garland yn Greenholt|Garland]]'s warning letter to [[Aldric Garlandsson|Aldric]].
-Her personal connection to Garland makes her a likely point of contact when the party returns to [[Crownvale]].
+She serves as an unwitting go-between, having delivered [[Garland yn Greenholt|Garland]]'s warning letter to [[Aldric Garlandsson|Aldric]], and her connection to Garland makes her a focal point in the family's affairs.
+She is an emerging cleric of the [[Witch Stones]], hearing and commanding their words directly — a different and far more powerful connection than Garland's hard-won, study-built bond.
+At the Witch Stones she spoke an unknown, booming tongue and commanded the stones to open a stable portal onto the [[Bonewall]], then stepped through it and left the Ashen Vale entirely, drawing Garland and Castor after her.
 
 ### Relationships
 - [[Aldric Garlandsson]] — Her father
-- [[Garland yn Greenholt]] — Her great-grandfather, whom she calls "Pappy"
+- [[Garland yn Greenholt]] — Her great-grandfather, whom she calls "Pappy"; she has declared herself his apprentice, though he is the more reluctant party
+- [[Castor]] — Garland's great-grand-uncle and her distant kin; he has taken a liking to her despite her demanding nature; she calls him "Pop pop"
 
 ### Key Events
 - [[Session 1]] — Recognized Garland despite his disguise in Crownvale; received candy and a warning letter to deliver to Aldric
+- During the downtime after the curse — declared herself Garland's apprentice and revealed she hears the [[Witch Stones]] as words
+- [[Session 6]] — Sheltering with Garland at the Witch Stones to heal from the ruin that depressed her; spoke an unknown booming tongue and commanded the stones to open a portal onto the [[Bonewall]], then stepped through and left the Ashen Vale
+
+
+## Primus Griswald
+
+**First Appeared:** [[Session 6]]
+**Status:** Unknown (missing)
+**Affiliation:** [[The Light]]
+
+### Description
+A large, imposing churchman of the Light who holds the title of Primus, headmaster of the Light's academies for both clerics and paladins.
+He recruited a young [[Sir Roderic Lightbearer|Roderic]] into the order and steered him toward the paladins rather than the clergy.
+
+### Role
+He believed in Roderic when others did not.
+After the disaster of the lost battalion — when Roderic woke the sole survivor among mutilated dead and was suspected of submitting to the darkness — Griswald arranged for him to become a knight-errant rather than face the judgment of [[Beaconhold]].
+He has now gone missing along with other faithful, vanished without a trace of struggle, and [[Inquisitor Voss]] used his name to lure Roderic to a clandestine meeting beneath the city.
+
+### Relationships
+- [[Sir Roderic Lightbearer]] — His protégé, whom he recruited as a boy and spared from disgrace
+- [[The Light]] — Head of its academies
+
+### Key Events
+- [[Session 6]] — Revealed as Roderic's mentor and patron; his name was used to lure Roderic into the imperial tunnels, where Voss confessed that Griswald had vanished along with other faithful
+
+### Session Appearances
+- [[Session 6]] — Absent; named and discussed but not present
 
 
 ## Rowan yn Greenholt
@@ -281,7 +388,7 @@ Her personal connection to Garland makes her a likely point of contact when the 
 **Affiliation:** Independent
 
 ### Description
-Great-grandchild of [[Garland yn Greenholt]].
+Great-grandchild of [[Garland yn Greenholt]] through his second family — the line begun when Garland brought a dead friend's widow and her child home from a long journey roughly a century ago.
 Full name: Rowan yn Greenholt ap Hawkworth.
 She and her partner Corin settled in [[Ashbrook]] before the town fell to the curse.
 
@@ -320,16 +427,46 @@ The information he provided suggests Aldric was not directly involved in the rui
 
 ### Relationships
 - [[Aldric Garlandsson]] — His lord and commander
+- [[Captain Vask]] — The head of Aldric's guard and his superior, whom he openly defied at the Witch Stones
 - [[Mira]] — In his charge as escort
+- [[Garland yn Greenholt]] — Who Favored him at the Witch Stones, leaving a bond of obligation between them
 - [[Edric Bloom]] — Charmed into sharing information over drinks
 
 ### Key Events
 - [[Session 1]] — Edric bought him drinks and extracted information about Aldric; Edric experienced a disturbing compulsion to weaponize knowledge of Iyer's personal troubles
 - [[Session 2]] — Reports from Aureate soldiers indicate Iyer was on duty when half the [[Crownvale]] guard walked off the walls in the middle of the night; he told them to go home, saying none of it mattered anymore; the east gate stood unmanned until dawn, suggesting ruin's influence is deepening its hold on Crownvale's defenders
+- [[Session 6]] — At the [[Witch Stones]] he tackled [[Garland yn Greenholt|Garland]] to the ground on Captain Vask's behalf, then defied his own captain — pushing Vask back — to let Garland pursue [[Mira]] through the portal, after Garland Favored him and swore to bring her back to Crownvale on his life; openly defying Vask before the families and soldiers will likely bring trouble from the captain and from Aldric
 
 ### Session Appearances
 - [[Session 1]]
 - [[Session 2]]
+- [[Session 6]]
+
+
+## Tamarack
+
+**First Appeared:** [[Session 6]]
+**Status:** Active
+**Affiliation:** [[Beaver Lake]] colony
+
+### Description
+An ambitious young beaver, called Tam for short, descended from Aspen — the beaver for whose sake [[Castor]] first settled at [[Beaver Lake]].
+He has risen to lead the colony in the conviction that the beavers should not be confined to one dam but should dam the whole river.
+
+### Role
+Under Tamarack's leadership the beavers have begun damming the lower [[Ashen Flow]] beyond their old home, cutting into the orchards and farms of the lowlands and becoming pests.
+This has soured the Vale's great families against the colony and lies at the heart of the beaver-vs-Vale conflict.
+Castor admires his drive but fears it will get the colony exterminated.
+
+### Relationships
+- [[Castor]] — The colony's respected elder, who admires Tamarack's ambition yet fears where it leads; a conflicted protégé-figure
+- [[Beaver Lake]] — His home colony, which he now leads
+
+### Key Events
+- [[Session 6]] — Established as the upstart leader driving the beavers to dam the lower Ashen Flow, fracturing the colony's old ways and souring the Vale against them
+
+### Session Appearances
+- [[Session 6]] — Discussed but not present
 
 
 ## The Triune
@@ -390,3 +527,29 @@ Provided [[Castor]] with intelligence about the tunnels beneath [[Aurelion]] —
 
 ### Key Events
 - [[Session 3]] — Encountered [[Castor]] in beaver form in her burrow; bargained intelligence about the tunnels for his company
+
+
+## Vicar Lucis Gregory
+
+**First Appeared:** [[Session 6]]
+**Status:** Active
+**Affiliation:** [[The Light]], [[Beaconhold]]
+
+### Description
+The administrator who runs the operations of the Light's church in [[Beaconhold]], assigning clergy and paladins to their posts.
+An old "bean counter" who has known [[Sir Roderic Lightbearer|Roderic]] since boyhood and trusts his intuition.
+
+### Role
+He confirmed to Roderic that many of the faithful have vanished overnight without sign of struggle, and that scholars have found inconsistencies in scripture and history.
+He could no longer remember the hero [[Sariel]] even when Roderic described him, but he trusted Roderic that a hero of that name had once existed.
+Frightened by the dustless patch where Sariel's bust had stood, he now sleeps with a ceremonial dagger at his side.
+
+### Relationships
+- [[Sir Roderic Lightbearer]] — Has known him since boyhood; a sympathetic contact within the church hierarchy
+- [[The Light]] — Administrator of its Beaconhold operations
+
+### Key Events
+- [[Session 6]] — Confirmed the vanishings and the unraveling of scripture; revealed the impossible dustless patch where Sariel's bust had stood; could not remember Sariel but trusted Roderic's testimony
+
+### Session Appearances
+- [[Session 6]]

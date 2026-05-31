@@ -47,6 +47,8 @@ python3 scripts/sync_kb_aliases.py
 
 This adds any missing sub-entity aliases (e.g., "The God of Ruin" → `old-gods` under `factions:`) so that entity resolution in later steps has the complete picture.
 
+**Sub-entity convention:** the sync script only treats a section header as a sub-entity if it is written as an explicit wiki-link, e.g. `## [[The God of Ruin]]`. When you add or edit a KB section that *names* a distinct entity living inside a parent page (a deity, sub-location, named group, or person without their own file), write its header as `## [[Name]]` so it is picked up. Keep plain `## Section Title` headers (Overview, Notable Members, Modern Situation, etc.) un-linked — they are structural and must not become aliases.
+
 ### Step 2 — Build KB index (context-efficient)
 
 Minimize context usage by loading only what is needed:
@@ -56,7 +58,7 @@ Minimize context usage by loading only what is needed:
 | `config/entity-aliases.yaml` | Read in full (small config) |
 | `config/speaker-map.yaml` | Read in full (small config) |
 | `review/pending-changes.md` | Read in full (small file) |
-| KB directories (`kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
+| KB directories (`kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/` (arc subfolders + their session files), `story-arcs/group/` (group `hooks.md`), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
 | `gm-notes/` | **List filenames only** (`ls`) |
 | Individual entity files | **Read on-demand** — only when you need to check or update a specific entity |
 | Template files in `templates/` | **Read on-demand** — only when creating a new entity of that type |
@@ -131,7 +133,7 @@ Sessions live under arc subfolders — `kb/sessions/<arc-slug>/session-{N}.md`.
 
 1. List subdirectories of `kb/sessions/` — each is an arc (e.g. `curse-of-ruin/`, `forgotten-and-forsaken/`).
 2. Identify the **active arc** — the arc folder whose `index.md` has `**Status:** Active` or `**Status:** Beginning`, or (fallback) the arc containing the most recent session. If the newly resolved questions / arc_progress reference a different arc than the active one, ask the user which arc this session belongs to.
-3. If no arc folder fits (e.g. a new arc is starting), ask the user for the arc name and slug, then create `kb/sessions/<arc-slug>/index.md` from a placeholder template before saving the session.
+3. If no arc folder fits (e.g. a new arc is starting), ask the user for the arc name and slug, then create `kb/sessions/<arc-slug>/index.md` — matching the structure of an existing arc index (e.g. `kb/sessions/forgotten-and-forsaken/index.md`: title, `**Sessions:**`, `**Theme:**`, `**Status:**`, a summary, and a `## Sessions` list) — before saving the session.
 
 Save to `kb/sessions/<arc-slug>/session-{N}.md`.
 
@@ -232,11 +234,10 @@ Append new hooks if the section/file already exists. Do not duplicate hooks that
 **Hook → Arc lifecycle:**
 
 When the YAML shows progress on an existing hook (via `arc_progress` or `questions_resolved`), consider promoting it to a full arc.
-Remove the hook entry and create a dedicated arc file:
-- Group: `kb/story-arcs/group/{arc-slug}.md`
-- Character: `kb/story-arcs/character/{character-slug}/{arc-slug}.md`
-
-The arc file uses `templates/story-arc.md`. Until activated, hooks remain in their current location.
+Active narrative arcs are group-level and live as `kb/sessions/<arc-slug>/index.md` — the arc folder that also groups the arc's session files (see Step 6's arc-folder logic).
+To promote a **group** hook, remove its entry from `kb/story-arcs/group/hooks.md` and fold it into the active arc's `index.md`, or create `kb/sessions/<new-arc-slug>/index.md` if it begins a new arc.
+There are no separate character-arc files: a **character's** threads stay in that PC's `## Hooks` / Current Threads and surface in the active arc's `index.md`, so promoting a character hook means updating the PC entry and reflecting the thread in the active arc — not creating a new file.
+Match the structure of an existing arc index (e.g. `kb/sessions/forgotten-and-forsaken/index.md`). Until promoted, hooks remain in their current location.
 
 **Relationship to pending-changes.md:**
 
@@ -322,9 +323,9 @@ Route content based on sensitivity:
 |---|---|
 | Published world facts, PC backstories, known NPC info | `kb/` (player-visible) |
 | GM session prep, encounter plans, secret motivations | `gm-notes/` |
-| Story arc — player-visible elements (open questions, known events) | `kb/story-arcs/` |
-| Story arc — secret answers, future reveals, planned twists | `gm-notes/` (reference the arc file with a link) |
-| Story hooks (open questions, mysteries the players know about) | `kb/story-arcs/` (player-visible) |
+| Story arc — player-visible elements (open questions, known events) | active arc's `kb/sessions/<arc>/index.md` |
+| Story arc — secret answers, future reveals, planned twists | `gm-notes/` (reference the arc index with a link) |
+| Story hooks (open questions, mysteries the players know about) | group: `kb/story-arcs/group/hooks.md`; character: PC `## Hooks` |
 | GM answers to hooks, planned reveals for hooks | `gm-notes/` (reference the hooks file) |
 | NPC secrets the players haven't learned | `gm-notes/` |
 | `gm_observations` from YAML | Session file (Session Notes) for pacing/engagement observations; `gm-notes/` for plot-direction notes |
@@ -414,7 +415,7 @@ If a character is not in the speaker map and the YAML doesn't clarify, default t
 
 **Story arcs with secrets:**
 Split the arc into two parts:
-- Player-visible arc file in `kb/story-arcs/` with known facts and open questions.
+- Player-visible elements in the active arc's `kb/sessions/<arc>/index.md` with known facts and open questions.
 - GM-private file in `gm-notes/` with answers, planned reveals, and secret motivations.
 The GM-private file should reference the arc: `See also: [[Arc Name]]`.
 

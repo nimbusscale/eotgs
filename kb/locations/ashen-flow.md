@@ -9,13 +9,13 @@ The giant lake that feeds the river is miles away, well beyond the borders of th
 While the water runs clear from the lake, it grows murky and unpleasant as it comes downstream.
 Yet by the time it reaches the Ashen Vale, the water is clean — as pure as fresh rainwater.
 
-## Upper Ashen Flow
+## [[Upper Ashen Flow]]
 The upper portion originates from a spring beneath [[Ashbrook]].
 It is fed by several other rivers and springs from the [[Cinderwall]].
 The waters are wide, dirty, and perilous.
 Since the curse, this section carries the aging curse downstream.
 
-## The Great Beaver Dam
+## [[The Great Beaver Dam]]
 Along the river, just on the border of the [[Ashen Vale]], stands a beaver dam.
 It has existed as long as anyone remembers and is meticulously maintained, never grown rotten.
 The dam blocks the Upper Ashen Flow, forming a lake.
@@ -29,7 +29,7 @@ The dam currently holds back the cursed water from [[Ashbrook]], but the dam and
 Since the curse passed, the beaver community has fractured much like the [[The Light|Light]].
 Led by Aspen's ambitious descendant [[Tamarack]], the beavers have begun damming the lower [[Ashen Flow]] beyond their old home at [[Beaver Lake]], cutting into orchards and farmland and becoming pests — which has soured the Vale's great families against the colony and brought armed men demanding the beavers be broken.
 
-## Lower Ashen Flow
+## [[Lower Ashen Flow]]
 The clean, calm portion of the river that runs through the [[Ashen Vale]].
 Filtered by the great beaver dam upstream.
 Feeds the fertile farmland of the vale.

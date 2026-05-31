@@ -11,7 +11,7 @@ Where an Old God's nature concentrates, it can produce emanations — physical m
 
 For a broader history of the old religion and its suppression, see [[Old Gods and New Gods]].
 
-## The God of Ruin
+## [[The God of Ruin]]
 
 **Titles and Epithets** (true name unknown/unknowable):
 - **The Unmaker** — Luciferian term, pejorative
@@ -60,7 +60,7 @@ The Release showed me I could let go."
 **The Desperate** — Those who want something specific to end: a tyrannical ruler, a corrupt institution, an abusive relationship, their own suffering.
 They come to Ruin not from philosophy but from need.
 
-## The God of Renewal
+## [[The God of Renewal]]
 
 **Titles and Epithets** (true name unknown/unknowable):
 - **The Beloved** — in relation to Ruin, used by those who know the old stories
@@ -90,14 +90,14 @@ They've kept the old ways in secret — hedge witches, hermits, rural communitie
 They know Renewal sleeps and have been waiting for the awakening.
 Some operate openly in the wilds; others hide within cities.
 
-## The God of Forgetting
+## [[The God of Forgetting]]
 
 A newly revealed Old God whose domain encompasses letting go, removal of memory, and erasure of existence.
 Its primary emanation is [[The Xan-Kor]] — a physical manifestation of the God of Forgetting's power that emerged during the [[Old Gods and New Gods|Godstorm]].
 The old gods commanded mythical armies and their emanations clashed during these wars.
 The Xan-Kor can erase things from existence by removing them backward through time.
 
-## The God of Trickery
+## [[The God of Trickery]]
 
 Not evil — none of the Old Gods are.
 A force of chaos, mischief, change, disruption.
@@ -120,7 +120,7 @@ The Trickster doesn't serve good or evil — they serve change, disruption, the 
 They lie, but sometimes their lies reveal deeper truths.
 They cause chaos, but sometimes that chaos breaks stagnant systems.
 
-### The Harlequins
+### [[The Harlequins]]
 
 Followers of the Trickster.
 Not a formal cult — more like a loose network of those who've been touched by the Laughing One's influence.

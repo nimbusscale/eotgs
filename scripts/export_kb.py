@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
 """Export the campaign KB into consolidated files for Claude Projects.
 
-Generates 8 mechanical export files from the knowledge base:
+Generates 7 mechanical export files from the knowledge base:
   characters-pcs.md      characters-npcs.md    locations.md
-  world-setting.md       story-arcs-active.md  sessions-recent.md
-  hooks-all.md           gm-notes.md
+  world-setting.md       sessions-recent.md    hooks-all.md
+  gm-notes.md
 
-The 9th file (campaign-index.md) requires LLM synthesis and is handled
+The 8th file (campaign-index.md) requires LLM synthesis and is handled
 separately by the /export-kb Claude Code skill.
+
+Note: active story arcs now live in kb/sessions/<arc>/index.md and reach the
+export bundle via campaign-index.md (synthesized) and sessions-recent.md.
+Character hooks live in each PC's `## Hooks` section and reach the bundle via
+characters-pcs.md. hooks-all.md therefore covers group hooks only.
 """
 
 import argparse
@@ -19,11 +24,6 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 KB_DIR = REPO_ROOT / "kb"
 GM_DIR = REPO_ROOT / "gm-notes"
 EXPORTS_DIR = REPO_ROOT / "exports"
-
-SMALL_WORDS = {
-    "a", "an", "and", "as", "at", "but", "by", "for", "if", "in",
-    "nor", "of", "on", "or", "so", "the", "to", "up", "via", "yn", "with",
-}
 
 
 def parse_args(argv=None):
@@ -53,25 +53,6 @@ def read_and_demote(path, levels=1):
     return demote_headers(path.read_text(encoding="utf-8"), levels)
 
 
-def slugname_to_title(slug):
-    """Convert a filename slug to title case.
-
-    Keeps small words (yn, of, the …) lowercase except at position 0.
-    ``'garland-yn-greenholt'`` → ``'Garland yn Greenholt'``
-    """
-    words = slug.split("-")
-    return " ".join(
-        w if (i > 0 and w in SMALL_WORDS) else w.capitalize()
-        for i, w in enumerate(words)
-    )
-
-
-def get_status(text):
-    """Return the value after ``**Status:**``, or *None*."""
-    m = re.search(r"\*\*Status:\*\*\s*(.+)", text)
-    return m.group(1).strip() if m else None
-
-
 def session_sort_key(path):
     """Extract the numeric session number from a path for sorting."""
     m = re.search(r"session-(\d+)", path.name)
@@ -91,68 +72,6 @@ def get_md_files(directory, exclude=None):
 def strip_top_header(text):
     """Remove the first ``# …`` line and any blank lines right after it."""
     return re.sub(r"^# .+\n\n*", "", text, count=1)
-
-
-def extract_title(text):
-    """Return the text after the first ``# `` header, or *None*."""
-    m = re.match(r"^# (.+)", text, re.MULTILINE)
-    return m.group(1).strip() if m else None
-
-
-def transform_arc(text, title_override=None):
-    """Reshape a story-arc source file for the consolidated export.
-
-    * ``# Title`` → ``### Title`` (or *title_override*)
-    * ``## Summary`` header is stripped (content kept inline)
-    * Other ``## Foo`` → ``**Foo:**`` (skipped if the section body is empty)
-    """
-    lines = text.split("\n")
-
-    # Parse into title, metadata, and named sections
-    title = None
-    metadata = []
-    sections = []          # [(name, [lines …]), …]
-    cur_name = None
-    cur_lines = []
-
-    for line in lines:
-        if title is None and line.startswith("# "):
-            title = line[2:].strip()
-            continue
-        if line.startswith("## "):
-            if cur_name is not None:
-                sections.append((cur_name, cur_lines))
-            cur_name = line[3:].strip()
-            cur_lines = []
-            continue
-        if cur_name is None:
-            metadata.append(line)
-        else:
-            cur_lines.append(line)
-    if cur_name is not None:
-        sections.append((cur_name, cur_lines))
-
-    # Trim trailing blank lines from metadata
-    while metadata and metadata[-1].strip() == "":
-        metadata.pop()
-
-    # Build output
-    result = [f"### {title_override or title}"]
-    result.extend(metadata)
-
-    for name, body in sections:
-        content = "\n".join(body).strip()
-        if name == "Summary":
-            if content:
-                result.append("")
-                result.append(content)
-        else:
-            if content:
-                result.append("")
-                result.append(f"**{name}:**")
-                result.append(content)
-
-    return "\n".join(result)
 
 
 def count_hooks(text):
@@ -219,50 +138,6 @@ def export_world_setting():
     return "\n\n\n".join(parts) + "\n", counts
 
 
-def export_story_arcs():
-    group_dir = KB_DIR / "story-arcs" / "group"
-    char_base = KB_DIR / "story-arcs" / "character"
-
-    # --- group arcs ---
-    group_arcs = []
-    for f in get_md_files(group_dir, exclude={"hooks.md"}):
-        text = f.read_text(encoding="utf-8")
-        status = get_status(text)
-        if status and "Active" in status:
-            group_arcs.append(transform_arc(text).strip())
-
-    # --- character arcs ---
-    char_arcs = []
-    if char_base.exists():
-        for d in sorted(char_base.iterdir()):
-            if not d.is_dir():
-                continue
-            char_name = slugname_to_title(d.name)
-            for f in get_md_files(d, exclude={"hooks.md"}):
-                text = f.read_text(encoding="utf-8")
-                status = get_status(text)
-                if status and "Active" in status:
-                    arc_title = extract_title(text) or f.stem
-                    override = f"{char_name} \u2014 {arc_title}"
-                    char_arcs.append(transform_arc(text, override).strip())
-
-    total = len(group_arcs) + len(char_arcs)
-
-    # assemble
-    parts = ["# Active Story Arcs"]
-    if group_arcs:
-        parts.append("## Group Arcs\n\n" + "\n\n\n".join(group_arcs))
-    else:
-        parts.append("## Group Arcs")
-
-    if char_arcs:
-        parts.append("## Character Arcs\n\n" + "\n\n\n".join(char_arcs))
-    else:
-        parts.append("## Character Arcs")
-
-    return "\n\n\n".join(parts) + "\n", f"{total} arcs"
-
-
 def export_sessions(session_count=5):
     sessions_dir = KB_DIR / "sessions"
     # Sessions now live nested under arc folders: sessions/<arc>/session-N.md
@@ -279,18 +154,21 @@ def export_sessions(session_count=5):
 
 
 def export_hooks():
+    """Export group-level story hooks.
+
+    Character hooks live in each PC's `## Hooks` section and already reach the
+    bundle via characters-pcs.md, so they are intentionally not duplicated here.
+    """
     group_file = KB_DIR / "story-arcs" / "group" / "hooks.md"
-    char_base = KB_DIR / "story-arcs" / "character"
     group_count = 0
-    char_count = 0
 
     sections = [
         "# Story Hooks\n\n"
-        "These are open threads and unresolved mysteries "
-        "that could develop into future story arcs."
+        "These are open group-level threads and unresolved mysteries "
+        "that could develop into future story arcs. "
+        "(Character-specific hooks live in each PC entry.)"
     ]
 
-    # Group hooks
     if group_file.exists():
         raw = group_file.read_text(encoding="utf-8")
         group_count = count_hooks(raw)
@@ -299,24 +177,7 @@ def export_hooks():
     else:
         sections.append("## Group Hooks")
 
-    # Character hooks
-    char_bits = ["## Character Hooks"]
-    if char_base.exists():
-        for d in sorted(char_base.iterdir()):
-            if not d.is_dir():
-                continue
-            hf = d / "hooks.md"
-            if not hf.exists():
-                continue
-            name = slugname_to_title(d.name)
-            raw = hf.read_text(encoding="utf-8")
-            char_count += count_hooks(raw)
-            content = demote_headers(strip_top_header(raw), 2).strip()
-            char_bits.append(f"### {name}\n\n" + content)
-    sections.append("\n\n".join(char_bits))
-
-    counts = f"{group_count} group + {char_count} character hooks"
-    return "\n\n".join(sections) + "\n", counts
+    return "\n\n".join(sections) + "\n", f"{group_count} group hooks"
 
 
 def export_gm_notes():
@@ -344,7 +205,6 @@ def main(argv=None):
         ("characters-npcs.md",   export_npcs),
         ("locations.md",         export_locations),
         ("world-setting.md",     export_world_setting),
-        ("story-arcs-active.md", export_story_arcs),
         ("sessions-recent.md",   lambda: export_sessions(args.sessions)),
         ("hooks-all.md",         export_hooks),
         ("gm-notes.md",         export_gm_notes),

@@ -41,7 +41,7 @@ Minimize context usage by loading only what is needed:
 | `config/entity-aliases.yaml` | Read in full (small config) |
 | `config/speaker-map.yaml` | Read in full (small config) |
 | `review/pending-changes.md` | Read in full (small file) |
-| KB directories (`kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/`, `story-arcs/group/`, `story-arcs/character/` (list subdirectories and their filenames), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
+| KB directories (`kb/pcs/`, `npcs/`, `locations/`, `items/`, `factions/`, `sessions/` (arc subfolders + their session files), `story-arcs/group/` (group `hooks.md`), `world/`) | **List filenames only** (`ls`) — do NOT read contents |
 | `gm-notes/` | **List filenames only** (`ls`) |
 | Individual entity files | **Read on-demand** — only when the note references that entity and you need to check or update it |
 | Template files in `templates/` | **Read on-demand** — only when creating a new entity of that type |
@@ -64,7 +64,7 @@ Break the note into logical sections and classify each:
 | New location | `kb/locations/` | `templates/location.md` |
 | New item | `kb/items/` | `templates/item.md` |
 | New faction | `kb/factions/` | `templates/faction.md` |
-| Story arc (player-visible) | `kb/story-arcs/group/` or `story-arcs/character/` | `templates/story-arc.md` |
+| Story arc (player-visible) | active arc's `kb/sessions/<arc>/index.md` | match an existing arc index |
 | Story arc (GM secrets) | `gm-notes/` | — (freeform, reference the arc) |
 | Story hooks (potential arcs not yet in play) | Group: `kb/story-arcs/group/hooks.md`; Character: `## Hooks` section in `kb/pcs/{character-slug}.md` | — (see Step 5b) |
 | Session recap or summary | `kb/sessions/` | `templates/session.md` |
@@ -141,11 +141,11 @@ Append new hooks if the section/file already exists. Do not duplicate hooks that
 
 **Hook → Arc lifecycle:**
 
-When a hook is activated in play, remove the hook entry and create a dedicated arc file:
-- Group: `kb/story-arcs/group/{arc-slug}.md`
-- Character: `kb/story-arcs/character/{character-slug}/{arc-slug}.md`
-
-The arc file uses `templates/story-arc.md`. Until activated, hooks remain in their current location.
+When a hook is activated in play, remove the hook entry and fold it into the active narrative arc.
+Active arcs are group-level and live as `kb/sessions/<arc-slug>/index.md` — the arc folder that also groups the arc's session files.
+Promote a **group** hook by removing it from `kb/story-arcs/group/hooks.md` and folding it into the active arc's `index.md`, or create `kb/sessions/<new-arc-slug>/index.md` if it begins a new arc.
+There are no separate character-arc files: a **character's** threads stay in that PC's `## Hooks` and surface in the active arc's `index.md`.
+Match the structure of an existing arc index (e.g. `kb/sessions/forgotten-and-forsaken/index.md`). Until activated, hooks remain in their current location.
 
 **Relationship to pending-changes.md:**
 
@@ -215,9 +215,9 @@ Route content based on sensitivity:
 |---|---|
 | Published world facts, PC backstories, known NPC info | `kb/` (player-visible) |
 | GM session prep, encounter plans, secret motivations | `gm-notes/` |
-| Story arc — player-visible elements (open questions, known events) | `kb/story-arcs/` |
-| Story arc — secret answers, future reveals, planned twists | `gm-notes/` (reference the arc file with a link) |
-| Story hooks (open questions, mysteries the players know about) | `kb/story-arcs/` (player-visible) |
+| Story arc — player-visible elements (open questions, known events) | active arc's `kb/sessions/<arc>/index.md` |
+| Story arc — secret answers, future reveals, planned twists | `gm-notes/` (reference the arc index with a link) |
+| Story hooks (open questions, mysteries the players know about) | group: `kb/story-arcs/group/hooks.md`; character: PC `## Hooks` |
 | GM answers to hooks, planned reveals for hooks | `gm-notes/` (reference the hooks file) |
 | NPC secrets the players haven't learned | `gm-notes/` |
 
@@ -295,7 +295,7 @@ If a character is not in the speaker map and the note doesn't clarify, default t
 
 **Story arcs with secrets:**
 Split the arc into two parts:
-- Player-visible arc file in `kb/story-arcs/` with known facts and open questions.
+- Player-visible elements in the active arc's `kb/sessions/<arc>/index.md` with known facts and open questions.
 - GM-private file in `gm-notes/` with answers, planned reveals, and secret motivations.
 The GM-private file should reference the arc: `See also: [[Arc Name]]`.
 

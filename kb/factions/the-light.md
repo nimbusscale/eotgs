@@ -73,14 +73,14 @@ The [[Corona Vigil]] considers this position heretical and has dispatched the [[
 
 ## Organizations
 
-### Corona Vigil
+### [[Corona Vigil]]
 The Church's inquisitorial branch, responsible for investigating heresy and heterodox beliefs.
 Agents of the Corona Vigil have been investigating the Morrow family for their divided faith between the Light and renewal.
 They have dispatched the Order of the Eclipsed Sword as their military enforcement arm.
 An older man in Corona Vigil garb was observed watching the Chryseum in [[Aurelion]] before [[Sir Roderic Lightbearer|Roderic]]'s capture.
 A Corona Vigil inquisitor accompanied the [[Order of the Eclipsed Sword]] into the Aurelion Vault, declaring [[Sir Roderic Lightbearer|Roderic]] and his companions heretics when they refused to surrender [[Count Albrecht Marrow]].
 
-### Order of the Eclipsed Sword
+### [[Order of the Eclipsed Sword]]
 The military enforcement arm of the Corona Vigil.
 Known for meticulous tactical planning and ruthless efficiency in execution.
 They follow orders rigidly with no room for independent judgment or leniency.
@@ -88,14 +88,14 @@ Have previously collaborated with other Luciferian military orders, including th
 They arrived at Crest Aurelion to arrest [[Count Albrecht Marrow]] and [[Luminary Severin Morrow]] for their heterodox beliefs about ruin and renewal.
 Their arrival directly threatens the party's mission, as Count Marrow is the missing herald needed to complete the connection at the [[Shrine of Renewal]].
 
-### Order of the First Dawn
+### [[Order of the First Dawn]]
 A small but respected Luciferian paladinic order stationed at the Chryseum in [[Aurelion]].
 Led by [[Dawnwarden Brenn]], they bear a rising sun emblem and consist of about four paladins.
 They are known for their benevolence among other paladinic orders.
 Secretly, they share the Morrows' belief that renewal must be restored alongside ruin, placing them at odds with the Church's orthodox position.
 They are currently protecting [[Luminary Severin Morrow]] from the Inquisition.
 
-### The Redeemers of Light
+### [[The Redeemers of Light]]
 A knightly order within the Church focused on redemption through deeds.
 [[Sir Roderic Lightbearer]] serves as a knight errant of this order, on assignment to prove his faith through protecting others.
 

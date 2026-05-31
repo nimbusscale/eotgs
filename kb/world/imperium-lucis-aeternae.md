@@ -18,7 +18,7 @@ The empire eventually fell, leading to a "dark ages" period.
 After the Imperium's fall, the [[Middle Kingdoms]] emerged — a confederacy of kingdoms and city-states.
 Eventually this confederacy also fell apart, giving rise to the modern kingdoms.
 
-## The Farus Lucis
+## [[The Farus Lucis]]
 "Beacon of Light" — towers that symbolized the Imperium's reach and authority.
 They once dotted the empire; most are now destroyed or lost.
 The one in [[Beaconhold]] is the last known intact tower, though dormant.

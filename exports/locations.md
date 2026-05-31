@@ -75,24 +75,27 @@ The giant lake that feeds the river is miles away, well beyond the borders of th
 While the water runs clear from the lake, it grows murky and unpleasant as it comes downstream.
 Yet by the time it reaches the Ashen Vale, the water is clean — as pure as fresh rainwater.
 
-### Upper Ashen Flow
+### [[Upper Ashen Flow]]
 The upper portion originates from a spring beneath [[Ashbrook]].
 It is fed by several other rivers and springs from the [[Cinderwall]].
 The waters are wide, dirty, and perilous.
 Since the curse, this section carries the aging curse downstream.
 
-### The Great Beaver Dam
+### [[The Great Beaver Dam]]
 Along the river, just on the border of the [[Ashen Vale]], stands a beaver dam.
 It has existed as long as anyone remembers and is meticulously maintained, never grown rotten.
 The dam blocks the Upper Ashen Flow, forming a lake.
 It filters the water — below it, the Lower Ashen Flow runs clean into the vale.
 
 This dam was [[Castor]]'s society and home during his years as a beaver.
-He was enamored with beaver society and how they lived.
+He was enamored with beaver society and how they lived, and it was he who first settled here for the sake of the beaver Aspen and helped a modest dam grow into the great one that tamed the river.
 
 The dam currently holds back the cursed water from [[Ashbrook]], but the dam and the beavers maintaining it are aging rapidly under the curse's influence.
 
-### Lower Ashen Flow
+Since the curse passed, the beaver community has fractured much like the [[The Light|Light]].
+Led by Aspen's ambitious descendant [[Tamarack]], the beavers have begun damming the lower [[Ashen Flow]] beyond their old home at [[Beaver Lake]], cutting into orchards and farmland and becoming pests — which has soured the Vale's great families against the colony and brought armed men demanding the beavers be broken.
+
+### [[Lower Ashen Flow]]
 The clean, calm portion of the river that runs through the [[Ashen Vale]].
 Filtered by the great beaver dam upstream.
 Feeds the fertile farmland of the vale.
@@ -126,25 +129,25 @@ Fiefdoms were granted to war veterans like [[Garland yn Greenholt|Garland]] afte
 - Fed by the [[Ashen Flow|Lower Ashen Flow]], which runs clean after being filtered by the great beaver dam upstream
 - Fertile farmland enriched by volcanic ash
 
-### Greenholt
+### [[Greenholt]]
 
 [[Garland yn Greenholt]]'s fiefdom, granted after [[Beaconhold|Beacon Hold]]'s conquest and largely left to self-govern.
 Garland serves as its accidental lord, with his grandson [[Aldric Garlandsson]] now ruling from [[Crownvale]].
 
 #### Witch Stones
 
-A set of standing stones hidden somewhere on Garland's land, also known as the Shepherd's Teeth.
-Local legends know the [[Witch Stones]] exist somewhere in the Ashen Vale, but their exact location is considered "lost."
-[[Garland yn Greenholt|Garland]] discovered them while preparing a well-hidden field for pasture.
-He studied them carefully over the years and guards the secret of their location.
+The [[Witch Stones]] — a hidden ring of rune-carved standing stones also known as the Shepherd's Teeth — stand somewhere on Garland's land.
+They are the source of Garland's magic and, as recently revealed, can open a portal to a matching ring of stones on the [[Bonewall]].
+Garland speaks of the Ashen Vale openly, but guards the secret of their location and does not volunteer information about the stones themselves.
 
-The Witch Stones are the source of Garland's magical power.
-He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries.
-The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, suggesting a connection between these ancient sites.
-The full extent of what they do and how their power works is still to be established in play.
+### The Families
+The Vale is held by a handful of powerful landowning families who act as its unofficial fiefdom under [[Aldric Garlandsson|Aldric]], the most powerful among them.
+All of them are [[Garland yn Greenholt|Garland]]'s blood, generations down; to them he is half myth, and only Aldric's line kept the direct knowledge — so Garland faces a crowd of his own descendants who do not really know him.
+Three family heads led the delegation to the [[Witch Stones]], all aggrieved by the spreading beavers:
 
-Garland speaks of the Ashen Vale openly, but doesn't volunteer information about the Witch Stones themselves.
-He would be very interested in investigating other Witch Stones if they exist elsewhere.
+- **Sela Thornby** — orchardist matriarch and de facto head of the prominent families, with decades of her trees drowning in beaver-flooded ground. She leads the delegation, is formidable, and is reachable by reason — under the anger is grief, not cruelty; the one Garland and [[Castor]] can actually talk down.
+- **Doral Beck** — the miller, whose wheel depends on the Lower [[Ashen Flow]] the beavers keep diverting. Not cruel, just frightened for his living — the neutral, tragic face who didn't want to come but had no choice.
+- **Wat Hollis** — younger and hungry, the one setting traps along the Ashen Flow. He smells bounty and pelts in the chaos and pushes hardest to see Castor handed over and the colony broken — the escalator who can turn a tense parley ugly.
 
 ### Connected Locations
 - [[Beaconhold]] — The kingdom to the north that the vale borders
@@ -161,6 +164,7 @@ He would be very interested in investigating other Witch Stones if they exist el
 
 ### Events Here
 - [[Session 0]] — Established as homeland of Garland and Castor; the curse threatens to reach the vale if the beaver dam fails
+- [[Session 6]] — At the hidden Witch Stones, [[Captain Vask]]'s delegation and the three great families came to retrieve [[Mira]] and end the beaver troubles; Mira opened a portal to the [[Bonewall]] and stepped through, with Garland and Castor following — and Vask revealed that Aldric somehow knows everything that happens in the Vale
 
 
 ## Aurelion
@@ -179,12 +183,12 @@ The surrounding countryside shows decline: thin fields, sparse orchards, and a o
 The city employs dog catchers to deal with a stray dog problem.
 The party is wanted in Aurelion — posters accuse them of subverting the county and stealing goods on behalf of [[Count Albrecht Marrow]].
 
-### Crest Aurelion
+### [[Crest Aurelion]]
 [[Count Albrecht Marrow]]'s castle and seat of power for [[Marrow County]], perched atop the city hill like a vault rather than a castle.
 Contains a massive vault with diminishing gold reserves and a secret passage connecting it to the count's private chambers, discovered by [[Garland yn Greenholt|Garland]] during [[Beaconhold]]'s conquest centuries ago.
 [[Beaconhold]] conquered Crest Aurelion by forcing the capitulation of a Morrow ancestor who ruled it.
 
-### The Chryseum
+### [[The Chryseum]]
 The cathedral of [[The Light]] in the city, presided over by [[Luminary Severin Morrow]].
 Features a massive gold dome that dominates the skyline — the last prominent reminder of the city's golden past.
 The interior features a massive [[Whiteglass]] stained-glass window radiating clean light, rows of pews, soaring vaults of white gold and candlelight, and a mysterious swirling pattern on the nave floor.
@@ -193,7 +197,7 @@ A church dungeon lies below — a sunken courtyard lined with cells on three sid
 The [[Order of the First Dawn]] serves as the Chryseum's paladinic order.
 The Chryseum district is accessible via the underground tunnel network.
 
-#### The Shrine of Renewal
+#### [[The Shrine of Renewal]]
 An ancient, pre-Luciferian chamber hidden beneath the Chryseum, accessible via a concealed spiral staircase activated by renewal-aligned power.
 The space is organic rather than constructed — shaped by forces older than the [[Imperium Lucis Aeternae|Imperium]], older than everything the party has encountered save [[The Nodrum]] and the [[Witch Stones]].
 The chamber predates the Chryseum, the Imperium, and the Luciferian era.
@@ -210,7 +214,7 @@ When all six heralds gathered, the cocoon opened and the chamber transformed fro
 - **Renewal Energy** — Residual energy in the shrine partially counteracts ruin; [[Garland yn Greenholt|Garland]]'s spellbook pages grew slightly stronger in its presence
 - **Herald Resonance** — Multiple heralds feel an interlocking connection here, like puzzle pieces drawn together; at least five heralds are needed to unlock the cocoon, but even five proved insufficient without [[Count Albrecht Marrow|Count Marrow]]
 
-### The Mendrath Baths
+### [[The Mendrath Baths]]
 A gilded bathhouse built by dwarves, accessible via the underground tunnels.
 
 ### Underground Tunnel Network
@@ -221,7 +225,7 @@ The Aureate patrol the tunnels but typically assign their lowest-ranking soldier
 The critical junction is guarded by elite soldiers under [[Captain Eisen Dorn|Dorn]]'s direct command.
 [[Tufa]] the rock rat warned of undead deeper in the passages.
 
-### The Aureate
+### [[The Aureate]]
 [[Count Albrecht Marrow]]'s soldiers, led by [[Captain Eisen Dorn|First Aureate Eisen Dorn]].
 They enforce the law and carry out orders including [[Luminary Severin Morrow|Severin]]'s crackdown against bards and storytellers.
 
@@ -295,6 +299,7 @@ A lake in the foothills of the [[Cinderwall]], formed by the Great Beaver Dam.
 The upper [[Ashen Flow]] feeds into it, and the lower [[Ashen Flow]] continues beyond the dam into the [[Ashen Vale]].
 Home to a beaver colony that [[Castor]] knows well — his kin built and maintained the dam for generations.
 The beavers were evacuated downstream when the party arrived ahead of the ruin.
+In the downtime since the curse passed, the colony has grown unruly and unwieldy: many beavers have cast off the tribe's "old ways" and spread downstream to trouble the [[Ashen Vale]]'s human settlements, and [[Castor]]'s authority over them has waned.
 
 ### Notable Features
 - The Great Beaver Dam — a massive beaver-built dam that has stood for over 120 years; has partially collapsed, with water pouring into the lower [[Ashen Flow]]
@@ -328,7 +333,7 @@ Feeds the [[Eastern Rivers]] through deep springs and aquifers.
 Less snow than the [[Cinderwall]] despite being cold.
 Forms the eastern arm of the L-shaped mountain border, contrasting with the wet and volcanic Cinderwall to the south.
 
-### The Thirteen Spines
+### [[The Thirteen Spines]]
 Thirteen towers built along the Bonewall during the [[Imperium Lucis Aeternae|Imperium]] era.
 They rise from the mountain slopes like spines along a ridge — tall enough to peer over the crest of the Bonewall, but built on the slopes facing [[Beaconhold]] rather than at the very summit.
 The towers serve as both physical fortifications and magical wards, maintained by [[The Light]] to hold back forces of darkness on the far side of the mountains.
@@ -337,20 +342,27 @@ Each Spine has its own local nickname based on its appearance, history, or reput
 The formal [[Imperium Lucis Aeternae|Imperium]]-era designation for the tower network may exist in old records but has fallen out of common use; everyone simply calls them the Spines.
 The towers are garrisoned by the [[Spinewardens]], a military order of [[Beaconhold]] sworn to maintain the wards.
 
-One such Spine is known as **Hallowreach**.
+One such Spine, a failing southern-ish tower, is known as **Hallowreach**, and a mausoleum for honored wardens lies beneath it.
 When its wards began to fail and something from beyond the [[Bonewall]] pressed through, the garrison held until it became clear the Spine would fall.
 A long-hidden ritual was offered to anchor the Light directly, but it required a sacrifice: the Spinewarden [[Paxton Lumnus]] volunteered, died, and closed the breach — only to wake afterward in the Spine's mausoleum, the Light burning in his heart and showing him that the wards themselves are flawed.
 
+The northernmost Spine, **Carnforth**, marks the very edge of [[Beaconhold]]'s territory and the king's reach.
+Its light has now gone out — the first of the thirteen to go fully dark.
+
 The ancient wards are now beginning to weaken as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
+Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy delta of [[The Reaches]].
 
 ### Connected Locations
 - [[Eastern Rivers]] — Fed by springs and snowmelt from this range
 - [[Cinderwall]] — The other arm of the L-shaped border range
 - [[Öuth Krelt]] — The land beyond the Bonewall, held at bay by the Thirteen Spines
+- [[The Reaches]] — The marshy delta at the base of the wall in the far northeast
+- [[Witch Stones]] — A ring of stones on the wall's dead shale, linked by portal to a matching ring in the [[Ashen Vale]]
 
 ### Events Here
 - [[Session 0]] — Established as the eastern mountain range
 - The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden [[Paxton Lumnus]] sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum
+- [[Session 6]] — Carnforth, the northernmost Spine, went dark; [[Mira]] opened a Witch Stone portal onto the wall's grey shale and stepped through, with [[Garland yn Greenholt|Garland]] and [[Castor]] following; in the [[The Reaches]] below the wall, [[Paxton Lumnus|Paxton]] burned [[Senna]]'s barge
 
 
 ## The Cinderwall
@@ -469,13 +481,14 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Solvium]].
 ## Havens Reach
 
 **Type:** Town
-**First Visited:** Not yet visited
+**First Visited:** Not yet visited; the surrounding Reaches were the site of a [[Session 6]] encounter
 
 ### Description
-A port town on the shores of the [[Solvium]], at the border between the Kingdom of [[Beaconhold]], the [[Eastern Rivers]], and the lake.
-Built on the ruins of a larger [[Imperium Lucis Aeternae|Imperium]]-era settlement that was razed during the fall of the Imperium.
-The town was rebuilt and had been growing into its own before the stagnation set in; it never grew past that point.
-The old ruins are still visible beneath and around the current settlement — foundations too large for the buildings sitting on them, streets that lead to nothing, the outline of walls that once enclosed a much larger city.
+The kingdom's northeastern trading hub: a relatively cosmopolitan port on the shores of the [[Solvium]], at the border between the Kingdom of [[Beaconhold]], the [[Eastern Rivers]], and the lake, whose vessels cross the Solvium in trade.
+Built in sinking layers atop a thousand years of older cities — an old [[Imperium Lucis Aeternae|Imperium]]-era fort among them — that were razed during the fall of the Imperium.
+The town was rebuilt and had been growing into its own before the stagnation set in; despite its trade it has not grown for years, locked in the same grand stagnation that grips the kingdom.
+The old ruins are still visible beneath and around the current settlement — foundations too large for the buildings sitting on them, streets that lead to nothing, the outline of walls that once enclosed a much larger city, and scattered relics such as a drowned temple to the water gods.
+The town sits within the Reaches, the marshy delta that separates it from the rest of the [[Beaconhold]] kingdom and runs inland to the [[Bonewall]].
 
 ### Name
 Whether the name is possessive ("Haven's Reach" — named after a person called Haven) or plural ("Havens Reach" — the reach of many havens, referencing the multiple safe harbors along the shoreline) is a matter of local debate.
@@ -488,11 +501,24 @@ The Imperium-era name of the original settlement has been largely forgotten.
 - The town has been stagnant for centuries — never declining, never growing
 - Birthplace of [[Paxton Lumnus]]
 
+### The Reaches
+Haven's Reach lies within the Reaches — the marshy delta that separates the town from the rest of the [[Beaconhold]] kingdom, with the [[Bonewall]] rising along its far inland edge.
+It is a maze of small, non-navigable waterways threaded by a single main shipping channel and one poorly maintained road.
+An ancient military road also runs precariously along the base of the Bonewall.
+Life gives way abruptly here, from wet, vibrant marsh to the dead grey shale of the wall, above which rise the failing spines of Hallowreach and Carnforth.
+
 ### Connected Locations
-- [[Solvium]] — The great lake it sits upon
+- [[Solvium]] — The great lake it sits upon, which the Reaches' trade ultimately reaches
 - [[Eastern Rivers]] — The river region to its north and east
 - [[Cragmarr]] — The broken terrain connecting it to Beaconhold proper
 - [[Beaconhold]] — The kingdom it belongs to
+- [[Bonewall]] — The wall at the far end of the Reaches, whose spines Hallowreach and Carnforth rise above the marsh
+
+### Associated NPCs
+- [[Paxton Lumnus]] — Born here; passed back through the Reaches on his way to the wall, encountering Senna's barge
+
+### Events Here
+- [[Session 6]] — In the Reaches below the town, Paxton came upon Senna's barge in the reeds, learned of her rebirth in Moldrex's vision, and burned the vessel to escape — killing Senna and unknown others hidden aboard
 
 
 ## Marrow County
@@ -610,3 +636,41 @@ Some believe it reflects the feeling of isolation experienced on its vast surfac
 
 ### Events Here
 - [[Session 0]] — Established as a major geographical feature
+
+
+## Witch Stones
+
+**Type:** Ancient Site (standing stones)
+**Also Known As:** The Shepherd's Teeth
+**First Visited:** [[Session 6]]
+
+### Description
+A set of square-cut standing stones hidden somewhere on [[Garland yn Greenholt|Garland]]'s land in the [[Ashen Vale]], also known as the Shepherd's Teeth.
+They are decayed with age and covered in runes, hidden among overgrown hills by glamours and barriers Garland set long ago — wards still in effect despite the magic he has since lost.
+Local legends know the Witch Stones exist somewhere in the Ashen Vale, but their exact location is considered "lost."
+Garland discovered them while preparing a well-hidden field for pasture, studied them carefully over the years, and guards the secret of their location.
+
+### The Source of Garland's Magic
+The Witch Stones are the source of Garland's magical power.
+He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries; the runes glow and pulse to communicate and guide his study.
+On returning to them in the downtime after the curse, Garland felt a renewed connection unlike his old study-built bond — one that returns magic without restoring lost knowledge.
+His great-granddaughter [[Mira]] also hears the stones, but as actual words rather than the grinding and moaning of the earth — a more direct connection that is turning her into something like a cleric of the stones.
+
+### The Portal to the Bonewall
+At the hidden ring in the Ashen Vale, Mira commanded the stones to tear open a stable portal onto the dead grey shale of the [[Bonewall]], where a matching ring of Witch Stones stood.
+She and her pursuers stepped through, and the portal closed behind them.
+This is the only such portal seen so far; whether the stones connect to still more rings, or form a wider network, is unknown.
+The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, hinting at some connection between these ancient sites.
+Garland would be very interested in investigating other Witch Stones if they exist elsewhere.
+
+### Connected Locations
+- [[Ashen Vale]] — The region where the known ring stands hidden, on Garland's Greenholt land
+- [[Bonewall]] — Site of a matching ring, reached through a portal Mira opened
+- [[Aurelion]] — Whose Shrine of Renewal carries the same ancient resonance
+
+### Associated NPCs
+- [[Garland yn Greenholt]] — Discovered the stones, learned his magic from them, and guards their location
+- [[Mira]] — Hears the stones as words and commanded them to open the portal to the Bonewall
+
+### Events Here
+- [[Session 6]] — A Sunday dinner at the stones was interrupted by [[Captain Vask]]'s delegation; Mira spoke an unknown tongue and opened a portal to the [[Bonewall]], stepping through with [[Garland yn Greenholt|Garland]] and [[Castor]] following

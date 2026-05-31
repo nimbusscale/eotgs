@@ -44,7 +44,7 @@ The family members are not elves and don't consider themselves elves, though the
 
 [[Garland yn Greenholt]] has the strongest expression of this trait — he has lived longer than anyone else in his family line.
 [[Castor]] also carries the trait, sharing the same elven features and origin in the [[Ashen Vale]].
-Garland believes Castor is a relative, though there is no definitive proof.
+Castor is in fact Garland's great-grand-uncle — the elder of the line, despite Garland being the more mature in bearing.
 
 ### Related Entries
 - [[Garland yn Greenholt]] — Strongest known expression of the trait
@@ -78,7 +78,7 @@ The empire eventually fell, leading to a "dark ages" period.
 After the Imperium's fall, the [[Middle Kingdoms]] emerged — a confederacy of kingdoms and city-states.
 Eventually this confederacy also fell apart, giving rise to the modern kingdoms.
 
-### The Farus Lucis
+### [[The Farus Lucis]]
 "Beacon of Light" — towers that symbolized the Imperium's reach and authority.
 They once dotted the empire; most are now destroyed or lost.
 The one in [[Beaconhold]] is the last known intact tower, though dormant.
@@ -151,7 +151,6 @@ Moldrex has been sealed in [[Öuth Krelt]] for centuries — long enough to plan
 Unlike the Old Gods, who are impersonal forces of nature that do not notice humanity, Moldrex has intentions.
 Moldrex acts through armies, followers, strategy, and purpose.
 The forces of Öuth Krelt are not a tide of mindless darkness — they are directed, intelligent, and pursuing specific goals.
-Moldrex wants something from the [[Solvium]] and has been waiting for an opportunity to reach it.
 
 ### Current Situation
 The ancient wards of the [[Thirteen Spines]] are weakening — destabilized by the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
@@ -164,7 +163,6 @@ For the first time in living memory, the barrier that has held Moldrex's forces 
 - [[Thirteen Spines]] — The ward towers holding Moldrex's forces at bay
 - [[Öuth Krelt]] — The land beyond the Bonewall where Moldrex rules
 - [[The Light]] — The faith responsible for maintaining the wards
-- [[Solvium]] — The great lake that Moldrex's forces appear to be targeting
 
 ### Sources
 - [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established
@@ -332,6 +330,12 @@ No living person in the world remembers Sariel.
 The party has fragmented awareness due to their proximity to the corrupted ritual at [[The Nodrum]] — they experienced the reality shift firsthand when ley line energy passing through [[Edric Bloom|Edric]] and [[Sir Roderic Lightbearer|Roderic]] caused historical events to retroactively change.
 [[The Light]]'s records and theology have developed gaps and contradictions where Sariel's influence should be, but scholars have no framework for understanding why.
 
+By the time Roderic returned to [[Beaconhold]], the erasure had begun manifesting physically.
+The bust of Sariel that had always stood in [[Vicar Lucis Gregory]]'s office was simply gone, yet the spot beneath it bore undisturbed dust, as though nothing had ever stood there.
+Of those present, only Roderic still remembered Sariel; Gregory could not recall him even when described, but trusted Roderic that a hero of that name had once existed.
+Roderic recalls him as the right hand of [[Lucifer]] — the "Angel of War," the general who imprisoned the God of Ruin and the [[Xan-Kor]] — and why the forgetting has not touched Roderic's memory when the clergy's has failed is an open question.
+His disappearance from memory and record may be bound up with the faithful who are now vanishing overnight and with the failing wards along the [[Bonewall]].
+
 ### Significance
 Without Sariel — the Angel of Guidance — [[The Light]] has been slowly losing its institutional direction for centuries.
 The faith still functions, still produces paladins and clergy, but there is a hollowness at its core that nobody can diagnose.
@@ -349,6 +353,7 @@ The nature of the Xan-Kor's erasure suggests it shifts reality rather than annih
 
 ### Sources
 - [[Session 2]] — The erasure was established during the Nodrum ritual, though Sariel was not named at the time
+- [[Session 6]] — The erasure manifested physically in Beaconhold: Sariel's bust vanished without a trace of dust, the clergy could no longer remember him, and Roderic alone still recalled him
 
 
 ## Factions
@@ -366,7 +371,7 @@ Where an Old God's nature concentrates, it can produce emanations — physical m
 
 For a broader history of the old religion and its suppression, see [[Old Gods and New Gods]].
 
-#### The God of Ruin
+#### [[The God of Ruin]]
 
 **Titles and Epithets** (true name unknown/unknowable):
 - **The Unmaker** — Luciferian term, pejorative
@@ -415,7 +420,7 @@ The Release showed me I could let go."
 **The Desperate** — Those who want something specific to end: a tyrannical ruler, a corrupt institution, an abusive relationship, their own suffering.
 They come to Ruin not from philosophy but from need.
 
-#### The God of Renewal
+#### [[The God of Renewal]]
 
 **Titles and Epithets** (true name unknown/unknowable):
 - **The Beloved** — in relation to Ruin, used by those who know the old stories
@@ -445,14 +450,14 @@ They've kept the old ways in secret — hedge witches, hermits, rural communitie
 They know Renewal sleeps and have been waiting for the awakening.
 Some operate openly in the wilds; others hide within cities.
 
-#### The God of Forgetting
+#### [[The God of Forgetting]]
 
 A newly revealed Old God whose domain encompasses letting go, removal of memory, and erasure of existence.
 Its primary emanation is [[The Xan-Kor]] — a physical manifestation of the God of Forgetting's power that emerged during the [[Old Gods and New Gods|Godstorm]].
 The old gods commanded mythical armies and their emanations clashed during these wars.
 The Xan-Kor can erase things from existence by removing them backward through time.
 
-#### The God of Trickery
+#### [[The God of Trickery]]
 
 Not evil — none of the Old Gods are.
 A force of chaos, mischief, change, disruption.
@@ -475,7 +480,7 @@ The Trickster doesn't serve good or evil — they serve change, disruption, the 
 They lie, but sometimes their lies reveal deeper truths.
 They cause chaos, but sometimes that chaos breaks stagnant systems.
 
-##### The Harlequins
+##### [[The Harlequins]]
 
 Followers of the Trickster.
 Not a formal cult — more like a loose network of those who've been touched by the Laughing One's influence.
@@ -532,9 +537,16 @@ They stand at the most remote and dangerous edge of the kingdom's reach, where t
 The Spinewardens are part of Beaconhold, not a faction controlled by [[The Light]].
 The wards they keep are works of the Light and their cause is bound up with the faith, but the order answers to the leadership of Beaconhold rather than to the church.
 The two institutions are deeply intertwined yet distinct — closer to the entanglement of a temporal kingdom and a powerful church at the height of its influence than to a clean separation of throne and altar.
+They are a pseudo-military, pseudo-religious order, and their ascetic life of rituals and prayer manning the wards slowly drains the humanity out of them.
+For all their vigil they do not truly know what lies on the other side of the wall.
+
+#### The Sacrificial Renewal
+When a Spine's wards begin to fail, a long-hidden ritual can renew the seal — at the cost of a warden's life.
+[[Paxton Lumnus]] volunteered for such a rite at [[Hallowreach]], died, and woke changed.
 
 #### Notable Members
 - [[Paxton Lumnus]] — Former Spinewarden stationed at [[Hallowreach]]; died anchoring the Light in a sacrificial ritual when the Spine's wards failed, then woke in the mausoleum and left the order to seek the Light's truth.
+- [[Senna]] — A warden of [[Havens Reach|Haven's Reach]] whom Paxton served with; died and was "reborn" in the vision of [[Moldrex]] , her hand turned scaled and her eyes reptilian, able to heal and command the tentacled marsh-creatures. Presumed Deceased — killed when Paxton burned her barge in the Reaches.
 
 #### Relationships
 - [[Beaconhold]] — The kingdom the order belongs to and answers to.
@@ -569,7 +581,7 @@ The company is now run by a wealthy merchant family who assumed their silent fou
 Garland technically owns an ancient founding share of the company.
 He possesses documents proving his ownership and a founder's challenge coin.
 
-#### Cassian Vellor
+#### [[Cassian Vellor]]
 [[Cassian Vellor]] is a company officer who has become aware that someone appeared at the home office recently with papers proving a founding stake in the company, which initially caused quite a stir.
 The old man asked for very little and has thus far been allowed to draw down on petty funds when visiting Starfall trading posts.
 Eager to prove his worth, Cassian suspects that Garland is a fraud — some kind of necromancer wearing the founder's identity, or maybe even something worse.
@@ -667,14 +679,14 @@ The [[Corona Vigil]] considers this position heretical and has dispatched the [[
 
 #### Organizations
 
-##### Corona Vigil
+##### [[Corona Vigil]]
 The Church's inquisitorial branch, responsible for investigating heresy and heterodox beliefs.
 Agents of the Corona Vigil have been investigating the Morrow family for their divided faith between the Light and renewal.
 They have dispatched the Order of the Eclipsed Sword as their military enforcement arm.
 An older man in Corona Vigil garb was observed watching the Chryseum in [[Aurelion]] before [[Sir Roderic Lightbearer|Roderic]]'s capture.
 A Corona Vigil inquisitor accompanied the [[Order of the Eclipsed Sword]] into the Aurelion Vault, declaring [[Sir Roderic Lightbearer|Roderic]] and his companions heretics when they refused to surrender [[Count Albrecht Marrow]].
 
-##### Order of the Eclipsed Sword
+##### [[Order of the Eclipsed Sword]]
 The military enforcement arm of the Corona Vigil.
 Known for meticulous tactical planning and ruthless efficiency in execution.
 They follow orders rigidly with no room for independent judgment or leniency.
@@ -682,14 +694,14 @@ Have previously collaborated with other Luciferian military orders, including th
 They arrived at Crest Aurelion to arrest [[Count Albrecht Marrow]] and [[Luminary Severin Morrow]] for their heterodox beliefs about ruin and renewal.
 Their arrival directly threatens the party's mission, as Count Marrow is the missing herald needed to complete the connection at the [[Shrine of Renewal]].
 
-##### Order of the First Dawn
+##### [[Order of the First Dawn]]
 A small but respected Luciferian paladinic order stationed at the Chryseum in [[Aurelion]].
 Led by [[Dawnwarden Brenn]], they bear a rising sun emblem and consist of about four paladins.
 They are known for their benevolence among other paladinic orders.
 Secretly, they share the Morrows' belief that renewal must be restored alongside ruin, placing them at odds with the Church's orthodox position.
 They are currently protecting [[Luminary Severin Morrow]] from the Inquisition.
 
-##### The Redeemers of Light
+##### [[The Redeemers of Light]]
 A knightly order within the Church focused on redemption through deeds.
 [[Sir Roderic Lightbearer]] serves as a knight errant of this order, on assignment to prove his faith through protecting others.
 

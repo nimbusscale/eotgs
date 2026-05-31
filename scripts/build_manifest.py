@@ -24,25 +24,14 @@ CAMPAIGN_INDEX = REPO_ROOT / "exports" / "campaign-index.md"
 
 KB_SUBDIRS = ["pcs", "npcs", "locations", "items", "factions", "sessions", "story-arcs", "world"]
 
-# Structural/template headers to skip when scanning for sub-entity names
-GENERIC_HEADERS = {
-    "overview", "description", "details", "concept", "stats", "personality",
-    "background", "religion", "key traits & abilities", "key traits",
-    "relationships", "current threads", "session appearances", "notable features",
-    "connected locations", "associated npcs", "associated locations", "events here",
-    "key events", "related entries", "sources", "notes", "history", "properties",
-    "role", "methods", "collecting", "history with party", "distinctive features",
-    "terminology", "enforcement by region", "notable members", "summary",
-    "recap-teaser", "major events", "new questions & hooks",
-    "questions answered / arcs advanced", "notable npcs introduced",
-    "notable locations visited", "notable quotes", "open questions",
-    "answered questions", "related entities", "historical periods",
-    "the nature of the kingdom", "status", "type", "category", "hooks",
-    "the faith", "deity", "followers", "clergy", "legacy",
-}
-
 # KB subdirectories to scan for sub-entity headers (skip sessions and story-arcs)
 KB_SCAN_SUBDIRS = ["npcs", "locations", "items", "factions", "world"]
+
+# A header counts as a sub-entity ONLY if it is an explicit wiki-link, e.g.
+# `## [[The God of Ruin]]`. This is opt-in (fails closed): structural section
+# headers like `## Overview` or `## Potential Story Beats` are plain text and
+# are ignored, so new section headers can never leak in as fake entities.
+SUBENTITY_HEADER_RE = re.compile(r'^#{2,3}\s+\[\[([^\]]+)\]\]\s*$')
 
 
 def parse_args(argv=None):
@@ -82,7 +71,11 @@ def _title_from_filename(filename):
 
 
 def scan_kb_sub_entities():
-    """Scan KB markdown files for ## and ### headers that represent sub-entities.
+    """Scan KB markdown files for wiki-link headers that represent sub-entities.
+
+    Only ## / ### headers wrapped in a wiki-link (e.g. `## [[The God of Ruin]]`)
+    are treated as sub-entities. Plain structural headers (`## Overview`,
+    `## Notable Members`, ...) are ignored. See SUBENTITY_HEADER_RE.
 
     Returns:
         sub_entity_map: dict mapping header name → {"parent_file", "parent_name", "category"}
@@ -90,7 +83,6 @@ def scan_kb_sub_entities():
     """
     sub_entity_map = {}
     kb_content_hints = {}
-    header_re = re.compile(r'^#{2,3}\s+(.+)$')
 
     for subdir in KB_SCAN_SUBDIRS:
         dir_path = KB_ROOT / subdir
@@ -103,12 +95,11 @@ def scan_kb_sub_entities():
             parent_name = _title_from_filename(md_file.name)
             sections = []
             for line in md_file.read_text(encoding="utf-8").splitlines():
-                m = header_re.match(line)
+                m = SUBENTITY_HEADER_RE.match(line)
                 if not m:
                     continue
-                header_text = m.group(1).strip()
-                if header_text.lower() in GENERIC_HEADERS:
-                    continue
+                # Support `## [[Target|Display]]` — key on the link target.
+                header_text = m.group(1).split("|", 1)[0].strip()
                 sections.append(header_text)
                 if header_text not in sub_entity_map:
                     sub_entity_map[header_text] = {

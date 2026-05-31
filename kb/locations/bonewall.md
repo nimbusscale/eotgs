@@ -11,7 +11,7 @@ Feeds the [[Eastern Rivers]] through deep springs and aquifers.
 Less snow than the [[Cinderwall]] despite being cold.
 Forms the eastern arm of the L-shaped mountain border, contrasting with the wet and volcanic Cinderwall to the south.
 
-## The Thirteen Spines
+## [[The Thirteen Spines]]
 Thirteen towers built along the Bonewall during the [[Imperium Lucis Aeternae|Imperium]] era.
 They rise from the mountain slopes like spines along a ridge — tall enough to peer over the crest of the Bonewall, but built on the slopes facing [[Beaconhold]] rather than at the very summit.
 The towers serve as both physical fortifications and magical wards, maintained by [[The Light]] to hold back forces of darkness on the far side of the mountains.

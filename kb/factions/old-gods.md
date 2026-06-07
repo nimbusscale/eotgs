@@ -1,3 +1,29 @@
+---
+id: old-gods
+type: faction
+name: The Old Gods
+aliases:
+- Old Gods
+- Harlequins
+- The God of Renewal
+- The God of Ruin
+- The God of Trickery
+- The Harlequins
+- The God of Forgetting
+- The Laughing One
+- The Dark Harlequin
+- Dark Harlequin
+- The Fallow One
+- The Wild Hunt
+images:
+  gallery:
+  - file: dark-harlequin.jpg
+    caption: The Dark Harlequin
+    prompt: config/image/prompts/dark-harlequin.json
+  - file: chamber-of-renewal-avatar.jpg
+    caption: The Chamber of Renewal
+    prompt: config/image/prompts/chamber-of-renewal-avatar.json
+---
 # The Old Gods
 
 **Type:** Pantheon

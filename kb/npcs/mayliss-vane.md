@@ -1,3 +1,16 @@
+---
+id: mayliss-vane
+type: npc
+name: Mayliss Vane
+aliases:
+- Mayliss
+- Assayer Sovereign
+images:
+  hero:
+    file: mayliss-vane-portrait.jpg
+    alt: Mayliss Vane
+    prompt: config/image/prompts/mayliss-vane-portrait.json
+---
 # Mayliss Vane
 
 **First Mentioned:** Pre-session notes

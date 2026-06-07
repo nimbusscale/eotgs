@@ -16,6 +16,10 @@ from pathlib import Path
 
 import yaml
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from build_index import split_frontmatter
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 KB_DIR = REPO_ROOT / "kb"
 SITE_DIR = REPO_ROOT / "site"
@@ -72,9 +76,9 @@ def build_wikilink_map():
         slug = md_file.stem
         slug_to_path[slug] = rel_path
 
-        # Extract H1 title from file
-        text = md_file.read_text(encoding="utf-8")
-        title = extract_title(text)
+        # Extract H1 title from file (skipping any source frontmatter)
+        _, body = split_frontmatter(md_file.read_text(encoding="utf-8"))
+        title = extract_title(body)
         if title:
             slug_to_title[slug] = title
 
@@ -370,7 +374,13 @@ def build_content(alias_map, wikilink_map, slug_form_map, image_map):
         dest = CONTENT_DIR / rel
         dest.parent.mkdir(parents=True, exist_ok=True)
 
-        text = md_file.read_text(encoding="utf-8")
+        # Split the source frontmatter (identity/relations/images) off the body.
+        # The published frontmatter is rebuilt below from the title/aliases/tags/
+        # date only — source-only fields (id, part_of, contains, images) are
+        # intentionally dropped, and images are rendered from the generated
+        # image-map.yaml as before.
+        src_fm, text = split_frontmatter(md_file.read_text(encoding="utf-8"))
+        src_fm = src_fm or {}
 
         # Determine title
         hooks_title = disambiguate_hooks_title(rel)
@@ -379,7 +389,7 @@ def build_content(alias_map, wikilink_map, slug_form_map, image_map):
             # Replace the generic "# Hooks" heading with the specific title
             text = re.sub(r"^# Hooks\b", f"# {hooks_title}", text, count=1)
         else:
-            title = extract_title(text) or slugname_to_title(md_file.stem)
+            title = extract_title(text) or src_fm.get("name") or slugname_to_title(md_file.stem)
 
         # Get aliases for this file's slug
         aliases = alias_map.get(md_file.stem, [])
@@ -387,8 +397,8 @@ def build_content(alias_map, wikilink_map, slug_form_map, image_map):
         # Get tag from directory
         tag = resolve_tag(rel)
 
-        # Extract date for session files
-        date = extract_date_played(text) if tag == "session" else None
+        # Extract date for session files (source frontmatter, else the body line)
+        date = (src_fm.get("date") or extract_date_played(text)) if tag == "session" else None
 
         # Strip summary section from session files (kept in KB exports for AI context)
         if tag == "session":
@@ -432,7 +442,7 @@ def extract_pc_cards():
 
     cards = []
     for pc_file in sorted(pcs_dir.glob("*.md")):
-        text = pc_file.read_text(encoding="utf-8")
+        _, text = split_frontmatter(pc_file.read_text(encoding="utf-8"))
 
         # Skip inactive characters (Vanished, Deceased, Retired, etc.) —
         # only Active PCs appear on the home page party roster.

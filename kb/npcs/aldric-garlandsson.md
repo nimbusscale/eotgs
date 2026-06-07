@@ -1,3 +1,15 @@
+---
+id: aldric-garlandsson
+type: npc
+name: Aldric Garlandsson
+aliases:
+- Aldric
+images:
+  gallery:
+  - file: aldric-and-crown-vale.jpg
+    caption: Aldric with his wife and the infant Mira, before Crownvale
+    prompt: config/image/prompts/aldric-and-crown-vale.json
+---
 # Aldric Garlandsson
 
 **First Appeared:** [[Session 0]]

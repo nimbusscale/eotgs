@@ -1,3 +1,12 @@
+---
+id: havens-reach
+type: location
+name: Havens Reach
+aliases:
+- Haven's Reach
+- The Reaches
+- Reaches
+---
 # Havens Reach
 
 **Type:** Town

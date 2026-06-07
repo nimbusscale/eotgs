@@ -1,3 +1,30 @@
+---
+id: paxton-lumnus
+type: pc
+name: Paxton Lumnus
+status: Active
+aliases:
+- Paxton
+images:
+  hero:
+    file: pcs/paxton-portrait.jpg
+    alt: Paxton Lumnus
+    description: Paxton's face and divine light-marks, weapon-free portrait. Player-submitted
+      in-world art.
+  gallery:
+  - file: pcs/paxton-and-the-light.jpg
+    caption: Paxton unleashes the Light against the pack
+  - file: pcs/paxton-pose.jpg
+    caption: Bearing the dawn's burden across broken country
+    description: Full-body Paxton in weathered brown leather road armor with sword
+      at side. Player-submitted in-world art showing him armed.
+  library:
+  - file: config/image/library/paxton-reference-plate.jpeg
+    prompt: config/image/prompts/paxton-reference-plate-prompt.json
+    description: 'Paxton Lumnus: dark near-black hair, dark stubble, pale gold-touched
+      eyes, thin glowing gold divine light-marks on his RIGHT eye/cheek, weathered
+      brown leather road armor. Canonical identity plate.'
+---
 # Paxton Lumnus
 
 **Player:** Ken (SiliKen)

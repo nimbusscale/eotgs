@@ -1,3 +1,18 @@
+---
+id: triune
+type: npc
+name: The Triune
+aliases:
+- Triune
+- Aurea
+- Venn
+- Delta
+images:
+  hero:
+    file: the-triune-group-portrait.jpg
+    alt: The Triune
+    prompt: config/image/prompts/the-triune-group-portrait.json
+---
 # The Triune
 
 **First Appeared:** [[Session 2]]

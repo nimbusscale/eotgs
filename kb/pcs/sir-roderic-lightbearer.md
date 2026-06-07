@@ -1,3 +1,26 @@
+---
+id: sir-roderic-lightbearer
+type: pc
+name: Sir Roderic Lightbearer
+status: Active
+aliases:
+- Sir Roderic
+- Roderic
+images:
+  hero:
+    file: pcs/roderic-pose.jpg
+    alt: Sir Roderic Lightbearer
+    description: Sir Roderic in full plate. Player-submitted in-world art.
+  gallery:
+  - file: pcs/roderic-horse.jpg
+    caption: The Lightbearer rides for the failing wards
+  library:
+  - file: config/image/library/roderic-reference-plate.jpeg
+    prompt: config/image/prompts/roderic-reference-plate-prompt.json
+    description: 'Sir Roderic Lightbearer: young blond knight in polished silver-steel
+      plate with gold filigree, heraldic-blue surcoat, blue kite shield with gold
+      rampant lion. Strong bright canonical palette. Canonical identity plate.'
+---
 # Sir Roderic Lightbearer
 
 **Player:** Ramsey (feklars)

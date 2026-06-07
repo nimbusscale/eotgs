@@ -1,3 +1,13 @@
+---
+id: mira
+type: npc
+name: Mira
+images:
+  hero:
+    file: mira.jpg
+    alt: Mira
+    prompt: config/image/prompts/mira.json
+---
 # Mira
 
 **First Appeared:** [[Session 1]]

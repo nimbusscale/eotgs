@@ -1,3 +1,8 @@
+---
+id: altreth
+type: location
+name: Altreth
+---
 # Altreth
 
 **Type:** Ruins

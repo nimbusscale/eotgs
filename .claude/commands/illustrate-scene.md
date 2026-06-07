@@ -36,7 +36,7 @@ Read `config/entity-aliases.yaml`. Map each character name through its `characte
 Read `config/image-map.yaml`. An entity's pictures live in **two** places, and you must gather both:
 
 1. **Its own entry** — the entry whose key **ends with** `/slug` (e.g. slug `sir-roderic-lightbearer` → key `pcs/sir-roderic-lightbearer`; slug `aurelion` → key `locations/aurelion`). The key prefix (`pcs/`, `npcs/`, `locations/`, …) is the entity type and you do not need to know it in advance — match on the suffix.
-2. **Guest appearances elsewhere** — any image item *anywhere in the map* (any entry's `hero`/`gallery`) whose `subjects:` list contains the slug. This is how you find pictures of an entity that does **not** own an entry — e.g. an NPC who only ever appears inside a session gallery (`sessions/<arc>/session-N`) or inside another character's gallery. Build this by scanning every image item's `subjects` once and collecting the files that name your slug.
+2. **Guest appearances elsewhere** — any image item *anywhere in the map* (any entry's `hero`/`gallery`) whose `subjects:` list contains the slug. This is how you find pictures of an entity that does **not** own an entry — e.g. an NPC who only ever appears inside a session gallery (`sessions/<arc>/session-N`) or inside another character's gallery, or a page-less sub-entity (the `chryseum` images that live on `locations/aurelion`). This guest scan is **precomputed**: `config/subject-index.yaml` (generated) maps every slug → the list of image files that depict it, so you can look up your slug there directly instead of re-scanning every `subjects` list. (Both files are generated from kb frontmatter by `scripts/build_index.py`.)
 
 So for each slug you end up with a candidate set = (its own entry's items, if any) + (every guest item whose `subjects` include it). Read each candidate's `description` to judge how usable it is (prominent vs. incidental, weapon-free vs. armed, which location view). Step 3 ranks them.
 
@@ -137,7 +137,7 @@ Return the result object for the final (or best) image:
 
 Print the `image_path` and remind the user to:
 1. **Review** the image (style, palette, likenesses, content).
-2. **Publish it if wanted** by moving the file from `image-test/` into `images/` (only `images/` is synced to the server) and adding it to the entity's `gallery` (or `hero`) in `config/image-map.yaml` — this skill does not auto-publish; `/export-kb` copies only mapped images to the site.
+2. **Publish it if wanted** by moving the file from `image-test/` into `images/` (only `images/` is synced to the server) and adding it to the entity's `images.gallery` (or `images.hero`) in **its kb frontmatter** — include a `subjects:` list of the slugs depicted — then running `python3 scripts/build_index.py` to regenerate `config/image-map.yaml` and `config/subject-index.yaml`. Do **not** hand-edit `config/image-map.yaml` (it is generated). This skill does not auto-publish; `/export-kb` copies only mapped images to the site.
 
 The returned object is what a calling command (e.g. a future `illustrate-session`) collects — it gives the caller a validated path plus the verdict/notes without paying the cost of re-reading the candidate images.
 

@@ -1,3 +1,10 @@
+---
+id: session-2
+type: session
+name: 'Session 2: Heralds of Ruin'
+arc: curse-of-ruin
+date: '2026-02-07'
+---
 # Session 2: Heralds of Ruin
 
 **Date Played:** 2026-02-07

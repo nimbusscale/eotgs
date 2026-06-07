@@ -1,3 +1,8 @@
+---
+id: eastern-rivers
+type: location
+name: Eastern Rivers
+---
 # Eastern Rivers
 
 **Type:** Region

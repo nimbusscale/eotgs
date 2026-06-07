@@ -1,3 +1,16 @@
+---
+id: luminary-severin-morrow
+type: npc
+name: Luminary Severin Morrow
+aliases:
+- Severin Morrow
+- Severin
+images:
+  hero:
+    file: luminary-severin-portrait.jpg
+    alt: Luminary Severin Morrow
+    prompt: config/image/prompts/luminary-severin-portrait.json
+---
 # Luminary Severin Morrow
 
 **First Mentioned:** Pre-session notes

@@ -1,3 +1,11 @@
+---
+id: count-albrecht-marrow
+type: npc
+name: Count Albrecht Marrow
+aliases:
+- Marrow
+- Albrecht Marrow
+---
 # Count Albrecht Marrow
 
 **First Appeared:** [[Session 0]]

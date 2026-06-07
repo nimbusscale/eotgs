@@ -1,3 +1,8 @@
+---
+id: whiteglass
+type: item
+name: Whiteglass
+---
 # Whiteglass
 
 **Type:** Substance / Material

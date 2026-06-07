@@ -1,3 +1,13 @@
+---
+id: bonewall
+type: location
+name: Bonewall
+aliases:
+- Carnforth
+- Thirteen Spines
+- The Thirteen Spines
+- Hallowreach
+---
 # The Bonewall
 
 **Type:** Region (Mountain Range)

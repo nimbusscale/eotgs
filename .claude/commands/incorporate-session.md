@@ -37,17 +37,29 @@ Process one extracted session YAML through the following steps.
 
 Session number, date, recap teaser, and all other data come from the YAML content — no additional arguments needed.
 
-### Step 1b — Sync entity aliases
+### Step 1b — Regenerate the derived config maps
 
-Run the alias sync script to ensure sub-entity names are in `entity-aliases.yaml`:
+`config/entity-aliases.yaml`, `config/image-map.yaml`, and `config/subject-index.yaml`
+are **generated** from the per-entity frontmatter in `kb/**/*.md`. Regenerate them so
+entity resolution in later steps has the complete picture:
 
 ```bash
-python3 scripts/sync_kb_aliases.py
+python3 scripts/build_index.py
 ```
 
-This adds any missing sub-entity aliases (e.g., "The God of Ruin" → `old-gods` under `factions:`) so that entity resolution in later steps has the complete picture.
+Identity, aliases, hierarchy, and images live in each entity's frontmatter `---` block
+(`id`, `type`, `name`, `aliases`, `part_of`, `contains`, `images`). Do **not** hand-edit
+the generated `config/*.yaml` files — edit the owning entity's frontmatter and re-run
+`build_index.py`. (Run `python3 scripts/build_index.py --check` any time to confirm the
+committed maps match the frontmatter.)
 
-**Sub-entity convention:** the sync script only treats a section header as a sub-entity if it is written as an explicit wiki-link, e.g. `## [[The God of Ruin]]`. When you add or edit a KB section that *names* a distinct entity living inside a parent page (a deity, sub-location, named group, or person without their own file), write its header as `## [[Name]]` so it is picked up. Keep plain `## Section Title` headers (Overview, Notable Members, Modern Situation, etc.) un-linked — they are structural and must not become aliases.
+**Sub-entity convention:** a distinct entity living inside a parent page (a deity,
+sub-location, named group, or person without their own file) is recorded two ways that
+must stay in step: a `## [[Name]]` wiki-link section in the parent's body, **and** a
+`contains:` record (`id` + `name` + optional `aliases`) in the parent's frontmatter so it
+folds to the parent and — via an image `subjects: [sub-id]` — stays discoverable as a
+reference. Keep plain `## Section Title` headers (Overview, Notable Members, …) un-linked;
+they are structural and must not become aliases.
 
 ### Step 2 — Build KB index (context-efficient)
 
@@ -246,20 +258,23 @@ Hooks capture things that *could* become story arcs. Do not flag clear hooks in 
 
 ### Step 7 — Propose entity aliases
 
-For every new entity created, propose aliases in `config/entity-aliases.yaml`:
+For every new entity created, write its aliases into the **new entity's frontmatter**
+`aliases:` list (and, for a page-less sub-entity, a `contains:` record on the parent) —
+**not** directly into `config/entity-aliases.yaml`, which is generated:
 
-- Full canonical name (e.g., `"Sir Roderic Lightbearer": "sir-roderic-lightbearer"`)
-- Short name (e.g., `"Roderic": "sir-roderic-lightbearer"`)
-- Title variants (e.g., `"Sir Roderic": "sir-roderic-lightbearer"`)
+- Full canonical name → the frontmatter `name:` (e.g. `name: Sir Roderic Lightbearer`)
+- Short name and title variants → `aliases:` (e.g. `aliases: [Roderic, Sir Roderic]`)
 - Do NOT propose generic descriptors (e.g., "the paladin", "the wizard", "the old man") as aliases.
   These are too ambiguous — multiple entities may share the same descriptor.
   If the GM wants a descriptor alias, they can add it manually after review.
-- If the YAML `notable_quotes` or `entity_updates` suggest players consistently use a nickname, propose it as an alias (only if unambiguous — the nickname must clearly refer to a single entity).
+- If the YAML `notable_quotes` or `entity_updates` suggest players consistently use a nickname, add it as an alias (only if unambiguous — the nickname must clearly refer to a single entity).
 
-Add aliases under the correct category section (`characters:`, `locations:`, `items:`, `factions:`).
-Create a new category section if one doesn't exist yet.
+The `type:` (pc/npc/location/item/faction/world) determines the generated category
+automatically, so there is no category section to pick. After editing frontmatter, run
+`python3 scripts/build_index.py` to regenerate `config/entity-aliases.yaml` (and the
+image/subject maps).
 
-All alias additions appear in the git diff for human review — never silently merge.
+All frontmatter and generated-map changes appear in the git diff for human review — never silently merge.
 
 ### Step 8 — Flag contradictions and ambiguous references
 
@@ -371,7 +386,7 @@ GM-private content from sessions is rare — mainly meta-observations about plot
 - [ ] Session file has been created with all template sections filled.
 - [ ] New entity files have been created for all entries in `new_entities`.
 - [ ] Existing entity files have been updated for all entries in `entity_updates`.
-- [ ] Alias proposals have been added to `entity-aliases.yaml`.
+- [ ] Aliases written into each new entity's frontmatter, and `python3 scripts/build_index.py` re-run (regenerates `entity-aliases.yaml` / `image-map.yaml` / `subject-index.yaml`).
 - [ ] Contradictions and unresolved references have been flagged in `pending-changes.md`.
 - [ ] GM-private content has been routed to `gm-notes/`.
 - [ ] Story hooks have been identified and added to the appropriate location (PC files for character hooks, hooks.md for group hooks).

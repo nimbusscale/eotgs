@@ -1,3 +1,10 @@
+---
+id: session-3
+type: session
+name: 'Session 3: Beneath the Golden City'
+arc: curse-of-ruin
+date: '2026-02-21'
+---
 # Session 3: Beneath the Golden City
 
 **Date Played:** 2026-02-21

@@ -1,3 +1,10 @@
+---
+id: cinderwall
+type: location
+name: Cinderwall
+aliases:
+- Farlands Pass
+---
 # The Cinderwall
 
 **Type:** Region (Mountain Range)

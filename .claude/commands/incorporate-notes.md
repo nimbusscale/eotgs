@@ -153,19 +153,21 @@ Hooks capture things that *could* become story arcs. Do not flag clear hooks in 
 
 ### Step 6 — Propose entity aliases
 
-For every new entity created, propose aliases in `config/entity-aliases.yaml`:
+For every new entity created, write its aliases into the **new entity's frontmatter**
+`aliases:` list (and, for a page-less sub-entity, a `contains:` record on the parent) —
+**not** directly into `config/entity-aliases.yaml`, which is generated:
 
-- Full canonical name (e.g., `"Sir Roderic Lightbearer": "sir-roderic-lightbearer"`)
-- Short name (e.g., `"Roderic": "sir-roderic-lightbearer"`)
-- Title variants (e.g., `"Sir Roderic": "sir-roderic-lightbearer"`)
+- Full canonical name → the frontmatter `name:` (e.g. `name: Sir Roderic Lightbearer`)
+- Short name and title variants → `aliases:` (e.g. `aliases: [Roderic, Sir Roderic]`)
 - Do NOT propose generic descriptors (e.g., "the paladin", "the wizard", "the old man") as aliases.
   These are too ambiguous — multiple entities may share the same descriptor.
   If the GM wants a descriptor alias, they can add it manually after review.
 
-Add aliases under the correct category section (`characters:`, `locations:`, `items:`, `factions:`).
-Create a new category section if one doesn't exist yet.
+The `type:` (pc/npc/location/item/faction/world) determines the generated category
+automatically. After editing frontmatter, run `python3 scripts/build_index.py` to
+regenerate `config/entity-aliases.yaml` (and the image/subject maps).
 
-All alias additions appear in the git diff for human review — never silently merge.
+All frontmatter and generated-map changes appear in the git diff for human review — never silently merge.
 
 ### Step 7 — Flag contradictions and ambiguous references
 
@@ -233,7 +235,7 @@ If it's unclear whether content is player-visible or GM-private, flag it in `rev
 - [ ] All sections of the note have been processed (nothing skipped).
 - [ ] New entity files have been created for all new entities found.
 - [ ] Existing entity files have been updated where applicable.
-- [ ] Alias proposals have been added to `entity-aliases.yaml`.
+- [ ] Aliases written into each new entity's frontmatter, and `python3 scripts/build_index.py` re-run (regenerates `entity-aliases.yaml` / `image-map.yaml` / `subject-index.yaml`).
 - [ ] Contradictions and ambiguous references have been flagged in `pending-changes.md`.
 - [ ] GM-private content has been routed to `gm-notes/`.
 - [ ] Story hooks have been identified and added to the appropriate location (PC files for character hooks, hooks.md for group hooks).

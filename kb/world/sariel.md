@@ -1,3 +1,10 @@
+---
+id: sariel
+type: world
+name: Sariel
+aliases:
+- Angel of Guidance
+---
 # Sariel
 
 **Category:** Historical Figure / Angel

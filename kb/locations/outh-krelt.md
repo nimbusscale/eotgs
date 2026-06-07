@@ -1,3 +1,8 @@
+---
+id: outh-krelt
+type: location
+name: Öuth Krelt
+---
 # Öuth Krelt
 
 **Type:** Region (Beyond the Bonewall)

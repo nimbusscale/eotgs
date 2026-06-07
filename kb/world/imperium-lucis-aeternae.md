@@ -1,3 +1,12 @@
+---
+id: imperium-lucis-aeternae
+type: world
+name: Imperium Lucis Aeternae
+aliases:
+- Imperium
+- Old Empire
+- The Farus Lucis
+---
 # Imperium Lucis Aeternae
 
 **Category:** History

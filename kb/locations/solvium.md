@@ -1,3 +1,11 @@
+---
+id: solvium
+type: location
+name: The Solvium
+aliases:
+- Solvium
+- Great Lake
+---
 # The Solvium
 
 **Type:** Region (Body of Water)

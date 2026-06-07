@@ -1,3 +1,12 @@
+---
+id: vicar-lucis-gregory
+type: npc
+name: Vicar Lucis Gregory
+aliases:
+- Vicar Gregory
+- Lucis Gregory
+- Gregory
+---
 # Vicar Lucis Gregory
 
 **First Appeared:** [[Session 6]]

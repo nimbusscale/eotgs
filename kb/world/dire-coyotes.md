@@ -1,3 +1,8 @@
+---
+id: dire-coyotes
+type: world
+name: Dire Coyotes
+---
 # Dire Coyotes
 
 **Category:** Creatures

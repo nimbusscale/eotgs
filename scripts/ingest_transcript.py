@@ -14,7 +14,7 @@ from pathlib import Path
 # Allow imports from the scripts directory
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from sync_kb_aliases import main as sync_aliases_main
+from build_index import main as build_index_main
 from download_transcript import main as download_main
 from prepare_transcript import main as prepare_main
 from build_manifest import main as build_manifest_main
@@ -110,8 +110,9 @@ def is_already_cleaned(path):
 def main():
     args = parse_args()
 
-    # Sync KB sub-entity aliases before anything else
-    sync_aliases_main(argv=[])
+    # Regenerate the derived config maps (entity-aliases, image-map,
+    # subject-index) from per-entity KB frontmatter before anything else.
+    build_index_main(argv=[])
 
     run_download = not args.prepare_only
     run_prepare = not args.download_only

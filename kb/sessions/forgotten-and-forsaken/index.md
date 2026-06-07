@@ -1,3 +1,8 @@
+---
+id: forgotten-and-forsaken
+type: arc
+name: The Forgotten and the Forsaken
+---
 # The Forgotten and the Forsaken
 
 **Sessions:** [[Session 6]]–

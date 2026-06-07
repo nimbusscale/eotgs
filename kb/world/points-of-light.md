@@ -1,3 +1,8 @@
+---
+id: points-of-light
+type: world
+name: Points of Light
+---
 # Points of Light
 
 **Category:** Geography / Culture

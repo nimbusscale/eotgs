@@ -1,3 +1,8 @@
+---
+id: seal-of-unmaking
+type: item
+name: Seal of Unmaking
+---
 # Seal of Unmaking
 
 **Type:** Artifact

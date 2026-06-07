@@ -1,3 +1,30 @@
+---
+id: garland-yn-greenholt
+type: pc
+name: Garland yn Greenholt
+status: Active
+aliases:
+- Garland
+- Lord Greenholt
+images:
+  hero:
+    file: pcs/garland-portrait.jpg
+    alt: Garland yn Greenholt
+    description: Garland's face and identity, portrait framing. Player-submitted in-world
+      art.
+  gallery:
+  - file: pcs/garland-second-harvest.jpg
+    caption: Garland walks the vale, Second Harvest in hand
+    description: Garland holding his signature sword Second Harvest (broad forward-curved
+      pattern-welded blade). Player-submitted in-world art showing him armed.
+  - file: pcs/garland-and-castor-beaver.jpg
+    caption: The old guardian and his beaver kin
+  library:
+  - file: config/image/library/garland-reference-plate.jpeg
+    prompt: config/image/prompts/garland-reference-plate-prompt.json
+    description: 'Garland yn Greenholt: extraordinarily old warrior-sage, elven pointed
+      ears, weathered sun-lined veteran''s skin. Canonical identity plate.'
+---
 # Garland yn Greenholt
 
 **Player:** Jay (regular human faits)

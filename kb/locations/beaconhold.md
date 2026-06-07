@@ -1,3 +1,15 @@
+---
+id: beaconhold
+type: location
+name: Beaconhold
+aliases:
+- Beacon Hold
+images:
+  gallery:
+  - file: kingdom-of-beaconhold-map.jpg
+    caption: Map of the Kingdom of Beaconhold
+    prompt: config/image/prompts/kingdom-of-beaconhold-map.json
+---
 # Beaconhold
 
 **Type:** City / Kingdom

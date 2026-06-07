@@ -1,3 +1,10 @@
+---
+id: captain-vask
+type: npc
+name: Captain Vask
+aliases:
+- Vask
+---
 # Captain Vask
 
 **First Appeared:** [[Session 6]]

@@ -1,3 +1,12 @@
+---
+id: second-harvest
+type: item
+name: Second Harvest
+aliases:
+- Halcyrax
+- Halcyrax, the Gilded Ruin
+- The Gilded Ruin
+---
 # Second Harvest
 
 **Type:** Weapon

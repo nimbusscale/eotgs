@@ -1,3 +1,8 @@
+---
+id: hooks
+type: story-arc
+name: Hooks
+---
 # Hooks
 
 ## The Fall of the Imperium

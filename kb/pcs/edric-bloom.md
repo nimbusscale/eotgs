@@ -1,3 +1,11 @@
+---
+id: edric-bloom
+type: pc
+name: Edric Bloom
+status: Vanished
+aliases:
+- Edric
+---
 # Edric Bloom
 
 **Player:** Ken (SiliKen)

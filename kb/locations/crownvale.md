@@ -1,3 +1,8 @@
+---
+id: crownvale
+type: location
+name: Crownvale
+---
 # Crownvale
 
 **Type:** Town

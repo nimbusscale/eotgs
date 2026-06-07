@@ -1,3 +1,59 @@
+---
+id: aurelion
+type: location
+name: Aurelion
+aliases:
+- Aurelion Tunnels
+- Mendrath Baths
+- The Mendrath Baths
+- The Aureate
+- Aureate
+contains:
+- id: chryseum
+  name: The Chryseum
+  aliases:
+  - Chryseum
+  - Shrine of Renewal
+  - The Shrine of Renewal
+  - Temple of Renewal
+- id: crest-aurelion
+  name: Crest Aurelion
+images:
+  hero:
+    file: aurelion-approach.jpg
+    alt: The approach to Aurelion
+    description: 'Establishing exterior: hilltop citadel seen from the approach road,
+      tarnished green-gold dome, muted post-imperial palette. Use for arriving-at-Aurelion
+      moments.'
+    prompt: config/image/prompts/aurelion-approach.json
+  gallery:
+  - file: aurelion-street-level.jpg
+    caption: Aurelion at street level
+    description: 'Ground-level imperial avenue: colonnades, market stalls, Aureate
+      patrol, post-imperial melancholy. Use for scenes set in the city streets or
+      tunnels at street level.'
+    prompt: config/image/prompts/aurelion-street-level.json
+  - file: crest-aurelion-castle.jpg
+    caption: Crest Aurelion castle
+    description: The castle/keep of Crest Aurelion, muted scene with one bright dome.
+      Use for scenes at the count's seat.
+    prompt: config/image/prompts/crest-aurelion-castle.json
+  - file: chryseum-exterior.jpg
+    caption: The Chryseum, exterior
+    description: Exterior of the cathedral of the Light, bright gold dome against
+      the declining city. Use for arriving at the Chryseum.
+    prompt: config/image/prompts/chryseum-exterior.json
+    subjects:
+    - chryseum
+  - file: chryseum-interior.jpg
+    caption: The Chryseum, interior
+    description: Interior nave of the cathedral of the Light — luminous gold dome,
+      cool whiteglass, candlelight; strong bright palette and engineered two-temperature
+      lighting. Use for scenes inside the cathedral or near the shrine beneath it.
+    prompt: config/image/prompts/chryseum-interior.json
+    subjects:
+    - chryseum
+---
 # Aurelion
 
 **Type:** City

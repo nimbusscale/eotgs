@@ -46,7 +46,7 @@ python scripts/ingest_transcript.py --session N
 - `gm-notes/` - Private GM notes (excluded from player-visible exports)
 - `inbox/transcripts/` - Processing pipeline: raw/ → prepared/ → extracted/ → processed/ (manifest/ holds transient extraction context)
 - `inbox/notes/` - Planning notes awaiting incorporation
-- `config/` - speaker-map.yaml (Discord→character mapping), entity-aliases.yaml (name→filename mapping)
+- `config/` - speaker-map.yaml (Discord→character mapping); entity-aliases.yaml, image-map.yaml, subject-index.yaml (GENERATED from kb frontmatter — see below)
 - `exports/` - Generated files for Claude Projects
 - `templates/` - Markdown templates for each entity type
 - `knowledge/` - Chasing Adventure game system reference material
@@ -55,8 +55,27 @@ python scripts/ingest_transcript.py --session N
 
 ### Key Configuration Files
 
-- `config/speaker-map.yaml` - Maps Discord usernames to player/character names, contains transcription corrections
-- `config/entity-aliases.yaml` - Maps entity name variants to canonical filenames for wiki-link resolution
+- `config/speaker-map.yaml` - Maps Discord usernames to player/character names, contains transcription corrections (hand-maintained; not part of the frontmatter pipeline)
+- `config/entity-aliases.yaml` - **Generated.** Maps entity name variants to canonical entity ids for wiki-link resolution
+- `config/image-map.yaml` - **Generated.** Maps `subdir/id` (sessions: `sessions/<arc>/<id>`) → hero/gallery/library images
+- `config/subject-index.yaml` - **Generated.** Maps entity slug → image files that depict it (cross-map reference discovery)
+
+### Frontmatter is the single source of truth
+
+Each `kb/**/*.md` file begins with a `---` YAML frontmatter block that owns the
+entity's identity, hierarchy, and image associations:
+
+- `id` (stable; defaults to the filename slug), `type` (pc|npc|location|item|faction|world|session),
+  `name` (defaults to the H1), `aliases` (list), `part_of` (parent id, optional),
+  `images` (`hero`/`gallery`/`library`), `contains` (page-less sub-entity records:
+  `id` + `name` + optional `aliases`, each mirrored by a `## [[Name]]` body section),
+  plus `status` (PCs) and `arc`+`date` (sessions).
+- `config/entity-aliases.yaml`, `config/image-map.yaml`, and `config/subject-index.yaml`
+  are **generated** from these blocks by `scripts/build_index.py` — **do not hand-edit
+  them.** Edit the owning entity's frontmatter, then run `python3 scripts/build_index.py`.
+- `python3 scripts/build_index.py --check` is the integrity gate (generated == committed);
+  it should pass cleanly on `main`. `ingest_transcript.py` regenerates the maps automatically.
+- `scripts/sync_kb_aliases.py` is a deprecated shim that now delegates to `build_index.py`.
 
 ## Conventions
 

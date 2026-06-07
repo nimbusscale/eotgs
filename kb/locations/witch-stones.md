@@ -1,3 +1,12 @@
+---
+id: witch-stones
+type: location
+name: Witch Stones
+aliases:
+- Witchstones
+- Shepherd's Teeth
+- Shepherds Teeth
+---
 # Witch Stones
 
 **Type:** Ancient Site (standing stones)

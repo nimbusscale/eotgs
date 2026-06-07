@@ -1,3 +1,11 @@
+---
+id: xan-kor
+type: item
+name: The Xan-Kor
+aliases:
+- Xan-Kor
+- Aegis Mechanism
+---
 # The Xan-Kor
 
 **Type:** Artifact

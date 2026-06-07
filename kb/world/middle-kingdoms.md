@@ -1,3 +1,8 @@
+---
+id: middle-kingdoms
+type: world
+name: Middle Kingdoms
+---
 # The Middle Kingdoms
 
 **Category:** History

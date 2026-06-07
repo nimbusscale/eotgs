@@ -1,3 +1,29 @@
+---
+id: castor
+type: pc
+name: Castor
+status: Active
+images:
+  hero:
+    file: pcs/castor-human.jpg
+    alt: Castor in human form
+    description: Castor in human (wood-elf) form, front-facing. Player-submitted in-world
+      art.
+  gallery:
+  - file: pcs/garland-and-castor-beaver.jpg
+    caption: Garland cradling Castor in his true beaver form
+  library:
+  - file: config/image/library/castor-reference-plate.jpeg
+    prompt: config/image/prompts/castor-reference-plate-prompt.json
+    description: 'Castor in human (wood-elf) form: shaggy red-orange hair to the jaw,
+      pointed ears, lean weary build, tattered earth-toned traveler''s outfit and
+      ragged hooded cloak. Canonical identity plate.'
+  - file: config/image/library/castor-beaver-reference-plate.jpeg
+    prompt: config/image/prompts/castor-beaver-reference-plate-prompt.json
+    description: 'Castor in his true beaver form: an unusually large rich chestnut-brown
+      beaver, about knee-high to a standing person. Use when the moment shows him
+      shapeshifted — his true form.'
+---
 # Castor
 
 **Player:** Dustin (duskit)

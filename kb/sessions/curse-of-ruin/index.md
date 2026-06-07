@@ -1,3 +1,8 @@
+---
+id: curse-of-ruin
+type: arc
+name: Curse of Ruin
+---
 # Curse of Ruin
 
 **Sessions:** 1–5

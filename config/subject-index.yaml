@@ -1,0 +1,31 @@
+# GENERATED FILE — DO NOT EDIT BY HAND.
+# Regenerate with: python3 scripts/build_index.py
+# Maps entity slug -> list of image files that depict it (from every image's
+# `subjects:` list across all kb frontmatter). Lets the illustrate skills find
+# every picture of a slug — including page-less sub-entities — at a glance.
+
+captain-vask:
+- sessions/session-6-castor-confronts-vask.jpg
+castor:
+- sessions/session-6-castor-confronts-vask.jpg
+chryseum:
+- chryseum-exterior.jpg
+- chryseum-interior.jpg
+garland-yn-greenholt:
+- sessions/session-6-witch-stones-portal.jpg
+inquisitor-voss:
+- sessions/session-6-roderic-meets-voss.jpg
+mira:
+- sessions/session-6-witch-stones-portal.jpg
+paxton-lumnus:
+- sessions/session-6-paxton-burns-barge.jpg
+senna:
+- sessions/session-6-paxton-burns-barge.jpg
+sir-roderic-lightbearer:
+- sessions/session-6-roderic-meets-voss.jpg
+- sessions/session-6-sariel-forgotten.jpg
+vicar-lucis-gregory:
+- sessions/session-6-sariel-forgotten.jpg
+witch-stones:
+- sessions/session-6-castor-confronts-vask.jpg
+- sessions/session-6-witch-stones-portal.jpg

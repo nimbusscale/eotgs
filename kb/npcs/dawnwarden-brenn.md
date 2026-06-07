@@ -1,3 +1,15 @@
+---
+id: dawnwarden-brenn
+type: npc
+name: Dawnwarden Brenn
+aliases:
+- Brenn
+images:
+  hero:
+    file: solenne-brenn-portrait.jpg
+    alt: Dawnwarden Solenne Brenn
+    prompt: config/image/prompts/solenne-brenn-portrait.json
+---
 # Dawnwarden Brenn
 
 **First Appeared:** [[Session 4]]

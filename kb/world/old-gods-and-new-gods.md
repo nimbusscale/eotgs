@@ -1,3 +1,11 @@
+---
+id: old-gods-and-new-gods
+type: world
+name: Old Gods and New Gods
+aliases:
+- New Gods
+- The New Gods
+---
 # The Old Gods and the New
 
 **Category:** Gods

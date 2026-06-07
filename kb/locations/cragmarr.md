@@ -1,3 +1,8 @@
+---
+id: cragmarr
+type: location
+name: Cragmarr
+---
 # The Cragmarr
 
 **Type:** Region (Wilderness)

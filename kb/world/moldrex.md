@@ -1,3 +1,8 @@
+---
+id: moldrex
+type: world
+name: Moldrex
+---
 # Moldrex
 
 **Category:** Gods (New Gods)

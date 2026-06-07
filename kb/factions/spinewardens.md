@@ -1,3 +1,12 @@
+---
+id: spinewardens
+type: faction
+name: The Spinewardens
+aliases:
+- Spinewardens
+- Spinewarden
+- Senna
+---
 # The Spinewardens
 
 **Type:** Organization (military / religious order)

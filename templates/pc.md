@@ -1,3 +1,14 @@
+---
+# Frontmatter is the single source of truth for identity/aliases/images.
+# config/entity-aliases.yaml, image-map.yaml, subject-index.yaml are GENERATED
+# from these blocks by scripts/build_index.py — do not hand-edit those files.
+id: [character-slug]
+type: pc
+name: [CHARACTER NAME]
+status: Active   # Active | Deceased | Retired | Vanished (read by the party roster)
+aliases: []      # alternative names this character is referred to by
+# images:        # optional; mirrors a config/image-map.yaml entry. See an existing PC for the shape.
+---
 # [CHARACTER NAME]
 
 **Player:** [PLAYER NAME]

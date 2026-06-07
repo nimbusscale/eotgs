@@ -1,3 +1,10 @@
+---
+id: session-1
+type: session
+name: 'Session 1: The Race Ahead of Ruin'
+arc: curse-of-ruin
+date: '2026-01-24'
+---
 # Session 1: The Race Ahead of Ruin
 
 **Date Played:** 2026-01-24

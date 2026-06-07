@@ -1,3 +1,10 @@
+---
+id: sergeant-iyer
+type: npc
+name: Sergeant Iyer
+aliases:
+- Iyer
+---
 # Sergeant Iyer
 
 **First Appeared:** [[Session 1]]

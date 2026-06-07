@@ -1,3 +1,10 @@
+---
+id: session-4
+type: session
+name: 'Session 4: The Sleeping God'
+arc: curse-of-ruin
+date: '2026-03-07'
+---
 # Session 4: The Sleeping God
 
 **Date Played:** 2026-03-07

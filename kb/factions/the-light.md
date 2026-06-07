@@ -1,3 +1,32 @@
+---
+id: the-light
+type: faction
+name: The Light
+aliases:
+- Lucifer
+- The Radiant One
+- Light
+- Church of Lucifer
+- Luciferian faith
+- Luciferians
+- The Illuminated
+- Illuminated
+- Order of the First Dawn
+- The Order of the First Dawn
+- Corona Vigil
+- The Corona Vigil
+- Inquisition
+- Order of the Eclipsed Sword
+- The Order of the Eclipsed Sword
+- Eclipsed Sword
+- Redeemers of Light
+- The Redeemers of Light
+images:
+  gallery:
+  - file: order-of-first-dawn.jpg
+    caption: The Order of First Dawn
+    prompt: config/image/prompts/order-of-first-dawn.json
+---
 # The Light
 
 **Type:** Religion

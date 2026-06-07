@@ -1,3 +1,10 @@
+---
+id: inquisitor-voss
+type: npc
+name: Inquisitor Voss
+aliases:
+- Voss
+---
 # Inquisitor Voss
 
 **First Appeared:** [[Session 5]]

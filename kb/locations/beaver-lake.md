@@ -1,3 +1,8 @@
+---
+id: beaver-lake
+type: location
+name: Beaver Lake
+---
 # Beaver Lake
 
 **Type:** Landmark

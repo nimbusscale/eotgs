@@ -1,3 +1,13 @@
+---
+id: starfall-caravan-company
+type: faction
+name: The Starfall Caravan Company
+aliases:
+- Starfall Caravan Company
+- Starfall Caravan
+- Cassian Vellor
+- Cassian
+---
 # The Starfall Caravan Company
 
 **Type:** Organization

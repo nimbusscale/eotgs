@@ -1,3 +1,31 @@
+---
+id: nodrum
+type: location
+name: The Nodrum
+aliases:
+- Nodrum
+- Nexarium
+- Aurelion Vault
+- Eurulian Vaults
+images:
+  hero:
+    file: the-nodrum-exterior.jpg
+    alt: The Nodrum, exterior
+    prompt: config/image/prompts/the-nodrum-exterior.json
+  gallery:
+  - file: the-nodrum-interior-work.jpg
+    caption: The Nodrum, interior workshop
+    prompt: config/image/prompts/the-nodrum-interior-work.json
+  - file: the-antechamber-archive.jpg
+    caption: The antechamber archive
+    prompt: config/image/prompts/the-antechamber-archive.json
+  - file: the-clockworks-automaton.jpg
+    caption: A clockworks automaton
+    prompt: config/image/prompts/the-clockworks-automaton.json
+  - file: the-depths-xan-kors-chamber.jpg
+    caption: The Depths — Xan-Kor's chamber
+    prompt: config/image/prompts/the-depths-xan-kors-chamber.json
+---
 # The Nodrum
 
 **Type:** Landmark

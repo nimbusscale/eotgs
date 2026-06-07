@@ -1,3 +1,19 @@
+---
+id: captain-eisen-dorn
+type: npc
+name: First Aureate Eisen Dorn
+aliases:
+- Captain Eisen Dorn
+- First Aureate Dorn
+- Eisen Dorn
+- Captain Dorn
+- Dorn
+images:
+  hero:
+    file: eisen-dorn-portrait.jpg
+    alt: Captain Eisen Dorn
+    prompt: config/image/prompts/eisen-dorn-portrait.json
+---
 # First Aureate Eisen Dorn
 
 **First Mentioned:** Pre-session notes

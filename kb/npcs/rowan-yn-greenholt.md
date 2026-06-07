@@ -1,3 +1,10 @@
+---
+id: rowan-yn-greenholt
+type: npc
+name: Rowan yn Greenholt
+aliases:
+- Rowan
+---
 # Rowan yn Greenholt
 
 **First Appeared:** [[Session 0]]

@@ -1,3 +1,8 @@
+---
+id: tufa
+type: npc
+name: Tufa
+---
 # Tufa
 
 **First Appeared:** [[Session 3]]

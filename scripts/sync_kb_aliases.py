@@ -62,11 +62,12 @@ def build_existing_alias_set(aliases_data):
     return existing
 
 
-def write_aliases(aliases_data):
-    """Write entity-aliases.yaml with consistent formatting.
+def render_aliases(aliases_data):
+    """Render entity-aliases.yaml text with consistent formatting.
 
     Uses explicit string formatting rather than yaml.dump to preserve
-    the double-quoted key style used in the existing file.
+    the double-quoted key style used in the existing file. Returns the
+    full file text so callers can either write it or diff against it.
     """
     lines = [
         "# Maps alternative names/spellings to canonical entity filenames",
@@ -83,58 +84,33 @@ def write_aliases(aliases_data):
             lines.append(f'  "{alias_name}": "{slug}"')
         lines.append("")
 
-    ENTITY_ALIASES_PATH.write_text("\n".join(lines), encoding="utf-8")
+    return "\n".join(lines)
+
+
+def write_aliases(aliases_data):
+    """Write entity-aliases.yaml with consistent formatting."""
+    ENTITY_ALIASES_PATH.write_text(render_aliases(aliases_data), encoding="utf-8")
 
 
 def main(argv=None):
+    """Deprecation shim.
+
+    entity-aliases.yaml is no longer synced incrementally from KB headers — it
+    is *generated* (along with image-map.yaml and subject-index.yaml) from the
+    per-entity frontmatter in kb/**/*.md by scripts/build_index.py. This entry
+    point now delegates there so any lingering callers keep working. The
+    formatting helpers above (render_aliases, write_aliases, CATEGORY_ORDER,
+    SUBDIR_TO_CATEGORY) are still imported and reused by build_index.
+    """
     args = parse_args(argv)
+    print(
+        "sync_kb_aliases.py is deprecated: entity-aliases.yaml is generated from "
+        "per-entity KB frontmatter by scripts/build_index.py. Delegating to it.",
+        file=sys.stderr,
+    )
+    from build_index import main as build_index_main
 
-    # Scan KB for sub-entities (already excludes pcs via KB_SCAN_SUBDIRS)
-    sub_entity_map, _ = scan_kb_sub_entities()
-
-    # Load current aliases
-    aliases_data = load_aliases()
-    existing_names = build_existing_alias_set(aliases_data)
-
-    # Find missing sub-entities
-    additions = []
-    for name, info in sorted(sub_entity_map.items()):
-        category_key = SUBDIR_TO_CATEGORY.get(info["category"])
-        if not category_key:
-            continue
-
-        # Skip if already aliased (case-insensitive)
-        if name.lower() in existing_names:
-            continue
-
-        # Derive slug from parent filename
-        slug = info["parent_file"].split("/")[-1].replace(".md", "")
-
-        # Ensure category section exists
-        if category_key not in aliases_data:
-            aliases_data[category_key] = {}
-
-        aliases_data[category_key][name] = slug
-        existing_names.add(name.lower())
-        additions.append((category_key, name, slug))
-
-    if not additions:
-        print("No new aliases needed.")
-        return str(ENTITY_ALIASES_PATH)
-
-    if args.dry_run:
-        print(f"Would add {len(additions)} alias(es):")
-        for cat, name, slug in additions:
-            print(f"  {cat}: \"{name}\" → \"{slug}\"")
-        return str(ENTITY_ALIASES_PATH)
-
-    write_aliases(aliases_data)
-
-    print(f"Added {len(additions)} alias(es) to {ENTITY_ALIASES_PATH.name}:")
-    for cat, name, slug in additions:
-        print(f"  {cat}: \"{name}\" → \"{slug}\"")
-
-    return str(ENTITY_ALIASES_PATH)
+    return build_index_main(argv=["--check"] if args.dry_run else [])
 
 
 if __name__ == "__main__":

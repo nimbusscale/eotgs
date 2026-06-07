@@ -1,3 +1,10 @@
+---
+id: tamarack
+type: npc
+name: Tamarack
+aliases:
+- Tam
+---
 # Tamarack
 
 **First Appeared:** [[Session 6]]

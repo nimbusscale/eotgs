@@ -1,3 +1,10 @@
+---
+id: session-5
+type: session
+name: 'Session 5: The Cocoon Opens'
+arc: curse-of-ruin
+date: '2026-03-14'
+---
 # Session 5: The Cocoon Opens
 
 **Date Played:** 2026-03-14

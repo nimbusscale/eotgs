@@ -1,3 +1,10 @@
+---
+id: primus-griswald
+type: npc
+name: Primus Griswald
+aliases:
+- Griswald
+---
 # Primus Griswald
 
 **First Appeared:** [[Session 6]]

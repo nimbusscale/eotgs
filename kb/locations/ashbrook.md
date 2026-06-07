@@ -1,3 +1,10 @@
+---
+id: ashbrook
+type: location
+name: Ashbrook
+aliases:
+- Eld Ashara
+---
 # Ashbrook (Eld Ashara)
 
 **Type:** Ruins

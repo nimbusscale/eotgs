@@ -1,3 +1,10 @@
+---
+id: ashen-vale
+type: location
+name: Ashen Vale
+aliases:
+- Greenholt
+---
 # Ashen Vale
 
 **Type:** Region

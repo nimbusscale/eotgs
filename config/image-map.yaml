@@ -51,7 +51,7 @@ npcs/dawnwarden-brenn:
   hero: { file: solenne-brenn-portrait.jpg, alt: "Dawnwarden Solenne Brenn" }
 
 npcs/triune:
-  hero: { file: the-triune-group-portrat.jpg, alt: "The Triune" }
+  hero: { file: the-triune-group-portrait.jpg, alt: "The Triune" }
 
 locations/aurelion:
   hero: { file: aurelion-approach.jpg, alt: "The approach to Aurelion" }

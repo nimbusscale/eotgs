@@ -1,0 +1,63 @@
+{
+  "title": "The Chryseum — Exterior",
+  "purpose": "The party's destination and the visual anchor of the session. The cathedral of the Light in Aurelion, presided over by Luminary Severin Morrow. The party has been directed here by the Triune to find a shrine to the God of Renewal hidden beneath it. This building is the peak expression of Aurelion's golden identity — the place where the city's wealth, faith, and power converge. It should feel imposing more than welcoming, beautiful but cold. A monument to certainty.",
+  "subject": "A grand Luciferian cathedral built during the height of the Imperium's presence in Aurelion. Its golden dome is the most prominent landmark in the city — better maintained than anything else because the Church has resources even when the city does not. The building is elevated above the surrounding streets, looking down on the city from broad stone steps. The architecture is magnificent and severe: soaring verticality, radiating symmetry, whiteglass elements catching light. This is a place of worship but also a place of power.",
+  "core_aesthetic": {
+    "historical_context": "Aurelion was once a crown jewel of the Imperium Lucis Aeternae — a vast Roman-analogous empire of light. The city sat atop rich gold deposits and the Imperium had the magical technology to extract it. The name itself echoes 'aurum.' Gold language runs through every institution: the Aureate (soldiers), the Assayer Sovereign, the Orate. But the Imperium fell centuries ago, the extraction technology was lost, and the gold is locked in inaccessible substrate beneath the city. Aurelion went from imperial capital to independent Middle Kingdom to conquered vassal of Beaconhold. It is now a county seat ruled by a count who answers to a distant king.",
+    "visual_philosophy": "Gold that has tarnished. Grandeur that has been patched. Imperial architecture repurposed for smaller ambitions. Think Prague or Budapest — cities where you can see the layers of history and the gap between what the place once was and what it is now. Gilded domes gone green with verdigris. Broad imperial avenues lined with cramped market stalls. Monumental stonework being used as the foundation for timber tenements. A post-imperial Eastern European melancholy layered over Roman-scale bones.",
+    "emotional_register": "Not grimdark or ruined — this is a functioning city with people living their lives. The tragedy is quiet. It is a place that remembers being important and knows it is not anymore. The gold is still there in the name, the titles, the architecture — but it is decorative memory, not living wealth.",
+    "the_exception": "The Chryseum is the one place in Aurelion where the golden aesthetic is actively maintained rather than fading. The Church has the resources and the will to keep this building gleaming. Where the rest of the city shows tarnish and patch-jobs, the Chryseum shows investment and upkeep. This contrast is deliberate — it tells you where the power and money in this city actually flow."
+  },
+  "setting": "The Chryseum sits on elevated ground within Aurelion, approached by wide stone steps. The viewer is standing at the base of the steps looking up at the facade. Surrounding buildings are visible at the edges — the ordinary city pressing close to this extraordinary structure, emphasizing the contrast between sacred and secular Aurelion.",
+  "architecture": {
+    "luciferian_design": "The Chryseum is Luciferian architecture at its most confident. Clean vertical lines, soaring proportions, radiating symmetry organized around a central axis. The design language is light and permanence — everything points upward, everything is ordered, everything communicates that the builders knew the truth and encoded it in stone. Think a synthesis of Byzantine domed basilica and Gothic cathedral verticality, but with its own distinct identity rooted in the worship of Lucifer as god of light and warding.",
+    "the_dome": "The defining feature. A large golden dome rising above the nave — the most prominent point in Aurelion's skyline. Unlike the rest of the city's gold, this is actively maintained. The gold leaf is not pristine — it shows the patina of age and weather — but it has been repaired, re-leafed, and polished where it matters most. Verdigris creeps at the edges and in the crevices, giving it a green-gold character rather than pure bright gold. It catches light like nothing else in the city. From below, looking up, it should feel like a small captured sun.",
+    "the_facade": "Tall, symmetrical, vertically oriented. A grand entrance portal flanked by columns or pilasters. Whiteglass elements set into the facade — panels, rose-window equivalents, or decorative inlays — that glow with a faint cool luminosity distinct from the warm gold around them. Whiteglass is a translucent, radiant substance associated with Lucifer, believed to be immutable and uncorruptible. It should read as something otherworldly set into otherwise-earthly stone. Carved liturgical imagery and inscriptions in the stonework — orderly, precise, doctrinal.",
+    "the_steps": "Broad stone steps leading up to the entrance, wide enough for processions. The elevation is intentional — you approach the Chryseum by climbing toward it. The steps are well-worn by centuries of worshippers but maintained. This is the one public space in Aurelion that is kept clean and orderly.",
+    "the_foundation": "Critical subtle detail: the lowest courses of stone — the foundation and the first few feet of wall — should look slightly different from the Luciferian construction above. Older, larger blocks. A different style of masonry. Perhaps faint geometric patterns that do not match the Luciferian aesthetic. This hints at what lies beneath: the pre-Luciferian shrine to the God of Renewal that the cathedral was built on top of. The Chryseum was constructed over something older, and the building's feet remember even if its face does not."
+  },
+  "figures": {
+    "guards": "Aureate soldiers flanking the main entrance — not many, two or four. Ceremonial more than tactical, but armed. Their tarnished gold armor contrasts with the better-maintained gold of the building itself. They are the count's men standing at the church's door — a visual reminder that secular and sacred power are intertwined here.",
+    "worshippers": "A few small figures on the steps — people arriving or departing. Heads bowed, postures reverent or hurried. This is not a welcoming community gathering place; it is a place you go with purpose and leave with weight.",
+    "scale": "All figures should be small relative to the architecture. The building dominates. The point is the institution, not the individuals."
+  },
+  "whiteglass_elements": {
+    "description": "Whiteglass is a translucent, radiant substance associated with Lucifer. It resists breakage, decay, and magical interference. It glows with a cool, clean light — not warm candlelight, but something sharper and more permanent. It should not have a smell but somehow does around Severin. In visual terms, it reads as somewhere between frosted crystal, moonstone, and captured starlight.",
+    "placement": "Set into the facade as window panels, a rose-window equivalent, or decorative elements above the entrance. The whiteglass should contrast with the warm gold — cool white-blue luminosity against tarnished amber. It is the newest-looking element on the building because whiteglass does not age.",
+    "effect": "The whiteglass elements should appear to generate their own light — not brightly, but with a steady inner glow that makes them stand out even in daylight. They are the one thing on this building that looks exactly as it did when it was built."
+  },
+  "lighting": "Late afternoon light hitting the facade from an angle, making the dome glow warm gold and casting long shadows down the steps. The whiteglass elements provide their own cool counterpoint — faint blue-white luminescence that reads as eternal against the transient warmth of sunlight. The surrounding buildings are in relative shadow, making the Chryseum the brightest thing in its vicinity. The overall effect is of a building that collects and concentrates light — fitting for a temple to the god of light.",
+  "color_palette": [
+    "maintained gold and aged green-gold verdigris (the dome)",
+    "warm honey limestone and pale sandstone (the facade)",
+    "cool blue-white luminescence (whiteglass elements)",
+    "liturgical gold accents (trim, inscriptions, fixtures)",
+    "shadow black and deep charcoal (doorways, window recesses, cast shadows)",
+    "candle-flame amber (warm interior light leaking from the open doors)",
+    "tarnished gold and dull steel (Aureate guards' armor, contrasting with the building)"
+  ],
+  "mood": "Awe and unease in equal measure. The building is genuinely beautiful — the most impressive thing the party has seen in Aurelion, possibly the most impressive religious building they have ever entered. But there is an edge to it. The symmetry is too perfect, the light too controlled, the elevation too deliberate. This is a place that was designed to make you feel small and to make the institution feel absolute. It inspires reverence, but the reverence has a current of intimidation running beneath it. Roderic should feel his faith stirred and his conscience pricked simultaneously. Edric should feel unwelcome.",
+  "composition": "Low angle, looking up from the base of the steps toward the facade and dome. The steps create strong leading lines drawing the eye upward to the entrance, then further up to the dome. The viewer is in the position of a supplicant — approaching, looking up, being made to feel the building's authority. Surrounding structures visible at the edges frame the Chryseum and emphasize its relative scale and maintenance. The dome should command the upper third of the image.",
+  "details": [
+    "The dome's gold leaf shows careful repair work — patches where it has been re-applied, slightly different in tone from the aged gold around them, evidence of ongoing investment",
+    "Verdigris creeping at the edges and joints of the dome — age is there, it is just being fought",
+    "The whiteglass rose window or panel above the entrance glowing with its own inner light, untouched by time",
+    "Liturgical inscriptions carved into the stone around the entrance — precise, orderly, authoritative",
+    "The foundation stones at the base are subtly different — larger, older, a different masonry tradition, hinting at the pre-Luciferian structure beneath",
+    "Incense smoke faintly visible drifting from the open doors — frankincense and something sharper",
+    "A single crack in the steps or lower wall that looks too fresh — the faintest suggestion that ruin is reaching even here",
+    "The Aureate guards' tarnished armor next to the polished gold of the building, telling the whole story of where resources go in this city"
+  ],
+  "style": "Painterly fantasy illustration with architectural grandeur and atmospheric weight. Concept art quality. The tone of religious architecture photography — the kind of image where the building itself communicates theology. Every design choice in the Chryseum is an argument about the nature of truth, light, and permanence. The style should honor that ambition while letting the viewer feel the coldness beneath the beauty. Grounded and realistic, with strong use of light and shadow to create emotional texture.",
+  "aspect_ratio": "2:3 portrait — vertical composition to capture the soaring architecture, the full height of the steps, facade, and dome, and to put the viewer in the physical position of looking up",
+  "do_not_include": [
+    "Gothic grotesques, gargoyles, or demonic imagery — Luciferian architecture is about light and order, not darkness and fear",
+    "Stained glass in traditional Christian style — whiteglass is its own thing, not colored glass",
+    "Crumbling ruins or major structural damage — this building is maintained, that is the point",
+    "Warm welcoming atmosphere — the beauty should have an edge, not feel cozy",
+    "Crowds or bustling activity on the steps — this is a solemn place, not a marketplace",
+    "Generic medieval church or chapel — this is a cathedral built by an empire, scaled accordingly",
+    "Bright primary colors — the palette is gold, stone, shadow, and whiteglass cool luminescence",
+    "Crosses or Christian-specific iconography — this is a Luciferian faith with its own visual language of light, radiance, and geometric precision"
+  ]
+}

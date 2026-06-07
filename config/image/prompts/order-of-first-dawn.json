@@ -1,0 +1,107 @@
+{
+  "title": "The Order of the First Dawn — Group Portrait",
+  "purpose": "The Order of the First Dawn is an elite Luciferian paladin order led by Dawnwarden Solenne Brenn. Outwardly the most devoted warriors of the Light in Marrow County. Secretly the guardians of a sleeping god beneath the Chryseum cathedral. This image introduces them as a group — distinct individuals united by purpose, standing in the cathedral they protect.",
+
+  "style": {
+    "primary_direction": "High-end fantasy concept art with PHOTOREALISTIC rendering. The figures should look like real people in real armor photographed in a real cathedral interior, then composited into a cinematic frame. Think Karla Ortiz, Craig Mullins, or Jaime Jones — artists who achieve painterly atmosphere WITHOUT sacrificing photographic clarity on faces, materials, and armor. The image should feel like a still from a prestige fantasy film with a $200M budget, not like a painting hanging in a gallery.",
+    "faces": "PHOTOGRAPHIC sharpness on all faces. Visible pores, real skin texture, individual features. Every knight must look like a specific person you could recognize on the street. NO soft painterly blending on skin. NO brushstroke texture visible on faces. Faces are the highest-detail element in the image.",
+    "materials": "Armor must read as REAL METAL — sharp reflections, crisp plate edges, visible environmental reflections in the polished steel. Fabric must have real textile weight and weave. Leather must look like leather. Every material should be identifiable by its surface behavior under light. The viewer should feel they could reach into the image and touch each surface and know what it would feel like.",
+    "atmosphere": "The BACKGROUND can be softer and more atmospheric — incense haze, warm depth, the cathedral receding into golden ambiance. But the FIGURES must be sharp and separated from that atmosphere. The depth-of-field distinction between crisp foreground figures and softer background environment is essential. This creates the cinematic quality: real people in a real space with atmospheric depth.",
+    "do_NOT_produce": [
+      "Oil painting style with visible brushwork texture on skin or armor",
+      "Soft impressionistic rendering where figures dissolve into the background",
+      "Clean digital illustration or video game splash art with flat uniform lighting",
+      "Anime, manga, or stylized rendering",
+      "Uniform golden-brown color wash that flattens everything together",
+      "Canvas texture or painted-surface appearance"
+    ]
+  },
+
+  "subject": "Four elite paladins in the nave of a golden-domed cathedral. Led by Dawnwarden Solenne Brenn — a woman in her mid-forties with cropped gray-streaked hair, carrying her helm under her arm. Three distinct knights behind her in a loose natural formation. They are pausing mid-duty, not posing. The image should feel like a candid cinematic moment — real people caught by a camera in a sacred space.",
+
+  "the_figures": {
+    "solenne_brenn": {
+      "position": "Foreground left or left-of-center, slightly forward of the group. Facing the viewer at a slight angle. Helm carried under her left arm.",
+      "face": "A woman in her mid-forties. SHARP photographic detail. Cropped hair, gray-streaked, unevenly self-cut — practical, not styled. Strong jawline, defined cheekbones, handsome rather than beautiful. Sun-weathered skin with fine lines around the eyes and across the forehead — the texture of years spent outdoors. No makeup, no softening. Her face is direct and specific — this is a person, not an archetype.",
+      "expression": "Steady, watchful, resolved. Eyes meeting the viewer's gaze directly. Not aggressive, not warm — the composed neutrality of someone deciding about you. The faintest trace of humor lines at the mouth corners, barely visible, evidence of a private self that surfaces only off-duty.",
+      "hands": "Visible. Scarred across the knuckles — old white healed scars from decades of sword work. But CLEAN — scrubbed, trimmed nails. One hand holds the helm at her side. The other rests naturally.",
+      "armor": "Polished steel plate with restrained gold inlay — thin lines along plate edges, small geometric Luciferian devices at the breastplate center and shoulder cops. Small whiteglass fixture at the gorget producing faint cool blue-white luminescence. The armor is the best-maintained in the city — functional, beautiful, combat-ready. Real metal with real weight.",
+      "tabard": "Pale cream linen tabard over the armor. The Order's dawning-sun emblem in gold thread at the chest — a half-disc with straight radiating lines above a horizon. Standard Luciferian solar heraldry. Gold meander border along the hem. The fabric shows subtle daily wear — a small mend at the hip, the weight of real linen."
+    },
+    "knight_two": {
+      "position": "Behind Solenne's right shoulder.",
+      "description": "A man in his late twenties. Earnest, not yet fully settled into the weight of his duty. Slight tension in his jaw. Clean-shaven, brown hair visible beneath a raised visor or open-faced helm. He is looking slightly off-camera, scanning the nave — the alertness of someone still proving himself. His armor is well-maintained but shows less personal customization than Solenne's — he has not been doing this as long."
+    },
+    "knight_three": {
+      "position": "Behind Solenne's left shoulder, slightly further back.",
+      "description": "A man in his sixties. Scarred across the cheek and brow — old marks, long healed. Gray beard, close-trimmed. Settled into his armor like it is part of his body — he has worn plate for forty years and no longer notices the weight. His expression is calm, unhurried, the patience of someone who has been doing this longer than anyone and does not need to announce it. His helm is clipped to his belt."
+    },
+    "knight_four": {
+      "position": "Furthest back, partially in the atmospheric depth of the cathedral. Turned slightly away or in profile.",
+      "description": "A figure who is harder to read — could be female, face partially shadowed or turned. Quiet, observant, the one whose eyes are tracking something the others have not noticed. Less detail due to depth-of-field — this knight is stepping into the atmosphere of the cathedral background, connecting the sharp foreground group to the soft background space."
+    }
+  },
+
+  "setting": {
+    "location": "The nave of the Chryseum — a Luciferian cathedral with a golden dome, whiteglass panels, and stone columns. NOT a Gothic church with pointed arches and stained glass. The architecture is based on Late Roman and Byzantine forms: rounded arches, a large golden dome overhead, radiating geometric symmetry, broad stone columns. Whiteglass panels in the upper walls produce cool blue-white luminescence. The space is monumental, soaring, filled with warm gold light from above and cool sidelong light from the whiteglass.",
+    "architectural_specifics": [
+      "A large GOLDEN DOME visible overhead — the defining feature of the Chryseum. Warm gold radiance emanates from it, illuminating the nave from above",
+      "ROUNDED arches, NOT pointed Gothic arches. Late Roman or Byzantine forms — broad, structural, geometric",
+      "Whiteglass panels in the upper walls — translucent panels producing cool blue-white self-luminescence, distinct from stained glass",
+      "Broad stone columns receding into depth — pale limestone or marble, warm from the dome light, cool from the whiteglass",
+      "Candles providing small warm accent points in the mid-ground",
+      "Incense haze visible in the upper vaults, softening the dome and creating atmospheric depth"
+    ],
+    "lighting": {
+      "primary": "Warm golden radiance from the dome above — falling on the figures from overhead, catching the top surfaces of the armor, the tops of heads, the shoulders",
+      "secondary": "Cool blue-white luminescence from the whiteglass panels to the sides — catching the steel armor with contrasting cool highlights on the flanks and sides of the figures",
+      "accent": "Warm candle points in the mid-ground. The whiteglass fixture at Solenne's gorget producing a small, intimate cool light on the underside of her jaw",
+      "critical_note": "The scene must have TWO distinct light temperatures — warm gold from above and cool blue-white from the sides. This dual lighting is the visual signature of the Chryseum and must be visible on the armor surfaces as warm and cool reflections. The image should NOT collapse into a single warm golden-brown tone."
+    },
+    "depth_of_field": "The four figures are SHARP and crisp — photographic detail on armor, faces, fabric. The cathedral behind them is softer — still readable (the dome, the columns, the whiteglass glow) but with atmospheric haze and reduced sharpness. The figures are separated from the background by this focus difference, creating cinematic depth."
+  },
+
+  "color_palette": {
+    "armor": "Polished warm gray steel — NOT golden brown, NOT chrome. Real hand-finished plate metal that reflects the warm gold from above and cool blue-white from the sides in distinct highlights",
+    "gold_inlay": "Restrained warm gold — thin lines and small devices, rich but not garish",
+    "tabards": "Pale cream and warm ivory — real linen tone, NOT paper-white, NOT golden-brown. The tabards should be clearly lighter than the armor and distinctly different from the golden ambient light",
+    "whiteglass": "Cool blue-white points of luminescence — at Solenne's gorget, at shoulder clasps, and in the background cathedral panels. These are the COOL accents in a predominantly warm scene",
+    "skin_tones": "Naturalistic, varied across the four figures. Solenne's is sun-weathered and warm. The younger knight is paler. The older knight is ruddy. Real human skin under dual lighting",
+    "background": "Warm golden ambiance from the dome, cooler tones where whiteglass light reaches, deep warm shadows between columns. Atmospheric and receding",
+    "overall_note": "The palette must have CONTRAST and VARIETY. Different materials should read as distinctly different colors and textures. The image should not collapse into monochrome amber or brown."
+  },
+
+  "composition": {
+    "framing": "16:9 landscape. The four figures are arranged naturally in the lower two-thirds of the frame. The golden dome and cathedral architecture fill the upper third, establishing scale — the institution is larger than the people.",
+    "arrangement": "Solenne is in the left third, slightly forward. The other three are arranged behind her in a loose grouping that feels NATURAL, not symmetrical and not like a team lineup. They are mid-duty, not posing. One is looking off-camera. One has his helm clipped to his belt. The arrangement should feel like a moment captured, not a portrait staged.",
+    "focal_hierarchy": "The viewer's eye should go: (1) Solenne's face — the sharpest, most detailed element. (2) The two visible knights behind her — distinct faces, clear individual detail. (3) The fourth knight receding into atmospheric depth. (4) The Chryseum dome and architecture framing the scene above and behind."
+  },
+
+  "details": [
+    "Solenne's cropped gray-streaked hair — unevenly self-cut, every strand in sharp focus",
+    "Solenne's scarred knuckles — old white healed marks, clearly visible on clean hands",
+    "The whiteglass fixture at her gorget — a small cool blue-white point of light against the warm armor",
+    "The dawning-sun emblem on the tabards — a clean Luciferian solar device in gold on cream, readable and crisp",
+    "Real steel surfaces on the armor — environmental reflections showing the warm gold dome light above and cool whiteglass from the sides as distinct highlights",
+    "Four DISTINCT faces — a forty-something woman with sun-worn features, a late-twenties man with jaw tension, a sixty-something man with a scarred face and gray beard, a fourth figure partially in shadow",
+    "The golden dome of the Chryseum VISIBLE overhead — the defining architectural feature, warm and radiant",
+    "Cool blue-white whiteglass glow from upper wall panels — the second light source, visible on the sides of the armor",
+    "Incense haze in the upper vaults — atmospheric, softening the background while the figures stay sharp",
+    "Subtle tabard wear — a mend, a frayed hem, evidence these are daily working garments"
+  ],
+
+  "do_not_include": [
+    "Oil painting texture or visible brushwork on faces and armor — render with photorealistic clarity",
+    "Soft impressionistic blending where figures dissolve into the background",
+    "Gothic pointed arches or traditional stained glass windows — this is a DOMED cathedral with rounded arches and whiteglass panels",
+    "A single uniform golden-brown color wash — the scene needs two light temperatures and distinct material colors",
+    "Identical or generic faces — each knight is a specific individual with distinct age, features, and expression",
+    "Symmetrical team-pose composition — the group is natural, candid, mid-duty",
+    "Visible green, plant imagery, or nature symbols on any surface — the Order's secret is completely hidden at this scale",
+    "Clean digital game-art rendering with flat lighting — the image needs atmospheric depth and realistic light physics",
+    "Christian iconography — no crosses, no pointed Gothic tracery. Luciferian architecture: domed, geometric, solar-themed",
+    "Canvas texture or any surface treatment that makes the image look like a physical painting"
+  ],
+
+  "aspect_ratio": "16:9 landscape"
+}

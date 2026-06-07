@@ -1,0 +1,165 @@
+{
+  "map_concept": {
+    "title": "The Kingdom of Beaconhold and Surrounding Lands",
+    "purpose": "Stylized in-world map for evocative imagination; not to scale, not strictly geographically accurate",
+    "intent": "Should feel like an in-world artifact a character might own or find. Landmarks must be recognizable on their own visual character, without labels."
+  },
+  "style": {
+    "medium": "Old-timey hand-drawn cartography on weathered parchment",
+    "color_palette": {
+      "background": "Aged cream and sepia parchment with weathering, faint stains, slight curling or tears at the edges",
+      "ink_linework": "Dark sepia and brown ink",
+      "accents": [
+        "Muted green for the Ashen Vale and forested patches",
+        "Slate grey for the Bonewall",
+        "Mossy green-grey with warm rust hints for the volcanic Cinderwall",
+        "Soft blue-grey wash for the Solivum",
+        "Faint gold accent reserved only for Aurelion's dome and the Farus Lucis",
+        "Pure black ink wash for Öuth Krelt"
+      ]
+    },
+    "rendering": "Medieval cartographic symbols: stylized hill-bump mountains, tiny stylized trees, dotted roads, cross-hatched rough terrain, small icon-buildings for settlements",
+    "atmosphere": "Weathered, ancient, faded; feels recovered from an archive rather than freshly drawn"
+  },
+  "composition": {
+    "orientation": "North up",
+    "content_spread": "The inhabited lands should spread comfortably across the width of the map, extending well into the western half of the composition. Do NOT leave a large empty quadrant in the west. The settled regions, the Cinderwall, and the Ashen Vale should all push westward to fill the available space.",
+    "mountain_layout": "Mountains form a definitive border along the south AND east of the inhabited lands. The Cinderwall runs along the southern edge and the Bonewall runs along the eastern edge, connecting through a curving spine at the southeast. The exact geometry need not be a literal L, but the south and east edges should clearly read as walled off by mountains. The Cinderwall extends most of the way across the southern edge, well into the western half of the map.",
+    "northern_edge": "The Solivum dominates the entire northern portion of the map (the top), drawn as a vast inland sea filling most of the top third of the composition.",
+    "western_edge": "Only a thin strip of faded blank parchment at the far western margin, suggesting unmapped territory just beyond the map's edge. Possibly one dotted road trailing west into this narrow strip. The inhabited content should reach close to the western edge before fading.",
+    "eastern_edge": "The Bonewall forms the eastern border. Beyond it, Öuth Krelt presses in as an ink wash that bleeds off the map's outer edge."
+  },
+  "regions": {
+    "beaconhold_kingdom": {
+      "position": "Center of the map, in the inhabited band between the Solivum (north) and the Cinderwall (south)",
+      "description": "Rolling settled land with cultivated fields and roads radiating outward from the capital",
+      "anchor_feature": "farus_lucis",
+      "settlement": "Tight cluster of small stylized buildings huddled at the base of the Farus Lucis"
+    },
+    "marrow_county": {
+      "position": "Southeast of the Beaconhold capital, between Beaconhold proper and the Ashen Vale",
+      "description": "Hilly settled land with a once-grand quality now showing decline; thin fields, sparse orchards, a faded imperial road",
+      "settlements": ["aurelion"],
+      "landmarks": ["nodrum"]
+    },
+    "ashen_vale": {
+      "position": "South, below Marrow County and Beaconhold, nestled against the Cinderwall. Extends west to fill the southwestern portion of the inhabited lands.",
+      "description": "Patchwork farmland enriched by volcanic ash. The Ashen Flow river snakes through it from the western foothills eastward across the vale.",
+      "settlements": ["crownvale"],
+      "landmarks": ["witch_stones"]
+    },
+    "cinderwall": {
+      "position": "Southern border of the map, running roughly east-to-west along the entire southern edge of the inhabited lands. Extends well into the western half of the map. Connects at its eastern end to the Bonewall via a curving spine in the southeast.",
+      "description": "A WALL of mountains, just as the Bonewall is on the east. Reads clearly as a continuous barrier range that walls off the south, not as a cluster of peaks or a few scattered mountains. Wet, wooded, misty, volcanic. Wisps of steam rising from peaks. Mossy slopes. Dark conifer stylization. Warmer in tone than the Bonewall.",
+      "wall_emphasis": "Critical that this reads as a wall along the entire southern edge, equivalent in barrier-quality to the Bonewall on the east. The two ranges together fully enclose the south and east of the inhabited lands.",
+      "landmarks": ["beaver_lake", "eld_ashara"]
+    },
+    "cragmarr": {
+      "position": "A long, narrow strip of broken terrain running east-to-west between Beaconhold's farmlands and the southern shore of the Solivum",
+      "description": "Long, skinny band of cliffs, ravines, and dense cross-hatched rough ground separating the inhabited lands from the great lake. Visually chaotic and impassable. No settlements.",
+      "shape_note": "Should read clearly as a thin barrier strip, not a large region. Significantly longer east-to-west than it is wide north-to-south. Extends across most of the map's width, including into the western half.",
+      "no_rivers": "Critical: NO rivers flow through the Cragmarr. The terrain is dry broken rock. Rivers reach the Solivum via the eastern Bonewall-fed system, NOT by cutting through the Cragmarr."
+    },
+    "eastern_rivers": {
+      "position": "Originate primarily from the western slopes of the Bonewall in the east. The river system runs along the inner foot of the Bonewall, flowing northward, with small tributaries feeding in from the Cinderwall to the south. The rivers converge into a delta at the northeast corner of the map, where the Bonewall meets the Solivum.",
+      "description": "A network of MANY rivers, at least four to six distinct waterways of varying sizes, most originating along the Bonewall's western slopes. The system hugs the eastern side of the map, flowing northward along the Bonewall. A smaller number of minor tributaries descend from the northern slopes of the Cinderwall and feed into this system. The rivers do NOT pass through the Cragmarr; the Cragmarr lies to the west of this river system.",
+      "delta": "At the northeast corner, where the Bonewall meets the Solivum, the rivers fan out into a visible delta with multiple channels splitting and rejoining as they enter the lake. Havens Reach sits on this delta.",
+      "count_note": "At least four to six visible rivers running north along the inner side of the Bonewall, plus one or two minor tributaries from the Cinderwall."
+    },
+    "solivum": {
+      "position": "North, dominating the entire top of the map. Fills the upper third (or more) of the composition.",
+      "description": "Vast inland freshwater sea. The far shore is not visible; it fades into atmospheric haze or runs off the top edge of the map, suggesting unfathomable size. The southern shoreline is the only one drawn; the lake extends north into the unknown.",
+      "details": "Subtle stylized ripples across the surface. One or two old-cartographer flourishes in the open water: a serpent's coil, a fish breaching. The Eastern Rivers enter the lake at the northeast corner via a visible delta where Havens Reach sits. No rivers enter the lake from the central southern shore.",
+      "settlements": ["havens_reach"]
+    },
+    "bonewall": {
+      "position": "Eastern border of the map, running roughly north-south along the entire eastern edge of the inhabited lands. Connects at its southern end to the Cinderwall via a curving spine in the southeast.",
+      "description": "Barren, dry, windswept. Sparser tree-stippling than the Cinderwall. Sharper, more jagged peak forms. Cool grey tones.",
+      "landmarks": ["thirteen_spines"]
+    },
+    "outh_krelt": {
+      "position": "Beyond the Bonewall, pressing against the eastern edge of the map",
+      "description": "A dark ink wash bleeding outward from the far side of the Bonewall. Not a defined region with internal features but a shadow at the edge of the world. Smoky, illegible, foreboding.",
+      "marginalia": "Old cartographer's warning flourishes: jagged marks, a half-formed dragon silhouette, perhaps faint scratches as if the cartographer was unsure what to draw"
+    },
+    "western_unknown": {
+      "position": "Only a thin strip at the far western edge of the map",
+      "description": "A narrow band of faded blank parchment at the very western margin. Weathering and stains rather than terrain. Possibly one dotted road trailing west into this strip. Should NOT occupy a large portion of the map; the inhabited lands extend close to the western edge."
+    }
+  },
+  "landmarks": {
+    "farus_lucis": {
+      "type": "Dormant Imperium-era beacon tower in Beaconhold's capital",
+      "visual": "The tallest element on the entire map by a clear margin. A slender, elegant, weathered tower rising well above every other feature. Intact but no active light. A subtle suggestion of latent power.",
+      "prominence": "Dominant. The eye is drawn here first. Symbolizes civilization and the lost Imperium.",
+      "color_note": "Faint gold accent for the tower's stonework, distinct from the surrounding sepia"
+    },
+    "aurelion": {
+      "type": "Capital of Marrow County",
+      "visual": "A single walled hill-city, one settlement enclosed by city walls, with the golden dome of the Chryseum cathedral rising from inside the walls and Crest Aurelion's castle integrated at the highest point of the city, also within the walls. NOT a city and a separate castle on different hills; one unified walled settlement with the dome and the castle keep both contained inside its walls. The golden dome catches the light, providing the city's signature visual.",
+      "prominence": "Moderate-high. The second most visually present settlement after Beaconhold. Distinctly smaller than the Farus Lucis."
+    },
+    "crownvale": {
+      "type": "Town in the Ashen Vale",
+      "location": "In the EASTERN part of the Ashen Vale, south of Aurelion. (This is a swap from the previous iteration: Crownvale and the Witch Stones have exchanged positions. Crownvale now sits east, south of Aurelion.)",
+      "visual": "Small walled town in the eastern Ashen Vale, where the Ashen Flow meanders past. Agricultural in feel. Old Imperium fort walls partly restored, with newer buildings clustered around them. The river simply passes by the town without any accentuated bridge feature.",
+      "prominence": "Modest. Meaningful but visually subordinate to Aurelion and Beaconhold."
+    },
+    "havens_reach": {
+      "type": "Port town built on a river delta in the northeast corner of the map",
+      "location": "Northeast corner, where the Eastern Rivers fan out into a delta as they enter the Solivum at the foot of the Bonewall. The town sits on and among the delta channels. Geographically: the Cragmarr lies to its west, the Solivum to its north, and the Bonewall to its east.",
+      "visual": "A delta city with multiple river channels splitting and weaving around the settlement as they enter the lake. Buildings cluster on the larger islands and along the banks. Visibly built atop much larger Imperium ruins; old foundations and broken walls extend beyond the current town's footprint, like a shadow city around it. Some of the ruins are partially submerged in the delta channels.",
+      "prominence": "Modest but distinctive due to the delta setting and the surrounding Imperium ruins"
+    },
+    "beaver_lake": {
+      "type": "Small lake formed by the Great Beaver Dam, on the border between the Cinderwall and the Ashen Vale",
+      "geography": "Sits in the northern foothills of the Cinderwall, right at the boundary where the mountains give way to the Ashen Vale. The lake is SMALL, not a major water feature. The Ashen Flow river enters from the south, descending out of the Cinderwall from springs beneath Eld Ashara. The Great Beaver Dam is positioned at the NORTHERN edge of the lake, blocking the northern outflow. The dam must read as being on the NORTH side of the lake, NOT on the western or southern side. Below the dam (north of it), the river continues north and then bends east into the Ashen Vale. Reading south to north: Eld Ashara high in mountains, river descends, small lake in foothills, DAM AT NORTH END OF LAKE, river continues north into the vale.",
+      "dam_visual": "The Great Beaver Dam should look unmistakably like a BEAVER DAM, a rustic organic pile of sticks, logs, branches, and packed mud. NOT a man-made stone wall, NOT a modern engineered dam, NOT a wooden bridge. Irregular, lumpy, with branches and log-ends visibly sticking out. Reads as something built by animals over many years, weathered but maintained. A small notch or breach in one section indicates recent partial collapse.",
+      "lake_visual": "A SMALL lake in the Cinderwall foothills. Significantly smaller than in previous iterations. Calm water with subtle ripples. Reads as a foothill pond more than a great lake.",
+      "prominence": "Modest. The dam is the visually interesting element; the lake itself is small."
+    },
+    "eld_ashara": {
+      "type": "Cursed ruins of the destroyed town of Ashbrook, high in the Cinderwall",
+      "location": "Tucked HIGH in the Cinderwall mountains, due south of Beaver Lake. The Ashen Flow river originates from springs beneath the ruins and flows north down out of the mountains into Beaver Lake.",
+      "visual": "A small withered blasted ruin, drawn understated and easily missed. Tilted broken buildings. No smoke, no signs of life. The land immediately around it appears aged unnaturally: a few sparse leaning trees, faded ground tone, a hint of dark seepage from the spring beneath the ruins. Visibly older and more decayed than its surroundings, but drawn small and tucked into the mountain folds.",
+      "prominence": "Low. A subtle detail for attentive viewers, on par with the Witch Stones and Nodrum. Should NOT draw the eye. It was a small town of modest narrative importance, not a major landmark."
+    },
+    "nodrum": {
+      "type": "Ancient pre-Imperium magical facility",
+      "location": "Marrow County, close to the Ashen Vale border but on the Marrow side",
+      "visual": "A small glyph-marked stone facade or door set into a hillside, drawn small and partially obscured by stylized trees or terrain folds. Geometric ancient sigils visible at the entrance if you look closely.",
+      "prominence": "LOW. Subtle and easily overlooked, on par with the Witch Stones. Visible if you're looking for it but does not draw the eye. Should NOT read as a prominent landmark. A hidden nod for attentive viewers, matching the Witch Stones in visual weight."
+    },
+    "witch_stones": {
+      "type": "Ring of ancient standing stones (also called the Shepherd's Teeth) in Garland's Greenholt fiefdom",
+      "location": "In the CENTRAL Ashen Vale, BETWEEN Beaver Lake (to the west) and Crownvale (to the east). Tucked into a fold of hills, partially obscured.",
+      "visual": "A small ring of standing stones, drawn small and partially obscured by stylized trees or terrain folds. Reads as a secret. Visible if you're looking for it, but does not draw the eye.",
+      "prominence": "Low. A deliberate hidden nod for attentive viewers."
+    },
+    "thirteen_spines": {
+      "type": "Imperium-era ward towers along the Bonewall, maintained by the Light",
+      "visual": "A row of EXACTLY THIRTEEN (13) small tower icons positioned near the TOPS of the Bonewall peaks (not on the lower inner slopes, not in the foothills), facing toward Beaconhold. CRITICAL: the count must be exactly 13, not 12. All thirteen are intact, with a faint warding glow suggested at their tips.",
+      "prominence": "Moderate. The row reads clearly along the mountain ridge."
+    },
+    "ashen_flow": {
+      "type": "River flowing from springs beneath Eld Ashara, through Beaver Lake, and across the Ashen Vale to Crownvale",
+      "visual": "Winding river. Originates high in the Cinderwall at the springs beneath Eld Ashara, with upper section drawn in darker, more troubled brushwork hinting at corruption. Descends north out of the mountains into Beaver Lake at the foothills. Below the Great Beaver Dam (which sits at the lake's northern edge) the river runs clean and bright, flowing north briefly before bending east and meandering across the Ashen Vale past Crownvale in the east."
+    }
+  },
+  "cartographic_elements": {
+    "compass_rose": "Present. Hand-drawn in old-cartographer style. No directional letters; only minimal directional flourishes if any.",
+    "border_treatment": "Subtle parchment edge weathering. No formal cartouche frame.",
+    "marginalia": "Sparse. A sea creature in the Solivum. A half-formed dragon silhouette at the eastern edge near Öuth Krelt as a warning glyph. Faint cartographer's flourishes at corners.",
+    "roads": "Dotted lines connecting Beaconhold to Aurelion, Aurelion to Crownvale (running south through Marrow County into the eastern Ashen Vale), and a road threading eastward from the inhabited lands toward Havens Reach (running along the southern foot of the Cragmarr, not through it, since the Cragmarr is impassable). One dotted road trailing off into the thin western strip."
+  },
+  "explicit_exclusions": [
+    "No text labels anywhere on the map",
+    "No place names",
+    "No region names",
+    "No legend or key",
+    "No scale bar",
+    "No grid lines or coordinates",
+    "No directional letters on the compass rose",
+    "No modern cartographic conventions"
+  ]
+}

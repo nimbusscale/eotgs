@@ -1,0 +1,54 @@
+{
+  "title": "Aldric Garlandsson — Family Before Crownvale",
+  "purpose": "A quiet, dynastic family portrait of Aldric Garlandsson with his wife and the infant Mira, set against the seat of his power. Aldric is Garland's grandson and ruler of Crownvale, and he carries the Greenholt Bloodline — elven features and an unnaturally long life. In the present he is consolidating power across the Ashen Vale with an uncanny reach, watched over by ravens that are not quite ravens. This image is an earlier, more intimate moment: the man before the reckoning, a husband and new father standing below the fortress-town he rules, with a storm already gathering over the mountains behind. It should read as tenderness shadowed by ambition and the weight of what is coming.",
+  "subject": "An elven-featured lord in dark, battered plate armor stands in the foreground beside his wife, who cradles their swaddled newborn. Behind and to one side rises Crownvale — a fortified hill-town of spires and timber houses lit warm against a cold sky. Jagged grey peaks and a brooding storm fill the far side. The composition holds two truths in tension: a small, fragile family in the foreground, and the vast, looming seat of power and gathering weather behind them.",
+  "critical_direction": {
+    "the_bloodline_shows": "Aldric must read as kin to Garland — the Greenholt Bloodline gives him refined, elven features and pointed ears, and an age that is hard to place (neither young nor old). He is handsome but severe, weathered by command rather than years. Do not make him a generic human knight; the elven lineage should be unmistakable.",
+    "tenderness_under_weight": "This is not a triumphant hero pose. It is a family standing together in a hard moment. The wife's head is bowed protectively over the infant; Aldric is steady and watchful, guarding rather than posturing. The emotional register is somber love beneath a darkening sky — quiet, not heroic.",
+    "the_town_is_his": "Crownvale behind them is not a backdrop village — it is his domain, the source and symbol of his rising authority. It should feel substantial, layered, and lived-in, its warm window-light a small human warmth against the cold grandeur of stone and storm."
+  },
+  "character": {
+    "aldric": "An elven-blooded man with sharp, refined features and pointed ears, dark hair swept back from a high forehead, a short dark beard, and deep-set, watchful eyes. His expression is stern, composed, and faintly weary — a man already carrying more than a county. He wears dark, well-used plate armor: overlapping blackened steel plates, heavy pauldrons, a gauntleted hand, a sword at his hip. A dark mantle or cloak hangs from his shoulders. The armor is functional and worn, not ceremonial or gleaming — battered at the edges, the metal cold and matte.",
+    "wife": "A woman in a deep forest-green hooded cloak, her auburn-red hair falling loose, her face lowered toward the child she holds. Beneath the cloak she wears layered, muted dark clothing with a small metal brooch or clasp at the throat. Her posture is inward and protective — she is shielding the infant, not facing the viewer. Her presence is gentle and grave.",
+    "infant_mira": "A newborn swaddled in pale, off-white wrappings, held in the crook of the mother's arm. Only the wrapped bundle and perhaps a small sleeping face are visible. This is Mira as an infant — fragile, quiet, the future of the line."
+  },
+  "setting": {
+    "crownvale": "A fortified hill-town on a craggy rise to one side of the frame: a castle of tall slate-roofed towers and spires with banners, surrounded and undergirded by clustered timber-framed houses whose windows glow warm amber in the gloom. A stone arched bridge spans a fast white river or waterfall tumbling down the rocks below the town. The settlement reads as old, defensible, and prosperous in a hard land.",
+    "landscape": "The far side of the frame opens onto jagged grey mountains under a heavy, overcast sky threatening storm. In the foreground, rocky green slopes and the rushing river ground the figures in cold upland country. The light is flat and diffuse, the daylight already failing.",
+    "lighting": "Overcast, cold, late-day light with no direct sun — diffuse grey illumination on the figures and stone, broken only by the small warm glow of the town's windows. The contrast between cold ambient light and warm interior light should be the only real warmth in the image."
+  },
+  "color_palette": [
+    "blackened steel and cold dark grey (Aldric's armor)",
+    "deep forest green (the wife's cloak)",
+    "auburn-red (her hair)",
+    "pale off-white (the infant's swaddling)",
+    "slate grey and charcoal (storm sky and mountains)",
+    "warm amber (the glow of the town's windows)",
+    "mossy green and ochre (the upland grass and slopes)",
+    "weathered stone grey (the castle, bridge, and rocks)"
+  ],
+  "mood": "Somber, intimate, and foreboding. A dynastic moment caught before ambition hardens into reach — a family's quiet love framed by the cold stone of power and the gathering of a storm. The viewer should feel both the tenderness of the scene and an undertow of unease about the man at its center.",
+  "composition": "Three-quarter to full figures of Aldric and his wife in the foreground, occupying the central and right portion of the frame, with the swaddled infant between them. Crownvale rises on the upper left, the storm-lit mountains on the right, so the family is cradled between the town that is theirs and the wild country beyond. The river and rocky foreground lead the eye up to the figures. Earthbound, grounded perspective at near eye level.",
+  "details": [
+    "Pointed ears and refined features clearly marking the Greenholt Bloodline in Aldric",
+    "Battered, matte-dark plate armor — overlapping plates, heavy pauldrons, a sheathed sword at the hip",
+    "The wife's head bowed over the swaddled child, her green hood drawn up",
+    "Warm amber light in the windows of the timber houses below the castle",
+    "A stone arched bridge over a fast white river or waterfall beneath the town",
+    "Tall slate-roofed towers and spires of Crownvale catching the dull grey light",
+    "Heavy, low storm clouds over jagged peaks on the far side of the frame",
+    "Rocky, mossy green upland slopes and rushing water in the foreground"
+  ],
+  "style": "Painterly photoreal fantasy illustration with the weight of an oil-painted family portrait — concept-art quality, soft visible brushwork, obsessive material detail on armor, cloth, and stone. Grounded and documentary in tone rather than glamorous; post-imperial melancholy and cold upland atmosphere. The realism of a historical portrait crossed with a moody landscape painting.",
+  "aspect_ratio": "3:2 landscape — wide enough to hold the family on one side and the fortress-town and storm-mountains on the other",
+  "do_not_include": [
+    "Clean, polished, or ornate gleaming armor — Aldric's plate is dark, matte, and battered",
+    "Heroic or triumphant posing — this is a somber, intimate family moment",
+    "Glowing magic, visible spell effects, or supernatural light",
+    "Overt menace or villainy in Aldric's expression — he is stern and watchful, not snarling",
+    "Bright sunlight, clear skies, or cheerful color — the weather is cold and overcast, storm gathering",
+    "Generic human features on Aldric — the elven Greenholt lineage must show",
+    "A cartoonish or storybook village — Crownvale is a substantial fortified hill-town",
+    "Modern or anachronistic elements"
+  ]
+}

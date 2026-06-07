@@ -1,0 +1,63 @@
+{
+  "title": "Luminary Severin Morrow — Portrait",
+  "purpose": "The party will encounter Severin at the Chryseum. He is the Luminary — the presiding cleric — of Aurelion's cathedral, and the third son of Count Albrecht Marrow. He is a major NPC and likely antagonist or complication. He has been turning his congregation against bards and storytellers, his preaching has fueled the Aureate crackdown on performers, and his presence at the Chryseum is the human face of the institutional severity the party has been walking through. This portrait should make players understand him immediately: not a villain, but something more uncomfortable — a true believer with power. Certainty in the wrong hands cuts deeper than malice.",
+  "subject": "A severe middle-aged man in immaculate Luciferian vestments, captured in the environment that is both his domain and his expression — the Chryseum. He is not posed theatrically. He is simply present, mid-thought or mid-assessment, looking at the viewer with the directness of someone who has already decided what you are and is waiting for you to confirm it. The portrait should feel like the moment just before he speaks — and you know whatever he says will be delivered with absolute conviction.",
+  "critical_direction": {
+    "not_a_villain": "Severin is NOT an evil priest, a corrupt cleric, or a scheming antagonist in robes. He genuinely believes. He has stared into the light so long he sees shadows everywhere. His severity comes from faith, not cruelty. He does not enjoy punishing people — he believes he is protecting them from lies. This distinction is essential. The portrait should make the viewer uncomfortable not because he looks evil but because he looks RIGHT. He looks like a man who has never doubted anything in his life, and that certainty is more frightening than malice.",
+    "not_generic_fantasy_priest": "He should not look like a standard fantasy cleric, a D&D priest, a pope figure, or a medieval monk. He is specific: a man shaped by a particular faith (Luciferian — worship of light, warding, permanence) in a particular place (a tarnished golden city) with a particular psychology (certainty that has calcified into something dangerous). Every visual detail should serve his specificity.",
+    "the_assessment": "His expression is the most important element in the image. He is looking at the viewer — and THROUGH the viewer. His eyes search for the lie beneath. He does not need to scowl or glare. The unsettling quality is the calm, methodical evaluation. He has already categorized you. He is waiting to see if you prove him wrong, and he does not expect to be surprised."
+  },
+  "character": {
+    "physicality": "Middle-aged to older. Lean, not gaunt — disciplined, not starved. A jaw held tight enough to ache, visible even at rest. The tension in his face is structural, not emotional — this is a man who has been clenching for years. Hands that gesture in precise liturgical patterns even in casual posture, as if his body has memorized the rituals so deeply they leak into ordinary movement. Posture perfectly straight, not rigid — the kind of uprightness that comes from genuine conviction, not performance.",
+    "vestments": "Immaculate Luciferian clerical vestments. These hang perfectly straight — he adjusts them constantly, unconsciously. The vestments are the best-maintained fabric in Aurelion, like the Chryseum is the best-maintained building. Colors: predominantly whiteglass pale (cool near-white with a faint luminous quality) and liturgical gold, with shadow black accents and candle-flame amber in the trim or lining. The gold here is REAL gold thread, not tarnished — the Church invests in its clergy's appearance as it invests in its cathedral. The vestments are not ornate for the sake of display — they are precise, orderly, and correct. Every fold has doctrinal meaning.",
+    "the_pendant": "A whiteglass pendant at his chest — the most important single object in the portrait. Whiteglass is a translucent, radiant substance associated with Lucifer, believed to be immutable and uncorruptible. It generates its own faint cool blue-white luminescence. The pendant catches light like a small cold sun against his chest. It is the one point of cool light on his person, contrasting with the warm gold and amber around it. It should draw the eye — this is his faith made tangible, worn over his heart.",
+    "hands": "Visible and expressive. One hand may hold or work through prayer beads — small, dark, producing a soft click when moved. The other hand mid-gesture — not dramatic, but precise, a liturgical hand position that he uses unconsciously even outside of ritual. His fingers are deliberate. Nothing about this man is accidental.",
+    "eyes": "The focal point of the portrait. They look directly at the viewer. Not angry, not kind — evaluating. Searching for the lie beneath the surface. There is intelligence in them, and conviction, and the particular quality of a man who believes he can see what others cannot. They should make the viewer feel seen in a way that is not comfortable."
+  },
+  "setting": {
+    "location": "Inside the Chryseum — his domain. The background should suggest the cathedral interior without competing with the figure: warm gold tones from the dome's reflected light above, the cool glow of a whiteglass element behind or to one side, the haze of incense in the air catching the light. He might be at his pulpit, in a side chamber, or simply standing in the nave. The space frames him as the human center of the institutional power the party has been walking through.",
+    "depth_of_focus": "The background should be present but soft — readable as the Chryseum interior (warm gold light, cool whiteglass glow, stone columns, incense haze) but not sharply detailed. Severin himself is the subject. The cathedral is his context.",
+    "lighting_on_figure": "Complex and intentional. The warm gold radiance of the Chryseum's dome light hits him from above, giving his vestments and face a warm tone. But the whiteglass pendant at his chest produces its own cool counter-light, casting a faint blue-white uplight on his jaw and lower face. This dual lighting — warm institutional gold from above, cool personal faith-light from his pendant — should create subtle tonal complexity on his face. He is lit by his environment and by his belief simultaneously."
+  },
+  "sensory_details_as_visual_cues": {
+    "note": "These are drawn from the character's established sensory profile. Not all can be shown in a still image, but the ones that can should inform the rendering.",
+    "incense": "The air around him carries temple incense — visible as a faint haze, particularly in the light shafts behind him. Frankincense and something sharper, like juniper.",
+    "prayer_beads": "Small dark beads visible in one hand, worked through his fingers. A thinking habit, not a performance.",
+    "vestment_precision": "The vestments hang with unnatural perfection. No wrinkle, no fold out of place. He adjusts them without thinking. This precision should read as psychological, not just sartorial.",
+    "the_whiteglass_smell": "Whiteglass should not have a smell, but somehow does around him. Obviously this cannot be rendered visually, but the pendant's unusual luminous presence — slightly brighter or more active than whiteglass elements elsewhere — can suggest that his relationship to the substance is uncommonly intimate."
+  },
+  "color_palette": [
+    "whiteglass pale — cool near-white with faint blue luminescence (vestment base, pendant)",
+    "liturgical gold — rich, maintained, real gold thread (vestment accents, trim)",
+    "shadow black (vestment accents, the depth of fabric folds)",
+    "candle-flame amber (trim, lining, warm light from above)",
+    "warm gold radiance (Chryseum dome light in the background, falling on his upper body)",
+    "cool blue-white point light (the whiteglass pendant's own luminescence)",
+    "incense gray-blue haze (background atmosphere)",
+    "skin tones that show the dual lighting — warm gold from above, cool pendant-light from below"
+  ],
+  "mood": "The discomfort of being assessed by someone who believes they already know the answer. Not hostility — something worse. Patience. The kind of patience that comes from absolute certainty. He will wait for you to speak because he already knows what you will say, and he already knows whether it is true. For Roderic, this face represents the highest expression of his faith and the most dangerous version of it simultaneously. For Edric, this is the man who wants to silence him — not out of hatred, but out of a conviction that all storytellers are liars and the world is better without lies. The portrait should make the viewer want to defend themselves before he has said a word.",
+  "composition": "Medium shot — head to mid-torso or waist. Close enough to read his expression and the details of his vestments and pendant, far enough to establish his posture and the Chryseum setting behind him. He is slightly off-center, creating a composition that feels like a confrontation rather than a formal portrait. The whiteglass pendant should be near the center of the frame, the point where warm light from above and cool light from below meet on his body. His eyes should be at or near the upper third intersection — the natural resting point of the viewer's gaze, so the first thing you see is his assessment.",
+  "details": [
+    "The jaw tension — visible muscle definition from habitual clenching, the physical trace of a man who holds everything tight",
+    "Prayer beads in one hand, dark against pale vestments, caught mid-motion between his fingers",
+    "The whiteglass pendant glowing with its own cool light, distinct from the warm gold light around it — a small cold sun on his chest",
+    "Vestments hanging with uncanny precision — perfectly straight lines, no casual wrinkles, every fold deliberate",
+    "A liturgical hand gesture — not dramatic, but precise, the kind of muscle memory that surfaces unconsciously",
+    "The dual lighting visible on his face: warm gold from the dome above, cool blue-white from the pendant below, creating subtle mixed tones",
+    "Incense haze in the background catching shafts of warm and cool light",
+    "Eyes that look at the viewer directly — calm, intelligent, evaluating, certain. Not cruel. Worse than cruel."
+  ],
+  "style": "Painterly fantasy portrait with psychological depth and atmospheric lighting. Concept art quality. The tone of a Renaissance ecclesiastical portrait — Velázquez's Pope Innocent X or Philippe de Champaigne's Cardinal Richelieu — applied to a fantasy faith. The rendering should honor the character's complexity: this is not a bad man, this is a certain man, and the portrait's job is to make the viewer feel the weight of that certainty. Grounded and realistic, with strong attention to fabric texture, light interaction, and facial expression.",
+  "aspect_ratio": "2:3 portrait — vertical composition for a character portrait, giving room for the Chryseum setting above and the vestment detail below while keeping the face as the focal point",
+  "do_not_include": [
+    "Evil priest tropes — glowing eyes, skull motifs, dark magic, sinister grins, shadowed hoods",
+    "Christian-specific iconography — no crosses, no mitres, no bishop's crook. This is a Luciferian faith with its own visual language",
+    "Generic fantasy cleric robes — his vestments are specific, precise, liturgically meaningful",
+    "Warmth or kindness in the expression — he is not unkind, but he is not welcoming. The default setting is assessment",
+    "Old age or frailty — he is severe, not elderly. There is strength and discipline in him",
+    "Ornate papal excess — his vestments are precise and correct, not ostentatiously decorated. The wealth is in the quality of the materials, not in the quantity of decoration",
+    "Colored stained glass light falling on him — the light sources are warm gold (dome) and cool blue-white (whiteglass), not rainbow",
+    "Any suggestion of doubt, conflict, or internal struggle — Severin's defining trait is the ABSENCE of doubt. That is what makes him dangerous"
+  ]
+}

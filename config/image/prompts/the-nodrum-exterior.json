@@ -1,0 +1,29 @@
+{
+  "title": "The Nodrum — Exterior",
+  "subject": "An ancient geometric ruins complex partially reclaimed by nature, with small-scale halfling modifications built onto much older, larger architecture",
+  "setting": "A forested hillside or valley in a low-fantasy world. The facility is built into or emerges from the earth, suggesting something buried and only partially exposed.",
+  "architecture": {
+    "ancient_layer": "Massive stone blocks with precise geometric carvings — circles, triangles, intersecting lines. Tarnished bronze fixtures and mechanisms visible in the stonework. Verdigris patina on metal surfaces. The scale suggests this was built for something much larger than the current occupants.",
+    "modern_layer": "Halfling-sized wooden doors, scaffolding, rope ladders, and small balconies bolted onto the ancient structure. Practical, clever, but clearly improvised against something monumental. Lanterns hang from brackets. A chimney has been added."
+  },
+  "mood": "Quiet unease beneath scholarly curiosity. A place where someone small and clever has made a home inside something vast and unknowable.",
+  "lighting": "Late afternoon or early evening. Warm natural light from above, but pale amber light leaks from cracks and seams in the ancient stonework — suggesting active energy within.",
+  "color_palette": [
+    "tarnished bronze",
+    "verdigris green",
+    "pale amber glow",
+    "weathered gray stone",
+    "mossy earth tones",
+    "warm wood browns for halfling additions"
+  ],
+  "composition": "Slightly low angle, looking up at the entrance. The viewer is arriving — this is a first impression. The halfling-scale door should be visible but dwarfed by the ancient stonework surrounding it.",
+  "style": "Painterly fantasy illustration, grounded and atmospheric rather than cartoonish. Comparable to concept art for a dark fairy tale — think Brian Froud meets ancient Roman engineering.",
+  "aspect_ratio": "16:9 landscape",
+  "do_not_include": [
+    "modern materials or technology",
+    "bright saturated colors",
+    "characters or figures in the scene",
+    "generic medieval castle elements",
+    "glowing magic runes on the exterior"
+  ]
+}

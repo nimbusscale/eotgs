@@ -1,0 +1,63 @@
+{
+  "title": "Aurelion — Street Level",
+  "purpose": "Ground-level immersion. What it feels like to walk through Aurelion. The establishing shot showed the city from outside; this puts the viewer inside it, at eye level, experiencing the gap between institutional grandeur overhead and daily life at street level. The party is passing through on their way to the Chryseum.",
+  "subject": "A wide Imperium-era avenue in Aurelion, repurposed by centuries of smaller-scale habitation. Monumental colonnades and gilded stonework tower above a street filled with common people going about tense, guarded daily business under the watch of patrolling soldiers. The absence of music, storytelling, and street performance is palpable — Severin's crackdown has stripped the city of its voice.",
+  "core_aesthetic": {
+    "historical_context": "Aurelion was once a crown jewel of the Imperium Lucis Aeternae — a vast Roman-analogous empire of light. The city sat atop rich gold deposits and the Imperium had the magical technology to extract it. The name itself echoes 'aurum.' Gold language runs through every institution: the Aureate (soldiers), the Assayer Sovereign, the Orate. But the Imperium fell centuries ago, the extraction technology was lost, and the gold is locked in inaccessible substrate beneath the city. Aurelion went from imperial capital to independent Middle Kingdom to conquered vassal of Beaconhold. It is now a county seat ruled by a count who answers to a distant king.",
+    "visual_philosophy": "Gold that has tarnished. Grandeur that has been patched. Imperial architecture repurposed for smaller ambitions. Think Prague or Budapest — cities where you can see the layers of history and the gap between what the place once was and what it is now. Gilded domes gone green with verdigris. Broad imperial avenues lined with cramped market stalls. Monumental stonework being used as the foundation for timber tenements. A post-imperial Eastern European melancholy layered over Roman-scale bones.",
+    "emotional_register": "Not grimdark or ruined — this is a functioning city with people living their lives. The tragedy is quiet. It is a place that remembers being important and knows it is not anymore. The gold is still there in the name, the titles, the architecture — but it is decorative memory, not living wealth."
+  },
+  "setting": "A major avenue or boulevard in Aurelion, originally built as an imperial processional route. The viewer is standing at street level looking down its length, with the Chryseum's dome visible at the far end above the rooftops — the party's destination drawing the eye forward.",
+  "architecture": {
+    "upper_level": "Imperium-era colonnades line both sides — massive stone columns with carved capitals, originally supporting a grand covered walkway. Gold leaf and gilded inscriptions are still visible on the stonework above the second story, darkened with age and soot but legible if you look up. Arched windows and decorative friezes from an era that built for permanence. This level of the street belongs to the past.",
+    "street_level": "The colonnades have been colonized. Market stalls, lean-to shops, and awnings are built between and against the columns, using them as structural anchors. Laundry lines stretch between columns across the avenue. Timber-framed upper stories have been added on top of the original stone ground floors, sometimes cantilevering out over the street. The imperial avenue has been narrowed by centuries of encroachment. This level belongs to the present.",
+    "the_gap": "The contrast between the two levels is the point. Look up and you see an empire. Look straight ahead and you see a struggling county seat. The columns are doing double duty — holding up the memory of the Imperium and holding up someone's laundry."
+  },
+  "figures_and_life": {
+    "civilians": "Common people going about daily business — merchants at stalls, a baker, laborers, a woman carrying water, children underfoot. But the body language is guarded. Hands close to purses, eyes checking over shoulders. Conversations happen in low voices. People step aside for the Aureate without being asked.",
+    "aureate_patrol": "Two or three Aureate soldiers walking the street in formation. Their armor was once gilded but now shows steel at the stress points — tarnished gold over dull metal, weathered leather, mended cloaks. They are the visual embodiment of the city's condition: golden in name, worn in reality. They scan the crowd with the practiced watchfulness of men enforcing an unpopular decree.",
+    "the_absence": "This is the most important element. There should be a conspicuous empty space where a performer would be — a small raised platform or a corner alcove that is clearly designed for or traditionally used by street musicians or storytellers, now vacant. Perhaps a broken lute leaning against a wall, or a torn and weathered broadsheet advertising performances that have been cancelled. A tavern with its stage shuttered or its performance area converted to storage. The silence should be visible."
+  },
+  "signs_of_ruin": {
+    "approach": "Subtle. Not monsters or corruption visible to the eye — just things that seem slightly wrong, slightly too deteriorated, slightly off. The kind of details that make you uneasy without being able to say exactly why.",
+    "examples": [
+      "A stone column with a crack that looks too fresh and too deep for normal wear — as if decades of aging happened in weeks",
+      "Produce on a market cart that looks slightly off — not rotten, but wilted and gray in a way that is hard to pin down",
+      "A building corner that has recently crumbled, with rubble still on the ground and no one bothering to clean it up, as if people have stopped being surprised by things falling apart",
+      "A merchant examining a gold coin with suspicion, as if the metal itself cannot be trusted anymore"
+    ]
+  },
+  "lighting": "Overcast daylight filtering between buildings, with occasional shafts of warm light breaking through gaps in the architecture. The gold leaf on the upper stonework catches what light there is, creating faint warm glints above the shadowed street level. The Chryseum dome in the background glows warmer than anything else — the destination pulling the eye.",
+  "color_palette": [
+    "tarnished gold and dark amber (gilded surfaces, aged metal)",
+    "warm sandstone and honey limestone (Imperium columns and walls)",
+    "weathered timber brown and patched gray (street-level additions)",
+    "muted earth tones (clothing, market goods, road surface)",
+    "dull steel showing through worn gold (Aureate armor)",
+    "faded ochre and dusty cream (plaster, awnings, old paint)",
+    "one distant warm glow — the Chryseum dome above the rooftops"
+  ],
+  "mood": "Quiet oppression. Not violent or dramatic — just the heaviness of a city that has been slowly squeezed of its joy. The architecture remembers grandeur; the people remember last week's grain tax. The Aureate patrol is not brutal but is omnipresent. The missing performers and storytellers leave a hole in the street's rhythm that everyone can feel but no one talks about. Life goes on, but something essential has been taken from it.",
+  "composition": "Street-level perspective looking down the avenue, slightly off-center. The colonnades create strong leading lines drawing the eye to the Chryseum dome in the background. The Aureate patrol should be in the middle distance — present but not the focus. The empty performance space should be in the foreground or near-middle ground, noticeable. Civilians populate the scene naturally throughout. Vertical layering is key: ancient grandeur above, cramped daily life below.",
+  "details": [
+    "At least one gilded inscription on the upper stonework that is still partially legible — imperial Latin-style text commemorating something long forgotten",
+    "A column base worn smooth by centuries of people leaning against it, sitting on it, tying things to it",
+    "A child looking up at the gold leaf on the columns with wonder — the only person in the scene who still sees the beauty",
+    "A shuttered tavern stage or boarded-up performance alcove with the ghost of what used to happen there",
+    "Market stalls selling practical goods — bread, rope, tools — nothing luxurious, nothing frivolous",
+    "An old woman sweeping her doorstep as if maintaining normalcy is an act of defiance",
+    "The Chryseum dome visible at the end of the avenue, slightly above the roofline, catching more light than anything at street level"
+  ],
+  "style": "Painterly fantasy illustration with strong atmospheric depth and narrative density. Concept art quality. The tone of a genre painting — Bruegel's crowd scenes applied to a post-imperial fantasy city. Every corner of the image should reward a closer look. Grounded and realistic, with the kind of environmental storytelling where the setting itself communicates the narrative without needing characters to explain it.",
+  "aspect_ratio": "16:9 landscape — wide enough to capture the avenue's breadth, the colonnade depth, and the layers of daily life",
+  "do_not_include": [
+    "visible magical corruption, dark tendrils, glowing eyes, or overt fantasy horror — ruin's influence is subtle here",
+    "street performers, musicians, or storytellers actively performing — their absence is the point",
+    "bright colors or festive atmosphere — this city's color has been muted by circumstance",
+    "soldiers being violent or actively threatening civilians — the oppression is ambient, not active in this moment",
+    "empty streets — the city is populated and functioning, that is what makes the quiet oppression effective",
+    "rain or dramatic weather — the overcast is mundane, not ominous",
+    "modern elements or anachronisms",
+    "generic medieval village aesthetic — this was an imperial boulevard and still reads as one despite the encroachment"
+  ]
+}

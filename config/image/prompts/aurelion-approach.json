@@ -1,0 +1,53 @@
+{
+  "title": "Aurelion — The Approach",
+  "purpose": "Establishing shot. The party's first full view of the city from the road. This is the wide-angle 'camera pulls back' moment that sets the entire visual tone for the session.",
+  "subject": "A once-magnificent golden city seen from the approaching road, where imperial grandeur is still visible in the bones of the architecture but centuries of decline have tarnished and patched everything. The city tells its own history at a glance — monumental Imperium-era construction repurposed, repaired, and slowly fading.",
+  "core_aesthetic": {
+    "historical_context": "Aurelion was once a crown jewel of the Imperium Lucis Aeternae — a vast Roman-analogous empire of light. The city sat atop rich gold deposits and the Imperium had the magical technology to extract it. The name itself echoes 'aurum.' Gold language runs through every institution: the Aureate (soldiers), the Assayer Sovereign, the Orate. But the Imperium fell centuries ago, the extraction technology was lost, and the gold is locked in inaccessible substrate beneath the city. Aurelion went from imperial capital to independent Middle Kingdom to conquered vassal of Beaconhold. It is now a county seat ruled by a count who answers to a distant king.",
+    "visual_philosophy": "Gold that has tarnished. Grandeur that has been patched. Imperial architecture repurposed for smaller ambitions. Think Prague or Budapest — cities where you can see the layers of history and the gap between what the place once was and what it is now. Gilded domes gone green with verdigris. Broad imperial avenues lined with cramped market stalls. Monumental stonework being used as the foundation for timber tenements. A post-imperial Eastern European melancholy layered over Roman-scale bones.",
+    "emotional_register": "Not grimdark or ruined — this is a functioning city with people living their lives. The tragedy is quiet. It is a place that remembers being important and knows it is not anymore. The gold is still there in the name, the titles, the architecture — but it is decorative memory, not living wealth."
+  },
+  "setting": "A road approaching the main gate of Aurelion from slightly elevated ground, giving the viewer a three-quarter view of the city and its surroundings. Late afternoon light. Rolling agricultural countryside in the foreground and middle distance, with the city rising behind.",
+  "architecture": {
+    "walls_and_gates": "Imperium-era walls still standing — massive, well-engineered stonework clearly built by a civilization with greater resources than the current inhabitants. But patched in places with mismatched stone and timber reinforcement. The main gate was built for imperial processions — wide, arched, decorated — but is now staffed by a handful of weary soldiers in tarnished gold armor.",
+    "skyline": "The Chryseum's golden dome is the most prominent feature — tarnished, partially patina'd green-gold with verdigris, but still catching the late afternoon light. It rises above everything else. Behind and above the city, Crest Aurelion (the castle) sits on higher ground, looking down — a seat of administrative power separated from its people. Other towers and rooftops show the mix: Imperium-era stone structures with later timber and thatch additions built on top, around, and between them.",
+    "layering": "The city should read as geological strata — massive imperial stone at the base, smaller medieval construction in the middle, and recent timber and thatch at the top. Each layer is smaller and less ambitious than the one below it."
+  },
+  "landscape": {
+    "foreground": "The road itself — a proper Imperium-era road, stone-paved, wider than it needs to be for current traffic. Weeds growing between the stones at the edges. Perhaps a milestone or waymarker that is ancient and weathered.",
+    "middle_distance": "Agricultural land surrounding the city. The fields should look thin — not barren, but sparse. Orchards that are producing but look tired. This is a region in slow economic decline, and the land shows it. A few farmsteads with patched roofs.",
+    "background": "The city itself, and beyond it hints of the wider landscape — hills or low mountains suggesting Marrow County's geography."
+  },
+  "lighting": "Late afternoon. Warm golden light coming from behind the viewer, illuminating the city face-on. The Chryseum's dome catches this light and glows — a deliberate visual callback to the city's golden identity. The rest of the city is in mixed light and shadow, with the warm tones revealing the age and wear on the stonework. A partly overcast sky with a break in the clouds letting the golden light through — the city's past literally illuminated for a moment.",
+  "color_palette": [
+    "tarnished gold and verdigris green (the dome and gilded surfaces)",
+    "warm sandstone and honey limestone (Imperium-era walls)",
+    "weathered gray and patched brown (later construction)",
+    "faded ochre and dusty earth (the road and farmland)",
+    "muted green (sparse vegetation, tired fields)",
+    "warm amber light hitting cool blue-gray shadow"
+  ],
+  "mood": "Bittersweet grandeur. The city is beautiful from a distance — the dome catches the light, the walls are impressive, the layout speaks of ambitious planning. But as details resolve, the decline becomes visible. This is a place that was built to last forever by people who believed they would, and is now inhabited by people who know better.",
+  "composition": "Three-quarter view from slightly above road level, looking toward and slightly down at the city gate, with the city rising behind it. The road leads the eye from the foreground to the gate. The Chryseum dome should be the brightest point in the image — the eye goes there first, then takes in the rest. Crest Aurelion should be visible but secondary, behind and above. The surrounding farmland frames the city and establishes its relationship to the land.",
+  "details": [
+    "The Chryseum dome is better maintained than anything else — the Church has resources even when the city does not",
+    "Gold leaf or gilded inscriptions are still faintly visible on the gate arch and upper walls, dark with age",
+    "A few figures on the road approaching the gate — small, to establish scale against the imperial architecture",
+    "Aureate guards at the gate in armor that was once gilded but now shows wear — tarnished gold over dull steel",
+    "At least one building in the city shows recent damage or collapse, suggesting the subtle influence of ruin creeping in",
+    "Smoke from chimneys and hearths — the city is alive and populated, not abandoned",
+    "The road is wider than current traffic justifies — it was built for legions and processions, not farmer's carts"
+  ],
+  "style": "Painterly fantasy illustration with strong atmosphere and a sense of lived history. Concept art quality. The tone of a landscape painting that tells a story — every detail communicates the gap between what this place was built to be and what it has become. Grounded and realistic rather than cartoonish or stylized. Think the establishing shots in films set in post-imperial cities — the beauty is real but so is the weight of time.",
+  "aspect_ratio": "16:9 landscape — wide establishing shot to capture the city breadth and its relationship to the surrounding land",
+  "do_not_include": [
+    "ruins or destruction — the city is declining, not ruined; it functions",
+    "dark fantasy or grimdark aesthetic — the tragedy here is quiet, not dramatic",
+    "magical effects, glowing runes, or visible divine influence in the sky",
+    "lush greenery or prosperous-looking farmland — the land is tired",
+    "modern materials or anachronistic elements",
+    "characters prominently featured — any figures should be small, establishing scale",
+    "snow or winter — the season is not winter",
+    "generic medieval fantasy village aesthetic — this was an imperial city and still looks like one, just worn"
+  ]
+}

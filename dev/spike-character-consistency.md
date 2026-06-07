@@ -119,10 +119,10 @@ python3 scripts/generate-image.py --prompt-file <spec.json> --name <slug> --out-
 - **Player identity references:** `images/pcs/` — Garland: `garland-portrait.jpg`,
   `garland-second-harvest.jpg`, `garland-and-castor-beaver.jpg`; Roderic: `roderic-pose.jpg`,
   `roderic-horse.jpg`.
-- **House-style exemplar spec:** `image/prompts/eisen-dorn-portrait-image-spec.json`.
-- **Aurelion setting specs:** `image/prompts/aurelion-street-level-image-spec.json`,
-  `aurelion-approach-image-spec.json`, `crest-aurelion-castle-image-spec-v2.json`,
-  `chryseum-exterior-image-spec.json`, `chryseum-interior-image-spec.json`.
+- **House-style exemplar spec:** `config/image/prompts/eisen-dorn-portrait.json`.
+- **Aurelion setting specs:** `config/image/prompts/aurelion-street-level.json`,
+  `aurelion-approach.json`, `crest-aurelion-castle.json`,
+  `chryseum-exterior.json`, `chryseum-interior.json`.
 - **Realized images:** locate via `config/image-map.yaml` (`locations/aurelion`, `pcs/*`) → `images/`.
 - **Character text:** `kb/pcs/garland-yn-greenholt.md`, `kb/pcs/sir-roderic-lightbearer.md`.
 

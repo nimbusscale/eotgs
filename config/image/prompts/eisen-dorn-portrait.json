@@ -1,0 +1,77 @@
+{
+  "title": "First Aureate Eisen Dorn — Portrait",
+  "purpose": "Edric has an existing relationship with Dorn — Dorn watched Edric talk down an angry mob protesting a grain tax and respects him for it. Dorn is the human face of Marrow's secular authority: the commander of the Aureate, the count's armed guard. He is the man who has to carry out Severin's anti-storyteller decree even though he does not care about theology. He represents the practical, exhausted middle of the power structure — the soldier who follows orders because someone has to keep order, even when the orders come from people he privately thinks are fools. He could be an ally, an obstacle, or both. This portrait should make players feel the weight on him.",
+  "subject": "A weathered, tired old soldier in once-gilded armor that now shows the steel beneath. He is the visual embodiment of Aurelion itself — golden in name, worn in reality. Everything about him communicates endurance without enthusiasm. He has been holding this post for too long, serving masters he does not fully respect, enforcing decrees he did not choose, and keeping order in a city that is slowly losing the will to maintain itself. He is still standing because someone has to be.",
+  "critical_direction": {
+    "not_a_warrior_hero": "Dorn is NOT a heroic knight, a grizzled badass, or a battle-hardened commander from an epic fantasy war film. He is a career civil servant with a sword. He has seen combat, but his daily reality is garrison duty, patrol rotations, breaking up protests, and trying to keep underpaid soldiers from deserting. The portrait should feel like a man photographed at the end of a twelve-hour shift he did not want to work, not a man on the eve of a glorious battle.",
+    "not_a_corrupt_guard_captain": "He is also NOT a corrupt or brutal enforcer. He does not enjoy his authority. He does not take bribes (or if he does, it is with the resignation of a man who knows the system is broken). He is pragmatic and tired, not cruel. When he enforces Severin's decree against performers, he does it because it is an order, not because he believes in it. That distinction should be visible — duty without conviction.",
+    "the_armor_IS_the_metaphor": "His armor is the single most important visual element. It was once gilded — fully gold-plated, the ceremonial armor of the First Aureate, the golden commander of a golden city's golden guard. Now the gold has worn away at every stress point — the shoulders, the elbows, the edges of the breastplate, the belt line — revealing dull steel beneath. The gold remains only in the protected areas: decorative panels on the chest, the crest on his pauldron, recessed details where friction does not reach. This armor IS Aurelion. The gold is still in the name and the protected corners, but the working surfaces have been ground down to bare function. Do not clean up this armor. Do not make it look impressive. Make it look like it has been worn every day for twenty years by a man who maintains it because that is his duty but no longer takes pride in its appearance."
+  },
+  "character": {
+    "physicality": "Old but not ancient — late fifties or sixties. The kind of old that comes from hard use rather than years alone. A face lined by sun and worry, with deep-set eyes that scan exits and rooftops without conscious thought — the ingrained habit of a lifetime of garrison command. Broad shouldered but beginning to stoop. Hands thick and calloused, resting on his sword belt out of habit rather than threat. Not imposing — settled. A man who has found his position and worn a groove into it.",
+    "armor": "The defining visual element. Once-gilded plate and mail, now showing its true nature. Tarnished gold remains in decorative panels, recessed details, and the ceremonial crest. Bare dull steel is exposed at every high-wear point: shoulder edges, elbow joints, the lower rim of the breastplate, buckle contact points. The leather straps and belting are quality but worn — darkened, cracked at the bend points, replaced in places with leather that does not quite match. The cloak was once fine — perhaps a deep gold or amber — but has been mended too many times with thread that does not match, creating a patchwork of slightly different tones. The overall impression: this equipment was built for ceremony and has been used for work.",
+    "sword": "A functional sidearm, not a ceremonial weapon. Plain crossguard, worn grip, the scabbard showing use. He carries it because it is part of the job, not because he wants to draw it. His hand rests near it from muscle memory, not readiness.",
+    "expression": "Tired. Not defeated — tired. There is a difference. Defeated men stop. Tired men keep going because stopping is not an option. His eyes are watchful but weary. His mouth is set in the neutral position of a man who saves his words because shouting wastes energy. He does not look angry or sad or stern — he looks like a man who has been doing this for a very long time and will do it for as long as he has to. If there is any warmth in his face, it is deeply buried — the kind that only surfaces in private moments over a drink, not on duty.",
+    "posture": "Leaning. Not dramatically — just the slight lean of a man who takes the weight off one leg when he can, who rests his hip against a wall or a post, who has learned that standing at attention is for men who still have something to prove. He is beyond performance. He stands the way he stands because that is how his body works now."
+  },
+  "setting": {
+    "location": "A guard post, gatehouse, or checkpoint within Aurelion. The kind of functional space where Dorn spends his days — stone walls, a duty roster or patrol schedule tacked to a board, a bench worn smooth, maybe a cold cup of something on a ledge. One or two other Aureate soldiers visible in the background, younger, looking to him for direction. The Imperium-era stonework of the city is visible — a column or archway — reminding us that Dorn patrols a city built by someone greater.",
+    "depth_of_focus": "Dorn is sharp. The setting is present but secondary — readable enough to establish 'guard post in Aurelion' but not competing with the character. The stone and the other soldiers provide context; Dorn provides the story.",
+    "lighting": "Flat, practical, unglamorous. The kind of light that exists at a guard post on an overcast afternoon — diffuse, coming from one side where the post opens to the street. No dramatic shafts or golden hour warmth. This is working light for a working man. The tarnished gold on his armor catches what little warmth there is in the light; the exposed steel does not."
+  },
+  "the_armor_in_detail": {
+    "critical_note": "This section exists because the armor is the central metaphor of the image and must be rendered with specificity. Generic 'worn fantasy armor' is not sufficient. The pattern of where gold remains and where it has worn away tells the story of how this armor has been USED — and therefore how this city has been used.",
+    "gold_remaining": [
+      "A decorative panel on the center of the breastplate — a crest or sunburst motif, recessed and protected from contact",
+      "The crest on one pauldron (shoulder guard) — ceremonial, not structural",
+      "Recessed decorative details in the gorget (throat guard) and vambraces (forearm guards)",
+      "The pommel cap of his sword — a small gilded detail"
+    ],
+    "gold_worn_away": [
+      "The outer edges and ridges of both pauldrons — constant contact with doorframes, walls, other bodies",
+      "The elbow cops (elbow guards) — bare steel from bending",
+      "The lower rim of the breastplate — friction from the sword belt",
+      "Buckle contact points and strap attachment points — daily fastening has ground the gold away",
+      "The tops of the gauntlets or gloves — handling, gripping, working"
+    ],
+    "leather_and_fabric": "The underlying leather is darkened with age and sweat, cracked at flex points. Replacement straps do not match the original. The cloak has been mended with at least three different thread colors, creating visible patch lines. The cloak's original color (deep gold or amber) is faded, especially at the shoulders where sun and weather have bleached it.",
+    "maintenance": "The armor is MAINTAINED but not POLISHED. Dorn keeps it functional — oiled, repaired, straps replaced when they break. But he does not make it shine. The difference between maintained and polished is the difference between duty and pride, and Dorn has one but not the other."
+  },
+  "color_palette": [
+    "tarnished gold — dark amber-gold, not bright, the color of gold that has oxidized and been handled (remaining decorative panels)",
+    "dull steel — the matte gray of working metal, unpolished (exposed armor at wear points)",
+    "weathered leather brown — dark, cracked, multiple shades from replaced straps",
+    "road dust gray — the general film that settles on a man who walks the same streets every day",
+    "faded gold-amber — the cloak's original color, now sun-bleached and patched",
+    "old iron — the color of his sword, his buckles, the practical hardware",
+    "warm stone and pale limestone (the Imperium-era setting behind him)",
+    "skin tone: weathered, sun-lined, the permanent tan of outdoor duty"
+  ],
+  "mood": "Endurance without illusion. Dorn knows exactly what Aurelion is, exactly what Marrow is, exactly what Severin's decree is doing to the city. He does not agree with all of it. He does not resist any of it. He keeps order because if he does not, someone worse will. The portrait should make the viewer feel the particular sadness of a competent man serving a system he has outlived his faith in — not dramatically, not tragically, just as the settled reality of a life spent in harness. If the viewer feels the impulse to buy this man a drink and ask him what he really thinks, the portrait has succeeded.",
+  "composition": "Medium shot — head to waist or slightly below, close enough to read the armor detail and facial expression. He is not centered — slightly off to one side, leaning or resting against something, creating an asymmetric composition that feels candid rather than posed. The armor fills the lower half of the frame, letting the gold-to-steel wear pattern tell its story. His face occupies the upper third, eyes meeting the viewer with tired directness. The guard post setting is visible behind and to one side, providing context without dominating.",
+  "details": [
+    "The specific gold-to-steel wear pattern on the armor — gold in protected recesses, bare steel at every contact point and edge",
+    "Mismatched leather straps where originals have been replaced — at least two different leather tones visible",
+    "The cloak's visible mend lines — three or more patches, slightly different thread colors, the fabric faded unevenly",
+    "Deep facial lines from sun and squinting, particularly around the eyes and across the forehead",
+    "Hands resting on the sword belt — thick, calloused, the hands of a man who has gripped the same things for decades",
+    "A slight lean — weight shifted to one leg, hip against a wall or post, the body language of conservation",
+    "Eyes that are looking at the viewer but also past the viewer — scanning, assessing, cataloguing, out of habit",
+    "Younger Aureate soldiers in the background, less worn, looking toward him — establishing his role as the man they follow",
+    "An Imperium-era column or archway in the background — the ancient city framing the man who patrols it",
+    "The unconscious sigh in his posture — not dramatic, just the settled exhaustion of a man who will do this again tomorrow"
+  ],
+  "style": "Painterly fantasy portrait with a documentary quality — the tone of a war photographer's portrait of a career NCO, not a hero painting. Concept art quality. The rendering should honor the mundane reality of this man's life: he is not a protagonist, he is the infrastructure. The armor detail and facial expression carry equal weight. Grounded and realistic, with strong attention to material wear patterns, fabric aging, and the particular quality of a human face that has been doing the same hard thing for too long.",
+  "aspect_ratio": "2:3 portrait — vertical composition for a character portrait, giving room for the full armor detail below and the guard post setting above and behind",
+  "do_not_include": [
+    "Heroic warrior posing — dramatic stance, drawn sword, battle-ready tension",
+    "Pristine or impressive-looking armor — the entire point is the wear",
+    "Bright gold — his gold is TARNISHED, dark amber-gold, not gleaming",
+    "Cruelty, menace, or corruption in his expression — he is tired, not evil",
+    "Youth or vigor — he is old and worn, even if still strong",
+    "Generic fantasy guard armor — his armor is specific and its wear pattern tells a specific story",
+    "Dark or dramatic lighting — this is workday light at a guard post, not a cinematic scene",
+    "Battle scars or dramatic injuries — his wear is from DUTY, not combat. Patrol, garrison, crowd control — not war",
+    "Clean matching equipment — nothing matches anymore, everything has been replaced piecemeal"
+  ]
+}

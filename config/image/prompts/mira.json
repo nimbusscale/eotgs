@@ -1,0 +1,53 @@
+{
+  "title": "Mira — Apprentice of the Witch Stones",
+  "purpose": "A portrait of Mira, Aldric's daughter and Garland's great-great-grandchild, who carries the Greenholt Bloodline and has declared herself Garland's apprentice. She hears the Witch Stones not as grinding earth but as words, a connection that may run deeper than Garland's own, and her gate-craft has already torn open a stable portal between matching rings of standing stones. This image shows her in her place of power — a wild young heir to deep earth-magic standing among the megaliths, untamed and watchful, her potential and her unease held in the same frame.",
+  "subject": "A young woman with elven features stands among weathered, moss-covered standing stones on a windswept upland moor beneath a storm-grey sky. She wears layered, ragged druidic garb of mossy greens and earthen browns, carries a tall crooked wooden staff hung with charms in one hand and a knife low in the other, and looks off to the side with a wary, determined expression as the wind drags at her tangled hair.",
+  "critical_direction": {
+    "young_but_not_a_child": "Mira is young — a youth growing into formidable power, not a small child and not a grown woman. She should read as an adolescent or very young adult: unfinished, wild, on the cusp. Capable and serious, never cute or mascot-like.",
+    "the_bloodline_shows": "She carries the Greenholt Bloodline — pointed ears and fine, slightly elven features mark her as kin to Garland and Aldric. The lineage should be visible without making her look like a polished high-fantasy elf; she is feral and earthbound, raised close to old stone and wild country.",
+    "of_the_stones": "She belongs to the Witch Stones, not merely standing near them. Her garb, her circlet of growing things, and her staff should all feel grown from the same moss-and-bark world as the megaliths around her. The connection is intimate — this is where she hears the stones speak."
+  },
+  "character": {
+    "mira": "A young woman with sharp, faintly elven features and pointed ears, weathered and wind-burned from upland life. Her long brown hair is wild and tangled, woven through with leaves, twigs, and green vines that form a rough circlet or crown of growing things. Her expression is wary, alert, and determined — looking off to one side rather than at the viewer, as if listening to something on the wind.",
+    "garb": "Layered, ragged druidic clothing in mossy greens and earthen browns: a tattered moss-green cloak, a tunic and wraps that look made of bark, hide, and woven plant matter, frayed at every hem, bound with worn leather straps and buckles. The whole costume looks grown rather than tailored — weathered, lichen-touched, of a piece with the land.",
+    "staff": "A tall wooden staff with a curled shepherd's-crook head, gripped in one hand and standing taller than she is. Bundles of dried herbs, charms, and small tokens dangle from the crook on cords.",
+    "knife": "A plain knife or dagger held low and ready in the other hand — practical, not ornamental, a tool of someone who lives rough."
+  },
+  "setting": {
+    "witch_stones": "A ring or scatter of tall, weathered standing stones — ancient megaliths furred with moss and lichen — rising from rough upland grass. They are the Witch Stones, Garland's charges and Mira's place of power. They frame and surround her.",
+    "landscape": "A windswept high moor of rough grass and scattered rock, rolling away to distant hills and grey mountains. A heavy, overcast storm-grey sky overhead, with a few dark birds wheeling in the distance. The wind is plainly moving — bending grass, dragging her hair and cloak.",
+    "lighting": "Flat, cold, diffuse daylight under heavy cloud — no direct sun. The light is even and grey, letting the textures of moss, bark, stone, and skin read clearly. Atmospheric and brooding rather than dramatic."
+  },
+  "color_palette": [
+    "mossy and forest greens (cloak, foliage, lichen)",
+    "earthen and bark browns (garb, staff, soil)",
+    "weathered grey (the standing stones and distant peaks)",
+    "slate and charcoal grey (the overcast storm sky)",
+    "muted ochre and sage (the upland grass)",
+    "weathered, wind-burned skin tones",
+    "dull steel (the knife blade)"
+  ],
+  "mood": "Wild, watchful, and charged with latent power. A young heir to old earth-magic standing in the one place where the world speaks to her — rooted, untamed, and faintly uneasy, as if she has just heard the stones say something she does not yet understand. Grounded and atmospheric, never whimsical.",
+  "composition": "A near-full-figure or three-quarter portrait with Mira slightly off-center, the staff rising vertically through the frame, standing stones flanking her on both sides and receding into the moor behind. Low, grounded eye level. The wide upland landscape and storm sky give the figure scale and isolation. Wind direction is consistent across hair, cloak, and grass.",
+  "details": [
+    "Pointed ears and fine, elven-touched features marking the Greenholt Bloodline",
+    "Wild tangled brown hair woven with leaves, twigs, and vines into a rough living circlet",
+    "Layered ragged garb of moss-green and bark-brown, frayed and lichen-touched, bound with worn leather",
+    "A tall crook-headed wooden staff hung with dried herbs and dangling charms",
+    "A plain knife held low and ready in the other hand",
+    "Moss- and lichen-covered standing stones framing her on the open moor",
+    "Wind visibly dragging hair, cloak, and grass in one direction",
+    "A heavy overcast storm sky with distant dark birds and grey mountains beyond"
+  ],
+  "style": "Painterly photoreal fantasy illustration — concept-art quality, soft visible brushwork, obsessive material detail on moss, bark, weathered cloth, stone, and wind-burned skin. Documentary and grounded in tone: a wild upland youth rendered honestly rather than glamorously, atmospheric and weather-beaten.",
+  "aspect_ratio": "16:9 landscape — wide enough to set the figure within the ring of stones and the open storm-lit moor",
+  "do_not_include": [
+    "A small cute child or a polished glamorous elf-princess — she is a wild, weathered youth",
+    "Clean, tailored, or fine clothing — her garb is ragged, grown, and earth-stained",
+    "Glowing magic, visible spell effects, or supernatural light around her or the stones",
+    "Bright sunlight, blue skies, or cheerful color — the weather is cold and overcast",
+    "Heroic fantasy posing or a polished portrait-studio look",
+    "Modern or anachronistic elements",
+    "Generic human features that erase the Greenholt elven lineage"
+  ]
+}

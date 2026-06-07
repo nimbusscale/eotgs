@@ -1,0 +1,52 @@
+{
+  "title": "The Clockworks",
+  "subject": "A single atmospheric scene showing three types of bronze clockwork automatons that serve as extensions of an ancient facility, all inhabiting one continuous environment. These are not creatures — they are the building's limbs. They move with mechanical precision, have too many legs, and watch with crystal lenses instead of eyes.",
+  "layout": "Three groupings arranged across one continuous space, each type at a different scale, shown in their natural context within the facility. A single cohesive illustration of a living environment — not a diagram, not an annotated plate, not a labelled reference sheet.",
+  "types": {
+    "maintenance_units": {
+      "description": "The smallest and most numerous. Spider-like, roughly the size of a large hand. Four to six multi-jointed bronze limbs. A central body housing one or two crystal lenses that swivel independently. They crawl across walls, ceilings, and instruments performing constant upkeep — polishing lenses, clearing dust from channels, tightening fittings.",
+      "behavior": "Industrious, oblivious, everywhere. They ignore people entirely unless something disrupts the facility. Show two or three of them clustered on a wall panel, mid-task.",
+      "position": "Upper left portion of the image. Shown on a wall or instrument surface at close range."
+    },
+    "calibration_assistants": {
+      "description": "Larger — roughly the size of a cat or small dog. Six to eight limbs, some ending in gripping claws, others in flat pads for holding instruments steady. A more prominent lens array — three or four crystals arranged in a geometric cluster. They assist the facility's users by holding tools, marking measurements, and guiding positioning.",
+      "behavior": "Attentive and responsive. Show one holding a crystal lens at a precise angle while another extends a measuring arm. They have a quality of alert helpfulness — like well-trained assistants anticipating the next instruction.",
+      "position": "Center of the image. Shown on a workshop platform or floor, actively assisting with calibration work."
+    },
+    "defensive_systems": {
+      "description": "The largest, built into walls and floors. Angular and heavy where the others are delicate. Folded flat against surfaces when dormant — easy to mistake for architectural detail. When activated, they unfold: thick bronze limbs, reinforced plating, wider lens arrays. Not built to kill — built to restrain, contain, and block.",
+      "behavior": "Show one mid-unfold — half-emerged from a wall recess, limbs extending, lenses brightening. The transition from architecture to automaton. A second one fully dormant in the background, flush with the wall, barely distinguishable from a decorative panel.",
+      "position": "Right side and lower portion of the image. One unfolding from a wall, one still dormant and camouflaged."
+    }
+  },
+  "shared_features": [
+    "Tarnished bronze construction throughout — not shiny or new, but well-maintained by the smaller units",
+    "Crystal lenses instead of eyes — clear or faintly amber, mounted on swiveling joints",
+    "Too many limbs — every type has more appendages than feels comfortable",
+    "No faces, no mouths, no suggestion of personality or emotion",
+    "Joints and segments that are precise and machined, not organic",
+    "Geometric patterns etched faintly into their carapaces, matching the facility's aesthetic"
+  ],
+  "mood": "Clinical fascination with an undercurrent of unease. These things are useful and even elegant, but they are not friendly. They serve the building, not the people in it. The feeling of watching insects that happen to be made of bronze.",
+  "lighting": "Warm amber glow from the facility's channels provides the primary light. The crystal lenses catch and refract this light — small bright points on each automaton. Metallic surfaces show subtle reflections. The dormant defensive unit is in lower light, harder to spot.",
+  "color_palette": [
+    "tarnished bronze — the dominant material",
+    "verdigris patina on older joints and recesses",
+    "amber light reflected in crystal lenses",
+    "dark stone and shadow of the facility walls",
+    "faint pale highlights on machined edges"
+  ],
+  "composition": "Arranged to show scale progression from small to large, left to right. Each type is shown in context — on a wall, on a platform, emerging from architecture — rather than floating against a blank background. The environment ties them together as parts of one system. The dormant defensive unit blending into the wall should reward a second look.",
+  "style": "Painterly fantasy illustration with a naturalist's eye for detail, presented as a single immersive scene rather than an annotated plate or catalogue page. Concept art quality with strong material rendering on the bronze surfaces.",
+  "aspect_ratio": "16:9 landscape — wide enough to show all three types with breathing room",
+  "do_not_include": [
+    "characters or humanoid figures",
+    "cute or friendly expressions — these have no expressions at all",
+    "glowing energy weapons or offensive armaments",
+    "rust, decay, or damage — the maintenance units keep everything functional",
+    "organic elements — no flesh, no chitin, no biological components",
+    "steampunk aesthetic with gears and pipes — this is ancient precision engineering, not Victorian industry",
+    "ANY text, labels, captions, titles, numbers, headings, or written words anywhere in the image",
+    "annotation boxes, callout lines, legends, parchment notes, or reference-sheet / diagram framing of any kind"
+  ]
+}

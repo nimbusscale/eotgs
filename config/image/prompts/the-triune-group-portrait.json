@@ -1,0 +1,52 @@
+{
+  "title": "The Triune — Group Portrait",
+  "subject": "Three halfling women — hedge-wizard sisters — positioned in a precise triangle formation in their geometric workshop, mid-ritual. Each is visually distinct in color and personality, united by their shared practice of positioning-based magic. They are small people doing enormous work.",
+  "characters": {
+    "venn": {
+      "role": "Intersection and Overlap — the mediator and connector",
+      "appearance": "Middle-aged halfling woman. Warm, watchful expression. Hands mid-gesture, reaching between things as if tracing invisible connections. Eyes that focus on the spaces between people rather than on people directly.",
+      "clothing": "Layered robes in twilight violet and overlapping blue, trimmed with boundary silver. Patterns on her fabric suggest overlapping circles — Venn diagrams woven into the textile. Ink-stained fingers.",
+      "position": "Standing between the other two, slightly forward. The vertex that connects."
+    },
+    "aurea": {
+      "role": "Proportion and Harmony — the idealist and perfectionist",
+      "appearance": "Middle-aged halfling woman. Precise posture, composed expression. Everything about her is deliberate and measured — the angle of her head, the placement of her hands. Calm authority.",
+      "clothing": "Fitted garments in golden amber and polished ivory, accented with deep bronze. Clothing has deliberate bilateral symmetry. Instruments — a small brass protractor, a measuring chain — hang from her belt at exact angles.",
+      "position": "Standing at one vertex of the triangle, slightly back. Poised and still where the others are in motion."
+    },
+    "delta": {
+      "role": "Change and Transformation — the risk-taker, always mid-calculation",
+      "appearance": "Middle-aged halfling woman. Restless energy, eyes lingering on edges and cracks. Chalk dust on her fingers and smudged on her cheek. Stands in a doorway or at a threshold rather than fully in the space — always at the boundary of something.",
+      "clothing": "Practical garments in charcoal gray with flickering amber accents and fracture-white details — like cracks in stone rendered as pattern. Less composed than her sisters. A measuring rod tucked under one arm.",
+      "position": "At the third vertex, slightly apart. Leaning forward as if about to step past something."
+    }
+  },
+  "setting": "The interior workshop of the Nodrum — concentric floor rings, amber-lit channels, bronze instruments. The triangle formation the sisters hold is clearly intentional and geometric, their positions corresponding to markings on the floor.",
+  "mood": "Collaborative intensity. Three minds working as one lens. There is deep affection between them expressed through precision rather than warmth — they love each other the way mathematicians love an elegant proof.",
+  "lighting": "Amber glow from the floor channels illuminates them from below, supplemented by focused light from crystal instruments above. Each sister casts geometric shadows. The light between them — in the center of the triangle — is slightly brighter, as if their positioning focuses the ambient energy.",
+  "color_palette": [
+    "twilight violet, boundary silver, overlapping blue — Venn",
+    "golden amber, polished ivory, deep bronze — Aurea",
+    "charcoal gray, flickering amber, fracture-white — Delta",
+    "amber glow from the facility beneath and around them",
+    "tarnished bronze of the workshop environment"
+  ],
+  "composition": "Slightly elevated angle looking down into the triangle formation. The three sisters are the clear focus, with the workshop environment providing context but not competing for attention. The geometric floor markings beneath them reinforce that their positions are precise and meaningful. The center of the triangle — the space between them — should feel charged.",
+  "details": [
+    "Each sister's color palette is distinct and immediately readable",
+    "Their heights and builds are similar but not identical — they are sisters, not copies",
+    "Halfling proportions — shorter and stockier than humans, practical rather than cute. These are serious professionals.",
+    "One or two small clockwork spiders perched on shoulders or instruments nearby, assistants rather than pets",
+    "Faint amber light connecting their positions through the floor channels, forming the visible triangle"
+  ],
+  "style": "Painterly fantasy illustration, character-focused with environmental context. The tone of a portrait of specialists at work — respect for their craft and their bond. Think Vermeer's attention to light and posture applied to fantasy halflings in a geometric magic lab.",
+  "aspect_ratio": "3:4 portrait or 4:5 portrait — vertical to give the characters presence and stature despite their small size",
+  "do_not_include": [
+    "childlike or cute depictions — these are mature professional women who happen to be halflings",
+    "pointed ears or hobbit-like features — halflings in this setting are small humans, not Tolkien hobbits",
+    "bare feet — they wear practical shoes or boots",
+    "wands, staffs, or conventional wizard paraphernalia",
+    "bright flashy magic effects — their magic is subtle, geometric, positional",
+    "comedic or whimsical tone — these women are brilliant and slightly dangerous"
+  ]
+}

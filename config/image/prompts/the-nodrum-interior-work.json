@@ -1,0 +1,37 @@
+{
+  "title": "The Nodrum — Interior Workshop",
+  "subject": "The interior of an ancient geometric magic laboratory, actively used by hedge-wizards who practice positioning-based spellcraft. The space is an observatory crossed with a clockmaker's shop — everything is calibrated, adjustable, and precise.",
+  "setting": "A large circular or polygonal chamber deep inside an ancient facility. The room has multiple levels connected by adjustable walkways and platforms. The original architecture is massive and ancient; the working equipment is a mix of original mechanisms and the Triune's additions.",
+  "architecture": {
+    "floor": "Concentric rings carved or inlaid into stone, marked with measurement notations and geometric symbols. Some rings appear to rotate. Channels between the rings carry faint amber light — like veins of energy in the floor.",
+    "walls_and_ceiling": "Tarnished bronze panels with mechanical recesses — slots where clockwork devices emerge or retract. Pivoting arms hold mirrors and crystal lenses at various angles. The ceiling is high and vaulted, with more adjustable instruments suspended from above.",
+    "platforms": "Multiple elevated positions connected by walkways that can be repositioned. These are the vertices where the three practitioners stand during their work. Each platform has alignment markings and anchor points.",
+    "instruments": "Rotating platforms on central axes, adjustable mirror arrays, crystal lenses on bronze armatures, measuring rods, protractors scaled into the architecture, calibration wheels"
+  },
+  "mood": "Intense focused precision. A place of serious work where exact positioning matters. Beautiful in a mechanical way — not warm or cozy, but deeply purposeful.",
+  "lighting": "No natural light. Illumination comes from amber energy flowing through floor channels and wall fixtures. Some instruments glow faintly where alignments are active. Pools of warm light at the work platforms, deeper shadow between them.",
+  "color_palette": [
+    "tarnished bronze",
+    "pale amber glow from floor channels",
+    "verdigris green on older metal surfaces",
+    "deep shadow between platforms",
+    "polished crystal catching amber light",
+    "dark stone with geometric inlay"
+  ],
+  "composition": "Wide interior shot from a slightly elevated angle, as if the viewer has just entered from an upper doorway and is looking down into the workspace. The concentric floor rings should be the visual anchor, with platforms and instruments radiating outward and upward. Depth is important — the room should feel like it extends further than expected.",
+  "details": [
+    "A few small bronze spider-like automatons visible on walls or instruments, performing maintenance tasks — subtle, not the focus",
+    "One or two alignment configurations appear active, with faint light connecting a mirror to a lens to a floor marking",
+    "Chalk marks and notes on some surfaces suggest recent use by the current occupants"
+  ],
+  "style": "Painterly fantasy illustration, grounded and atmospheric. The feel of a Renaissance inventor's workshop built inside something far older and stranger. Concept art quality — detailed but moody, not clinical.",
+  "aspect_ratio": "16:9 landscape",
+  "do_not_include": [
+    "characters or figures in the scene",
+    "fire or torches as light sources",
+    "medieval library or wizard tower clichés",
+    "bright saturated magical effects",
+    "modern technology or digital screens",
+    "cobwebs or abandonment — this space is actively maintained"
+  ]
+}

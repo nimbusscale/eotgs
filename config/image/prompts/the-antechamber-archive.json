@@ -1,0 +1,38 @@
+{
+  "title": "The Antechamber",
+  "subject": "An ancient records chamber maintained by small bronze clockwork automatons. A library crossed with a machine — the shelves are mechanisms, the reading surfaces adjust, and tiny spider-like constructs tend the collection. This room preserves knowledge from an era of god-conflicts.",
+  "setting": "A long rectangular or vaulted chamber within the same ancient facility as the workshop. Older and more solemn than the workshop — this space was designed for preservation rather than experimentation. The Triune use it but did not build it.",
+  "architecture": {
+    "storage": "Alcoves carved into stone walls at regular geometric intervals, each holding scrolls, stone tablets, or bound texts. Some alcoves have bronze doors or crystal covers that slide open mechanically. The organization follows a geometric logic rather than alphabetical — spatial positioning determines category.",
+    "reading_surfaces": "Stone or bronze reading tables that emerge from the floor or walls on mechanical armatures. They tilt, adjust height, and rotate — designed to present materials at optimal angles. Some are currently extended with texts open on them.",
+    "floor_and_walls": "Amber-lit channels trace through the floor and up the walls, connecting alcoves to each other in a network pattern. The channels pulse faintly, as if the room itself indexes its contents through energy flow.",
+    "ceiling": "Lower than the workshop. Vaulted with geometric coffers, each containing a small lens or crystal that provides soft downward light onto the reading positions below."
+  },
+  "mood": "Reverent silence and deep age. A place that has been keeping its contents safe for longer than any living civilization remembers. Scholarly but unsettling — the knowledge here predates the current understanding of the world.",
+  "lighting": "Soft amber glow from floor and wall channels provides ambient light. Individual reading positions are lit from above by ceiling-mounted crystal lenses — like focused spotlights of warm light. The spaces between are dim but not dark.",
+  "color_palette": [
+    "warm amber channel-light",
+    "aged stone in gray and pale ochre",
+    "tarnished bronze fixtures and automaton bodies",
+    "parchment yellows and ink-dark shadows",
+    "faint verdigris on older mechanisms",
+    "deep warm shadow in the alcoves"
+  ],
+  "composition": "Looking down the length of the chamber from near the entrance. Alcoves line both sides, receding into depth. One or two reading surfaces are extended with materials on them, as if recently consulted. A couple of small clockwork spiders are visible tending the shelves — one carrying a scroll, another polishing a crystal cover. The amber channel network on the floor draws the eye deeper into the room.",
+  "details": [
+    "Two or three clockwork spider-automatons visible at different distances — small, bronze, multi-limbed, performing librarian tasks like retrieving or reshelving materials",
+    "Some texts are stone tablets with geometric inscriptions, others are scrolls, a few are bound volumes — a mix of eras and formats",
+    "One alcove near the foreground is open, its crystal cover slid aside, revealing contents bathed in amber light",
+    "Faint geometric inscriptions on the floor channels suggest the indexing system is part of the architecture itself"
+  ],
+  "style": "Painterly fantasy illustration, atmospheric and grounded. The tone of a sacred archive — monastic silence combined with alien mechanical precision. Concept art quality with strong depth and mood.",
+  "aspect_ratio": "16:9 landscape",
+  "do_not_include": [
+    "characters or figures in the scene",
+    "wooden bookshelves or typical fantasy library furnishings",
+    "dust, cobwebs, or signs of neglect — the clockworks keep this space immaculate",
+    "bright magical effects or glowing runes floating in the air",
+    "modern books or paper — materials should feel ancient",
+    "candles or fire-based lighting"
+  ]
+}

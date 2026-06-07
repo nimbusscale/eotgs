@@ -22,6 +22,11 @@ Usage:
     python3 scripts/compose_image_prompt.py --request req.json --dry-run
     # write a final, publish-ready asset straight to images/ instead of image-test/:
     OPENAI_ACCESS_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json --out-dir images
+    # refine pass — feed the prior generated image back with a targeted fix
+    # (writes an auto-versioned image-test/<name>-vN.jpg, leaving the base intact):
+    OPENAI_ACCESS_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json \
+        --correction "shield is on his arm, not leaning on the floor" \
+        --prior image-test/<name>.jpg
 
 Scene-request JSON (the input contract — see dev/house-style-injection.md):
     {
@@ -131,6 +136,21 @@ def strip_weapons(spec: dict) -> dict:
             continue
         out[key] = value
     return out
+
+
+def next_version_name(out_dir: Path, name: str) -> str:
+    """Return the next versioned output slug for a refine pass.
+
+    The base image is ``<name>.jpg``; refines are ``<name>-vN.jpg`` starting at
+    v2. Scans ``out_dir`` for existing ``<name>-v*.jpg`` and returns the next
+    free ``<name>-vN`` (so a refine never clobbers the base or an earlier pass).
+    """
+    versions = []
+    for path in out_dir.glob(f"{name}-v*.jpg"):
+        suffix = path.stem[len(name) + 2:]  # strip the "<name>-v" prefix
+        if suffix.isdigit():
+            versions.append(int(suffix))
+    return f"{name}-v{max(versions, default=1) + 1}"
 
 
 def size_flag(aspect_ratio: str) -> str:
@@ -366,7 +386,27 @@ def main(argv=None) -> str:
         default=str(SCRATCH_DIR),
         help=(
             "directory for the generated image (default: image-test/, treated "
-            "as scratch). Pass images/ only for a final, publish-ready asset"
+            "as scratch). Pass images/ only for a final, publish-ready asset. "
+            "On a refine pass, --correction/--prior feed the prior generated "
+            "image back with a targeted fix and write an auto-versioned -vN.jpg"
+        ),
+    )
+    parser.add_argument(
+        "--correction",
+        action="append",
+        metavar="TEXT",
+        help=(
+            "specific defect from the previous attempt to fix (repeatable). "
+            "Injected as a highest-priority directive at the top of the prompt"
+        ),
+    )
+    parser.add_argument(
+        "--prior",
+        action="append",
+        metavar="PATH",
+        help=(
+            "prior generated image to feed back as an extra likeness reference "
+            "(repeatable). Appended after the canonical references"
         ),
     )
     args = parser.parse_args(argv)
@@ -378,6 +418,18 @@ def main(argv=None) -> str:
 
     composed = compose(request)
 
+    # Refine pass: prepend the correction as the first thing the model reads, so
+    # the targeted fix outranks the rest of the (otherwise unchanged) prompt.
+    if args.correction:
+        directive = "\n".join(
+            [
+                "CORRECTION (highest priority — the previous attempt had these "
+                "specific defects; fix them while keeping everything else):",
+                *(f"- {c}" for c in args.correction),
+            ]
+        )
+        composed["instructions"] = directive + "\n\n" + composed["instructions"]
+
     # Reference images, in manifest order, matching references[].image 1..N.
     images = []
     for ref in request.get("references", []):
@@ -386,8 +438,23 @@ def main(argv=None) -> str:
             raise SystemExit(f"reference image not found: {path}")
         images.append(str(path))
 
+    # Refine pass: append each prior generated image as an extra likeness
+    # reference, AFTER the canonical references so they stay primary.
+    for prior in args.prior or []:
+        path = REPO_ROOT / prior
+        if not path.is_file():
+            raise SystemExit(f"prior image not found: {path}")
+        images.append(str(path))
+
+    # On a refine pass write an auto-versioned slug so the base is never
+    # clobbered; the composed JSON is named to match for traceability.
+    out_dir_path = REPO_ROOT / args.out_dir
+    out_name = name
+    if args.correction or args.prior:
+        out_name = next_version_name(out_dir_path, name)
+
     COMPOSED_DIR.mkdir(parents=True, exist_ok=True)
-    composed_path = COMPOSED_DIR / f"{name}.json"
+    composed_path = COMPOSED_DIR / f"{out_name}.json"
     composed_path.write_text(
         json.dumps(composed, indent=2, ensure_ascii=False), encoding="utf-8"
     )
@@ -396,7 +463,7 @@ def main(argv=None) -> str:
     gen_argv = ["--prompt-file", str(composed_path)]
     for img in images:
         gen_argv += ["-i", img]
-    gen_argv += [flag, "--name", name, "--out-dir", args.out_dir]
+    gen_argv += [flag, "--name", out_name, "--out-dir", args.out_dir]
 
     if args.dry_run:
         print(f"Composed prompt written to {composed_path}")

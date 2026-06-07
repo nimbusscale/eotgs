@@ -172,11 +172,15 @@ and skills as the system matures:
   `library:` bucket.
 - `illustrate-scene` — the single-picture worker, currently authored as a
   `.claude/commands/*.md` file (this repo's convention; surfaced as a skill).
+- **evaluate → refine** loop in the scene worker. The worker reads the generated
+  image back, judges it against the brief + reference images via
+  `.claude/commands/references/evaluate.md`, and on a fixable defect feeds the
+  prior image back with a targeted correction, bounded to ~3 passes then
+  accept-best-so-far + flag. The composer (`compose_image_prompt.py`) takes
+  `--correction` / `--prior` and writes auto-versioned `<name>-vN.jpg` outputs so
+  a refine never clobbers the base; `generate_image.py` needed no change.
 
 **Future (this design):**
-- Add the **evaluate → refine** loop to the scene worker (`references/evaluate.md`
-  + a bounded refinement step feeding the prior image back as a correction
-  reference).
 - `illustrate-session` orchestrator command that picks moments, runs the
   reference pre-flight, and fans out one per-scene subagent per moment.
 - `generate-reference-plate` skill for minting + approving new canon plates.

@@ -74,18 +74,25 @@ names, not a monster the text never placed there.)
 ### Step 2 — Pre-flight references (cheap; no image reads, no minting)
 
 For each brief, resolve every character/location to a slug via
-`config/entity-aliases.yaml`, then find its entry in `config/image-map.yaml`
-(key **ends with** `/slug`). Apply the **library-first reference priority** from
+`config/entity-aliases.yaml`, then gather **every** image of that slug in
+`config/image-map.yaml` — both its own entry (key **ends with** `/slug`) **and**
+any guest image elsewhere whose `subjects:` list names the slug (see
+`illustrate-scene` Step 2). Apply the **library-first reference priority** from
 `illustrate-scene` Step 3:
 
 - **PCs** → the `library` plate (always exists for Castor/Garland/Paxton/Roderic).
-- **NPCs** → `library` plate → else `hero` → else any gallery image of them.
+- **NPCs** → `library` plate → else `hero` → else the NPC's own `gallery` →
+  else a **guest image** (an item under another entry — often a prior session
+  gallery — whose `subjects` include this slug).
 
 This is a cheap lookup — **do not read the images and do not generate
-anything.** Flag any entity that has **no image at all** in the map (ref-light);
-that scene will be drawn from its description plus whatever other references
-exist. Do **not** mint a reference plate here — plate minting is a separate,
-human-initiated step (`generate-reference-plate`); just report the gap.
+anything.** An entity is **ref-light only when it has no image anywhere** (no
+own entry *and* no guest appearance) — flag those; that scene will be drawn from
+its description plus whatever other references exist. An NPC who appeared in an
+earlier session's gallery is **not** ref-light: note that you'll use that guest
+image as their reference. Do **not** mint a reference plate here — plate minting
+is a separate, human-initiated step (`generate-reference-plate`); just report the
+gap.
 
 ### Step 3 — GATE 1: approve the scene descriptions
 
@@ -149,17 +156,32 @@ For each **approved** candidate:
 
 3. Register it in `config/image-map.yaml` under the key
    `sessions/<arc>/session-N` (the arc subdir from Step 0). Ensure that key has a
-   `gallery:` list, and **append** one block-style item per approved image:
+   `gallery:` list, and **append** one block-style item per approved image, with
+   a `subjects:` list so the image is discoverable as a reference later:
 
    ```yaml
    sessions/forgotten-and-forsaken/session-6:
      gallery:
        - file: sessions/session-6-paxton-burns-barge.jpg
          caption: "Paxton burns Senna's barge and throws himself into the river"
+         subjects: [paxton-lumnus, senna, havens-reach]
+         description: "...note prominence/fidelity, e.g. 'only existing depiction of Senna (low detail)'."
    ```
 
    The `file` is the path **under `images/`** (block style, no inline `{}`). Use
    the one-line narrative `caption` from the brief.
+
+   **`subjects:` is required and load-bearing.** List the canonical slug (the
+   same one from `entity-aliases.yaml`) of every character AND the location
+   **actually depicted with a usable likeness** in the image — this is what lets
+   a future scene find this picture when an NPC has no entry of their own (the
+   whole point of the cross-map lookup in Step 2). Omit a character who is in the
+   beat but not usably depicted (e.g. shown only as a swirl of wind, or an
+   off-screen name). Add a short `description` noting prominence/fidelity for any
+   guest subject (e.g. "only existing depiction of Voss", "Senna glimpsed, low
+   detail") so reference selection can weigh it. This step is the only place
+   these new NPCs/locations get recorded, so getting `subjects` right here is
+   what makes the next session's renders of them consistent.
 
 After registering, tell the user the images will render in a `## Gallery` on the
 session page at the next `/export-kb`. **This command does not build or deploy** —

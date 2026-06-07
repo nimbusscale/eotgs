@@ -41,6 +41,17 @@
 #     produced it, and lets the skill load a reference's canon sub-prompt.
 #     Player-submitted PC hero/gallery art has NO prompt; library plates and
 #     NPC/location images we generated DO.
+#   subjects: (optional) list of entity slugs DEPICTED in this image (the
+#     same canonical slugs used in config/entity-aliases.yaml — characters AND
+#     the location). This is what makes an image discoverable as a reference
+#     for an entity that does NOT own this entry — e.g. an NPC who only ever
+#     appears as a guest inside a session gallery or another character's
+#     gallery. The illustrate skills build a cross-map index from `subjects`
+#     so reference selection can find every picture of a slug, not just the
+#     one entry keyed to it. List only entities with a usable on-screen
+#     likeness/depiction (omit a character shown only as, say, a swirl of
+#     wind). Put a `description` on the item to note prominence / fidelity
+#     (e.g. "only existing depiction of Voss" or "Senna glimpsed, low detail").
 
 pcs/castor:
   library:
@@ -208,3 +219,26 @@ factions/the-light:
     - file: order-of-first-dawn.jpg
       caption: "The Order of First Dawn"
       prompt: config/image/prompts/order-of-first-dawn.json
+
+sessions/forgotten-and-forsaken/session-6:
+  gallery:
+    - file: sessions/session-6-roderic-meets-voss.jpg
+      caption: "Beneath Beaconhold, an inquisitor wears a missing Primus's name to beg an alliance"
+      subjects: [sir-roderic-lightbearer, inquisitor-voss, beaconhold]
+      description: "Inquisitor Voss (older man ~60s, bare lined face emerging from a deep dark hood, NO mask) faces Sir Roderic in a torchlit underground brick conduit beneath Beaconhold. Only existing depiction of Voss."
+    - file: sessions/session-6-sariel-forgotten.jpg
+      caption: "Where Sariel's bust always stood, only an untouched patch of dust remains"
+      subjects: [sir-roderic-lightbearer, vicar-lucis-gregory, beaconhold]
+      description: "Elderly Vicar Lucis Gregory (frail, thin grey hair, cream-and-gold Light vestments, whiteglass pendant) and Roderic before a dusty four-slot marble-bust shelf in a Beaconhold church office. Only existing depiction of Gregory."
+    - file: sessions/session-6-castor-confronts-vask.jpg
+      caption: "Castor stares down Captain Vask and the Vale's great families at the Witch Stones"
+      subjects: [captain-vask, castor, witch-stones]
+      description: "Captain Vask (weathered older soldier in brigandine armor, sheathed sword, silver Crownvale crown pin) faces Castor in beaver form at the Witch Stones in daylight, mounted great-family delegates behind. Only existing depiction of Vask; Castor is in beaver form here."
+    - file: sessions/session-6-witch-stones-portal.jpg
+      caption: "Mira sings open a door to the Bonewall, and the old friends rush through"
+      subjects: [mira, garland-yn-greenholt, witch-stones, bonewall]
+      description: "Mira (arms raised) and Garland at the Witch Stones as the rune-blazing ring tears a portal onto the grey Bonewall shale and its matching ring. Castor is present only as a swirl of wind (no usable likeness, so not listed as a subject)."
+    - file: sessions/session-6-paxton-burns-barge.jpg
+      caption: "Paxton burns Senna's barge and throws himself into the river"
+      subjects: [paxton-lumnus, senna, havens-reach, bonewall]
+      description: "Paxton hurls fire and falls into the river as a plain wooden canal barge burns in the marshy Reaches below the Bonewall cliffs; Senna and round long-tentacled marsh-creatures are glimpsed low-detail through the cargo door. Only existing depiction of Senna (low detail)."

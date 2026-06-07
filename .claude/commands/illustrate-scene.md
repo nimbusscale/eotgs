@@ -31,9 +31,14 @@ If the brief is vague, fill the scene block with concrete, visual detail drawn f
 
 Read `config/entity-aliases.yaml`. Map each character name through its `characters:` section and each location through `locations:`. The value is the canonical slug (e.g. `Roderic → sir-roderic-lightbearer`, `Aurelion Tunnels → aurelion`). Names not in the alias map may still match a slug directly — slugify the name (lowercase, hyphens, drop articles/punctuation) and look for it in the next step.
 
-### Step 2 — Find each entity's image-map entry
+### Step 2 — Find every image of each entity (own entry + guest appearances)
 
-Read `config/image-map.yaml`. For each slug, find the entry whose key **ends with** `/slug` (e.g. slug `sir-roderic-lightbearer` → key `pcs/sir-roderic-lightbearer`; slug `aurelion` → key `locations/aurelion`). The key prefix (`pcs/`, `npcs/`, `locations/`, …) is the entity type and you do not need to know it in advance — match on the suffix.
+Read `config/image-map.yaml`. An entity's pictures live in **two** places, and you must gather both:
+
+1. **Its own entry** — the entry whose key **ends with** `/slug` (e.g. slug `sir-roderic-lightbearer` → key `pcs/sir-roderic-lightbearer`; slug `aurelion` → key `locations/aurelion`). The key prefix (`pcs/`, `npcs/`, `locations/`, …) is the entity type and you do not need to know it in advance — match on the suffix.
+2. **Guest appearances elsewhere** — any image item *anywhere in the map* (any entry's `hero`/`gallery`) whose `subjects:` list contains the slug. This is how you find pictures of an entity that does **not** own an entry — e.g. an NPC who only ever appears inside a session gallery (`sessions/<arc>/session-N`) or inside another character's gallery. Build this by scanning every image item's `subjects` once and collecting the files that name your slug.
+
+So for each slug you end up with a candidate set = (its own entry's items, if any) + (every guest item whose `subjects` include it). Read each candidate's `description` to judge how usable it is (prominent vs. incidental, weapon-free vs. armed, which location view). Step 3 ranks them.
 
 ### Step 3 — Select the reference image per entity
 
@@ -41,15 +46,15 @@ Each entry has `hero`, `gallery`, and/or `library` items. Every item carries a `
 
 - **For each character — apply the reference-selection priority:**
   - **PCs** (`pcs/…` keys: Castor, Garland, Paxton, Roderic) → **always the `library` plate** (its `file` + `prompt`). The PC `hero`/`gallery` is player-submitted in-world art with no prompt and must not be used as the identity reference. Castor has two plates — pick the **human** plate normally, the **beaver** plate when the moment shows him shapeshifted.
-  - **NPCs** → walk the fallback in order: **`library` plate if one exists → else the `hero` image → else any other gallery image that includes the character.** Take the `prompt` if the chosen item has one.
+  - **NPCs** → walk the fallback in order: **`library` plate if one exists → else the `hero` image → else the NPC's own `gallery` → else a guest image (an item under some other entry whose `subjects` include this slug — e.g. a session gallery picture of them).** Take the `prompt` if the chosen item has one. Guest images rank last because they are lower-fidelity than a dedicated plate (smaller, partial, sometimes a single lit face in a busy scene) — but a guest likeness is far better than generating the character blind, and it keeps every later picture of an NPC consistent with the first. Use the candidate's `description` to judge: prefer a guest image that depicts the character prominently over one where they are incidental.
   - When `weapons: hidden`, prefer a weapon-free reference if the `description`s distinguish one.
-- **For the location:** the specific view that fits the moment. A location entry often has several gallery images; read their `description`s and pick by the scene (e.g. for a scene inside the cathedral, `aurelion` → the `chryseum-interior` item, not the approach shot).
+- **For the location:** the specific view that fits the moment. Consider both the location's own entry (which often has several gallery views — read their `description`s and pick by the scene, e.g. for a scene inside the cathedral `aurelion` → the `chryseum-interior` item, not the approach shot) **and** guest images whose `subjects` include the location slug (a session scene set there can serve as an establishing reference when the location has no dedicated entry). Prefer a dedicated location view over an incidental backdrop.
 
 **Path conventions:** a `library` item's `file` is **repo-root-relative** (e.g. `config/image/library/paxton-reference-plate.jpeg`); `hero`/`gallery` `file`s are under `images/` (e.g. `images/mira.jpg`). Use each path as written in the map.
 
 **Image-only references are allowed.** A chosen item may have a `file` but no `prompt` (the NPC last-resort case). Use it anyway — emit it in the scene-request **without** a `prompt` field; the composer passes the image through as a likeness reference with no canon sub-prompt.
 
-**Ref-light** means an entity has **no image at all** in the map (no library/hero/gallery `file`). Only then can you not reference it: note it to the user (its `image-map.yaml` entry needs an image, ideally a plate) and generate the picture from the remaining references plus a rich, grounded scene block.
+**Ref-light** means an entity has **no image at all** anywhere in the map — no own entry *and* no guest image whose `subjects` name it. Only then can you not reference it: note it to the user (it needs an image, ideally a plate) and generate the picture from the remaining references plus a rich, grounded scene block. (An entity that appears only as a guest subject is **not** ref-light — use that guest image as its reference.)
 
 ### Step 4 — Write the scene-request JSON
 

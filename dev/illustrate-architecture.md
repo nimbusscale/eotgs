@@ -169,7 +169,18 @@ and skills as the system matures:
 - `generate_image.py` — `--prompt-file` (whole-JSON) + repeatable `-i` references
   (switches to the `/v1/images/edits` endpoint).
 - `image-map.yaml` — enriched with per-item `description` / `prompt` and a
-  `library:` bucket.
+  `library:` bucket. The `library:` bucket holds the canonical **reference
+  plates** (`config/image/library/*.jpeg` + their `config/image/prompts/*-
+  reference-plate-prompt.json` specs). A library item's `file:` is
+  **repo-root-relative** (it points into `config/`, not `images/`) because the
+  plates are committed dev artifacts, not server-synced content; `build_site.py`
+  never publishes them. **Reference-selection priority:** PCs always resolve to
+  their library plate (their `hero`/`gallery` is player-submitted art with no
+  prompt); NPCs walk library plate → hero → any other image of them.
+- `compose_image_prompt.py` — accepts an **image-only reference** (no `prompt`
+  key): the image still rides to the edits endpoint as a likeness reference, but
+  no canon sub-prompt is injected and the subject is treated as grounded. This is
+  what lets the NPC last-resort fallback (a published image with no spec) work.
 - `illustrate-scene` — the single-picture worker, currently authored as a
   `.claude/commands/*.md` file (this repo's convention; surfaced as a skill).
 - **evaluate → refine** loop in the scene worker. The worker reads the generated
@@ -179,10 +190,18 @@ and skills as the system matures:
   accept-best-so-far + flag. The composer (`compose_image_prompt.py`) takes
   `--correction` / `--prior` and writes auto-versioned `<name>-vN.jpg` outputs so
   a refine never clobbers the base; `generate_image.py` needed no change.
+- `illustrate-session` — the batch orchestrator command (`.claude/commands/
+  illustrate-session.md`). Thin, main-context, never reads a candidate image
+  itself. It picks 3–5 grounded moments from the session Summary + Major Events,
+  runs the **two-gate** flow — **GATE 1** approves the scene *descriptions* with
+  zero API spend, **GATE 2** approves the generated candidates — fans out one
+  per-scene subagent (each runs `illustrate-scene` inline), and on approval
+  copies the candidates to `images/sessions/` and registers them in a
+  `sessions/<arc>/session-N` gallery. A **ref-light** entity (one with no image
+  at all in the map) is drawn from its description plus the remaining references;
+  plate minting stays a separate human step, never improvised mid-batch.
 
 **Future (this design):**
-- `illustrate-session` orchestrator command that picks moments, runs the
-  reference pre-flight, and fans out one per-scene subagent per moment.
 - `generate-reference-plate` skill for minting + approving new canon plates.
 - As `illustrate-scene` / `generate-reference-plate` grow, migrate them to proper
   `SKILL.md` + `references/` layout so progressive disclosure keeps them lean.

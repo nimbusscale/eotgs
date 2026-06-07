@@ -43,6 +43,10 @@ Scene-request JSON (the input contract — see dev/house-style-injection.md):
           "image": "images/aurelion-street-level.jpg",
           "prompt": "config/image/prompts/aurelion-street-level.json" }
       ],
+      # `prompt` is OPTIONAL per reference. Omit it for an image-only
+      # likeness reference (e.g. an NPC with a published image but no spec):
+      # the image still rides to the edits endpoint, but no canon sub-prompt
+      # is injected and the subject is treated as grounded (muted palette).
       "weapons": "shown"                     # "shown" (default) | "hidden"
     }
 """
@@ -285,16 +289,25 @@ def compose(request: dict) -> dict:
     scene_supplies_lighting = bool(scene.get("lighting"))
     weapons_hidden = request.get("weapons", "shown") == "hidden"
 
-    # Load + classify every reference.
+    # Load + classify every reference. A reference may be image-only (no
+    # `prompt` spec) — that's the NPC/last-resort fallback case: its image is
+    # still passed through to the edits endpoint as a likeness reference, but
+    # there is no canon sub-prompt to inject, so it is treated as grounded
+    # (muted world palette) with no overrides.
     references = []
     has_overrides = False
     for ref in request.get("references", []):
-        spec = strip_meta(load_json((REPO_ROOT / ref["prompt"])))
-        mode = classify_palette(spec)
-        if mode != "grounded":
-            has_overrides = True
-        if weapons_hidden and ref.get("role") == "character":
-            spec = strip_weapons(spec)
+        prompt_path = ref.get("prompt")
+        if prompt_path:
+            spec = strip_meta(load_json((REPO_ROOT / prompt_path)))
+            mode = classify_palette(spec)
+            if mode != "grounded":
+                has_overrides = True
+            if weapons_hidden and ref.get("role") == "character":
+                spec = strip_weapons(spec)
+        else:
+            spec = None
+            mode = "grounded"
         references.append({**ref, "_spec": spec, "_palette_mode": mode})
 
     # Environment palette decision (house-style-injection.md rule 4 + exception).
@@ -349,15 +362,18 @@ def compose(request: dict) -> dict:
                 negatives.append(neg)
         scene_block["negatives"] = negatives
 
-    composed_refs = [
-        {
+    # An image-only reference (no spec) is emitted with just its label + image
+    # slot and no canon sub-prompt block.
+    composed_refs = []
+    for i, ref in enumerate(references, start=1):
+        entry = {
             "image": i,
             "role": ref.get("role"),
             "label": ref["name"],
-            "spec": ref["_spec"],
         }
-        for i, ref in enumerate(references, start=1)
-    ]
+        if ref["_spec"] is not None:
+            entry["spec"] = ref["_spec"]
+        composed_refs.append(entry)
 
     return {
         "instructions": instructions,

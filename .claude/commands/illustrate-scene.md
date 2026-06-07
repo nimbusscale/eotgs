@@ -37,12 +37,19 @@ Read `config/image-map.yaml`. For each slug, find the entry whose key **ends wit
 
 ### Step 3 — Select the reference image per entity
 
-Each entry has `hero`, `gallery`, and/or `library` items. Every item may carry a `file`, a `description`, and a `prompt` (path to its spec JSON). Choose:
+Each entry has `hero`, `gallery`, and/or `library` items. Every item carries a `file`; library and most NPC/location items also carry a `prompt` (path to its spec JSON) and a `description`. Select by this priority:
 
-- **For each character:** the item that best anchors their identity — usually the `hero`. Read the `description` fields to choose. When `weapons: hidden`, prefer a weapon-free reference if one exists (e.g. Paxton's portrait over his armed pose) — the `description` will say so.
+- **For each character — apply the reference-selection priority:**
+  - **PCs** (`pcs/…` keys: Castor, Garland, Paxton, Roderic) → **always the `library` plate** (its `file` + `prompt`). The PC `hero`/`gallery` is player-submitted in-world art with no prompt and must not be used as the identity reference. Castor has two plates — pick the **human** plate normally, the **beaver** plate when the moment shows him shapeshifted.
+  - **NPCs** → walk the fallback in order: **`library` plate if one exists → else the `hero` image → else any other gallery image that includes the character.** Take the `prompt` if the chosen item has one.
+  - When `weapons: hidden`, prefer a weapon-free reference if the `description`s distinguish one.
 - **For the location:** the specific view that fits the moment. A location entry often has several gallery images; read their `description`s and pick by the scene (e.g. for a scene inside the cathedral, `aurelion` → the `chryseum-interior` item, not the approach shot).
 
-For every chosen item you need both its `file` (the reference image) and its `prompt` (the spec JSON). **If an entity has no `prompt`-linked image, you cannot use it as a reference** — skip it and flag it to the user for backfill (its `prompt` needs adding to `config/image-map.yaml`). The picture can still be generated from the remaining references plus a rich scene block.
+**Path conventions:** a `library` item's `file` is **repo-root-relative** (e.g. `config/image/library/paxton-reference-plate.jpeg`); `hero`/`gallery` `file`s are under `images/` (e.g. `images/mira.jpg`). Use each path as written in the map.
+
+**Image-only references are allowed.** A chosen item may have a `file` but no `prompt` (the NPC last-resort case). Use it anyway — emit it in the scene-request **without** a `prompt` field; the composer passes the image through as a likeness reference with no canon sub-prompt.
+
+**Ref-light** means an entity has **no image at all** in the map (no library/hero/gallery `file`). Only then can you not reference it: note it to the user (its `image-map.yaml` entry needs an image, ideally a plate) and generate the picture from the remaining references plus a rich, grounded scene block.
 
 ### Step 4 — Write the scene-request JSON
 
@@ -62,7 +69,7 @@ Write a scene request to a scratch path (e.g. `image-test/.composed/<name>-reque
   },
   "references": [
     { "role": "character", "name": "Roderic",
-      "image": "images/pcs/roderic-pose.jpg",
+      "image": "config/image/library/roderic-reference-plate.jpeg",
       "prompt": "config/image/prompts/roderic-reference-plate-prompt.json" },
     { "role": "location", "name": "Aurelion Tunnels",
       "image": "images/aurelion-street-level.jpg",
@@ -75,7 +82,8 @@ Write a scene request to a scratch path (e.g. `image-test/.composed/<name>-reque
 Notes:
 - `name` is the output slug → `image-test/<name>.jpg`. Make it short, descriptive, kebab-case.
 - `role` is `character` or `location`. The composer scopes palette by role: characters with a strong canonical palette (e.g. Roderic) stay bright even in a muted scene; the environment uses the muted world palette unless the location's own spec is a bright subject (e.g. the Chryseum interior). You don't manage any of that — just label roles correctly.
-- `image`/`prompt` paths are repo-relative.
+- `image`/`prompt` paths are repo-relative, taken verbatim from the map. PC plate `image`s sit under `config/image/library/…`; `hero`/`gallery` images sit under `images/…`.
+- `prompt` is **optional** per reference. For an image-only reference (an NPC with a published image but no spec) omit the `prompt` field entirely — the composer accepts that and rides the image through as a likeness reference with no canon sub-prompt.
 - Omit `scene.lighting` unless the moment genuinely needs its own light; an empty lighting lets the house style apply its scene lighting.
 
 ### Step 5 — Compose and generate
@@ -136,7 +144,7 @@ The returned object is what a calling command (e.g. a future `illustrate-session
 
 1. Resolve: `Roderic → sir-roderic-lightbearer`, `Aurelion Tunnels → aurelion`.
 2. Entries: `pcs/sir-roderic-lightbearer`, `locations/aurelion`.
-3. References: Roderic's hero (`pcs/roderic-pose.jpg` + `roderic-reference-plate-prompt.json`); for the tunnels, the street-level view fits a cramped stone interior best (`aurelion-street-level.jpg` + `aurelion-street-level.json`).
+3. References: Roderic is a PC → his **library plate** (`config/image/library/roderic-reference-plate.jpeg` + `roderic-reference-plate-prompt.json`); for the tunnels, the street-level view fits a cramped stone interior best (`images/aurelion-street-level.jpg` + `aurelion-street-level.json`).
 4. Write the request (see schema above) with a vivid scene block and `negatives: ["no spell glow", "no monsters", "no cinematic spotlighting on people"]`.
 5. `python3 scripts/compose_image_prompt.py --request /tmp/roderic-confronts-voss-request.json` → base `image-test/roderic-confronts-voss.jpg`.
 6. **Evaluate:** Read the base back and judge it against the brief + Roderic's plate. Roderic kept his bright palette against the muted tunnels (good), but his shield is leaning on the floor rather than held on his arm — a fixable composition defect → verdict `refine`. Re-run feeding the base back:

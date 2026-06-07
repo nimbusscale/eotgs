@@ -5,6 +5,10 @@ name: Count Albrecht Marrow
 aliases:
 - Marrow
 - Albrecht Marrow
+images:
+  hero:
+    file: count-albrecht-marrow.jpg
+    alt: Count Albrecht Marrow
 ---
 # Count Albrecht Marrow
 

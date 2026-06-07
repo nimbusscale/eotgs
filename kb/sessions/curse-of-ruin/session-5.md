@@ -4,6 +4,28 @@ type: session
 name: 'Session 5: The Cocoon Opens'
 arc: curse-of-ruin
 date: '2026-03-14'
+images:
+  gallery:
+    - file: sessions/session-5-castor-communion.jpg
+      caption: "Castor presses a paw to the cocoon and is welcomed home"
+      subjects: [castor]
+      description: "Castor in true beaver form communing with the God of Renewal's cocoon; warm golden glow in the desiccated shrine."
+    - file: sessions/session-5-besieged-crest-aurelion.jpg
+      caption: "Garland and Roderic slip past Dorn's last stand to reach the Count"
+      subjects: [garland-yn-greenholt, sir-roderic-lightbearer, the-light]
+      description: "Besieged Crest Aurelion. Order of the Eclipsed Sword soldiers depicted as militant inquisitional troops in Corona Vigil style (dark mantles, sunburst insignia over armor) — first depiction of Order soldiers; distinct from Dorn's gold Aureate (Dorn present but incidental in the battle line, low detail)."
+    - file: sessions/session-5-castor-wolverine-harlequin.jpg
+      caption: "Castor becomes a wolverine and drives the Dark Harlequin from the cocoon"
+      subjects: [old-gods]
+      description: "The Dark Harlequin recoiling from a snarling wolverine (Castor shapeshifted — not a usable likeness of his own form). Usable reference for the Dark Harlequin."
+    - file: sessions/session-5-roderic-beheads-harlequin.jpg
+      caption: "Roderic beheads the Dark Harlequin in a single stroke"
+      subjects: [sir-roderic-lightbearer, garland-yn-greenholt, old-gods]
+      description: "Roderic's killing stroke through the Dark Harlequin in the Chryseum nave; Garland fighting lesser Harlequins in the background. Usable reference for the Dark Harlequin."
+    - file: sessions/session-5-cocoon-opens.jpg
+      caption: "Six heralds gather, and the shrine bursts into green"
+      subjects: [garland-yn-greenholt, sir-roderic-lightbearer, castor]
+      description: "All six heralds ring the splitting cocoon as the shrine bursts into verdant growth. Garland, Roderic, and Castor (beaver) clearly depicted; Severin, Brenn, and Marrow present but faces turned inward (not usable likenesses)."
 ---
 # Session 5: The Cocoon Opens
 

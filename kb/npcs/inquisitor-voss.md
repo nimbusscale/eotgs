@@ -4,6 +4,11 @@ type: npc
 name: Inquisitor Voss
 aliases:
 - Voss
+images:
+  hero:
+    file: voss-and-the-lustrants.jpg
+    alt: Inquisitor Voss
+    description: Inquisitor Voss (the older man) with a younger Lustrant of the Corona Vigil in Aurelion.
 ---
 # Inquisitor Voss
 

@@ -1,6 +1,11 @@
 # World Setting
 
 
+---
+id: dire-coyotes
+type: world
+name: Dire Coyotes
+---
 ## Dire Coyotes
 
 **Category:** Creatures
@@ -29,6 +34,11 @@ That's the last anyone heard of Phillip.
 - [[Session 0]] — Established by Dustin during world-building
 
 
+---
+id: greenholt-bloodline
+type: world
+name: Greenholt Bloodline
+---
 ## The Greenholt Bloodline
 
 **Category:** Races / Culture
@@ -58,6 +68,15 @@ Castor is in fact Garland's great-grand-uncle — the elder of the line, despite
 The origin of this trait — whether it connects to actual elven ancestry or something else — remains an open question.
 
 
+---
+id: imperium-lucis-aeternae
+type: world
+name: Imperium Lucis Aeternae
+aliases:
+- Imperium
+- Old Empire
+- The Farus Lucis
+---
 ## Imperium Lucis Aeternae
 
 **Category:** History
@@ -102,6 +121,11 @@ The one in [[Beaconhold]] is the last known intact tower, though dormant.
 - [[Session 0]] — Established during world-building
 
 
+---
+id: middle-kingdoms
+type: world
+name: Middle Kingdoms
+---
 ## The Middle Kingdoms
 
 **Category:** History
@@ -132,6 +156,11 @@ Outside the cities and main roads lies the wild — a "points of light" setting.
 - [[Session 0]] — Established during world-building
 
 
+---
+id: moldrex
+type: world
+name: Moldrex
+---
 ## Moldrex
 
 **Category:** Gods (New Gods)
@@ -168,6 +197,14 @@ For the first time in living memory, the barrier that has held Moldrex's forces 
 - [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established
 
 
+---
+id: old-gods-and-new-gods
+type: world
+name: Old Gods and New Gods
+aliases:
+- New Gods
+- The New Gods
+---
 ## The Old Gods and the New
 
 **Category:** Gods
@@ -282,6 +319,11 @@ The Luciferians perceive the decline as "the darkness pressing in" and redouble 
 - [[Session 0]] — Established during world-building
 
 
+---
+id: points-of-light
+type: world
+name: Points of Light
+---
 ## Points of Light
 
 **Category:** Geography / Culture
@@ -311,6 +353,13 @@ What's in the wild:
 - [[Session 0]] — Established during world-building
 
 
+---
+id: sariel
+type: world
+name: Sariel
+aliases:
+- Angel of Guidance
+---
 ## Sariel
 
 **Category:** Historical Figure / Angel
@@ -358,6 +407,32 @@ The nature of the Xan-Kor's erasure suggests it shifts reality rather than annih
 
 ## Factions
 
+---
+id: old-gods
+type: faction
+name: The Old Gods
+aliases:
+- Old Gods
+- Harlequins
+- The God of Renewal
+- The God of Ruin
+- The God of Trickery
+- The Harlequins
+- The God of Forgetting
+- The Laughing One
+- The Dark Harlequin
+- Dark Harlequin
+- The Fallow One
+- The Wild Hunt
+images:
+  gallery:
+  - file: dark-harlequin.jpg
+    caption: The Dark Harlequin
+    prompt: config/image/prompts/dark-harlequin.json
+  - file: chamber-of-renewal-avatar.jpg
+    caption: The Chamber of Renewal
+    prompt: config/image/prompts/chamber-of-renewal-avatar.json
+---
 ### The Old Gods
 
 **Type:** Pantheon
@@ -525,6 +600,15 @@ Mix both for unsettling effect.
 - [[Session 5]] — The Dark Harlequin confronted [[Castor]] at the Shrine, claiming the Laughing One cursed him and trying to recruit him; Harlequins killed an [[Order of the First Dawn]] paladin and overran the [[Chryseum|The Chryseum]]; the Dark Harlequin was beheaded by [[Sir Roderic Lightbearer|Roderic]]; all six heralds gathered and the cocoon opened, releasing the God of Renewal
 
 
+---
+id: spinewardens
+type: faction
+name: The Spinewardens
+aliases:
+- Spinewardens
+- Spinewarden
+- Senna
+---
 ### The Spinewardens
 
 **Type:** Organization (military / religious order)
@@ -560,6 +644,16 @@ When a Spine's wards begin to fail, a long-hidden ritual can renew the seal — 
 *No direct interactions yet.*
 
 
+---
+id: starfall-caravan-company
+type: faction
+name: The Starfall Caravan Company
+aliases:
+- Starfall Caravan Company
+- Starfall Caravan
+- Cassian Vellor
+- Cassian
+---
 ### The Starfall Caravan Company
 
 **Type:** Organization
@@ -604,6 +698,35 @@ He is out to prove it.
 - [[Ashen Vale]] — Original region the company was meant to serve
 
 
+---
+id: the-light
+type: faction
+name: The Light
+aliases:
+- Lucifer
+- The Radiant One
+- Light
+- Church of Lucifer
+- Luciferian faith
+- Luciferians
+- The Illuminated
+- Illuminated
+- Order of the First Dawn
+- The Order of the First Dawn
+- Corona Vigil
+- The Corona Vigil
+- Inquisition
+- Order of the Eclipsed Sword
+- The Order of the Eclipsed Sword
+- Eclipsed Sword
+- Redeemers of Light
+- The Redeemers of Light
+images:
+  gallery:
+  - file: order-of-first-dawn.jpg
+    caption: The Order of First Dawn
+    prompt: config/image/prompts/order-of-first-dawn.json
+---
 ### The Light
 
 **Type:** Religion
@@ -743,6 +866,11 @@ Enforcement of the faith varies by region:
 
 ## Notable Items
 
+---
+id: seal-of-unmaking
+type: item
+name: Seal of Unmaking
+---
 ### Seal of Unmaking
 
 **Type:** Artifact
@@ -776,6 +904,15 @@ The [[Whiteglass]] seal within absorbed redirected ley line energy and now glows
 [[The Triune]] agreed to repair the broken case and study whether the empowered seal could be used to reseal the God of Ruin.
 
 
+---
+id: second-harvest
+type: item
+name: Second Harvest
+aliases:
+- Halcyrax
+- Halcyrax, the Gilded Ruin
+- The Gilded Ruin
+---
 ### Second Harvest
 
 **Type:** Weapon
@@ -800,6 +937,11 @@ When he left home again, he reforged the ploughshare back into a sword.
 Where the gold once lay, the blade now glows with dread — the omen that compelled Garland to leave his home and set out once more.
 
 
+---
+id: whiteglass
+type: item
+name: Whiteglass
+---
 ### Whiteglass
 
 **Type:** Substance / Material
@@ -828,6 +970,14 @@ Whiteglass represents the Luciferian ideal of preservation and permanence.
 It is both a symbol of the faith's power and, ironically, the instrument used to suppress the [[Old Gods and New Gods|Old Gods]].
 
 
+---
+id: xan-kor
+type: item
+name: The Xan-Kor
+aliases:
+- Xan-Kor
+- Aegis Mechanism
+---
 ### The Xan-Kor
 
 **Type:** Artifact

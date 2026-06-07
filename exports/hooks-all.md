@@ -4,6 +4,13 @@ These are open group-level threads and unresolved mysteries that could develop i
 
 ## Group Hooks
 
+---
+id: hooks
+type: story-arc
+name: Hooks
+---
+## Hooks
+
 ### The Fall of the Imperium
 **Source:** [[Session 1]]
 **Related:** [[Imperium Lucis Aeternae]], [[Seal of Unmaking]]

@@ -1,6 +1,32 @@
 # Player Characters
 
 
+---
+id: castor
+type: pc
+name: Castor
+status: Active
+images:
+  hero:
+    file: pcs/castor-human.jpg
+    alt: Castor in human form
+    description: Castor in human (wood-elf) form, front-facing. Player-submitted in-world
+      art.
+  gallery:
+  - file: pcs/garland-and-castor-beaver.jpg
+    caption: Garland cradling Castor in his true beaver form
+  library:
+  - file: config/image/library/castor-reference-plate.jpeg
+    prompt: config/image/prompts/castor-reference-plate-prompt.json
+    description: 'Castor in human (wood-elf) form: shaggy red-orange hair to the jaw,
+      pointed ears, lean weary build, tattered earth-toned traveler''s outfit and
+      ragged hooded cloak. Canonical identity plate.'
+  - file: config/image/library/castor-beaver-reference-plate.jpeg
+    prompt: config/image/prompts/castor-beaver-reference-plate-prompt.json
+    description: 'Castor in his true beaver form: an unusually large rich chestnut-brown
+      beaver, about knee-high to a standing person. Use when the moment shows him
+      shapeshifted — his true form.'
+---
 ## Castor
 
 **Player:** Dustin (duskit)
@@ -154,6 +180,14 @@ What this role means and what it demands of him is unresolved.
 - [[Session 6]] — At a Sunday dinner at the [[Witch Stones]], confronted [[Captain Vask]]'s delegation in beaver form, introducing himself as "Garland's uncle"; defended the beavers against the Vale's three great families; learned Aldric somehow knew the beaver could speak; dissolved into wind for the first time to chase [[Mira]] through the Witch Stone portal onto the [[Bonewall]]
 
 
+---
+id: edric-bloom
+type: pc
+name: Edric Bloom
+status: Vanished
+aliases:
+- Edric
+---
 ## Edric Bloom
 
 **Player:** Ken (SiliKen)
@@ -241,6 +275,33 @@ He knows the layout of [[Aurelion]]'s underground tunnel network — learned fro
 - [[Session 4]] — Vanished while under [[Garland yn Greenholt|Garland]]'s invisibility spell in the tunnels beneath the Chryseum; his whereabouts are unknown
 
 
+---
+id: garland-yn-greenholt
+type: pc
+name: Garland yn Greenholt
+status: Active
+aliases:
+- Garland
+- Lord Greenholt
+images:
+  hero:
+    file: pcs/garland-portrait.jpg
+    alt: Garland yn Greenholt
+    description: Garland's face and identity, portrait framing. Player-submitted in-world
+      art.
+  gallery:
+  - file: pcs/garland-second-harvest.jpg
+    caption: Garland walks the vale, Second Harvest in hand
+    description: Garland holding his signature sword Second Harvest (broad forward-curved
+      pattern-welded blade). Player-submitted in-world art showing him armed.
+  - file: pcs/garland-and-castor-beaver.jpg
+    caption: The old guardian and his beaver kin
+  library:
+  - file: config/image/library/garland-reference-plate.jpeg
+    prompt: config/image/prompts/garland-reference-plate-prompt.json
+    description: 'Garland yn Greenholt: extraordinarily old warrior-sage, elven pointed
+      ears, weathered sun-lined veteran''s skin. Canonical identity plate.'
+---
 ## Garland yn Greenholt
 
 **Player:** Jay (regular human faits)
@@ -385,6 +446,33 @@ How Aldric sees and hears so much, whether the ravens are his eyes, and what his
 - [[Session 6]] — Hosted a Sunday dinner at the [[Witch Stones]] with [[Castor]] and [[Mira]]; faced [[Captain Vask]]'s delegation, conceding Mira's return while defending Castor and the beavers; recognized Mira's portal as gate-craft he once knew and lost; broke Vask's grip, was tackled by [[Sergeant Iyer]], then Favored Iyer and swore on his life to compel him aside, crossing the portal to the [[Bonewall]] after Mira and Castor
 
 
+---
+id: paxton-lumnus
+type: pc
+name: Paxton Lumnus
+status: Active
+aliases:
+- Paxton
+images:
+  hero:
+    file: pcs/paxton-portrait.jpg
+    alt: Paxton Lumnus
+    description: Paxton's face and divine light-marks, weapon-free portrait. Player-submitted
+      in-world art.
+  gallery:
+  - file: pcs/paxton-and-the-light.jpg
+    caption: Paxton unleashes the Light against the pack
+  - file: pcs/paxton-pose.jpg
+    caption: Bearing the dawn's burden across broken country
+    description: Full-body Paxton in weathered brown leather road armor with sword
+      at side. Player-submitted in-world art showing him armed.
+  library:
+  - file: config/image/library/paxton-reference-plate.jpeg
+    prompt: config/image/prompts/paxton-reference-plate-prompt.json
+    description: 'Paxton Lumnus: dark near-black hair, dark stubble, pale gold-touched
+      eyes, thin glowing gold divine light-marks on his RIGHT eye/cheek, weathered
+      brown leather road armor. Canonical identity plate.'
+---
 ## Paxton Lumnus
 
 **Player:** Ken (SiliKen)
@@ -475,6 +563,29 @@ What happened, and what that person lost, is an open question to be answered in 
 - [[Session 6]] — Recounted his death at [[Bonewall|Hallowreach]] and his waking in the mausoleum with the Light in his chest; heard that Carnforth had gone dark and turned back toward the wall; in the [[The Reaches|Reaches]] found [[Senna]] healing marsh-creatures with scaled hand and reptilian eyes, learned she had been reborn in the vision of [[Moldrex]] and he "wrong" in Lucifer's, and burned her barge to escape — killing Senna and unknown others hidden aboard
 
 
+---
+id: sir-roderic-lightbearer
+type: pc
+name: Sir Roderic Lightbearer
+status: Active
+aliases:
+- Sir Roderic
+- Roderic
+images:
+  hero:
+    file: pcs/roderic-pose.jpg
+    alt: Sir Roderic Lightbearer
+    description: Sir Roderic in full plate. Player-submitted in-world art.
+  gallery:
+  - file: pcs/roderic-horse.jpg
+    caption: The Lightbearer rides for the failing wards
+  library:
+  - file: config/image/library/roderic-reference-plate.jpeg
+    prompt: config/image/prompts/roderic-reference-plate-prompt.json
+    description: 'Sir Roderic Lightbearer: young blond knight in polished silver-steel
+      plate with gold filigree, heraldic-blue surcoat, blue kite shield with gold
+      rampant lion. Strong bright canonical palette. Canonical identity plate.'
+---
 ## Sir Roderic Lightbearer
 
 **Player:** Ramsey (feklars)

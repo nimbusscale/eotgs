@@ -1,6 +1,61 @@
 # Recent Sessions
 
 
+---
+id: session-6
+type: session
+name: 'Session 6: Three Roads to the Bonewall'
+arc: forgotten-and-forsaken
+date: '2026-05-30'
+images:
+  gallery:
+  - file: sessions/session-6-roderic-meets-voss.jpg
+    caption: Beneath Beaconhold, an inquisitor wears a missing Primus's name to beg
+      an alliance
+    subjects:
+    - sir-roderic-lightbearer
+    - inquisitor-voss
+    description: Inquisitor Voss (older man ~60s, bare lined face emerging from a
+      deep dark hood, NO mask) faces Sir Roderic in a torchlit underground brick conduit
+      beneath Beaconhold. Only existing depiction of Voss.
+  - file: sessions/session-6-sariel-forgotten.jpg
+    caption: Where Sariel's bust always stood, only an untouched patch of dust remains
+    subjects:
+    - sir-roderic-lightbearer
+    - vicar-lucis-gregory
+    description: Elderly Vicar Lucis Gregory (frail, thin grey hair, cream-and-gold
+      Light vestments, whiteglass pendant) and Roderic before a dusty four-slot marble-bust
+      shelf in a Beaconhold church office. Only existing depiction of Gregory.
+  - file: sessions/session-6-castor-confronts-vask.jpg
+    caption: Castor stares down Captain Vask and the Vale's great families at the
+      Witch Stones
+    subjects:
+    - captain-vask
+    - castor
+    - witch-stones
+    description: Captain Vask (weathered older soldier in brigandine armor, sheathed
+      sword, silver Crownvale crown pin) faces Castor in beaver form at the Witch
+      Stones in daylight, mounted great-family delegates behind. Only existing depiction
+      of Vask; Castor is in beaver form here.
+  - file: sessions/session-6-witch-stones-portal.jpg
+    caption: Mira sings open a door to the Bonewall, and the old friends rush through
+    subjects:
+    - mira
+    - garland-yn-greenholt
+    - witch-stones
+    description: Mira (arms raised) and Garland at the Witch Stones as the rune-blazing
+      ring tears a portal onto the grey Bonewall shale and its matching ring. Castor
+      is present only as a swirl of wind (no usable likeness, so not listed as a subject).
+  - file: sessions/session-6-paxton-burns-barge.jpg
+    caption: Paxton burns Senna's barge and throws himself into the river
+    subjects:
+    - paxton-lumnus
+    - senna
+    description: Paxton hurls fire and falls into the river as a plain wooden canal
+      barge burns in the marshy Reaches below the Bonewall cliffs; Senna and round
+      long-tentacled marsh-creatures are glimpsed low-detail through the cargo door.
+      Only existing depiction of Senna (low detail).
+---
 ## Session 6: Three Roads to the Bonewall
 
 **Date Played:** 2026-05-30
@@ -114,6 +169,13 @@ First session with [[Paxton Lumnus]] replacing [[Edric Bloom]]; the player was n
 The group worked through the Favor mechanic for the first time (Garland Favoring [[Sergeant Iyer]]) and Paxton's player tested the crumble-and-return rules for the first time.
 
 
+---
+id: session-5
+type: session
+name: 'Session 5: The Cocoon Opens'
+arc: curse-of-ruin
+date: '2026-03-14'
+---
 ## Session 5: The Cocoon Opens
 
 **Date Played:** 2026-03-14
@@ -228,6 +290,13 @@ With all six heralds gathered around the cocoon, the ruinous energy flowed out o
 - Sessions 1-5 are treated as prologue, with the "real game" starting from the next session onward.
 
 
+---
+id: session-4
+type: session
+name: 'Session 4: The Sleeping God'
+arc: curse-of-ruin
+date: '2026-03-07'
+---
 ## Session 4: The Sleeping God
 
 **Date Played:** 2026-03-07
@@ -348,6 +417,13 @@ Yet as they emerged near Crest Aurelion to retrieve Marrow, they discovered the 
 - Garland's spellbook responding to renewal energy provides a personal stake in awakening the God of Renewal beyond the global threat
 
 
+---
+id: session-3
+type: session
+name: 'Session 3: Beneath the Golden City'
+arc: curse-of-ruin
+date: '2026-02-21'
+---
 ## Session 3: Beneath the Golden City
 
 **Date Played:** 2026-02-21
@@ -451,6 +527,13 @@ All three stumbled through the door to rejoin [[Edric Bloom|Edric]] on the far s
 - Players found the system more intuitive by session 3; the GM felt more comfortable running it
 
 
+---
+id: session-2
+type: session
+name: 'Session 2: Heralds of Ruin'
+arc: curse-of-ruin
+date: '2026-02-07'
+---
 ## Session 2: Heralds of Ruin
 
 **Date Played:** 2026-02-07

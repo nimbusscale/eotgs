@@ -1,6 +1,18 @@
 # Non-Player Characters
 
 
+---
+id: aldric-garlandsson
+type: npc
+name: Aldric Garlandsson
+aliases:
+- Aldric
+images:
+  gallery:
+  - file: aldric-and-crown-vale.jpg
+    caption: Aldric with his wife and the infant Mira, before Crownvale
+    prompt: config/image/prompts/aldric-and-crown-vale.json
+---
 ## Aldric Garlandsson
 
 **First Appeared:** [[Session 0]]
@@ -46,6 +58,22 @@ His expanding, uncannily well-informed authority — and the strange black raven
 - [[Session 6]] — Through his agents (not present in person)
 
 
+---
+id: captain-eisen-dorn
+type: npc
+name: First Aureate Eisen Dorn
+aliases:
+- Captain Eisen Dorn
+- First Aureate Dorn
+- Eisen Dorn
+- Captain Dorn
+- Dorn
+images:
+  hero:
+    file: eisen-dorn-portrait.jpg
+    alt: Captain Eisen Dorn
+    prompt: config/image/prompts/eisen-dorn-portrait.json
+---
 ## First Aureate Eisen Dorn
 
 **First Mentioned:** Pre-session notes
@@ -83,6 +111,13 @@ He and [[Edric Bloom]] met when Edric successfully talked down a group of peasan
 - [[Session 3]] — Arrived at the guarded tunnel junction to replace idle guards with elite soldiers, warning of a threat to the city; tightened security at the critical passage leading toward the Chryseum district
 
 
+---
+id: captain-vask
+type: npc
+name: Captain Vask
+aliases:
+- Vask
+---
 ## Captain Vask
 
 **First Appeared:** [[Session 6]]
@@ -114,6 +149,14 @@ At the Witch Stones he tried to hold [[Garland yn Greenholt|Garland]] back from 
 - [[Session 6]]
 
 
+---
+id: count-albrecht-marrow
+type: npc
+name: Count Albrecht Marrow
+aliases:
+- Marrow
+- Albrecht Marrow
+---
 ## Count Albrecht Marrow
 
 **First Appeared:** [[Session 0]]
@@ -169,6 +212,18 @@ The expeditions he funds to retrieve whiteglass relics are normally precise and 
 - [[Session 5]]
 
 
+---
+id: dawnwarden-brenn
+type: npc
+name: Dawnwarden Brenn
+aliases:
+- Brenn
+images:
+  hero:
+    file: solenne-brenn-portrait.jpg
+    alt: Dawnwarden Solenne Brenn
+    prompt: config/image/prompts/solenne-brenn-portrait.json
+---
 ## Dawnwarden Brenn
 
 **First Appeared:** [[Session 4]]
@@ -202,6 +257,13 @@ She shared a radical theology with the party — that Lucifer's suppression of r
 - [[Session 5]]
 
 
+---
+id: inquisitor-voss
+type: npc
+name: Inquisitor Voss
+aliases:
+- Voss
+---
 ## Inquisitor Voss
 
 **First Appeared:** [[Session 5]]
@@ -236,6 +298,19 @@ He can recognize the limits of his own orthodoxy and set them aside when the thr
 - [[Session 6]]
 
 
+---
+id: luminary-severin-morrow
+type: npc
+name: Luminary Severin Morrow
+aliases:
+- Severin Morrow
+- Severin
+images:
+  hero:
+    file: luminary-severin-portrait.jpg
+    alt: Luminary Severin Morrow
+    prompt: config/image/prompts/luminary-severin-portrait.json
+---
 ## Luminary Severin Morrow
 
 **First Mentioned:** Pre-session notes
@@ -289,6 +364,19 @@ Identified [[Count Albrecht Marrow|Count Marrow]] as the missing herald needed t
 - [[Session 5]]
 
 
+---
+id: mayliss-vane
+type: npc
+name: Mayliss Vane
+aliases:
+- Mayliss
+- Assayer Sovereign
+images:
+  hero:
+    file: mayliss-vane-portrait.jpg
+    alt: Mayliss Vane
+    prompt: config/image/prompts/mayliss-vane-portrait.json
+---
 ## Mayliss Vane
 
 **First Mentioned:** Pre-session notes
@@ -324,6 +412,16 @@ Edric is ostensibly tasked with returning the Seal to her — though the party h
 - Hired [[Edric Bloom]] to retrieve artifacts including the [[Seal of Unmaking]]
 
 
+---
+id: mira
+type: npc
+name: Mira
+images:
+  hero:
+    file: mira.jpg
+    alt: Mira
+    prompt: config/image/prompts/mira.json
+---
 ## Mira
 
 **First Appeared:** [[Session 1]]
@@ -355,6 +453,13 @@ At the Witch Stones she spoke an unknown, booming tongue and commanded the stone
 - [[Session 6]] — Sheltering with Garland at the Witch Stones to heal from the ruin that depressed her; spoke an unknown booming tongue and commanded the stones to open a portal onto the [[Bonewall]], then stepped through and left the Ashen Vale
 
 
+---
+id: primus-griswald
+type: npc
+name: Primus Griswald
+aliases:
+- Griswald
+---
 ## Primus Griswald
 
 **First Appeared:** [[Session 6]]
@@ -381,6 +486,13 @@ He has now gone missing along with other faithful, vanished without a trace of s
 - [[Session 6]] — Absent; named and discussed but not present
 
 
+---
+id: rowan-yn-greenholt
+type: npc
+name: Rowan yn Greenholt
+aliases:
+- Rowan
+---
 ## Rowan yn Greenholt
 
 **First Appeared:** [[Session 0]]
@@ -411,6 +523,13 @@ She was [[Garland yn Greenholt|Garland]]'s granddaughter, distinct from [[Aldric
 - [[Session 1]] — Her letter is referenced as evidence connecting Aldric's livery to events before the disaster
 
 
+---
+id: sergeant-iyer
+type: npc
+name: Sergeant Iyer
+aliases:
+- Iyer
+---
 ## Sergeant Iyer
 
 **First Appeared:** [[Session 1]]
@@ -443,6 +562,13 @@ The information he provided suggests Aldric was not directly involved in the rui
 - [[Session 6]]
 
 
+---
+id: tamarack
+type: npc
+name: Tamarack
+aliases:
+- Tam
+---
 ## Tamarack
 
 **First Appeared:** [[Session 6]]
@@ -469,6 +595,21 @@ Castor admires his drive but fears it will get the colony exterminated.
 - [[Session 6]] — Discussed but not present
 
 
+---
+id: triune
+type: npc
+name: The Triune
+aliases:
+- Triune
+- Aurea
+- Venn
+- Delta
+images:
+  hero:
+    file: the-triune-group-portrait.jpg
+    alt: The Triune
+    prompt: config/image/prompts/the-triune-group-portrait.json
+---
 ## The Triune
 
 **First Appeared:** [[Session 2]]
@@ -508,6 +649,11 @@ They have an arrangement with [[Count Albrecht Marrow]] through [[Mayliss Vane]]
 - [[Session 2]]
 
 
+---
+id: tufa
+type: npc
+name: Tufa
+---
 ## Tufa
 
 **First Appeared:** [[Session 3]]
@@ -529,6 +675,15 @@ Provided [[Castor]] with intelligence about the tunnels beneath [[Aurelion]] —
 - [[Session 3]] — Encountered [[Castor]] in beaver form in her burrow; bargained intelligence about the tunnels for his company
 
 
+---
+id: vicar-lucis-gregory
+type: npc
+name: Vicar Lucis Gregory
+aliases:
+- Vicar Gregory
+- Lucis Gregory
+- Gregory
+---
 ## Vicar Lucis Gregory
 
 **First Appeared:** [[Session 6]]

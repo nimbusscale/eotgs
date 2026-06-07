@@ -1,6 +1,11 @@
 # Locations
 
 
+---
+id: altreth
+type: location
+name: Altreth
+---
 ## Altreth
 
 **Type:** Ruins
@@ -30,6 +35,13 @@ The relic vanished after the initial recovery and eventually surfaced in [[Ashbr
 - [[Session 0]] — Established as the legendary origin of the [[Seal of Unmaking]]
 
 
+---
+id: ashbrook
+type: location
+name: Ashbrook
+aliases:
+- Eld Ashara
+---
 ## Ashbrook (Eld Ashara)
 
 **Type:** Ruins
@@ -64,6 +76,18 @@ The water tasted unusually sweet, though fish didn't linger in the shallows.
 - [[Session 0]] — The party retrieved the [[Seal of Unmaking]] from these ruins, unwittingly releasing the God of Ruin; the town had already been destroyed by the aging curse
 
 
+---
+id: ashen-flow
+type: location
+name: Ashen Flow
+contains:
+- id: upper-ashen-flow
+  name: Upper Ashen Flow
+- id: great-beaver-dam
+  name: The Great Beaver Dam
+- id: lower-ashen-flow
+  name: Lower Ashen Flow
+---
 ## The Ashen Flow
 
 **Type:** Wilderness (River)
@@ -113,6 +137,13 @@ Feeds the fertile farmland of the vale.
 - [[Session 0]] — The cursed water from Ashbrook is being held back by the beaver dam; the dam and beavers are aging rapidly
 
 
+---
+id: ashen-vale
+type: location
+name: Ashen Vale
+aliases:
+- Greenholt
+---
 ## Ashen Vale
 
 **Type:** Region
@@ -167,6 +198,62 @@ Three family heads led the delegation to the [[Witch Stones]], all aggrieved by 
 - [[Session 6]] — At the hidden Witch Stones, [[Captain Vask]]'s delegation and the three great families came to retrieve [[Mira]] and end the beaver troubles; Mira opened a portal to the [[Bonewall]] and stepped through, with Garland and Castor following — and Vask revealed that Aldric somehow knows everything that happens in the Vale
 
 
+---
+id: aurelion
+type: location
+name: Aurelion
+aliases:
+- Aurelion Tunnels
+- Mendrath Baths
+- The Mendrath Baths
+- The Aureate
+- Aureate
+contains:
+- id: chryseum
+  name: The Chryseum
+  aliases:
+  - Chryseum
+  - Shrine of Renewal
+  - The Shrine of Renewal
+  - Temple of Renewal
+- id: crest-aurelion
+  name: Crest Aurelion
+images:
+  hero:
+    file: aurelion-approach.jpg
+    alt: The approach to Aurelion
+    description: 'Establishing exterior: hilltop citadel seen from the approach road,
+      tarnished green-gold dome, muted post-imperial palette. Use for arriving-at-Aurelion
+      moments.'
+    prompt: config/image/prompts/aurelion-approach.json
+  gallery:
+  - file: aurelion-street-level.jpg
+    caption: Aurelion at street level
+    description: 'Ground-level imperial avenue: colonnades, market stalls, Aureate
+      patrol, post-imperial melancholy. Use for scenes set in the city streets or
+      tunnels at street level.'
+    prompt: config/image/prompts/aurelion-street-level.json
+  - file: crest-aurelion-castle.jpg
+    caption: Crest Aurelion castle
+    description: The castle/keep of Crest Aurelion, muted scene with one bright dome.
+      Use for scenes at the count's seat.
+    prompt: config/image/prompts/crest-aurelion-castle.json
+  - file: chryseum-exterior.jpg
+    caption: The Chryseum, exterior
+    description: Exterior of the cathedral of the Light, bright gold dome against
+      the declining city. Use for arriving at the Chryseum.
+    prompt: config/image/prompts/chryseum-exterior.json
+    subjects:
+    - chryseum
+  - file: chryseum-interior.jpg
+    caption: The Chryseum, interior
+    description: Interior nave of the cathedral of the Light — luminous gold dome,
+      cool whiteglass, candlelight; strong bright palette and engineered two-temperature
+      lighting. Use for scenes inside the cathedral or near the shrine beneath it.
+    prompt: config/image/prompts/chryseum-interior.json
+    subjects:
+    - chryseum
+---
 ## Aurelion
 
 **Type:** City
@@ -249,6 +336,18 @@ They enforce the law and carry out orders including [[Luminary Severin Morrow|Se
 - [[Session 5]] — The [[Order of the Eclipsed Sword]] besieged and breached Crest Aurelion; [[Garland yn Greenholt|Garland]] and [[Sir Roderic Lightbearer|Roderic]] infiltrated the castle using the secret vault passage to retrieve [[Count Albrecht Marrow]]; Harlequins overran the Chryseum, killing an [[Order of the First Dawn]] paladin; [[Sir Roderic Lightbearer|Roderic]]'s divine decree cleared the mob and he beheaded the [[Dark Harlequin|The Dark Harlequin]]; all six heralds gathered at the Shrine of Renewal and the cocoon opened, transforming the chamber into a verdant, living space
 
 
+---
+id: beaconhold
+type: location
+name: Beaconhold
+aliases:
+- Beacon Hold
+images:
+  gallery:
+  - file: kingdom-of-beaconhold-map.jpg
+    caption: Map of the Kingdom of Beaconhold
+    prompt: config/image/prompts/kingdom-of-beaconhold-map.json
+---
 ## Beaconhold
 
 **Type:** City / Kingdom
@@ -289,6 +388,11 @@ The kingdom may claim mountains, valleys, and regions, but only truly controls t
 - [[Session 0]] — Established as Roderic's homeland
 
 
+---
+id: beaver-lake
+type: location
+name: Beaver Lake
+---
 ## Beaver Lake
 
 **Type:** Landmark
@@ -320,6 +424,16 @@ In the downtime since the curse passed, the colony has grown unruly and unwieldy
 - [[Session 2]] — Scrying from the Nodrum confirmed the spirit wall still stands but blocks nothing; the great beaver dam has partially collapsed; the ruin travels with the party, not through the water
 
 
+---
+id: bonewall
+type: location
+name: Bonewall
+aliases:
+- Carnforth
+- Thirteen Spines
+- The Thirteen Spines
+- Hallowreach
+---
 ## The Bonewall
 
 **Type:** Region (Mountain Range)
@@ -365,6 +479,13 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - [[Session 6]] — Carnforth, the northernmost Spine, went dark; [[Mira]] opened a Witch Stone portal onto the wall's grey shale and stepped through, with [[Garland yn Greenholt|Garland]] and [[Castor]] following; in the [[The Reaches]] below the wall, [[Paxton Lumnus|Paxton]] burned [[Senna]]'s barge
 
 
+---
+id: cinderwall
+type: location
+name: Cinderwall
+aliases:
+- Farlands Pass
+---
 ## The Cinderwall
 
 **Type:** Region (Mountain Range)
@@ -394,6 +515,11 @@ Wooded slopes, mossy, shrouded in mist and steam.
 - [[Session 0]] — Established as the mountain range containing Ashbrook and the dire coyotes
 
 
+---
+id: cragmarr
+type: location
+name: Cragmarr
+---
 ## The Cragmarr
 
 **Type:** Region (Wilderness)
@@ -414,6 +540,11 @@ The [[Eastern Rivers]] cut through, providing the only reliable passage.
 - [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Solvium
 
 
+---
+id: crownvale
+type: location
+name: Crownvale
+---
 ## Crownvale
 
 **Type:** Town
@@ -448,6 +579,11 @@ Aldric styles himself a lord here, basing his authority on the [[Greenholt Blood
 - [[Session 1]] — The party stopped to resupply; Garland purchased horses while disguised; Edric distracted guards and gathered intelligence; Mira recognized Garland; the horse seller Laura accused Garland of theft; Roderic delivered a blessing urging compassion
 
 
+---
+id: eastern-rivers
+type: location
+name: Eastern Rivers
+---
 ## Eastern Rivers
 
 **Type:** Region
@@ -478,6 +614,15 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Solvium]].
 - [[Session 0]] — Established as Edric's homeland
 
 
+---
+id: havens-reach
+type: location
+name: Havens Reach
+aliases:
+- Haven's Reach
+- The Reaches
+- Reaches
+---
 ## Havens Reach
 
 **Type:** Town
@@ -521,6 +666,11 @@ Life gives way abruptly here, from wet, vibrant marsh to the dead grey shale of 
 - [[Session 6]] — In the Reaches below the town, Paxton came upon Senna's barge in the reeds, learned of her rebirth in Moldrex's vision, and burned the vessel to escape — killing Senna and unknown others hidden aboard
 
 
+---
+id: marrow-county
+type: location
+name: Marrow County
+---
 ## Marrow County
 
 **Type:** Region
@@ -555,6 +705,34 @@ Once an independent kingdom called Aurelion, it was absorbed by [[Beaconhold|Bea
 - [[Session 2]] — The party witnessed signs of ruin spreading: rotting merchant stock, failing crops; the Aureate dragged performers from taverns under the anti-storyteller decree
 
 
+---
+id: nodrum
+type: location
+name: The Nodrum
+aliases:
+- Nodrum
+- Nexarium
+- Aurelion Vault
+- Eurulian Vaults
+images:
+  hero:
+    file: the-nodrum-exterior.jpg
+    alt: The Nodrum, exterior
+    prompt: config/image/prompts/the-nodrum-exterior.json
+  gallery:
+  - file: the-nodrum-interior-work.jpg
+    caption: The Nodrum, interior workshop
+    prompt: config/image/prompts/the-nodrum-interior-work.json
+  - file: the-antechamber-archive.jpg
+    caption: The antechamber archive
+    prompt: config/image/prompts/the-antechamber-archive.json
+  - file: the-clockworks-automaton.jpg
+    caption: A clockworks automaton
+    prompt: config/image/prompts/the-clockworks-automaton.json
+  - file: the-depths-xan-kors-chamber.jpg
+    caption: The Depths — Xan-Kor's chamber
+    prompt: config/image/prompts/the-depths-xan-kors-chamber.json
+---
 ## The Nodrum
 
 **Type:** Landmark
@@ -584,6 +762,11 @@ The facade bears geometric glyphs of immense age, overlaid with Luciferian archi
 - [[Session 2]] - The party sought the Triune's help with the ruin crisis; the Triune examined [[Edric Bloom|Edric]], revealed the old gods' history of ruin and renewal, and confessed to siphoning [[Castor]]'s curse energy; a ritual to contain the Xan-Kor succeeded but corrupted ley lines and reality itself; the Triune declared the party were the heralds of ruin
 
 
+---
+id: outh-krelt
+type: location
+name: Öuth Krelt
+---
 ## Öuth Krelt
 
 **Type:** Region (Beyond the Bonewall)
@@ -604,6 +787,14 @@ Old maps sometimes mark the region with warnings or simply leave it blank.
 - [[Thirteen Spines]] — The ward towers that hold its forces at bay
 
 
+---
+id: solvium
+type: location
+name: The Solvium
+aliases:
+- Solvium
+- Great Lake
+---
 ## The Solvium
 
 **Type:** Region (Body of Water)
@@ -638,6 +829,15 @@ Some believe it reflects the feeling of isolation experienced on its vast surfac
 - [[Session 0]] — Established as a major geographical feature
 
 
+---
+id: witch-stones
+type: location
+name: Witch Stones
+aliases:
+- Witchstones
+- Shepherd's Teeth
+- Shepherds Teeth
+---
 ## Witch Stones
 
 **Type:** Ancient Site (standing stones)

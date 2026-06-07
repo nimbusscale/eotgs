@@ -312,6 +312,33 @@ reference images, and three different palette statuses at once.
   inject `WORLD_PALETTE` once for the environment + muted cast, then enumerate
   each character's override status in the scoping header.
 
+### Test 5 — Tavern retake: weapons-hidden mode + an unresolved left/right limit
+Re-ran the four-PC tavern to fix reference-bleed from Test 4 (Garland's sword
+shrank to a dagger, Roderic's sword clipped the table, gear looked awkward).
+
+- **Weapons-hidden mode works.** To keep signature gear OUT of a non-combat
+  scene, the injector must: (a) strip each character's signature-gear fields
+  (Garland's Second Harvest block, Roderic's shield/sword clause + his
+  `signature_items` override) and weapon clauses from `identity_lock`; (b) add
+  hard "no weapons/shields anywhere" negatives; (c) prefer a weapon-free
+  reference image where one exists (used `paxton-portrait.jpg` instead of
+  `paxton-pose.jpg`). Result: clean planning scene, no weapons, hands on the
+  map/tankards, identities intact, Roderic still bright. A reusable mode the
+  skill should support (e.g. `weapons: hidden`).
+
+- **OPEN LIMITATION — asymmetric facial features (left/right) are unreliable.**
+  Paxton's divine marks are canonically on HIS RIGHT eye (confirmed in
+  `paxton-portrait.jpg`). gpt-image-2 `edits` consistently rendered them on his
+  LEFT, and NONE of these fixed it: explicit "his right eye (viewer's left when
+  facing forward)" text in both the plate and the scene; and horizontally
+  pre-flipping the reference image to counter a presumed mirror (v3 — still
+  wrong). The model defaults the mark to one side regardless of reference or
+  wording. Unsolved this session. Things to try later: a tight frontal
+  single-subject generation for Paxton (one reference, no head turn) then
+  composite; an inpaint/edit pass on just the face; or flip the whole final image
+  when the composition allows. The plate now documents the canonical side ("his
+  right") so at least the intent is recorded for whatever approach wins.
+
 ### Net
 Strip-and-reinject is sound across all four tested modes: no-override scene
 (aurelion), override scene (chryseum), single character-in-scene with a

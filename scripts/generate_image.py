@@ -4,9 +4,14 @@
 Usage:
     OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py "a prompt here" [--tall|--wide|--square]
     OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py --prompt-file config/image/prompts/some-spec.json
+    OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py "a prompt here" --image images/pcs/roderic-pose.jpg
 
 Exactly one of: a prompt argument, or --prompt-file (a .json spec is passed to
 the model whole; a .txt file is used as raw prompt text).
+
+Pass one or more --image reference images to do image-to-image (a known
+character/place in a new situation): each reference is sent as a likeness source
+to OpenAI's images/edits endpoint instead of plain text-to-image generation.
 
 Size defaults to --wide (1536x1024). The file is written into the repo's images/
 directory as <name>.jpg (where build_site.py syncs from). Unless --name is given,
@@ -19,14 +24,17 @@ collides triggers a reprompt for a fresh name.
 import argparse
 import base64
 import json
+import mimetypes
 import os
 import re
 import sys
 import urllib.error
 import urllib.request
+import uuid
 from pathlib import Path
 
 IMAGE_URL = "https://api.openai.com/v1/images/generations"
+EDIT_URL = "https://api.openai.com/v1/images/edits"
 CHAT_URL = "https://api.openai.com/v1/chat/completions"
 MODEL = os.environ.get("OPENAI_IMAGE_MODEL", "gpt-image-2")
 NAMING_MODEL = os.environ.get("OPENAI_NAMING_MODEL", "gpt-4o-mini")
@@ -44,6 +52,65 @@ def _post(url: str, body: dict, access_key: str) -> dict:
         headers={
             "Authorization": f"Bearer {access_key}",
             "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as exc:
+        detail = exc.read().decode("utf-8", "replace")
+        raise SystemExit(f"API returned HTTP {exc.code}: {detail}") from exc
+
+
+def _encode_multipart(
+    fields: dict, files: list[tuple[str, Path]]
+) -> tuple[bytes, str]:
+    """Encode form fields and file parts as multipart/form-data.
+
+    ``fields`` are simple name->value text fields; ``files`` are (form_name,
+    path) tuples sent with their filename and guessed content type (the same
+    form name may repeat, e.g. ``image[]``). Returns (body, content_type).
+    """
+    boundary = uuid.uuid4().hex
+    parts: list[bytes] = []
+    for name, value in fields.items():
+        parts.append(f"--{boundary}".encode())
+        parts.append(f'Content-Disposition: form-data; name="{name}"'.encode())
+        parts.append(b"")
+        parts.append(str(value).encode("utf-8"))
+    for name, path in files:
+        content_type = (
+            mimetypes.guess_type(path.name)[0] or "application/octet-stream"
+        )
+        parts.append(f"--{boundary}".encode())
+        parts.append(
+            f'Content-Disposition: form-data; name="{name}"; '
+            f'filename="{path.name}"'.encode()
+        )
+        parts.append(f"Content-Type: {content_type}".encode())
+        parts.append(b"")
+        parts.append(path.read_bytes())
+    parts.append(f"--{boundary}--".encode())
+    parts.append(b"")
+    body = b"\r\n".join(parts)
+    return body, f"multipart/form-data; boundary={boundary}"
+
+
+def _post_multipart(
+    url: str,
+    fields: dict,
+    files: list[tuple[str, Path]],
+    access_key: str,
+) -> dict:
+    """POST a multipart/form-data body and return the parsed JSON response."""
+    body, content_type = _encode_multipart(fields, files)
+    request = urllib.request.Request(
+        url,
+        data=body,
+        headers={
+            "Authorization": f"Bearer {access_key}",
+            "Content-Type": content_type,
         },
         method="POST",
     )
@@ -136,20 +203,45 @@ def unique_llm_name(prompt: str, access_key: str, out_dir: Path) -> str:
     return name
 
 
-def generate(prompt: str, access_key: str, size: str) -> bytes:
-    """Call the image generation API and return the decoded image bytes."""
-    body = _post(
-        IMAGE_URL,
-        {
-            "model": MODEL,
-            "prompt": prompt,
-            "size": size,
-            "quality": "high",
-            "n": 1,
-            "output_format": "jpeg",
-        },
-        access_key,
-    )
+def generate(
+    prompt: str,
+    access_key: str,
+    size: str,
+    images: list[Path] | None = None,
+) -> bytes:
+    """Call the image API and return the decoded image bytes.
+
+    With ``images`` (reference image paths), the image-to-image edits endpoint
+    is used and each reference is sent as a likeness source; otherwise plain
+    text-to-image generation.
+    """
+    if images:
+        body = _post_multipart(
+            EDIT_URL,
+            {
+                "model": MODEL,
+                "prompt": prompt,
+                "size": size,
+                "quality": "high",
+                "n": "1",
+                "output_format": "jpeg",
+            },
+            [("image[]", path) for path in images],
+            access_key,
+        )
+    else:
+        body = _post(
+            IMAGE_URL,
+            {
+                "model": MODEL,
+                "prompt": prompt,
+                "size": size,
+                "quality": "high",
+                "n": 1,
+                "output_format": "jpeg",
+            },
+            access_key,
+        )
 
     item = body["data"][0]
 
@@ -183,6 +275,18 @@ def main(argv=None) -> str:
         "--prompt-file",
         dest="prompt_file",
         help="read the prompt from a file; .json is passed to the model whole",
+    )
+    parser.add_argument(
+        "-i",
+        "--image",
+        dest="images",
+        action="append",
+        metavar="PATH",
+        help=(
+            "reference image for image-to-image likeness (a known "
+            "character/place in a new situation); repeat for multiple "
+            "references. Switches from text-to-image to the edits endpoint"
+        ),
     )
     group = parser.add_mutually_exclusive_group()
     for name, dim in SIZES.items():
@@ -230,7 +334,16 @@ def main(argv=None) -> str:
 
     prompt = load_prompt(args.prompt, args.prompt_file)
 
-    image_bytes = generate(prompt, access_key, args.size)
+    images = None
+    if args.images:
+        images = []
+        for raw in args.images:
+            path = Path(raw)
+            if not path.is_file():
+                sys.exit(f"reference image not found: {path}")
+            images.append(path)
+
+    image_bytes = generate(prompt, access_key, args.size, images)
     args.out_dir.mkdir(parents=True, exist_ok=True)
 
     # An explicit --name overwrites any existing file; otherwise the naming

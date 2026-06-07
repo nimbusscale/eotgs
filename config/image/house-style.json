@@ -1,27 +1,47 @@
 {
-  "_comment": "GLOBAL HOUSE-STYLE BLOCK for all generated campaign illustrations. Rides VERBATIM on every scene prompt (characters, locations, composites). Derived in the character-consistency spike (M0, 2026-05-31) from the Eisen Dorn portrait spec + the realized Aurelion exterior images + Garland's grounded reference, and validated to hold across all 12 spike generations (M1-M5). This is the 'house style governs; references define identity only' anchor: it controls rendering/medium/palette/light/tone; per-entity canon files control identity only. /illustrate-session loads this as the style layer (supersedes deriving style ad hoc from old specs).",
+  "_comment": "GLOBAL HOUSE-STYLE BLOCK for all generated campaign illustrations. Split into two layers. The GLOBAL_MEDIUM layer rides VERBATIM on every prompt (plates, scenes, composites) and governs rendering medium, format, lighting philosophy, and material honesty — it is what makes every image feel like one campaign. The WORLD_PALETTE layer is the muted-earthy color/wear philosophy; it applies to environment-grounded characters (e.g. Garland) but YIELDS to a character's own canonical palette when they have a strong defined one (e.g. Roderic the shining paladin). For those characters, use the character's canon palette in place of WORLD_PALETTE and trim the palette-specific entries from 'avoid'. House style governs medium/format/light/material; per-character canon files govern identity and (for strong-palette characters) color.",
 
-  "medium": "Painterly photoreal concept art with a documentary, war-photography tone; soft visible brushwork over realistic form; obsessive material-wear detail (oxidized metal, cracked leather, mended cloth, weathered stone, sun-lined skin); grounded, anti-heroic, human-scale, not a hero painting",
-  "palette": [
-    "warm limestone and ochre stone",
-    "tarnished amber-gold, never bright or gleaming",
-    "dull matte steel and old iron",
-    "weathered dark-brown leather",
-    "road-dust gray and slate",
-    "sun-bleached sage and faded muted green",
-    "overcast pewter-to-pale-amber sky",
-    "weathered sun-lined skin tones"
-  ],
-  "lighting": "Diffuse, atmospheric, practical light — hazy overcast or a low muted golden-hour glow filtered through dust and cloud; soft volumetric god-rays only in sacred interiors; low contrast, no crisp spotlighting or dramatic shafts on people",
-  "tone": "Post-imperial melancholy at human scale; faded grandeur worn down at its working surfaces and outlived by the small, tired people in its shadow; subjects settled, candid, un-posed, weary; endurance without illusion; honor the mundane over the epic",
-  "avoid": [
-    "heroic posing or triumphant stances",
-    "glossy mirror-polish or pristine gleaming armor/metal",
-    "bright saturated skies and vivid color",
-    "crisp high-contrast cinematic spotlighting",
-    "epic-fantasy hero gloss and idealized beauty",
-    "clean matching equipment with no wear",
-    "drawn-weapon battle tension",
-    "youthful vigor where age and wear belong"
-  ]
+  "GLOBAL_MEDIUM": {
+    "_comment": "Rides verbatim on EVERY prompt regardless of character. This is the consistency anchor.",
+    "medium": "Painterly photoreal concept art with a documentary, grounded tone; soft visible brushwork over realistic form; obsessive material-wear and material-honesty detail (worked metal with weight and subtle edge wear, real dyed cloth, creased leather, weathered stone, lived-in surfaces); human-scale, anti-glamour, not a hero painting and not a glossy CGI render",
+    "format_for_plates": "Full-body character reference plate: single subject centered, full body in frame with breathing room around it, settled natural weight, calm candid un-posed bearing, no action or battle tension; seamless neutral mid-gray studio backdrop with a slight natural vignette, no set or environment; portrait 2:3 aspect ratio. For humanoid subjects: front-facing, full body head to feet, headroom above and floor space below. For non-humanoid subjects (animals, druid wild-shapes, creatures): render at a believable real-world scale rather than filling the frame — a small creature sits on the implied studio floor occupying only the lower/central portion with empty backdrop around and above it, with an explicit size cue so scale reads correctly. Animal forms stay grounded and anatomically real, never cartoonish or anthropomorphized.",
+    "lighting_for_plates": "Soft, even, diffuse front studio light; low contrast, gentle falloff, flat enough to read every material clearly; no colored light, no hard spotlight, no dramatic shafts or rim lighting",
+    "lighting_for_scenes": "Diffuse atmospheric practical light — hazy overcast or low muted golden-hour glow filtered through dust and cloud; soft volumetric god-rays only in sacred interiors; low contrast, no crisp spotlighting on people",
+    "tone": "Grounded, candid, human-scale; subjects settled and un-posed; honor the weight and craft of real materials over spectacle; endurance and dignity without glamour",
+    "signature_items": "A character's named or signature gear (a blade, a piece of armor, a relic, a focus) is rendered with material honesty and individual character — pattern-welded or worked steel may show its grain, edge, forging marks and honest wear as believable real metal; relics and foci may carry their canonical detail. This characterful, worked, matte-to-satin treatment is explicitly distinct from and does NOT override the forbidden mirror-polish/CGI-gloss. Make signature items read as real, made, used objects with weight and history, not glamour props.",
+    "avoid_global": [
+      "plastic or mirror-CGI gloss",
+      "glamour-photography or epic movie-poster look",
+      "dramatic rim lighting or crisp high-contrast cinematic spotlighting on people",
+      "model-handsome idealized faces that drift from the character's reference",
+      "heroic mid-action posing on reference plates"
+    ]
+  },
+
+  "WORLD_PALETTE": {
+    "_comment": "Default color/wear layer for environment-grounded characters (Garland-type). OMIT or REPLACE with a character canon palette for strong-palette characters (Roderic-type). When omitted, also drop the palette/wear entries from avoid_palette.",
+    "palette": [
+      "warm limestone and ochre stone",
+      "tarnished amber-gold, never bright or gleaming",
+      "dull matte steel and old iron",
+      "weathered dark-brown leather",
+      "road-dust gray and slate",
+      "sun-bleached sage and faded muted green",
+      "weathered sun-lined skin tones"
+    ],
+    "wear_philosophy": "Heavily traveled and mended; nothing new or matching; faded grandeur worn down at its working surfaces",
+    "tone_overlay": "Post-imperial melancholy; faded grandeur outlived by the small, tired people in its shadow; weary endurance",
+    "avoid_palette": [
+      "bright saturated color",
+      "glossy mirror-polish or pristine gleaming armor/metal",
+      "clean matching equipment with no wear",
+      "youthful vigor where age and wear belong"
+    ]
+  },
+
+  "_usage": {
+    "grounded_character_example_garland": "Apply GLOBAL_MEDIUM + WORLD_PALETTE in full. Garland IS the world palette.",
+    "strong_palette_character_example_roderic": "Apply GLOBAL_MEDIUM in full. REPLACE WORLD_PALETTE with Roderic's canon palette (bright polished silver-steel, warm gold detailing, deep heraldic blue, gold rampant lion on blue shield). Do NOT include avoid_palette entries — his brightness is canonical identity, not a style violation.",
+    "rule_of_thumb": "GLOBAL_MEDIUM is never negotiable; it is the campaign's visual signature. WORLD_PALETTE is a default that strong-identity characters override with their own canon colors. The medium keeps the cast coherent even when their palettes differ."
+  }
 }

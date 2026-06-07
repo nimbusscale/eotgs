@@ -307,24 +307,25 @@ def copy_images(image_map):
     return warnings
 
 
-def render_images(cfg, depth):
+def render_images(cfg):
     """Build optional hero + optional gallery markdown for a page.
 
-    ``depth`` is the number of directory segments in the page's URL (path
-    parts minus the filename); it sets the ``../`` prefix back to the content
-    root so links resolve on nested pages regardless of Quartz's baseUrl.
+    Image ``src``/``href`` are emitted as vault-root-relative paths
+    (``img/...``, no ``../`` prefix). Quartz's CrawlLinks transformer rebases
+    each one against the page's own depth via ``pathToRoot``, so the link
+    resolves correctly on nested pages (e.g. ``sessions/<arc>/session-N``)
+    regardless of Quartz's baseUrl. Supplying our own ``../`` prefix here would
+    be double-counted by that transform and overshoot to the domain root.
 
     The hero (if any) renders captionless at the top. The gallery renders as a
     grid of square thumbnails; hovering one shows the full-size image as a
     centered overlay (styled in custom.scss), and each thumbnail links to the
     full image so touch devices without hover can tap to open it.
     """
-    prefix = "../" * depth
-
     head = ""
     hero = cfg.get("hero")
     if hero:
-        src = f"{prefix}img/{hero['file']}"
+        src = f"img/{hero['file']}"
         alt = html.escape(hero.get("alt", ""))
         head = (
             f'<figure class="hero-image">'
@@ -337,7 +338,7 @@ def render_images(cfg, depth):
     if gallery:
         items = ""
         for img in gallery:
-            src = f"{prefix}img/{img['file']}"
+            src = f"img/{img['file']}"
             cap = html.escape(img.get("caption", ""))
             items += (
                 f'<a class="gallery-item" href="{src}" target="_blank" '
@@ -413,7 +414,7 @@ def build_content(alias_map, wikilink_map, slug_form_map, image_map):
         # Inject hero image (and gallery) for mapped entities
         key = str(rel.with_suffix("")).replace("\\", "/")
         if key in image_map:
-            head, tail = render_images(image_map[key], len(rel.parts) - 1)
+            head, tail = render_images(image_map[key])
             text = head + text.lstrip("\n") + tail
 
         # Inject frontmatter

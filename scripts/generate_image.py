@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Generate an image via DigitalOcean's inference API and write it to <name>.jpg.
+"""Generate an image via OpenAI's image API and write it to <name>.jpg.
 
 Usage:
-    SANDBOX_MODEL_ACCESS_KEY=doo_v1_... python3 scripts/generate-image.py "a prompt here" [--tall|--wide|--square]
-    SANDBOX_MODEL_ACCESS_KEY=doo_v1_... python3 scripts/generate-image.py --prompt-file config/image/prompts/some-spec.json
+    OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py "a prompt here" [--tall|--wide|--square]
+    OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py --prompt-file config/image/prompts/some-spec.json
 
 Exactly one of: a prompt argument, or --prompt-file (a .json spec is passed to
 the model whole; a .txt file is used as raw prompt text).
@@ -26,10 +26,10 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-IMAGE_URL = "https://inference.do-ai.run/v1/images/generations"
-CHAT_URL = "https://inference.do-ai.run/v1/chat/completions"
-MODEL = "openai-gpt-image-2"
-NAMING_MODEL = "openai-gpt-4o-mini"
+IMAGE_URL = "https://api.openai.com/v1/images/generations"
+CHAT_URL = "https://api.openai.com/v1/chat/completions"
+MODEL = os.environ.get("OPENAI_IMAGE_MODEL", "gpt-image-2")
+NAMING_MODEL = os.environ.get("OPENAI_NAMING_MODEL", "gpt-4o-mini")
 MAX_NAME_LEN = 48
 MAX_NAME_ATTEMPTS = 5
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -221,11 +221,11 @@ def main(argv=None) -> str:
             "provide exactly one of: a prompt argument or --prompt-file"
         )
 
-    access_key = os.environ.get("SANDBOX_MODEL_ACCESS_KEY")
+    access_key = os.environ.get("OPENAI_ACCESS_KEY")
     if not access_key:
         sys.exit(
-            "SANDBOX_MODEL_ACCESS_KEY is not set. Export your sandbox key first "
-            "(distinct from the customer MODEL_ACCESS_KEY) or pass it in the environment."
+            "OPENAI_ACCESS_KEY is not set. Export your OpenAI API key first "
+            "or pass it in the environment."
         )
 
     prompt = load_prompt(args.prompt, args.prompt_file)

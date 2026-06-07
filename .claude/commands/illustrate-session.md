@@ -176,17 +176,29 @@ For each **approved** candidate:
    generated from this frontmatter.
 
    **`subjects:` is required and load-bearing.** List the canonical slug (the
-   same one from `entity-aliases.yaml`) of every character AND the location
-   **actually depicted with a usable likeness** in the image — this is what lets
-   a future scene find this picture (via `config/subject-index.yaml`) when an NPC
-   has no entry of their own (the whole point of the cross-map lookup in Step 2).
-   Omit a character who is in the beat but not usably depicted (e.g. shown only as
-   a swirl of wind, or an off-screen name). Add a short `description` noting
-   prominence/fidelity for any guest subject (e.g. "only existing depiction of
-   Voss", "Senna glimpsed, low detail") so reference selection can weigh it. This
-   step is the only place these new NPCs/locations get recorded, so getting
-   `subjects` right here is what makes the next session's renders of them
-   consistent.
+   same one from `entity-aliases.yaml`) of every entity the image is a *usable
+   reference for* — this is what lets a future scene find this picture (via
+   `config/subject-index.yaml`) when an entity has no entry of its own (the whole
+   point of the cross-map lookup in Step 2). The bar is "usable reference," not
+   "present in the scene," and it differs by entity kind:
+   - **Characters:** tag a character only if they are **depicted with a usable
+     likeness** (face/build/outfit readable). Omit a character who is in the beat
+     but not usably depicted (shown only as a swirl of wind, a back, or an
+     off-screen name).
+   - **Locations:** tag a location only if the image is a **usable establishing /
+     representative view of that place** — not merely *where the scene is set*. A
+     backdrop glimpse, an interior that says nothing about the place, or a setting
+     named only in the caption does **not** count, even though the scene happens
+     there. (This is why beaconhold/bonewall/havens-reach were pruned from
+     session-6 — the scenes occurred there but showed no referenceable view; a
+     location with no good view should stay honestly ref-light so it gets a real
+     establishing plate later.) When in doubt, leave the location off.
+
+   Add a short `description` noting prominence/fidelity for any guest subject
+   (e.g. "only existing depiction of Voss", "Senna glimpsed, low detail") so
+   reference selection can weigh it. This step is the only place these new
+   NPCs/locations get recorded, so getting `subjects` right here is what makes the
+   next session's renders of them consistent.
 
 4. Run `python3 scripts/build_index.py` to regenerate `config/image-map.yaml`
    and `config/subject-index.yaml` from the updated frontmatter.

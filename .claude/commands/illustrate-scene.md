@@ -137,7 +137,9 @@ Return the result object for the final (or best) image:
 
 Print the `image_path` and remind the user to:
 1. **Review** the image (style, palette, likenesses, content).
-2. **Publish it if wanted** by moving the file from `image-test/` into `images/` (only `images/` is synced to the server) and adding it to the entity's `images.gallery` (or `images.hero`) in **its kb frontmatter** — include a `subjects:` list of the slugs depicted — then running `python3 scripts/build_index.py` to regenerate `config/image-map.yaml` and `config/subject-index.yaml`. Do **not** hand-edit `config/image-map.yaml` (it is generated). This skill does not auto-publish; `/export-kb` copies only mapped images to the site.
+2. **Publish it if wanted** by moving the file from `image-test/` into `images/` (only `images/` is synced to the server) and adding it to the entity's `images.gallery` (or `images.hero`) in **its kb frontmatter** — include a `subjects:` list — then running `python3 scripts/build_index.py` to regenerate `config/image-map.yaml` and `config/subject-index.yaml`. Do **not** hand-edit `config/image-map.yaml` (it is generated). This skill does not auto-publish; `/export-kb` copies only mapped images to the site.
+
+   **`subjects:` means "this image is a usable reference for X," not "X is in the scene."** Tag a **character** only when depicted with a usable likeness (omit a swirl-of-wind / back-of-head / off-screen-named character); tag a **location** only when the image is a usable establishing/representative view of that place — a backdrop glimpse or a setting named only in the caption does not count, even though the scene happens there. A location with no good view is better left off (honestly ref-light) than tagged with an incidental shot.
 
 The returned object is what a calling command (e.g. a future `illustrate-session`) collects — it gives the caller a validated path plus the verdict/notes without paying the cost of re-reading the candidate images.
 

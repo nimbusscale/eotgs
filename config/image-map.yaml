@@ -8,76 +8,168 @@
 #   `caption` beneath it.
 # Omit `hero` to send every image to the gallery — use this for pages where
 # no single image represents the whole entity (e.g. faction pages).
+#
+# `library`: optional list (sibling to `hero`/`gallery`) of reference-only
+#   images that must NOT be published to the site (e.g. studio reference plates
+#   used to drive image generation). build_site.py never publishes these; they
+#   exist here so the illustrate-scene skill can find a character's identity
+#   reference and its prompt spec.
+#
+# Per image item (in `hero`, `gallery`, or `library`):
+#   file:    repo-relative path under images/ (required)
+#   caption: shown beneath gallery images
+#   alt:     accessibility text for hero images
+#   description: (optional) a fuller account of what is in the picture. The
+#     illustrate-scene skill reads this to choose which reference best fits a
+#     moment (e.g. weapon-free vs. armed, which location view to use).
+#   prompt:  (optional) repo-relative path to that image's spec JSON in
+#     config/image/prompts/. Links a published image back to the prompt that
+#     produced it, and lets the skill load a reference's canon sub-prompt.
 
 pcs/castor:
-  hero: { file: pcs/castor-human.jpg, alt: "Castor in human form" }
+  hero:
+    file: pcs/castor-human.jpg
+    alt: "Castor in human form"
+    description: "Castor in human (wood-elf) form: shaggy red-orange hair, tattered earth-toned traveler's outfit, ragged hooded cloak. No weapon. Front-facing identity reference."
+    prompt: config/image/prompts/castor-reference-plate-prompt.json
   gallery:
     - { file: pcs/garland-and-castor-beaver.jpg, caption: "Garland cradling Castor in his true beaver form" }
 
 pcs/garland-yn-greenholt:
-  hero: { file: pcs/garland-portrait.jpg, alt: "Garland yn Greenholt" }
+  hero:
+    file: pcs/garland-portrait.jpg
+    alt: "Garland yn Greenholt"
+    description: "Garland's face and identity: extraordinarily old warrior-sage, elven pointed ears, weathered sun-lined skin. Portrait framing, no weapon prominent. Primary identity reference."
+    prompt: config/image/prompts/garland-reference-plate-prompt.json
   gallery:
-    - { file: pcs/garland-second-harvest.jpg, caption: "Garland walks the vale, Second Harvest in hand" }
+    - file: pcs/garland-second-harvest.jpg
+      caption: "Garland walks the vale, Second Harvest in hand"
+      description: "Garland holding his signature sword Second Harvest (broad forward-curved pattern-welded blade). Use when the moment calls for him armed."
     - { file: pcs/garland-and-castor-beaver.jpg, caption: "The old guardian and his beaver kin" }
 
 pcs/paxton-lumnus:
-  hero: { file: pcs/paxton-portrait.jpg, alt: "Paxton Lumnus" }
+  hero:
+    file: pcs/paxton-portrait.jpg
+    alt: "Paxton Lumnus"
+    description: "Paxton's face and divine light-marks (gold line through his RIGHT eye/cheek): dark near-black hair, dark stubble, pale gold-touched eyes. Weapon-free portrait — prefer this as the identity reference for non-combat / weapons-hidden scenes."
+    prompt: config/image/prompts/paxton-reference-plate-prompt.json
   gallery:
     - { file: pcs/paxton-and-the-light.jpg, caption: "Paxton unleashes the Light against the pack" }
-    - { file: pcs/paxton-pose.jpg, caption: "Bearing the dawn's burden across broken country" }
+    - file: pcs/paxton-pose.jpg
+      caption: "Bearing the dawn's burden across broken country"
+      description: "Full-body Paxton in weathered brown leather road armor with sword at side. Armed reference; for weapon-free scenes use the portrait instead."
 
 pcs/sir-roderic-lightbearer:
-  hero: { file: pcs/roderic-pose.jpg, alt: "Sir Roderic Lightbearer" }
+  hero:
+    file: pcs/roderic-pose.jpg
+    alt: "Sir Roderic Lightbearer"
+    description: "Sir Roderic, young blond knight in bright polished silver-steel plate with gold filigree, heraldic-blue surcoat, blue kite shield with gold rampant lion. Strong bright canonical palette. Primary identity reference."
+    prompt: config/image/prompts/roderic-reference-plate-prompt.json
   gallery:
     - { file: pcs/roderic-horse.jpg, caption: "The Lightbearer rides for the failing wards" }
 
 npcs/aldric-garlandsson:
   gallery:
-    - { file: aldric-and-crown-vale.jpg, caption: "Aldric with his wife and the infant Mira, before Crownvale" }
+    - file: aldric-and-crown-vale.jpg
+      caption: "Aldric with his wife and the infant Mira, before Crownvale"
+      prompt: config/image/prompts/aldric-and-crown-vale.json
 
 npcs/mira:
-  hero: { file: mira.jpg, alt: "Mira" }
+  hero:
+    file: mira.jpg
+    alt: "Mira"
+    prompt: config/image/prompts/mira.json
 
 npcs/captain-eisen-dorn:
-  hero: { file: eisen-dorn-portrait.jpg, alt: "Captain Eisen Dorn" }
+  hero:
+    file: eisen-dorn-portrait.jpg
+    alt: "Captain Eisen Dorn"
+    prompt: config/image/prompts/eisen-dorn-portrait.json
 
 npcs/mayliss-vane:
-  hero: { file: mayliss-vane-portrait.jpg, alt: "Mayliss Vane" }
+  hero:
+    file: mayliss-vane-portrait.jpg
+    alt: "Mayliss Vane"
+    prompt: config/image/prompts/mayliss-vane-portrait.json
 
 npcs/luminary-severin-morrow:
-  hero: { file: luminary-severin-portrait.jpg, alt: "Luminary Severin Morrow" }
+  hero:
+    file: luminary-severin-portrait.jpg
+    alt: "Luminary Severin Morrow"
+    prompt: config/image/prompts/luminary-severin-portrait.json
 
 npcs/dawnwarden-brenn:
-  hero: { file: solenne-brenn-portrait.jpg, alt: "Dawnwarden Solenne Brenn" }
+  hero:
+    file: solenne-brenn-portrait.jpg
+    alt: "Dawnwarden Solenne Brenn"
+    prompt: config/image/prompts/solenne-brenn-portrait.json
 
 npcs/triune:
-  hero: { file: the-triune-group-portrait.jpg, alt: "The Triune" }
+  hero:
+    file: the-triune-group-portrait.jpg
+    alt: "The Triune"
+    prompt: config/image/prompts/the-triune-group-portrait.json
 
 locations/aurelion:
-  hero: { file: aurelion-approach.jpg, alt: "The approach to Aurelion" }
+  hero:
+    file: aurelion-approach.jpg
+    alt: "The approach to Aurelion"
+    description: "Establishing exterior: hilltop citadel seen from the approach road, tarnished green-gold dome, muted post-imperial palette. Use for arriving-at-Aurelion moments."
+    prompt: config/image/prompts/aurelion-approach.json
   gallery:
-    - { file: aurelion-street-level.jpg, caption: "Aurelion at street level" }
-    - { file: crest-aurelion-castle.jpg, caption: "Crest Aurelion castle" }
-    - { file: chryseum-exterior.jpg, caption: "The Chryseum, exterior" }
-    - { file: chryseum-interior.jpg, caption: "The Chryseum, interior" }
+    - file: aurelion-street-level.jpg
+      caption: "Aurelion at street level"
+      description: "Ground-level imperial avenue: colonnades, market stalls, Aureate patrol, post-imperial melancholy. Use for scenes set in the city streets or tunnels at street level."
+      prompt: config/image/prompts/aurelion-street-level.json
+    - file: crest-aurelion-castle.jpg
+      caption: "Crest Aurelion castle"
+      description: "The castle/keep of Crest Aurelion, muted scene with one bright dome. Use for scenes at the count's seat."
+      prompt: config/image/prompts/crest-aurelion-castle.json
+    - file: chryseum-exterior.jpg
+      caption: "The Chryseum, exterior"
+      description: "Exterior of the cathedral of the Light, bright gold dome against the declining city. Use for arriving at the Chryseum."
+      prompt: config/image/prompts/chryseum-exterior.json
+    - file: chryseum-interior.jpg
+      caption: "The Chryseum, interior"
+      description: "Interior nave of the cathedral of the Light — luminous gold dome, cool whiteglass, candlelight; strong bright palette and engineered two-temperature lighting. Use for scenes inside the cathedral or near the shrine beneath it."
+      prompt: config/image/prompts/chryseum-interior.json
 
 locations/beaconhold:
   gallery:
-    - { file: kingdom-of-beaconhold-map.jpg, caption: "Map of the Kingdom of Beaconhold" }
+    - file: kingdom-of-beaconhold-map.jpg
+      caption: "Map of the Kingdom of Beaconhold"
+      prompt: config/image/prompts/kingdom-of-beaconhold-map.json
 
 locations/nodrum:
-  hero: { file: the-nodrum-exterior.jpg, alt: "The Nodrum, exterior" }
+  hero:
+    file: the-nodrum-exterior.jpg
+    alt: "The Nodrum, exterior"
+    prompt: config/image/prompts/the-nodrum-exterior.json
   gallery:
-    - { file: the-nodrum-interior-work.jpg, caption: "The Nodrum, interior workshop" }
-    - { file: the-antechamber-archive.jpg, caption: "The antechamber archive" }
-    - { file: the-clockworks-automaton.jpg, caption: "A clockworks automaton" }
-    - { file: the-depths-xan-kors-chamber.jpg, caption: "The Depths — Xan-Kor's chamber" }
+    - file: the-nodrum-interior-work.jpg
+      caption: "The Nodrum, interior workshop"
+      prompt: config/image/prompts/the-nodrum-interior-work.json
+    - file: the-antechamber-archive.jpg
+      caption: "The antechamber archive"
+      prompt: config/image/prompts/the-antechamber-archive.json
+    - file: the-clockworks-automaton.jpg
+      caption: "A clockworks automaton"
+      prompt: config/image/prompts/the-clockworks-automaton.json
+    - file: the-depths-xan-kors-chamber.jpg
+      caption: "The Depths — Xan-Kor's chamber"
+      prompt: config/image/prompts/the-depths-xan-kors-chamber.json
 
 factions/old-gods:
   gallery:
-    - { file: dark-harlequin.jpg, caption: "The Dark Harlequin" }
-    - { file: chamber-of-renewal-avatar.jpg, caption: "The Chamber of Renewal" }
+    - file: dark-harlequin.jpg
+      caption: "The Dark Harlequin"
+      prompt: config/image/prompts/dark-harlequin.json
+    - file: chamber-of-renewal-avatar.jpg
+      caption: "The Chamber of Renewal"
+      prompt: config/image/prompts/chamber-of-renewal-avatar.json
 
 factions/the-light:
   gallery:
-    - { file: order-of-first-dawn.jpg, caption: "The Order of First Dawn" }
+    - file: order-of-first-dawn.jpg
+      caption: "The Order of First Dawn"
+      prompt: config/image/prompts/order-of-first-dawn.json

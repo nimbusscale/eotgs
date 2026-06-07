@@ -1,10 +1,14 @@
 scratch/
 inbox/transcripts/manifest/
 
-# Generated illustrations and image-generation scratch (published from images/).
-# Anchored to repo root so committed assets under config/image/ stay tracked.
+# Generated illustrations. images/ holds publish-ready assets synced to the
+# server; image-test/ holds all scratch/test output (candidate generations and
+# the composed-prompt scratch written by scripts/compose_image_prompt.py).
+# NEITHER is committed. Anchored to repo root so committed assets under
+# config/image/ stay tracked.
 /images/
 /image/
+/image-test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -267,7 +267,13 @@ def load_image_map():
 
 
 def _entity_images(cfg):
-    """Yield every image dict in an entity config (hero first, then gallery)."""
+    """Yield every image dict in an entity config (hero first, then gallery).
+
+    The optional `library:` bucket is intentionally skipped: it holds
+    reference-only images (e.g. studio reference plates) that drive image
+    generation but must never be published to the site. Per-item `description`
+    and `prompt` keys are likewise ignored here — only `file` is used downstream.
+    """
     if cfg.get("hero"):
         yield cfg["hero"]
     yield from cfg.get("gallery", [])

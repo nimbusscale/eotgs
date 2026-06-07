@@ -1,0 +1,17 @@
+{
+  "title": "Sir Roderic Lightbearer — Reference Plate",
+  "source_reconciliation": "Use the attached images of Sir Roderic Lightbearer as the definitive source for this character's identity — face, hair, build, age, and his signature armor, heraldry, and gear. Preserve his face and likeness faithfully. Do not restyle the face toward a different, older, or model-handsome appearance that drifts from his reference.",
+  "identity_lock": "A young, fair-skinned knight with tousled blond hair and clean or lightly-stubbled features; full plate armor of polished silver-steel covered in fine gold filigree scrollwork, with a gold cross on the breastplate; a deep heraldic-blue cloak/surcoat; a tall blue kite shield bearing a gold rampant lion; an ornate cross-hilted longsword. Bright, clean, knightly arms — this is correct for him. He may rest his sword point-down and hold his shield at his side.",
+  "house_style_overrides": {
+    "palette": [
+      "bright polished silver-steel armor",
+      "warm rich gold filigree detailing (rich, not neon or glowing)",
+      "deep heraldic blue cloak and shield field",
+      "gold rampant lion on the blue shield",
+      "gold cross on the breastplate",
+      "fair young skin tones"
+    ],
+    "palette_note": "Replaces the default muted WORLD_PALETTE with this canonical bright palette; do NOT mute, tarnish, or desaturate him into the earthy world palette — his brightness is canonical identity.",
+    "signature_items": "Gold-filigreed plate, blue kite shield with gold rampant lion, ornate cross-hilted longsword — rendered as real worked metal with weight and faint honest wear, not mirror gloss or neon/glowing gold."
+  }
+}

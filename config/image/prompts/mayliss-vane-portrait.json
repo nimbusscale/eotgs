@@ -26,7 +26,7 @@
       "Writing implements — a quill or pen, an inkwell with iron gall ink (the brownish-black ink that stains fingers permanently)"
     ],
     "depth_of_focus": "Mayliss is sharp. The workspace is present and readable — enough to establish 'this is where the real work of power happens' — but secondary to the character. The organized precision of the setting reinforces her personality without competing for attention.",
-    "lighting": "Interior lighting — warm but practical. Candles or an oil lamp illuminating the workspace, casting warm tones on the ledgers and her face. Natural light from a window to one side, cool and gray — the overcast Aurelion daylight. The warm workspace light and the cool daylight create a subtle temperature contrast on her face, but not as dramatic as Severin's dual lighting. This is working light. Functional. Like everything else about her."
+    "lighting_note": "Image-specific direction: a subtle warm/cool temperature contrast on her face — warm workspace candle or oil-lamp glow on the ledgers and one side of her face, cool gray overcast daylight from a side window on the other. Keep it deliberately understated — working light, not the dramatic dual lighting used for Severin."
   },
   "sensory_details_as_visual_cues": {
     "note": "Drawn from her established sensory profile. The ones that can inform the rendering should.",
@@ -58,9 +58,9 @@
     "Clothing that is practical, dark-toned, and immaculately maintained — no decoration, no excess, excellent quality",
     "The composed, patient expression — eyes that weigh you, a mouth that will speak when it is ready, the silence of someone who never fills conversational gaps",
     "Organized shelved records behind her — the archive that contains every transaction she has overseen",
-    "The contrast between the warm workspace candlelight and the cool gray daylight from the window — working light, not dramatic light"
+    "The contrast between the warm workspace candlelight and the cool gray daylight from the window"
   ],
-  "style": "Painterly fantasy portrait with the quiet authority of a Dutch Golden Age interior — Vermeer's light on a subject who could be a merchant or a magistrate. Concept art quality. The tone of institutional competence: this is the person who makes the system actually work, and the portrait should honor that specific, unglamorous, deeply dangerous form of power. The rendering should pay particular attention to the workspace details (the ledger, the seal press, the scale, the ink) because these objects ARE her character the way Severin's vestments are his and Dorn's armor is his. Grounded and realistic, with warm interior lighting and the particular quality of a professional space where consequential decisions are made quietly.",
+  "art_direction": "Channel the quiet authority of a Dutch Golden Age interior — Vermeer's light on a subject who could be a merchant or a magistrate. The tone is institutional competence: this is the person who makes the system actually work, and the portrait should honor that specific, unglamorous, deeply dangerous form of power. Pay particular attention to the workspace details (the ledger, the seal press, the scale, the ink) because these objects ARE her character the way Severin's vestments are his and Dorn's armor is his. A professional space where consequential decisions are made quietly.",
   "aspect_ratio": "2:3 portrait — vertical composition for a character portrait, giving room for the desk and workspace below and the shelved records above while keeping her face as the focal point",
   "do_not_include": [
     "Glamour, beauty, or seductive presentation — she is competent, not performing",
@@ -70,7 +70,6 @@
     "Clutter, mess, or disorganization in the workspace — immaculate order is a character trait",
     "Gold or wealth on display — the only gold is the small functional scale pin. She handles wealth; she does not display it",
     "Dark scheming or villainous atmosphere — she may be complicit in Marrow's plans, but she reads as professional, not sinister",
-    "Youth — she has the settled, mature authority of someone who has been doing this work for decades",
-    "Bright or saturated colors — her palette is muted, professional, ink-and-leather tones with sealing-wax red as the one warm accent"
+    "Youth — she has the settled, mature authority of someone who has been doing this work for decades"
   ]
 }

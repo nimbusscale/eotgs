@@ -9,7 +9,7 @@
     "ceiling": "Lower than the workshop. Vaulted with geometric coffers, each containing a small lens or crystal that provides soft downward light onto the reading positions below."
   },
   "mood": "Reverent silence and deep age. A place that has been keeping its contents safe for longer than any living civilization remembers. Scholarly but unsettling — the knowledge here predates the current understanding of the world.",
-  "lighting": "Soft amber glow from floor and wall channels provides ambient light. Individual reading positions are lit from above by ceiling-mounted crystal lenses — like focused spotlights of warm light. The spaces between are dim but not dark.",
+  "lighting": "Soft amber glow from floor and wall channels provides the ambient light. Individual reading positions are lit from above by ceiling-mounted crystal lenses casting small pools of warm light onto the surfaces below. The spaces between are dim but not dark, deep warm shadow pooling in the alcoves.",
   "color_palette": [
     "warm amber channel-light",
     "aged stone in gray and pale ochre",
@@ -25,7 +25,6 @@
     "One alcove near the foreground is open, its crystal cover slid aside, revealing contents bathed in amber light",
     "Faint geometric inscriptions on the floor channels suggest the indexing system is part of the architecture itself"
   ],
-  "style": "Painterly fantasy illustration, atmospheric and grounded. The tone of a sacred archive — monastic silence combined with alien mechanical precision. Concept art quality with strong depth and mood.",
   "aspect_ratio": "16:9 landscape",
   "do_not_include": [
     "characters or figures in the scene",

@@ -8,7 +8,7 @@
     "central_form": "Xan-Kor itself, at the bottom of the shaft. Enormous, biomechanical, dormant — but almost entirely phase-shifted OUT of this reality, so only the faintest trace of it is perceptible. This is NOT a blur, glow, mist, or shimmer around it, and there is NO bubble, sphere, dome, membrane, or aura enclosing it. The construct is spatially displaced and overwhelmingly absent: the vast majority of its mass is simply not here — transparent, vanished, or swallowed by the dark, the empty chamber visible straight through where colossal metal should be. Render it like a heavily misaligned multiple exposure broken almost to nothing — a few faint, offset, semi-transparent echoes of bronze structure that do not register with one another, with subtle red/cyan chromatic separation along the displaced contours. Only two or three SMALL fragments anywhere on it resolve into sharp, solid, crisply detailed metal — just enough to prove the dislocation is real and selective rather than softness laid over the picture; everything else is fugitive, incomplete, and refuses to cohere into a recognisable form. The viewer should sense immense scale and menace while being unable to actually trace its shape. The boundary between 'here' and 'not here' runs jaggedly and irregularly through the construct's own body — never a smooth circle, ring, or enclosing zone. The slivers that do resolve hint at something between a siege engine and an anatomy — precision-machined bronze shaped with organic curves, joints, and segments — but the whole stays unreadable. It is curled or folded inward, compact, waiting. Not sleeping — *stored*.",
     "containment": "Bronze clamps, geometric barrier-frames, and alignment locks surround the construct. These are the containment systems — some intact, some loosened or adjusted by the Triune's work."
   },
-  "mood": "Awe and existential dread. The feeling of standing at the edge of a missile silo and realizing what the warhead is for. This is not evil — it is purpose without conscience. The scale makes everything above feel fragile.",
+  "mood": "Awe and existential dread. The feeling of standing at the edge of a missile silo and realizing what the warhead is for. This is not evil — it is purpose without conscience. The scale makes everything above feel fragile. The tone of looking into the heart of something ancient and terrible — a buried weapon from a forgotten war between forces beyond mortal understanding — carried by heavy shadow and implied form rather than full reveal.",
   "lighting": "Amber energy lines provide the primary light, tracing the walls and containment frames — not pooling into a central glow. The construct is not haloed or backlit: its solid portions catch dim amber off the channels while its displaced portions are simply dark, transparent, or absent. The upper edges of the chamber where the viewer stands are dim. Deep shadow fills the lowest reaches.",
   "color_palette": [
     "deep shadow and near-black stone",
@@ -18,6 +18,16 @@
     "faint pale light reflecting off machined metal surfaces",
     "no green, no warmth, no organic color"
   ],
+  "house_style_overrides": {
+    "lighting": "The scene is lit almost entirely by self-emitting amber energy lines running down the wall channels and into the containment frames — these are the dominant practical light source, not diffuse overcast or golden-hour atmosphere. They glow brighter than the surrounding stone and are the brightest element in the frame; everything not touched by them falls into deep shadow and near-black. No god-rays, no soft ambient fill.",
+    "palette": [
+      "self-luminous amber energy lines, the brightest element in the frame",
+      "deep shadow and near-black stone",
+      "cold gray chamber walls",
+      "tarnished bronze on the construct's few resolved fragments"
+    ],
+    "palette_note": "The amber energy lines are deliberately luminous and override the muted earthy WORLD_PALETTE for the light source itself; they are an in-world glow, not bright saturated decoration. The surrounding stone and bronze remain muted, cold, and shadowed."
+  },
   "composition": "Looking down from a high vantage point — the edge of a balcony, a broken walkway, or an opening in the floor of the level above. Vertigo-inducing depth. The eye is drawn down the shaft toward where the construct should be, but it almost isn't there — only a scatter of faint displaced fragments hangs in the dark, the immense scale implied by the architecture and the void rather than by any visible body. The viewer feels small and unsure of what they are even looking at.",
   "details": [
     "CRITICAL: the chamber walls, geometric channels, energy lines, containment frames, and the viewer's vantage point are all rendered crisp, tack-sharp, and fully solid. The construct is the ONLY thing affected — and it is affected by extreme spatial DISPLACEMENT (mostly absent/transparent, a few faint offset ghost-echoes, only tiny solid fragments), NOT by blur, haze, soft focus, or a surrounding energy effect. The sharp, solid surroundings make unmistakably clear this is the object being phase-shifted almost entirely out of reality, not a focus or image-quality problem",
@@ -26,7 +36,6 @@
     "A few energy lines pulse brighter than others, suggesting partial systems coming online",
     "The walls show no inscriptions or decoration — only functional geometry, channels, and mounting points"
   ],
-  "style": "Painterly fantasy illustration with a strong sense of scale and atmosphere. The tone of looking into the heart of something ancient and terrible — akin to discovering a buried weapon from a forgotten war between forces beyond mortal understanding. Dark concept art, heavy on shadow and implied form rather than full reveal.",
   "aspect_ratio": "9:16 portrait or 2:3 portrait — vertical composition to emphasize the depth of the shaft",
   "do_not_include": [
     "characters or figures for scale — the architecture itself communicates scale",

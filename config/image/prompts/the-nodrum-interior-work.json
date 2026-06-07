@@ -24,13 +24,11 @@
     "One or two alignment configurations appear active, with faint light connecting a mirror to a lens to a floor marking",
     "Chalk marks and notes on some surfaces suggest recent use by the current occupants"
   ],
-  "style": "Painterly fantasy illustration, grounded and atmospheric. The feel of a Renaissance inventor's workshop built inside something far older and stranger. Concept art quality — detailed but moody, not clinical.",
   "aspect_ratio": "16:9 landscape",
   "do_not_include": [
     "characters or figures in the scene",
     "fire or torches as light sources",
     "medieval library or wizard tower clichés",
-    "bright saturated magical effects",
     "modern technology or digital screens",
     "cobwebs or abandonment — this space is actively maintained"
   ]

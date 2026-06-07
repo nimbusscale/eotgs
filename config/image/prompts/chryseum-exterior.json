@@ -38,6 +38,16 @@
   ],
   "mood": "Awe and unease in equal measure. The building is genuinely beautiful — the most impressive thing the party has seen in Aurelion, possibly the most impressive religious building they have ever entered. But there is an edge to it. The symmetry is too perfect, the light too controlled, the elevation too deliberate. This is a place that was designed to make you feel small and to make the institution feel absolute. It inspires reverence, but the reverence has a current of intimidation running beneath it. Roderic should feel his faith stirred and his conscience pricked simultaneously. Edric should feel unwelcome.",
   "composition": "Low angle, looking up from the base of the steps toward the facade and dome. The steps create strong leading lines drawing the eye upward to the entrance, then further up to the dome. The viewer is in the position of a supplicant — approaching, looking up, being made to feel the building's authority. Surrounding structures visible at the edges frame the Chryseum and emphasize its relative scale and maintenance. The dome should command the upper third of the image.",
+  "house_style_overrides": {
+    "palette": [
+      "actively maintained, light-catching gold dome — luminous, repaired and re-leafed where it matters, with verdigris only creeping at the edges and crevices (green-gold, not tarnished-to-dull)",
+      "cool blue-white whiteglass luminescence with its own steady inner glow",
+      "warm honey limestone and pale sandstone catching late-afternoon light",
+      "liturgical gold accents that still gleam (trim, inscriptions, fixtures)"
+    ],
+    "palette_note": "The Chryseum is the deliberate exception to the muted WORLD_PALETTE — the one building in Aurelion whose gold is kept gleaming and whose whiteglass glows. Render its dome, whiteglass, and gilt as genuinely luminous rather than tarnished-down, while the surrounding ordinary city stays muted and earthy by contrast. This brightness is the scene's point. (Aureate guards' armor remains tarnished gold — that contrast stays.)",
+    "lighting_note": "This building collects and concentrates light: the dome reads as a small captured sun and the whiteglass generates its own cool inner glow even in daylight. This specific atmosphere overrides the default muted scene lighting for the Chryseum itself, not for the shadowed city around it."
+  },
   "details": [
     "The dome's gold leaf shows careful repair work — patches where it has been re-applied, slightly different in tone from the aged gold around them, evidence of ongoing investment",
     "Verdigris creeping at the edges and joints of the dome — age is there, it is just being fought",
@@ -48,7 +58,7 @@
     "A single crack in the steps or lower wall that looks too fresh — the faintest suggestion that ruin is reaching even here",
     "The Aureate guards' tarnished armor next to the polished gold of the building, telling the whole story of where resources go in this city"
   ],
-  "style": "Painterly fantasy illustration with architectural grandeur and atmospheric weight. Concept art quality. The tone of religious architecture photography — the kind of image where the building itself communicates theology. Every design choice in the Chryseum is an argument about the nature of truth, light, and permanence. The style should honor that ambition while letting the viewer feel the coldness beneath the beauty. Grounded and realistic, with strong use of light and shadow to create emotional texture.",
+  "intent_note": "The building itself communicates theology — every design choice in the Chryseum is an argument about the nature of truth, light, and permanence. Honor that ambition while letting the viewer feel the coldness beneath the beauty.",
   "aspect_ratio": "2:3 portrait — vertical composition to capture the soaring architecture, the full height of the steps, facade, and dome, and to put the viewer in the physical position of looking up",
   "do_not_include": [
     "Gothic grotesques, gargoyles, or demonic imagery — Luciferian architecture is about light and order, not darkness and fear",
@@ -57,7 +67,6 @@
     "Warm welcoming atmosphere — the beauty should have an edge, not feel cozy",
     "Crowds or bustling activity on the steps — this is a solemn place, not a marketplace",
     "Generic medieval church or chapel — this is a cathedral built by an empire, scaled accordingly",
-    "Bright primary colors — the palette is gold, stone, shadow, and whiteglass cool luminescence",
     "Crosses or Christian-specific iconography — this is a Luciferian faith with its own visual language of light, radiance, and geometric precision"
   ]
 }

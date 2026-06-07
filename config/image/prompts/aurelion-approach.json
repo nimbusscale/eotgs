@@ -1,11 +1,11 @@
 {
   "title": "Aurelion — The Approach",
-  "purpose": "Establishing shot. The party's first full view of the city from the road. This is the wide-angle 'camera pulls back' moment that sets the entire visual tone for the session.",
+  "purpose": "Establishing shot. The party's first full view of the city from the road. This is the wide-angle 'camera pulls back' moment that sets the visual tone for the session.",
   "subject": "A once-magnificent golden city seen from the approaching road, where imperial grandeur is still visible in the bones of the architecture but centuries of decline have tarnished and patched everything. The city tells its own history at a glance — monumental Imperium-era construction repurposed, repaired, and slowly fading.",
   "core_aesthetic": {
     "historical_context": "Aurelion was once a crown jewel of the Imperium Lucis Aeternae — a vast Roman-analogous empire of light. The city sat atop rich gold deposits and the Imperium had the magical technology to extract it. The name itself echoes 'aurum.' Gold language runs through every institution: the Aureate (soldiers), the Assayer Sovereign, the Orate. But the Imperium fell centuries ago, the extraction technology was lost, and the gold is locked in inaccessible substrate beneath the city. Aurelion went from imperial capital to independent Middle Kingdom to conquered vassal of Beaconhold. It is now a county seat ruled by a count who answers to a distant king.",
     "visual_philosophy": "Gold that has tarnished. Grandeur that has been patched. Imperial architecture repurposed for smaller ambitions. Think Prague or Budapest — cities where you can see the layers of history and the gap between what the place once was and what it is now. Gilded domes gone green with verdigris. Broad imperial avenues lined with cramped market stalls. Monumental stonework being used as the foundation for timber tenements. A post-imperial Eastern European melancholy layered over Roman-scale bones.",
-    "emotional_register": "Not grimdark or ruined — this is a functioning city with people living their lives. The tragedy is quiet. It is a place that remembers being important and knows it is not anymore. The gold is still there in the name, the titles, the architecture — but it is decorative memory, not living wealth."
+    "emotional_register": "Not ruined — this is a functioning city with people living their lives. The tragedy is quiet. It is a place that remembers being important and knows it is not anymore. The gold is still there in the name, the titles, the architecture — but it is decorative memory, not living wealth."
   },
   "setting": "A road approaching the main gate of Aurelion from slightly elevated ground, giving the viewer a three-quarter view of the city and its surroundings. Late afternoon light. Rolling agricultural countryside in the foreground and middle distance, with the city rising behind.",
   "architecture": {
@@ -18,7 +18,7 @@
     "middle_distance": "Agricultural land surrounding the city. The fields should look thin — not barren, but sparse. Orchards that are producing but look tired. This is a region in slow economic decline, and the land shows it. A few farmsteads with patched roofs.",
     "background": "The city itself, and beyond it hints of the wider landscape — hills or low mountains suggesting Marrow County's geography."
   },
-  "lighting": "Late afternoon. Warm golden light coming from behind the viewer, illuminating the city face-on. The Chryseum's dome catches this light and glows — a deliberate visual callback to the city's golden identity. The rest of the city is in mixed light and shadow, with the warm tones revealing the age and wear on the stonework. A partly overcast sky with a break in the clouds letting the golden light through — the city's past literally illuminated for a moment.",
+  "lighting": "Late afternoon. Warm golden light coming from behind the viewer, illuminating the city face-on. The Chryseum's tarnished dome catches this light and is the brightest point in the scene — a deliberate visual callback to the city's golden identity, though it is gilding worn green and dark, not bright living gold. The rest of the city is in mixed light and shadow, with the warm tones revealing the age and wear on the stonework. A partly overcast sky with a break in the clouds letting the golden light through.",
   "color_palette": [
     "tarnished gold and verdigris green (the dome and gilded surfaces)",
     "warm sandstone and honey limestone (Imperium-era walls)",
@@ -38,16 +38,14 @@
     "Smoke from chimneys and hearths — the city is alive and populated, not abandoned",
     "The road is wider than current traffic justifies — it was built for legions and processions, not farmer's carts"
   ],
-  "style": "Painterly fantasy illustration with strong atmosphere and a sense of lived history. Concept art quality. The tone of a landscape painting that tells a story — every detail communicates the gap between what this place was built to be and what it has become. Grounded and realistic rather than cartoonish or stylized. Think the establishing shots in films set in post-imperial cities — the beauty is real but so is the weight of time.",
   "aspect_ratio": "16:9 landscape — wide establishing shot to capture the city breadth and its relationship to the surrounding land",
   "do_not_include": [
     "ruins or destruction — the city is declining, not ruined; it functions",
-    "dark fantasy or grimdark aesthetic — the tragedy here is quiet, not dramatic",
     "magical effects, glowing runes, or visible divine influence in the sky",
     "lush greenery or prosperous-looking farmland — the land is tired",
-    "modern materials or anachronistic elements",
     "characters prominently featured — any figures should be small, establishing scale",
     "snow or winter — the season is not winter",
-    "generic medieval fantasy village aesthetic — this was an imperial city and still looks like one, just worn"
+    "generic medieval fantasy village aesthetic — this was an imperial city and still looks like one, just worn",
+    "bright, gleaming, untarnished gold on the dome or gilding — the gold is worn, patinated, decorative memory"
   ]
 }

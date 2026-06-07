@@ -4,23 +4,24 @@
     "purpose": "Stylized in-world map for evocative imagination; not to scale, not strictly geographically accurate",
     "intent": "Should feel like an in-world artifact a character might own or find. Landmarks must be recognizable on their own visual character, without labels."
   },
-  "style": {
-    "medium": "Old-timey hand-drawn cartography on weathered parchment",
-    "color_palette": {
-      "background": "Aged cream and sepia parchment with weathering, faint stains, slight curling or tears at the edges",
-      "ink_linework": "Dark sepia and brown ink",
-      "accents": [
-        "Muted green for the Ashen Vale and forested patches",
-        "Slate grey for the Bonewall",
-        "Mossy green-grey with warm rust hints for the volcanic Cinderwall",
-        "Soft blue-grey wash for the Solivum",
-        "Faint gold accent reserved only for Aurelion's dome and the Farus Lucis",
-        "Pure black ink wash for Öuth Krelt"
-      ]
-    },
-    "rendering": "Medieval cartographic symbols: stylized hill-bump mountains, tiny stylized trees, dotted roads, cross-hatched rough terrain, small icon-buildings for settlements",
-    "atmosphere": "Weathered, ancient, faded; feels recovered from an archive rather than freshly drawn"
+  "house_style_overrides": {
+    "_comment": "This is a CARTOGRAPHIC illustration, not a character or scene. It deliberately overrides the injected GLOBAL_MEDIUM (painterly photoreal concept art with studio/scene lighting) and the muted WORLD_PALETTE, replacing both with a legible antique-map cartographic treatment. The map medium and palette below take precedence over the house style.",
+    "medium": "Old-timey hand-drawn antique cartography on weathered parchment: dark sepia and brown ink linework, flat top-down-to-oblique map projection (no photoreal depth, no studio or scene lighting), rendered as a recovered archival artifact rather than a painting",
+    "palette": [
+      "aged cream and sepia parchment ground with weathering, faint stains, and slight curling or tears at the edges",
+      "dark sepia and brown ink for all linework",
+      "muted green for the Ashen Vale and forested patches",
+      "slate grey for the Bonewall",
+      "mossy green-grey with warm rust hints for the volcanic Cinderwall",
+      "soft blue-grey wash for the Solivum",
+      "faint gold accent reserved only for Aurelion's dome and the Farus Lucis",
+      "pure black ink wash for Öuth Krelt"
+    ],
+    "palette_note": "Replaces the muted WORLD_PALETTE with this legible cartographic ink-on-parchment palette; colors are restrained map accents over a parchment ground, not painterly scene color.",
+    "lighting": "No studio or scene lighting; flat, even map readability as if reading a document, with weathering and age as the only tonal variation"
   },
+  "rendering": "Medieval cartographic symbols: stylized hill-bump mountains, tiny stylized trees, dotted roads, cross-hatched rough terrain, small icon-buildings for settlements",
+  "atmosphere": "Weathered, ancient, faded; feels recovered from an archive rather than freshly drawn",
   "composition": {
     "orientation": "North up",
     "content_spread": "The inhabited lands should spread comfortably across the width of the map, extending well into the western half of the composition. Do NOT leave a large empty quadrant in the west. The settled regions, the Cinderwall, and the Ashen Vale should all push westward to fill the available space.",

@@ -27,7 +27,7 @@
       "A merchant examining a gold coin with suspicion, as if the metal itself cannot be trusted anymore"
     ]
   },
-  "lighting": "Overcast daylight filtering between buildings, with occasional shafts of warm light breaking through gaps in the architecture. The gold leaf on the upper stonework catches what light there is, creating faint warm glints above the shadowed street level. The Chryseum dome in the background glows warmer than anything else — the destination pulling the eye.",
+  "lighting": "Scene-specific accents over the ambient overcast: the gold leaf on the upper stonework catches what little light reaches above the shadowed street, creating faint warm glints up high; the Chryseum dome in the background glows warmer than anything else, pulling the eye toward the destination.",
   "color_palette": [
     "tarnished gold and dark amber (gilded surfaces, aged metal)",
     "warm sandstone and honey limestone (Imperium columns and walls)",
@@ -48,12 +48,12 @@
     "An old woman sweeping her doorstep as if maintaining normalcy is an act of defiance",
     "The Chryseum dome visible at the end of the avenue, slightly above the roofline, catching more light than anything at street level"
   ],
-  "style": "Painterly fantasy illustration with strong atmospheric depth and narrative density. Concept art quality. The tone of a genre painting — Bruegel's crowd scenes applied to a post-imperial fantasy city. Every corner of the image should reward a closer look. Grounded and realistic, with the kind of environmental storytelling where the setting itself communicates the narrative without needing characters to explain it.",
+  "scene_note": "Narrative density in the manner of Bruegel's crowd scenes applied to a post-imperial fantasy city — every corner of the image rewards a closer look, with environmental storytelling where the setting itself communicates the narrative without needing characters to explain it.",
   "aspect_ratio": "16:9 landscape — wide enough to capture the avenue's breadth, the colonnade depth, and the layers of daily life",
   "do_not_include": [
     "visible magical corruption, dark tendrils, glowing eyes, or overt fantasy horror — ruin's influence is subtle here",
     "street performers, musicians, or storytellers actively performing — their absence is the point",
-    "bright colors or festive atmosphere — this city's color has been muted by circumstance",
+    "festive or celebratory atmosphere — this city's joy has been muted by circumstance",
     "soldiers being violent or actively threatening civilians — the oppression is ambient, not active in this moment",
     "empty streets — the city is populated and functioning, that is what makes the quiet oppression effective",
     "rain or dramatic weather — the overcast is mundane, not ominous",

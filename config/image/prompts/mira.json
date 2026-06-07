@@ -16,7 +16,7 @@
   "setting": {
     "witch_stones": "A ring or scatter of tall, weathered standing stones — ancient megaliths furred with moss and lichen — rising from rough upland grass. They are the Witch Stones, Garland's charges and Mira's place of power. They frame and surround her.",
     "landscape": "A windswept high moor of rough grass and scattered rock, rolling away to distant hills and grey mountains. A heavy, overcast storm-grey sky overhead, with a few dark birds wheeling in the distance. The wind is plainly moving — bending grass, dragging her hair and cloak.",
-    "lighting": "Flat, cold, diffuse daylight under heavy cloud — no direct sun. The light is even and grey, letting the textures of moss, bark, stone, and skin read clearly. Atmospheric and brooding rather than dramatic."
+    "lighting": "Flat, cold, diffuse daylight under heavy cloud, no direct sun — even and grey, letting the textures of moss, bark, stone, and skin read clearly."
   },
   "color_palette": [
     "mossy and forest greens (cloak, foliage, lichen)",
@@ -27,7 +27,7 @@
     "weathered, wind-burned skin tones",
     "dull steel (the knife blade)"
   ],
-  "mood": "Wild, watchful, and charged with latent power. A young heir to old earth-magic standing in the one place where the world speaks to her — rooted, untamed, and faintly uneasy, as if she has just heard the stones say something she does not yet understand. Grounded and atmospheric, never whimsical.",
+  "mood": "Wild, watchful, and charged with latent power. A young heir to old earth-magic standing in the one place where the world speaks to her — rooted, untamed, and faintly uneasy, as if she has just heard the stones say something she does not yet understand.",
   "composition": "A near-full-figure or three-quarter portrait with Mira slightly off-center, the staff rising vertically through the frame, standing stones flanking her on both sides and receding into the moor behind. Low, grounded eye level. The wide upland landscape and storm sky give the figure scale and isolation. Wind direction is consistent across hair, cloak, and grass.",
   "details": [
     "Pointed ears and fine, elven-touched features marking the Greenholt Bloodline",
@@ -39,14 +39,12 @@
     "Wind visibly dragging hair, cloak, and grass in one direction",
     "A heavy overcast storm sky with distant dark birds and grey mountains beyond"
   ],
-  "style": "Painterly photoreal fantasy illustration — concept-art quality, soft visible brushwork, obsessive material detail on moss, bark, weathered cloth, stone, and wind-burned skin. Documentary and grounded in tone: a wild upland youth rendered honestly rather than glamorously, atmospheric and weather-beaten.",
   "aspect_ratio": "16:9 landscape — wide enough to set the figure within the ring of stones and the open storm-lit moor",
   "do_not_include": [
     "A small cute child or a polished glamorous elf-princess — she is a wild, weathered youth",
     "Clean, tailored, or fine clothing — her garb is ragged, grown, and earth-stained",
     "Glowing magic, visible spell effects, or supernatural light around her or the stones",
     "Bright sunlight, blue skies, or cheerful color — the weather is cold and overcast",
-    "Heroic fantasy posing or a polished portrait-studio look",
     "Modern or anachronistic elements",
     "Generic human features that erase the Greenholt elven lineage"
   ]

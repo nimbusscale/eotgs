@@ -16,8 +16,7 @@
   },
   "setting": {
     "location": "Inside the Chryseum — his domain. The background should suggest the cathedral interior without competing with the figure: warm gold tones from the dome's reflected light above, the cool glow of a whiteglass element behind or to one side, the haze of incense in the air catching the light. He might be at his pulpit, in a side chamber, or simply standing in the nave. The space frames him as the human center of the institutional power the party has been walking through.",
-    "depth_of_focus": "The background should be present but soft — readable as the Chryseum interior (warm gold light, cool whiteglass glow, stone columns, incense haze) but not sharply detailed. Severin himself is the subject. The cathedral is his context.",
-    "lighting_on_figure": "Complex and intentional. The warm gold radiance of the Chryseum's dome light hits him from above, giving his vestments and face a warm tone. But the whiteglass pendant at his chest produces its own cool counter-light, casting a faint blue-white uplight on his jaw and lower face. This dual lighting — warm institutional gold from above, cool personal faith-light from his pendant — should create subtle tonal complexity on his face. He is lit by his environment and by his belief simultaneously."
+    "depth_of_focus": "The background should be present but soft — readable as the Chryseum interior (warm gold light, cool whiteglass glow, stone columns, incense haze) but not sharply detailed. Severin himself is the subject. The cathedral is his context."
   },
   "sensory_details_as_visual_cues": {
     "note": "These are drawn from the character's established sensory profile. Not all can be shown in a still image, but the ones that can should inform the rendering.",
@@ -36,6 +35,18 @@
     "incense gray-blue haze (background atmosphere)",
     "skin tones that show the dual lighting — warm gold from above, cool pendant-light from below"
   ],
+  "house_style_overrides": {
+    "palette": [
+      "whiteglass pale — cool near-white with a faint blue luminescence (vestment base)",
+      "real maintained liturgical gold thread — rich and clean, NOT tarnished or muted",
+      "shadow black and deep navy accents in the vestment folds and lining",
+      "candle-flame amber in the trim",
+      "warm gold dome radiance suffusing the upper body and background",
+      "a cool blue-white self-luminous whiteglass pendant — a small cold sun at his chest"
+    ],
+    "palette_note": "Replaces the default muted WORLD_PALETTE. Severin is a luminous subject: his whiteglass vestments and pendant glow cool near-white, and his gold is the Church's real, maintained gold — do NOT tarnish, desaturate, or grime him into the earthy world palette. The deliberate cleanliness and self-light are canonical identity, not a style violation. Skip the WORLD_PALETTE avoid_palette entries (tarnish/wear/saturation suppression) for this image.",
+    "lighting": "Overrides the flat default. Dual directional lighting: warm gold radiance from the Chryseum dome falls on him from above, while the whiteglass pendant at his chest emits its OWN cool blue-white luminance — a real practical light source, not a reflection — casting faint blue-white uplight on his jaw, lower face, and hands. This produces subtle mixed warm-from-above / cool-from-below tones across his face. A matching cool whiteglass element glows softly in the background; the air carries an incense haze that catches both light registers."
+  },
   "mood": "The discomfort of being assessed by someone who believes they already know the answer. Not hostility — something worse. Patience. The kind of patience that comes from absolute certainty. He will wait for you to speak because he already knows what you will say, and he already knows whether it is true. For Roderic, this face represents the highest expression of his faith and the most dangerous version of it simultaneously. For Edric, this is the man who wants to silence him — not out of hatred, but out of a conviction that all storytellers are liars and the world is better without lies. The portrait should make the viewer want to defend themselves before he has said a word.",
   "composition": "Medium shot — head to mid-torso or waist. Close enough to read his expression and the details of his vestments and pendant, far enough to establish his posture and the Chryseum setting behind him. He is slightly off-center, creating a composition that feels like a confrontation rather than a formal portrait. The whiteglass pendant should be near the center of the frame, the point where warm light from above and cool light from below meet on his body. His eyes should be at or near the upper third intersection — the natural resting point of the viewer's gaze, so the first thing you see is his assessment.",
   "details": [
@@ -48,7 +59,7 @@
     "Incense haze in the background catching shafts of warm and cool light",
     "Eyes that look at the viewer directly — calm, intelligent, evaluating, certain. Not cruel. Worse than cruel."
   ],
-  "style": "Painterly fantasy portrait with psychological depth and atmospheric lighting. Concept art quality. The tone of a Renaissance ecclesiastical portrait — Velázquez's Pope Innocent X or Philippe de Champaigne's Cardinal Richelieu — applied to a fantasy faith. The rendering should honor the character's complexity: this is not a bad man, this is a certain man, and the portrait's job is to make the viewer feel the weight of that certainty. Grounded and realistic, with strong attention to fabric texture, light interaction, and facial expression.",
+  "tonal_reference": "Compose with the gravity of a Renaissance ecclesiastical portrait — a seated authority's quiet, confrontational presence — applied to a fantasy faith. This is a reference for composition and psychological weight, not for rendering. The portrait's job is to make the viewer feel the weight of his certainty: this is not a bad man, this is a certain man.",
   "aspect_ratio": "2:3 portrait — vertical composition for a character portrait, giving room for the Chryseum setting above and the vestment detail below while keeping the face as the focal point",
   "do_not_include": [
     "Evil priest tropes — glowing eyes, skull motifs, dark magic, sinister grins, shadowed hoods",

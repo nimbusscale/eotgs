@@ -4,7 +4,6 @@
   "subject": "The interior nave of the Chryseum, Aurelion's cathedral of the Light. A soaring sacred space where whiteglass, gold, and candlelight combine to create the sensation of standing inside captured light. The architecture is designed to overwhelm — to make the individual feel small and the institution feel absolute. Every surface communicates order, permanence, and doctrinal certainty. It is genuinely beautiful, and that beauty has teeth.",
   "core_aesthetic": {
     "historical_context": "Aurelion was once a crown jewel of the Imperium Lucis Aeternae — a vast Roman-analogous empire of light. The city sat atop rich gold deposits and the Imperium had the magical technology to extract it. The name itself echoes 'aurum.' Gold language runs through every institution: the Aureate (soldiers), the Assayer Sovereign, the Orate. But the Imperium fell centuries ago, the extraction technology was lost, and the gold is locked in inaccessible substrate beneath the city. Aurelion went from imperial capital to independent Middle Kingdom to conquered vassal of Beaconhold. It is now a county seat ruled by a count who answers to a distant king.",
-    "visual_philosophy": "Gold that has tarnished. Grandeur that has been patched. Imperial architecture repurposed for smaller ambitions. Think Prague or Budapest — cities where you can see the layers of history and the gap between what the place once was and what it is now. Gilded domes gone green with verdigris. Broad imperial avenues lined with cramped market stalls. Monumental stonework being used as the foundation for timber tenements. A post-imperial Eastern European melancholy layered over Roman-scale bones.",
     "the_interior_exception": "Like the exterior, the Chryseum's interior is the one space in Aurelion where the golden aesthetic is fully maintained. The Church invests here. Gold leaf is fresh, stonework is clean, every surface is tended. But where the exterior shows this through contrast with the declining city outside, the interior shows it through intensity — the concentration of wealth and care in this single space feels almost aggressive. The Church is making a statement about where permanence lives."
   },
   "setting": "The central nave of the Chryseum, viewed from just inside the main entrance looking toward the altar at the far end. The full length and height of the space is visible. The viewer has just stepped through the doors and is taking it all in for the first time.",
@@ -50,8 +49,17 @@
     "A single worshipper's upturned face caught in the mixed light — gold and blue-white together on human skin",
     "The perfect cleanliness and maintenance of every surface — not a single stone out of place, not a single cobweb, not a single unpolished fixture. Severin's hand is visible in the space's immaculate severity."
   ],
-  "style": "Painterly fantasy illustration with the grandeur and atmospheric density of cathedral interior photography. Concept art quality. The tone of standing inside a space that was built to be the argument for its own faith — where architecture *is* theology. Strong use of layered light sources to create visual complexity and emotional texture. The image should make the viewer understand why Roderic believes and why Edric is afraid. Grounded and realistic, but heightened — this is the most visually impressive interior in the campaign so far.",
   "aspect_ratio": "2:3 portrait — vertical composition to capture the full soaring height from floor to dome, emphasizing the overwhelming scale",
+  "house_style_overrides": {
+    "palette": [
+      "warm radiant gold of the dome interior, fresh gold leaf, and liturgical fixtures — genuinely bright and luminous here, not the tarnished amber of the world palette",
+      "cool blue-white self-luminous whiteglass from the panels and the altar centerpiece",
+      "candle-flame amber at human scale",
+      "pale sandstone and honey limestone for the tended, immaculate stonework"
+    ],
+    "palette_note": "Overrides the default muted WORLD_PALETTE for this one interior. The Chryseum is the single maintained, gilded, luminous space in a declining city — its gold is fresh and bright and its whiteglass is actively glowing, not muted or worn. Do NOT tarnish, desaturate, or weather this interior into the earthy post-imperial palette; the engineered brilliance is the point. The world palette still governs anything seen through the doors to the declining city beyond.",
+    "lighting": "This scene overrides the default scene lighting with its own engineered, two-temperature illumination: warm gold radiance concentrated by the dome above layered against cool blue-white whiteglass luminescence from the sides and altar, mixing into gradients in the mid-nave, with candle-amber pools at human scale and incense haze making the light shafts physically visible. The light here is self-generated and supernatural-feeling rather than diffuse natural daylight."
+  },
   "do_not_include": [
     "Christian-specific iconography — no crosses, no saints, no biblical scenes. This is Luciferian: light, radiance, geometric precision, warding symbols",
     "Stained glass in traditional colored-glass style — whiteglass is translucent and self-luminous, not colored filters for external light",

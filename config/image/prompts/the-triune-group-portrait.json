@@ -39,7 +39,10 @@
     "One or two small clockwork spiders perched on shoulders or instruments nearby, assistants rather than pets",
     "Faint amber light connecting their positions through the floor channels, forming the visible triangle"
   ],
-  "style": "Painterly fantasy illustration, character-focused with environmental context. The tone of a portrait of specialists at work — respect for their craft and their bond. Think Vermeer's attention to light and posture applied to fantasy halflings in a geometric magic lab.",
+  "house_style_overrides": {
+    "palette_note": "Keep the muted earthy world register as the dominant scheme — tarnished bronze workshop, dim stone, low overall saturation. The three sisters' robe colors (twilight violet/blue, golden amber and ivory, charcoal with amber and fracture-white) are localized accents within that muted register, not a wholesale bright palette; do not over-brighten the scene.",
+    "lighting": "Allow the amber floor-channel triangle to read as a genuinely warm, saturated, glowing light source that underlights the three sisters from below — this localized luminous amber and the focused crystal-instrument light above are intentional and exceed the muted default within their immediate area, while the rest of the workshop stays in soft low-contrast diffuse shadow."
+  },
   "aspect_ratio": "3:4 portrait or 4:5 portrait — vertical to give the characters presence and stature despite their small size",
   "do_not_include": [
     "childlike or cute depictions — these are mature professional women who happen to be halflings",

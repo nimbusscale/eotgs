@@ -57,7 +57,10 @@
     "Small high windows on the castle giving nothing back — the building watches but does not reveal",
     "The processional road noticeably cleaner and better-paved than the city streets feeding into it"
   ],
-  "style": "Painterly fantasy illustration with strong environmental storytelling through material contrast and architectural layering. Concept art quality. The tone of documentary photography applied to a fantasy city — showing the real texture of a place where centuries of history are stacked on top of each other and the gap between power and poverty is written in stone. NOT a uniform golden fantasy rendering. The variety of materials, conditions, and eras must be legible. Grounded and realistic, with the kind of detail density that rewards close inspection.",
+  "environmental_storytelling": "The image is carried by material contrast and architectural layering — centuries of history stacked on top of each other and the gap between power and poverty written in stone. NOT a uniform golden fantasy rendering. The variety of materials, conditions, and eras must be legible, with detail density that rewards close inspection.",
+  "house_style_overrides": {
+    "palette_note": "The scene as a whole sits in the muted world palette — tarnished gold, warm pale limestone, cool gray shadow, dirty plaster, road-dust tones. The single deliberate exception is the Chryseum dome (if visible): render it as genuinely bright, reflective, maintained gold that actively catches the late-afternoon light — the one luminous element standing out against everything else. Do not let that override bleed into the castle or the city, which stay tarnished and tired."
+  },
   "aspect_ratio": "16:9 landscape — wide enough to show the castle in context with the city below and the Chryseum nearby",
   "do_not_include": [
     "A UNIFORM GOLDEN COLOR PALETTE — this is the single most important thing to avoid. The image must show contrasting materials and conditions, not a monochrome wash",

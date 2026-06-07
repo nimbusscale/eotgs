@@ -1,0 +1,12 @@
+{
+  "title": "Garland yn Greenholt — Reference Plate",
+  "source_reconciliation": "Use the attached images of Garland yn Greenholt as the definitive source for this character's identity — face, age, build, hair, ears, skin, distinguishing features, and signature costume/gear. Preserve those identity details faithfully. Do not restyle the face toward idealized, younger, or more heroic features.",
+  "identity_lock": "An extraordinarily old warrior-sage with elven features (notably pointed ears) and the weathered, sun-lined skin of a lifelong veteran; build, hair, and likeness exactly per the reference. Keep his age and wear — do not render him younger or smoothed.",
+  "pose": "He holds his sword Second Harvest loosely in one hand, point-down and angled slightly away from his body so the blade does NOT cross or obscure his torso or legs — the full costume must stay readable. His other arm relaxed at his side.",
+  "signature_item_second_harvest": "Second Harvest, his signature sword — the blade shape is distinctive and image-specific and must be rendered in full: a single-edged blade that does NOT simply taper to a point. The blade is broad and stays broad, even widening slightly toward the front third, and the tip has a pronounced upswept flourish — the back (unsharpened) edge sweeps up and forward into a clipped, slightly recurved point, giving the whole blade a subtle forward curve, almost leaf-shaped or yatagan-like, rather than a straight symmetrical profile. A characterful, organic, forward-leaning blade with personality, not a generic knightly longsword. The steel is visibly pattern-welded / Damascus with rippling forge grain. Simple straight cross-guard, wire-wrapped grip, round pommel. A working blade with honest wear and edge nicks.",
+  "image_specific_negatives": [
+    "do NOT render Second Harvest as a plain straight tapering or double-edged arming/longsword — it must have the broad forward-curved, upswept clipped tip",
+    "the blade must not cross or obscure the body",
+    "no brandished or raised weapon, no drawn-weapon battle tension"
+  ]
+}

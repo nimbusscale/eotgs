@@ -50,17 +50,14 @@
     "Gold inlay on the armor that is fine and restrained — thin geometric lines, small devices, craftsmanship that serves function and faith simultaneously",
     "The expression: direct, steady, measuring. Eyes that see YOU, not through you. The warmth held deep in reserve. The faintest trace of humor lines at the corners of her mouth, evidence of a private self that does not surface on duty"
   ],
-  "style": "Oil-painting-quality fantasy portrait in the tradition of classical European portraiture applied to a military-religious subject. Concept art quality with fine-art execution. The reference points are Rembrandt's portraits of military officers and Hals's militia company details — real people in real armor, rendered with the atmospheric depth and material honesty of masters who understood how light behaves on steel, how fabric drapes on a body, how a face tells the story of a life. Visible brushwork texture. Impasto highlights on the polished armor. Sfumato in the shadows beneath the tabard and behind the figure. The rendering should honor Solenne's specific humanity — she is not an archetype but a person, and the portrait should make the viewer feel that they could speak to her and she would answer, after deciding whether they had earned it.",
   "aspect_ratio": "2:3 portrait — vertical composition for a character portrait, matching the other NPC portraits in the set",
   "do_not_include": [
     "Fantasy warrior woman clichés — ornamental bikini armor, flowing hair in combat, glamorized fighting poses, youthful beauty as the defining feature",
-    "Digital illustration style — no clean edges, no flat lighting, no game-art rendering. This must look painted with material texture",
-    "Dramatic action posing — she is standing, present, watchful. Not mid-swing, not battle-ready, not theatrical",
-    "Visible Renewal or nature symbols — at this scale, her equipment reads as purely Luciferian. The hidden symbols are in metalwork details too small to resolve in a portrait",
     "Warmth or softness in the expression that undermines her authority — the buried warmth should be BURIED, visible only as a trace. Her default is professional composure",
     "Youth — she is in her forties, with the face and body of someone who has lived that way. This is not a young woman",
     "Ornate or excessive gold on the armor — her gold is RESTRAINED. Fine inlay, not broad gilding. She is elite, not ostentatious",
     "Christian iconography — no crosses. Luciferian solar motifs, geometric precision, whiteglass fixtures",
+    "Visible Renewal or nature symbols — at this scale, her equipment reads as purely Luciferian. The hidden symbols are in metalwork details too small to resolve in a portrait",
     "Anything that makes her look like she is performing or aware of being observed as a portrait subject — she is simply present, in her space, being who she is"
   ]
 }

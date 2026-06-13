@@ -22,7 +22,7 @@ Check if `inbox/next-session-plans.md` exists.
 
 Read the following files for campaign context:
 - `exports/campaign-index.md` — current campaign state, PC summaries, active story arcs
-- `exports/sessions-recent.md` — recent session summaries, major events, and existing recap-teasers
+- `exports/sessions.md` — session summaries, major events, and existing recap-teasers
 
 Do NOT read individual session files — the exports contain everything needed.
 

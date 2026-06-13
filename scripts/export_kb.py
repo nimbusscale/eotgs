@@ -3,14 +3,14 @@
 
 Generates 7 mechanical export files from the knowledge base:
   characters-pcs.md      characters-npcs.md    locations.md
-  world-setting.md       sessions-recent.md    hooks-all.md
+  world-setting.md       sessions.md           hooks-all.md
   gm-notes.md
 
 The 8th file (campaign-index.md) requires LLM synthesis and is handled
 separately by the /export-kb Claude Code skill.
 
 Note: active story arcs now live in kb/sessions/<arc>/index.md and reach the
-export bundle via campaign-index.md (synthesized) and sessions-recent.md.
+export bundle via campaign-index.md (synthesized) and sessions.md.
 Character hooks live in each PC's `## Hooks` section and reach the bundle via
 characters-pcs.md. hooks-all.md therefore covers group hooks only.
 """
@@ -31,8 +31,8 @@ def parse_args(argv=None):
         description="Export campaign KB to consolidated files for Claude Projects.",
     )
     parser.add_argument(
-        "--sessions", type=int, default=5,
-        help="Number of recent sessions to include (default: 5)",
+        "--sessions", type=int, default=None,
+        help="Number of recent sessions to include (default: all)",
     )
     return parser.parse_args(argv)
 
@@ -138,16 +138,19 @@ def export_world_setting():
     return "\n\n\n".join(parts) + "\n", counts
 
 
-def export_sessions(session_count=5):
+def export_sessions(session_count=None):
     sessions_dir = KB_DIR / "sessions"
     # Sessions now live nested under arc folders: sessions/<arc>/session-N.md
     # Match any file whose stem starts with "session-" (excludes arc index.md).
     all_sessions = [
         f for f in sessions_dir.rglob("session-*.md")
     ] if sessions_dir.exists() else []
-    files = sorted(all_sessions, key=session_sort_key, reverse=True)[:session_count]
+    files = sorted(all_sessions, key=session_sort_key, reverse=True)
+    # session_count=None (or 0) includes every session; otherwise cap to the N most recent.
+    if session_count:
+        files = files[:session_count]
 
-    parts = ["# Recent Sessions"]
+    parts = ["# Sessions"]
     for f in files:
         parts.append(read_and_demote(f, 1).strip())
     return "\n\n\n".join(parts) + "\n", f"{len(files)} sessions"
@@ -205,7 +208,7 @@ def main(argv=None):
         ("characters-npcs.md",   export_npcs),
         ("locations.md",         export_locations),
         ("world-setting.md",     export_world_setting),
-        ("sessions-recent.md",   lambda: export_sessions(args.sessions)),
+        ("sessions.md",          lambda: export_sessions(args.sessions)),
         ("hooks-all.md",         export_hooks),
         ("gm-notes.md",         export_gm_notes),
     ]

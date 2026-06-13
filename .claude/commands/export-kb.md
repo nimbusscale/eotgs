@@ -16,7 +16,7 @@ Run the export script to produce the 7 mechanical files:
 python3 scripts/export_kb.py
 ```
 
-This generates: `characters-pcs.md`, `characters-npcs.md`, `locations.md`, `world-setting.md`, `sessions-recent.md`, `hooks-all.md`, `gm-notes.md`.
+This generates: `characters-pcs.md`, `characters-npcs.md`, `locations.md`, `world-setting.md`, `sessions.md`, `hooks-all.md`, `gm-notes.md`.
 
 Review the summary table it prints.
 

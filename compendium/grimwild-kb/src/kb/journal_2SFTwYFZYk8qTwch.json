@@ -1,0 +1,70 @@
+{
+  "name": "Tufa",
+  "_id": "2SFTwYFZYk8qTwch",
+  "img": null,
+  "pages": [
+    {
+      "name": "Tufa",
+      "type": "text",
+      "_id": "CgSFDWNvNAPzmgdm",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Appeared:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.u04lXzbSCHW2OEf7]{Session 3}<br><strong>Status:</strong> Active<br><strong>Affiliation:</strong> Independent</p>\n<h2>Description</h2>\n<p>A large mother rock rat living in the mine tunnels beneath @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion}.<br>She has had at least three litters and her teeth can gnaw through solid rock.</p>\n<h2>Role</h2>\n<p>Provided @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} with intelligence about the tunnels beneath @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion} — including warnings about undead deeper in the passages and rock rat ambush tactics — in exchange for his companionship.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} can speak with animals, which enabled the negotiation.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} — Mate; traded intelligence for companionship</li></ul>\n<h2>Key Events</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.u04lXzbSCHW2OEf7]{Session 3} — Encountered @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} in beaver form in her burrow; bargained intelligence about the tunnels for his company</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!2SFTwYFZYk8qTwch.CgSFDWNvNAPzmgdm"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 1400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "tufa",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!2SFTwYFZYk8qTwch"
+}

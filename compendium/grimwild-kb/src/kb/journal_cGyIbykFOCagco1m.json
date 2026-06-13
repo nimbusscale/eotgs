@@ -1,0 +1,70 @@
+{
+  "name": "The Forgotten and the Forsaken",
+  "_id": "cGyIbykFOCagco1m",
+  "img": null,
+  "pages": [
+    {
+      "name": "The Forgotten and the Forsaken",
+      "type": "text",
+      "_id": "OiKsxcNtOeIEZwEu",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Sessions:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6}–<br><strong>Theme:</strong> TBD<br><strong>Status:</strong> Active</p>\n<p>The cocoon opened and the world breathed, but balance is not peace.<br>Renewal has awakened within the Shrine, yet ruin&#x27;s passage has left scars no ceremony can heal — and now something is being forgotten at a scale larger than any single herald&#x27;s curse.<br>Along the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} the wards are failing, the faithful are vanishing, and the hero @UUID[Compendium.grimwild-kb.kb.JournalEntry.Ps9BeVM23C49daxv]{Sariel} is being unmade from memory and record.</p>\n<p>The heralds are scattered and converging on the Bonewall, each finding the same rot wearing a different face.</p>\n<h2>Sessions</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — <em>Three Roads to the Bonewall</em> — Roderic is charged to investigate the failing wards as the faithful vanish and Sariel is erased; Mira opens a Witch Stone portal onto the Bonewall and Garland and Castor follow; Paxton burns Senna&#x27;s barge in the Reaches and learns the name Moldrex.</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!cGyIbykFOCagco1m.OiKsxcNtOeIEZwEu"
+    }
+  ],
+  "folder": "9T4OOgyl6yPIba1v",
+  "categories": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "forgotten-and-forsaken",
+      "kbType": "arc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!cGyIbykFOCagco1m"
+}

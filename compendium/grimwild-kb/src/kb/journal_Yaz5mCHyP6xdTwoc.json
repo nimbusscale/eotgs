@@ -1,0 +1,70 @@
+{
+  "name": "Witch Stones",
+  "_id": "Yaz5mCHyP6xdTwoc",
+  "img": null,
+  "pages": [
+    {
+      "name": "Witch Stones",
+      "type": "text",
+      "_id": "3hObfQ1vLqjpx3lK",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Ancient Site (standing stones)<br><strong>Also Known As:</strong> The Shepherd&#x27;s Teeth<br><strong>First Visited:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6}</p>\n<h2>Description</h2>\n<p>A set of square-cut standing stones hidden somewhere on @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland}&#x27;s land in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}, also known as the Shepherd&#x27;s Teeth.<br>They are decayed with age and covered in runes, hidden among overgrown hills by glamours and barriers Garland set long ago — wards still in effect despite the magic he has since lost.<br>Local legends know the Witch Stones exist somewhere in the Ashen Vale, but their exact location is considered &quot;lost.&quot;<br>Garland discovered them while preparing a well-hidden field for pasture, studied them carefully over the years, and guards the secret of their location.</p>\n<h2>The Source of Garland&#x27;s Magic</h2>\n<p>The Witch Stones are the source of Garland&#x27;s magical power.<br>He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries; the runes glow and pulse to communicate and guide his study.<br>On returning to them in the downtime after the curse, Garland felt a renewed connection unlike his old study-built bond — one that returns magic without restoring lost knowledge.<br>His great-granddaughter @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} also hears the stones, but as actual words rather than the grinding and moaning of the earth — a more direct connection that is turning her into something like a cleric of the stones.</p>\n<h2>The Portal to the Bonewall</h2>\n<p>At the hidden ring in the Ashen Vale, Mira commanded the stones to tear open a stable portal onto the dead grey shale of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall}, where a matching ring of Witch Stones stood.<br>She and her pursuers stepped through, and the portal closed behind them.<br>This is the only such portal seen so far; whether the stones connect to still more rings, or form a wider network, is unknown.<br>The @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Shrine of Renewal} beneath the Chryseum in @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion} evoked the same ancient resonance Garland felt at the Witch Stones, hinting at some connection between these ancient sites.<br>Garland would be very interested in investigating other Witch Stones if they exist elsewhere.</p>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} — The region where the known ring stands hidden, on Garland&#x27;s Greenholt land</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} — Site of a matching ring, reached through a portal Mira opened</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion} — Whose Shrine of Renewal carries the same ancient resonance</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} — Discovered the stones, learned his magic from them, and guards their location</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} — Hears the stones as words and commanded them to open the portal to the Bonewall</li></ul>\n<h2>Events Here</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — A Sunday dinner at the stones was interrupted by @UUID[Compendium.grimwild-kb.kb.JournalEntry.Ro74hUOP2RdYxDzh]{Captain Vask}&#x27;s delegation; Mira spoke an unknown tongue and opened a portal to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall}, stepping through with @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} and @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} following</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!Yaz5mCHyP6xdTwoc.3hObfQ1vLqjpx3lK"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 1600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "witch-stones",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!Yaz5mCHyP6xdTwoc"
+}

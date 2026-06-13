@@ -1,0 +1,109 @@
+{
+  "name": "Aldric Garlandsson",
+  "_id": "WXUNMFUew0ikdeY3",
+  "img": null,
+  "pages": [
+    {
+      "name": "Aldric Garlandsson",
+      "type": "text",
+      "_id": "OQisgeI0bJ7Rl3iS",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Appeared:</strong> Session 0<br><strong>Status:</strong> Active<br><strong>Affiliation:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale}, @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}</p>\n<h2>Description</h2>\n<p>Grandson of @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} through Garland&#x27;s second family — the line that began when Garland returned from a long journey roughly a century ago bearing a dead friend&#x27;s widow and her child, whom he wed.<br>He rules @UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale}, the seat of power in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}, styling himself as a would-be petty king of the vale.<br>He is rebuilding an @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium}-era fort as his keep in Crownvale.<br>His guards wear brigandine armor and carry spears topped with his livery.<br>His livery colors are green and gold.<br>He has a ten-year-old daughter named @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} and at least one other younger child.<br>His consolidation of power relies on @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland}&#x27;s absence — he would not be happy to see his grandfather in Crownvale.</p>\n<p>He is consolidating power across the whole @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} and now somehow knows everything that happens within it — he was aware even that the beaver @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} could speak.<br>He frames the consolidation as building a Vale strong enough to stand against the aggressions of Marrow and Beaconhold, promising that &quot;all will be revealed&quot; once his power is complete.<br>He has devoted considerable resources to recovering his runaway daughter @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira}, sending @UUID[Compendium.grimwild-kb.kb.JournalEntry.Ro74hUOP2RdYxDzh]{Captain Vask}, @UUID[Compendium.grimwild-kb.kb.JournalEntry.racfNNSIG5McsifR]{Sergeant Iyer}, and the heads of the Vale&#x27;s three great families to retrieve her and to end the beaver troubles souring the lowlands.</p>\n<h2>Role</h2>\n<p>His seat of power at @UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale} lies directly in the path of the curse if it gets past the beaver dam on the @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow}.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.MXuPV9nKKVyBqct1]{Rowan yn Greenholt}&#x27;s letter mentioned spotting what appeared to be Aldric&#x27;s livery on a stranger who visited @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook} before its fall.<br>His expanding, uncannily well-informed authority — and the strange black ravens that crept toward the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Yaz5mCHyP6xdTwoc]{Witch Stones} as his men parleyed — mark him as a growing power and mystery in the Vale.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} — His grandfather; complicated relationship — his authority depends on Garland&#x27;s absence</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.MXuPV9nKKVyBqct1]{Rowan yn Greenholt} — Cousin</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} — His ten-year-old daughter</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Ro74hUOP2RdYxDzh]{Captain Vask} — The head of his guard, a true believer who speaks for his authority</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.racfNNSIG5McsifR]{Sergeant Iyer} — One of his guards</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale} — Ruler</li></ul>\n<h2>Key Events</h2>\n<ul><li>Session 0 — Established as ruler of Crownvale; his livery was spotted at Ashbrook before the curse</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1} — A fresh scrap of his livery was found at @UUID[Compendium.grimwild-kb.kb.JournalEntry.XkO2NGJCUTmTTq3F]{Beaver Lake}; @UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric}&#x27;s investigation of @UUID[Compendium.grimwild-kb.kb.JournalEntry.racfNNSIG5McsifR]{Sergeant Iyer} suggests Aldric is not directly involved with the ruin&#x27;s release; @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} recognized @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} and was given a warning letter for Aldric</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jir5X1jFd08ME0H1]{Session 2} — Another piece of green-and-gold livery found planted on a branch near @UUID[Compendium.grimwild-kb.kb.JournalEntry.v85bRcnzMrFiDdn6]{The Nodrum}; the Harlequin Jimmy confessed the livery scraps were all planted by the Harlequins as a trick to exploit Garland&#x27;s paranoia, largely exonerating Aldric; the Dark Harlequin sent Garland a vision of @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} and children in danger at Aldric&#x27;s castle</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Though not present, his reach drove events at the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Yaz5mCHyP6xdTwoc]{Witch Stones}: his men revealed he knows everything in the Vale (even that the beaver could speak), and he had sent @UUID[Compendium.grimwild-kb.kb.JournalEntry.Ro74hUOP2RdYxDzh]{Captain Vask}, @UUID[Compendium.grimwild-kb.kb.JournalEntry.racfNNSIG5McsifR]{Sergeant Iyer}, and the three great families to retrieve @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} and break the beaver colony</li></ul>\n<h2>Session Appearances</h2>\n<ul><li>Session 0</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jir5X1jFd08ME0H1]{Session 2}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Through his agents (not present in person)</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!WXUNMFUew0ikdeY3.OQisgeI0bJ7Rl3iS"
+    },
+    {
+      "name": "Aldric with his wife and the infant Mira, before Crownvale",
+      "type": "image",
+      "_id": "dfI2Sdp3Yon5WjqR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": "Aldric with his wife and the infant Mira, before Crownvale"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/aldric-and-crown-vale.jpg",
+      "system": {},
+      "category": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!WXUNMFUew0ikdeY3.dfI2Sdp3Yon5WjqR"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "aldric-garlandsson",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!WXUNMFUew0ikdeY3"
+}

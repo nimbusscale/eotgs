@@ -1,0 +1,70 @@
+{
+  "name": "Tamarack",
+  "_id": "tmEqPns3HcsP4ZKN",
+  "img": null,
+  "pages": [
+    {
+      "name": "Tamarack",
+      "type": "text",
+      "_id": "hGFVXICixAYvaVNG",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Appeared:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6}<br><strong>Status:</strong> Active<br><strong>Affiliation:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.XkO2NGJCUTmTTq3F]{Beaver Lake} colony</p>\n<h2>Description</h2>\n<p>An ambitious young beaver, called Tam for short, descended from Aspen — the beaver for whose sake @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} first settled at @UUID[Compendium.grimwild-kb.kb.JournalEntry.XkO2NGJCUTmTTq3F]{Beaver Lake}.<br>He has risen to lead the colony in the conviction that the beavers should not be confined to one dam but should dam the whole river.</p>\n<h2>Role</h2>\n<p>Under Tamarack&#x27;s leadership the beavers have begun damming the lower @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} beyond their old home, cutting into the orchards and farms of the lowlands and becoming pests.<br>This has soured the Vale&#x27;s great families against the colony and lies at the heart of the beaver-vs-Vale conflict.<br>Castor admires his drive but fears it will get the colony exterminated.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} — The colony&#x27;s respected elder, who admires Tamarack&#x27;s ambition yet fears where it leads; a conflicted protégé-figure</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.XkO2NGJCUTmTTq3F]{Beaver Lake} — His home colony, which he now leads</li></ul>\n<h2>Key Events</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Established as the upstart leader driving the beavers to dam the lower Ashen Flow, fracturing the colony&#x27;s old ways and souring the Vale against them</li></ul>\n<h2>Session Appearances</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Discussed but not present</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tmEqPns3HcsP4ZKN.hGFVXICixAYvaVNG"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 1200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "tamarack",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!tmEqPns3HcsP4ZKN"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Crownvale",
+  "_id": "VxJKyJDX5JtaCOX7",
+  "img": null,
+  "pages": [
+    {
+      "name": "Crownvale",
+      "type": "text",
+      "_id": "m4XgB6fpdSPBxo5w",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Town<br><strong>First Visited:</strong> Session 0</p>\n<h2>Description</h2>\n<p>The largest town in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} and seat of @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric Garlandsson}&#x27;s ambitions.<br>Built around the ruins of an old @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium} fort that Aldric has been restoring as his keep, with ramshackle buildings growing up around the walls.<br>A farming community and market town with a bridge approach.<br>Aldric styles himself a lord here, basing his authority on the @UUID[Compendium.grimwild-kb.kb.JournalEntry.bMcEmJw3tHo7cvJN]{Greenholt name}.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} is widely recognized here but prefers to avoid attention since Aldric&#x27;s power relies on Garland&#x27;s absence.</p>\n<h2>Notable Features</h2>\n<ul><li>Political center of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}</li><li>Aldric&#x27;s keep built on @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium} ruins</li><li>Capital of a farming region with a market town</li><li>Bridge approach to the town</li><li>Lies directly in the path of the curse if the beaver dam on the @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} breaks; downstream of @UUID[Compendium.grimwild-kb.kb.JournalEntry.XkO2NGJCUTmTTq3F]{Beaver Lake}</li></ul>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} — The region Crownvale governs</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} — The river whose cursed waters threaten the town</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.XkO2NGJCUTmTTq3F]{Beaver Lake} — Upstream; the spirit wall there is all that protects Crownvale</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric Garlandsson} — Ruler of Crownvale</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} — Aldric&#x27;s ten-year-old daughter</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.racfNNSIG5McsifR]{Sergeant Iyer} — Sergeant-at-arms in Aldric&#x27;s guard</li></ul>\n<h2>Events Here</h2>\n<ul><li>Session 0 — Established as the seat of power in the Ashen Vale, at risk from the curse</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1} — The party stopped to resupply; Garland purchased horses while disguised; Edric distracted guards and gathered intelligence; Mira recognized Garland; the horse seller Laura accused Garland of theft; Roderic delivered a blessing urging compassion</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!VxJKyJDX5JtaCOX7.m4XgB6fpdSPBxo5w"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 1000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "crownvale",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!VxJKyJDX5JtaCOX7"
+}

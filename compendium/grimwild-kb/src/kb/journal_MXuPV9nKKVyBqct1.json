@@ -1,0 +1,70 @@
+{
+  "name": "Rowan yn Greenholt",
+  "_id": "MXuPV9nKKVyBqct1",
+  "img": null,
+  "pages": [
+    {
+      "name": "Rowan yn Greenholt",
+      "type": "text",
+      "_id": "7pquzwuoPzEmVEDT",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Appeared:</strong> Session 0<br><strong>Status:</strong> Deceased (presumed)<br><strong>Affiliation:</strong> Independent</p>\n<h2>Description</h2>\n<p>Great-grandchild of @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} through his second family — the line begun when Garland brought a dead friend&#x27;s widow and her child home from a long journey roughly a century ago.<br>Full name: Rowan yn Greenholt ap Hawkworth.<br>She and her partner Corin settled in @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook} before the town fell to the curse.</p>\n<h2>Role</h2>\n<p>Rowan had been living in @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook} before the disaster.<br>Her final missive to Garland — addressed to &quot;Da-Gar&quot; — contained several ominous signs that were not recognized at the time.<br>She mentioned a stranger carrying a wrapped object who wore what appeared to be cousin @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric}&#x27;s livery.<br>She noted the stonework near the spring changing, the water tasting unusually sweet, and fish lingering in the shallows.<br>She mentioned talk of renaming the town to something grander.</p>\n<p>She perished when @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook} fell to the curse and became @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Eld Ashara}.<br>She was @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland}&#x27;s granddaughter, distinct from @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric}.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} — Her great-grandfather, whom she called &quot;Da-Gar&quot;</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric Garlandsson} — Cousin (she spotted his livery on a stranger visiting Ashbrook)</li></ul>\n<h2>Key Events</h2>\n<ul><li>Session 0 — Her letter is part of the backstory; she perished when Ashbrook fell</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1} — Her letter is referenced as evidence connecting Aldric&#x27;s livery to events before the disaster</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!MXuPV9nKKVyBqct1.7pquzwuoPzEmVEDT"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 1000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "rowan-yn-greenholt",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!MXuPV9nKKVyBqct1"
+}

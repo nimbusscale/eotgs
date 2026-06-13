@@ -78,10 +78,26 @@ Build and deploy the KB as a searchable website:
 bash scripts/publish_site.sh
 ```
 
-### Step 5 — Report summary
+### Step 5 — Publish Foundry compendium
+
+Mirror the KB into the `grimwild-kb` Foundry module and deploy it (same content
+as the website, browsable inside Foundry VTT with show-to-players images):
+
+```bash
+bash scripts/publish_compendium.sh
+```
+
+Confirm the printed summary shows the expected entity/page counts and **0
+missing-image warnings**. The Foundry CLI needs Node 22+ — the publish script
+runs `nvm use 22` itself; if packing still fails, ensure
+`@foundryvtt/foundryvtt-cli` is installed (e.g. `npm install -g @foundryvtt/foundryvtt-cli`).
+Enabling the module in a Foundry world remains a one-time manual GM step.
+
+### Step 6 — Report summary
 
 After all files are generated, report the complete summary:
 - Include the summary table from Step 1
 - Add campaign-index.md with its size
 - Note total export size and any issues
 - Include the website URL from the publish step
+- Note the Foundry compendium deploy (entity/page counts from Step 5)

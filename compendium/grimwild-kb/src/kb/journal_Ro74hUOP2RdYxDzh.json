@@ -1,0 +1,70 @@
+{
+  "name": "Captain Vask",
+  "_id": "Ro74hUOP2RdYxDzh",
+  "img": null,
+  "pages": [
+    {
+      "name": "Captain Vask",
+      "type": "text",
+      "_id": "mVeMYUfxxhaYk9SV",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Appeared:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6}<br><strong>Status:</strong> Active<br><strong>Affiliation:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric Garlandsson}, @UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale}</p>\n<h2>Description</h2>\n<p>The older head of @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric}&#x27;s guard, marked by a golden brooch shaped like a crown upon a mountain — the symbol of @UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale}.<br>A true believer in Aldric, he sincerely sings his lord&#x27;s praises and speaks for his growing authority over the Vale.</p>\n<h2>Role</h2>\n<p>He led the party sent to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Yaz5mCHyP6xdTwoc]{Witch Stones} to retrieve @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} and to pressure @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} over the beaver troubles, escorting the heads of the Vale&#x27;s three great families.<br>He revealed that Aldric somehow knows everything that happens in the Vale — even that the beaver could speak.<br>He frames Aldric&#x27;s consolidation as building the Vale into a &quot;proud land&quot; able to stand against the aggressions of Marrow and Beaconhold, and promises that once that power is complete &quot;all will be revealed.&quot;</p>\n<h2>Methods</h2>\n<p>He commands through loyalty and conviction rather than cruelty, genuinely persuaded of Aldric&#x27;s greatness.<br>At the Witch Stones he tried to hold @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} back from the portal, but was overruled when his own sergeant defied him.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric Garlandsson} — His lord, whom he reveres</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.racfNNSIG5McsifR]{Sergeant Iyer} — His subordinate, who defied him at the Witch Stones</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} — Confronted at the Witch Stones</li></ul>\n<h2>Key Events</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Led the delegation to the Witch Stones; revealed Aldric&#x27;s uncanny knowledge of the Vale; tried and failed to stop Garland from following Mira through the portal</li></ul>\n<h2>Session Appearances</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6}</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!Ro74hUOP2RdYxDzh.mVeMYUfxxhaYk9SV"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "captain-vask",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!Ro74hUOP2RdYxDzh"
+}

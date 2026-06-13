@@ -1,0 +1,70 @@
+{
+  "name": "Imperium Lucis Aeternae",
+  "_id": "yAiIJMlC7flCgMRm",
+  "img": null,
+  "pages": [
+    {
+      "name": "Imperium Lucis Aeternae",
+      "type": "text",
+      "_id": "yQTlGtUTPUFXpFKn",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Category:</strong> History</p>\n<h2>Overview</h2>\n<p>&quot;Empire of Eternal Light&quot; — the fallen empire at the height of civilized power.<br>Ruled by @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Lucifer}, the god-emperor and first of the New Gods.<br>Colloquially called &quot;the Imperium.&quot;<br>Think of it as analogous to Rome.</p>\n<h2>History</h2>\n<p>The Imperium was a vast empire that spanned the land.<br>Remnants of its glory — roads, ruins, towers — still dot the landscape.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion} was one of the Imperium&#x27;s crown jewels, a major gold producer; the Imperium possessed magical or technological means to extract gold from substrate rock — knowledge lost since its fall.<br>The empire eventually fell, leading to a &quot;dark ages&quot; period.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} lived as a human during the transitionary period of the Imperium&#x27;s fall.</p>\n<p>After the Imperium&#x27;s fall, the @UUID[Compendium.grimwild-kb.kb.JournalEntry.BgvmBR3xqE7I4SUZ]{Middle Kingdoms} emerged — a confederacy of kingdoms and city-states.<br>Eventually this confederacy also fell apart, giving rise to the modern kingdoms.</p>\n<h2>@UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{The Farus Lucis}</h2>\n<p>&quot;Beacon of Light&quot; — towers that symbolized the Imperium&#x27;s reach and authority.<br>They once dotted the empire; most are now destroyed or lost.<br>The one in @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} is the last known intact tower, though dormant.</p>\n<h2>Historical Periods</h2>\n<table><thead><tr><th>Period</th><th>Description</th></tr></thead><tbody><tr><td>The Old Empire</td><td>The Imperium at its height, ruled by Lucifer</td></tr><tr><td>The Dark Ages</td><td>Period after the Imperium&#x27;s fall</td></tr><tr><td>The @UUID[Compendium.grimwild-kb.kb.JournalEntry.BgvmBR3xqE7I4SUZ]{Middle Kingdoms}</td><td>Confederacy of kingdoms and city-states</td></tr><tr><td>The Modern Kingdoms</td><td>Current era — independent, disorganized city-states</td></tr></tbody></table>\n<h2>Related Entries</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light} — Faith that worships the Imperium&#x27;s god-emperor</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — Kingdom built around the last intact Farus Lucis</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} — Substance associated with the Imperium&#x27;s power</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.BgvmBR3xqE7I4SUZ]{Middle Kingdoms} — The confederacy that followed the Imperium</li></ul>\n<h2>Sources</h2>\n<ul><li>Session 0 — Established during world-building</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!yAiIJMlC7flCgMRm.yQTlGtUTPUFXpFKn"
+    }
+  ],
+  "folder": "2bFGRYcjnDRfL10e",
+  "categories": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "imperium-lucis-aeternae",
+      "kbType": "world"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!yAiIJMlC7flCgMRm"
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Mayliss Vane",
+  "_id": "npwR0Fjaz34FwRrN",
+  "img": "modules/grimwild-kb/assets/mayliss-vane-portrait.jpg",
+  "pages": [
+    {
+      "name": "Mayliss Vane",
+      "type": "image",
+      "_id": "sCukw8ZmZGQNMpdm",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": "Mayliss Vane"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/mayliss-vane-portrait.jpg",
+      "system": {},
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!npwR0Fjaz34FwRrN.sCukw8ZmZGQNMpdm"
+    },
+    {
+      "name": "Mayliss Vane",
+      "type": "text",
+      "_id": "bmSG3zHVvXBLptTW",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Mentioned:</strong> Pre-session notes<br><strong>Status:</strong> Active<br><strong>Title:</strong> Assayer Sovereign to @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}</p>\n<h2>Description</h2>\n<p>Assayer Sovereign to @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}, the highest-ranking appraiser in @UUID[Compendium.grimwild-kb.kb.JournalEntry.aHJXqousaIFYnECh]{Marrow County}.<br>Assayers throughout the county evaluate, appraise, and certify on behalf of local authorities — Mayliss holds the title Sovereign because she performs this role for the Count himself.<br>She is the gatekeeper to Marrow and handles his affairs of acquisition.</p>\n<h2>Appearance</h2>\n<p><strong>Colors:</strong> Burnished copper, ledger cream, sealing-wax red, ink black</p>\n<ul><li><em>Sights:</em> Fingers stained faintly with ink, a ring of keys at her belt that never jingles — she holds them still by habit — eyes that weigh you before you&#x27;ve finished speaking, clothing practical but immaculately maintained, a small golden scale pin at her collar</li><li><em>Sounds:</em> The crisp turn of ledger pages, a voice that asks questions like she already knows the answers, the decisive snap of a wax seal being pressed, silences she lets stretch until you fill them</li><li><em>Smells:</em> Sealing wax (warm and resinous), iron gall ink, the faint mustiness of old records, a hint of something astringent — the chemicals used to test metal purity</li></ul>\n<p>Someone who has counted, weighed, and evaluated everything in front of her before you&#x27;ve opened your mouth.<br>Not unkind, but nothing gets past her without being assessed.</p>\n<h2>Role</h2>\n<p>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom}&#x27;s direct handler for artifact retrieval on behalf of @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}.<br>She commissioned the @UUID[Compendium.grimwild-kb.kb.JournalEntry.9OEpISjcWiYE6Gpe]{Seal of Unmaking} job and expects it delivered.<br>Edric is ostensibly tasked with returning the Seal to her — though the party has decided not to do so.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow} — Her lord; she serves as his Assayer Sovereign</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} — Contact and artifact retriever; she hired him to recover the @UUID[Compendium.grimwild-kb.kb.JournalEntry.9OEpISjcWiYE6Gpe]{Seal of Unmaking}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Pom8bgcTgRw75seF]{The Triune} — Arranged through her as magical consultants in exchange for autonomy</li></ul>\n<h2>Key Events</h2>\n<ul><li>Hired @UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} to retrieve artifacts including the @UUID[Compendium.grimwild-kb.kb.JournalEntry.9OEpISjcWiYE6Gpe]{Seal of Unmaking}</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!npwR0Fjaz34FwRrN.bmSG3zHVvXBLptTW"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "mayliss-vane",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!npwR0Fjaz34FwRrN"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Bonewall",
+  "_id": "2oPdZNZmUGdavykO",
+  "img": null,
+  "pages": [
+    {
+      "name": "Bonewall",
+      "type": "text",
+      "_id": "2NNxtssTvP2jVcP7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Region (Mountain Range)<br><strong>First Visited:</strong> Session 0</p>\n<h2>Description</h2>\n<p>The eastern mountain range forming part of the L-shaped border.<br>Dry and cold climate.<br>Barren, rocky, windswept, with sparse vegetation.<br>Feeds the @UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} through deep springs and aquifers.<br>Less snow than the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall} despite being cold.<br>Forms the eastern arm of the L-shaped mountain border, contrasting with the wet and volcanic Cinderwall to the south.</p>\n<h2>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{The Thirteen Spines}</h2>\n<p>Thirteen towers built along the Bonewall during the @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium} era.<br>They rise from the mountain slopes like spines along a ridge — tall enough to peer over the crest of the Bonewall, but built on the slopes facing @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} rather than at the very summit.<br>The towers serve as both physical fortifications and magical wards, maintained by @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light} to hold back forces of darkness on the far side of the mountains.</p>\n<p>Each Spine has its own local nickname based on its appearance, history, or reputation — names given by the soldiers and scholars who have garrisoned them over the centuries.<br>The formal @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium}-era designation for the tower network may exist in old records but has fallen out of common use; everyone simply calls them the Spines.<br>The towers are garrisoned by the @UUID[Compendium.grimwild-kb.kb.JournalEntry.GVboNauNvVc8mHHi]{Spinewardens}, a military order of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} sworn to maintain the wards.</p>\n<p>One such Spine, a failing southern-ish tower, is known as <strong>Hallowreach</strong>, and a mausoleum for honored wardens lies beneath it.<br>When its wards began to fail and something from beyond the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} pressed through, the garrison held until it became clear the Spine would fall.<br>A long-hidden ritual was offered to anchor the Light directly, but it required a sacrifice: the Spinewarden @UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton Lumnus} volunteered, died, and closed the breach — only to wake afterward in the Spine&#x27;s mausoleum, the Light burning in his heart and showing him that the wards themselves are flawed.</p>\n<p>The northernmost Spine, <strong>Carnforth</strong>, marks the very edge of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}&#x27;s territory and the king&#x27;s reach.<br>Its light has now gone out — the first of the thirteen to go fully dark.</p>\n<p>The ancient wards are now beginning to weaken as ruin&#x27;s influence spreads, destabilized by the corrupted ritual at @UUID[Compendium.grimwild-kb.kb.JournalEntry.v85bRcnzMrFiDdn6]{The Nodrum}.<br>Below the wall, between it and @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Haven's Reach}, lies the marshy delta of @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{The Reaches}.</p>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} — Fed by springs and snowmelt from this range</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall} — The other arm of the L-shaped border range</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.nSK79xRnEUNF4khe]{Öuth Krelt} — The land beyond the Bonewall, held at bay by the Thirteen Spines</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{The Reaches} — The marshy delta at the base of the wall in the far northeast</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Yaz5mCHyP6xdTwoc]{Witch Stones} — A ring of stones on the wall&#x27;s dead shale, linked by portal to a matching ring in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}</li></ul>\n<h2>Events Here</h2>\n<ul><li>Session 0 — Established as the eastern mountain range</li><li>The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden @UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton Lumnus} sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Carnforth, the northernmost Spine, went dark; @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} opened a Witch Stone portal onto the wall&#x27;s grey shale and stepped through, with @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} and @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} following; in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{The Reaches} below the wall, @UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton} burned @UUID[Compendium.grimwild-kb.kb.JournalEntry.GVboNauNvVc8mHHi]{Senna}&#x27;s barge</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!2oPdZNZmUGdavykO.2NNxtssTvP2jVcP7"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "bonewall",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!2oPdZNZmUGdavykO"
+}

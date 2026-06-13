@@ -1,0 +1,70 @@
+{
+  "name": "Eastern Rivers",
+  "_id": "3Fsz5CXjF9SwnyKx",
+  "img": null,
+  "pages": [
+    {
+      "name": "Eastern Rivers",
+      "type": "text",
+      "_id": "xhELHCCuX35UC1Bc",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Region<br><strong>First Visited:</strong> Session 0</p>\n<h2>Description</h2>\n<p>An independent region bordering the Kingdom of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}.<br>Fed by springs and snowmelt from the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall}.<br>Remote enough that tax collectors don&#x27;t visit.<br>The rivers cut through the @UUID[Compendium.grimwild-kb.kb.JournalEntry.PEnF3AXmLA3UEGGO]{Cragmarr}, providing passage to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium}.</p>\n<h2>Notable Features</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom}&#x27;s homeland</li><li>A hamlet on the edge of the kingdom where Edric was born</li><li>River names have changed at least twice since Edric&#x27;s birth</li></ul>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — The kingdom to the west</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} — The mountain range that feeds the rivers</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.PEnF3AXmLA3UEGGO]{Cragmarr} — The rivers cut through this region, providing the only reliable passage to the lake</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium} — The great lake the rivers feed into</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} — Port town where the Eastern Rivers meet the Solvium</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} — Born in a small village here</li></ul>\n<h2>Events Here</h2>\n<ul><li>Session 0 — Established as Edric&#x27;s homeland</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!3Fsz5CXjF9SwnyKx.xhELHCCuX35UC1Bc"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 1100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "eastern-rivers",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!3Fsz5CXjF9SwnyKx"
+}

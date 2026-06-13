@@ -1,0 +1,109 @@
+{
+  "name": "Count Albrecht Marrow",
+  "_id": "8DkFLtD2kUwDvf0s",
+  "img": "modules/grimwild-kb/assets/count-albrecht-marrow.jpg",
+  "pages": [
+    {
+      "name": "Count Albrecht Marrow",
+      "type": "image",
+      "_id": "i5UNzj6ElSNGFuGJ",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": "Count Albrecht Marrow"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/count-albrecht-marrow.jpg",
+      "system": {},
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!8DkFLtD2kUwDvf0s.i5UNzj6ElSNGFuGJ"
+    },
+    {
+      "name": "Count Albrecht Marrow",
+      "type": "text",
+      "_id": "2ybGwcBTEZkcM4yX",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Appeared:</strong> Session 0<br><strong>Status:</strong> Active<br><strong>Affiliation:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light}, @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}</p>\n<h2>Description</h2>\n<p>Lord of a minor but strategically placed county (@UUID[Compendium.grimwild-kb.kb.JournalEntry.aHJXqousaIFYnECh]{Marrow County}) bordering the royal capital of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}.<br>Rules from Crest Aurelion, his castle in @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion}.<br>Often overshadowed politically, but deeply entwined with the Church.<br>He is a major donor, with several sons holding influential clerical positions.</p>\n<h2>Role</h2>\n<p>Marrow commissioned @UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} and the party to retrieve the @UUID[Compendium.grimwild-kb.kb.JournalEntry.9OEpISjcWiYE6Gpe]{Seal of Unmaking} from @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook}, describing it as a rare but otherwise unremarkable @UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} holy symbol.<br>In hindsight, the inclusion of a sealed metal container with warding locks — absent from his previous commissions — and the near total lack of information about the local populace made it clear he knew the relic&#x27;s true nature.</p>\n<p>According to @UUID[Compendium.grimwild-kb.kb.JournalEntry.9r800oi2AazmBBPq]{Severin}, the Morrow family have been secret worshippers of renewal since @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}&#x27;s founding.<br>Count Marrow has been searching his entire life for a way to release ruin so that renewal could return, continuing a family tradition stretching back generations.<br>Severin identified him as a herald of renewal — the missing piece needed to complete the puzzle and unlock the cocoon at the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Shrine of Renewal} beneath the Chryseum.</p>\n<h2>Methods</h2>\n<p>Those who cross Marrow are rarely punished openly.<br>Instead, sermons and homilies begin to reference their moral failings, and their reputations quietly erode until the common folk turn against them.<br>Such individuals soon find themselves unable to secure food, lodging, or meaningful aid.<br>Confronting Marrow is difficult due to his station, resources, and deep ties to the Church.</p>\n<h2>Collecting</h2>\n<p>Marrow keeps a collection of whiteglass artifacts in his private chambers at @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Crest Aurelion}.<br>He is a well-known collector of @UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} artifacts specifically — the translucent and radiant substance associated with @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Lucifer}.<br>The expeditions he funds to retrieve whiteglass relics are normally precise and thoroughly documented.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} previously retrieved multiple whiteglass relics for Marrow on separate jobs, describing them as &quot;curiosities at best.&quot;<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.s4ABoIqxcgBnmTYz]{Roderic} theorized that each whiteglass artifact may have been a barrier holding ruin back, weakened one by one until the @UUID[Compendium.grimwild-kb.kb.JournalEntry.9OEpISjcWiYE6Gpe]{Seal of Unmaking} was the final clasp.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} — Hired him to retrieve the @UUID[Compendium.grimwild-kb.kb.JournalEntry.9OEpISjcWiYE6Gpe]{Seal of Unmaking}; previously hired him for multiple @UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} retrieval jobs</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.npwR0Fjaz34FwRrN]{Mayliss Vane} — His Assayer Sovereign; handles acquisitions and serves as gatekeeper</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light} — Major donor; his son holds a ranking position in the Church, giving the Marrow family influence over the local church in @UUID[Compendium.grimwild-kb.kb.JournalEntry.aHJXqousaIFYnECh]{Marrow County}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — Rules @UUID[Compendium.grimwild-kb.kb.JournalEntry.aHJXqousaIFYnECh]{Marrow County}, a strategically placed border county</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Pom8bgcTgRw75seF]{The Triune} — Has an arrangement through @UUID[Compendium.grimwild-kb.kb.JournalEntry.npwR0Fjaz34FwRrN]{Mayliss Vane} where they serve as magical consultants in exchange for autonomy</li></ul>\n<h2>Key Events</h2>\n<ul><li>Session 0 — Commissioned the party to retrieve the Seal of Unmaking from @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1} — The party decided not to return the Seal to him, suspecting his motives; they plan to bypass Marrow County on the way to Beacon Hold</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jir5X1jFd08ME0H1]{Session 2} — The Harlequin Jimmy claimed both Marrow and the party are &quot;puppets on the Laughing One&#x27;s strings&quot;; @UUID[Compendium.grimwild-kb.kb.JournalEntry.s4ABoIqxcgBnmTYz]{Roderic} suspects a conspiracy involving Marrow and @UUID[Compendium.grimwild-kb.kb.JournalEntry.9r800oi2AazmBBPq]{Severin}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.YxfxYfYC1hm9ZNiA]{Session 4} — @UUID[Compendium.grimwild-kb.kb.JournalEntry.9r800oi2AazmBBPq]{Severin} revealed Marrow as a herald of renewal and the missing piece needed to unlock the cocoon; the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Order of the Eclipsed Sword} arrived at Crest Aurelion to arrest him</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.c5SHL7wB7yKbx7cP]{Session 5} — Retrieved from his private chambers at @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Crest Aurelion} by @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} and @UUID[Compendium.grimwild-kb.kb.JournalEntry.s4ABoIqxcgBnmTYz]{Roderic} during the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Order of the Eclipsed Sword}&#x27;s siege; reluctantly agreed to accompany them after being told ruin and renewal must be balanced; sealed the vault door to cover the party&#x27;s escape; reunited with @UUID[Compendium.grimwild-kb.kb.JournalEntry.9r800oi2AazmBBPq]{Severin} in the tunnels; participated in the gathering of all six heralds that opened the cocoon</li></ul>\n<h2>Session Appearances</h2>\n<ul><li>Session 0</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jir5X1jFd08ME0H1]{Session 2}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.YxfxYfYC1hm9ZNiA]{Session 4}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.c5SHL7wB7yKbx7cP]{Session 5}</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!8DkFLtD2kUwDvf0s.2ybGwcBTEZkcM4yX"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "count-albrecht-marrow",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!8DkFLtD2kUwDvf0s"
+}

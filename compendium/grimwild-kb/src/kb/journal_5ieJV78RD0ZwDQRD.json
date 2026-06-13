@@ -1,0 +1,70 @@
+{
+  "name": "Havens Reach",
+  "_id": "5ieJV78RD0ZwDQRD",
+  "img": null,
+  "pages": [
+    {
+      "name": "Havens Reach",
+      "type": "text",
+      "_id": "UAhDnazcyvdBzHYV",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Town<br><strong>First Visited:</strong> Not yet visited; the surrounding Reaches were the site of a @UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} encounter</p>\n<h2>Description</h2>\n<p>The kingdom&#x27;s northeastern trading hub: a relatively cosmopolitan port on the shores of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium}, at the border between the Kingdom of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}, the @UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers}, and the lake, whose vessels cross the Solvium in trade.<br>Built in sinking layers atop a thousand years of older cities — an old @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium}-era fort among them — that were razed during the fall of the Imperium.<br>The town was rebuilt and had been growing into its own before the stagnation set in; despite its trade it has not grown for years, locked in the same grand stagnation that grips the kingdom.<br>The old ruins are still visible beneath and around the current settlement — foundations too large for the buildings sitting on them, streets that lead to nothing, the outline of walls that once enclosed a much larger city, and scattered relics such as a drowned temple to the water gods.<br>The town sits within the Reaches, the marshy delta that separates it from the rest of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} kingdom and runs inland to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall}.</p>\n<h2>Name</h2>\n<p>Whether the name is possessive (&quot;Haven&#x27;s Reach&quot; — named after a person called Haven) or plural (&quot;Havens Reach&quot; — the reach of many havens, referencing the multiple safe harbors along the shoreline) is a matter of local debate.<br>Nobody in the current era remembers the origin with certainty.<br>The Imperium-era name of the original settlement has been largely forgotten.</p>\n<h2>Notable Features</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}&#x27;s primary access point to trade on the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium}</li><li>Built on Imperium-era ruins; the old settlement was significantly larger</li><li>The town has been stagnant for centuries — never declining, never growing</li><li>Birthplace of @UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton Lumnus}</li></ul>\n<h2>The Reaches</h2>\n<p>Haven&#x27;s Reach lies within the Reaches — the marshy delta that separates the town from the rest of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} kingdom, with the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} rising along its far inland edge.<br>It is a maze of small, non-navigable waterways threaded by a single main shipping channel and one poorly maintained road.<br>An ancient military road also runs precariously along the base of the Bonewall.<br>Life gives way abruptly here, from wet, vibrant marsh to the dead grey shale of the wall, above which rise the failing spines of Hallowreach and Carnforth.</p>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium} — The great lake it sits upon, which the Reaches&#x27; trade ultimately reaches</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} — The river region to its north and east</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.PEnF3AXmLA3UEGGO]{Cragmarr} — The broken terrain connecting it to Beaconhold proper</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — The kingdom it belongs to</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} — The wall at the far end of the Reaches, whose spines Hallowreach and Carnforth rise above the marsh</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton Lumnus} — Born here; passed back through the Reaches on his way to the wall, encountering Senna&#x27;s barge</li></ul>\n<h2>Events Here</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — In the Reaches below the town, Paxton came upon Senna&#x27;s barge in the reeds, learned of her rebirth in Moldrex&#x27;s vision, and burned the vessel to escape — killing Senna and unknown others hidden aboard</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!5ieJV78RD0ZwDQRD.UAhDnazcyvdBzHYV"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 1200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "havens-reach",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!5ieJV78RD0ZwDQRD"
+}

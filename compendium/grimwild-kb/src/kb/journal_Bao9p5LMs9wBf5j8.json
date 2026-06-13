@@ -1,0 +1,70 @@
+{
+  "name": "Cinderwall",
+  "_id": "Bao9p5LMs9wBf5j8",
+  "img": null,
+  "pages": [
+    {
+      "name": "Cinderwall",
+      "type": "text",
+      "_id": "TEP8F7PCDTSlpVTA",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Region (Mountain Range)<br><strong>First Visited:</strong> Session 0</p>\n<h2>Description</h2>\n<p>The southern mountain range forming part of the L-shaped border.<br>Wet and cold climate with volcanic activity that is the source of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}&#x27;s fertile ash.<br>Wooded slopes, mossy, shrouded in mist and steam.</p>\n<h2>Notable Features</h2>\n<ul><li>Volcanic; source of the Ashen Vale&#x27;s fertile ash</li><li>Home to @UUID[Compendium.grimwild-kb.kb.JournalEntry.qiCNIVxrwzPJxFsP]{Dire Coyotes} — a tougher and more aggressive breed that dominates the lower elevations toward the Ashen Vale; humankind is sparse in the higher elevations where they roam, and few have ventured far enough to even catch sight of them</li><li>Contains @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook} (now the cursed ruins of Eld Ashara)</li><li>Farlands Pass — A mountain pass used by trade caravans</li><li>Few mountain passes exist through the range</li></ul>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} — The valley to the north, enriched by the Cinderwall&#x27;s volcanic ash</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook} — Former town near one of the mountain passes, now cursed ruins</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} — Originates from springs beneath the Cinderwall</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} — Familiar with the mountains from his years as a beaver</li></ul>\n<h2>Events Here</h2>\n<ul><li>Session 0 — Established as the mountain range containing Ashbrook and the dire coyotes</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!Bao9p5LMs9wBf5j8.TEP8F7PCDTSlpVTA"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "cinderwall",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!Bao9p5LMs9wBf5j8"
+}

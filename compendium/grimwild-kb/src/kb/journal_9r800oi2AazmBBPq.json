@@ -1,0 +1,109 @@
+{
+  "name": "Luminary Severin Morrow",
+  "_id": "9r800oi2AazmBBPq",
+  "img": "modules/grimwild-kb/assets/luminary-severin-portrait.jpg",
+  "pages": [
+    {
+      "name": "Luminary Severin Morrow",
+      "type": "image",
+      "_id": "2UTmdzXbUKDC92VK",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": "Luminary Severin Morrow"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/luminary-severin-portrait.jpg",
+      "system": {},
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!9r800oi2AazmBBPq.2UTmdzXbUKDC92VK"
+    },
+    {
+      "name": "Luminary Severin Morrow",
+      "type": "text",
+      "_id": "P9tawOkF3DzrddPV",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Mentioned:</strong> Pre-session notes<br><strong>Status:</strong> Active<br><strong>Affiliation:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light}</p>\n<h2>Description</h2>\n<p>A severe man who runs the Chryseum, the cathedral of @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light} in @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion}.<br>He is the third son of @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}.<br>Wears a @UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} pendant as a mark of his office as Luminary.<br>Can open the hidden stairway to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Shrine of Renewal} with a gesture of his hand.</p>\n<h2>Appearance</h2>\n<p><strong>Colors:</strong> Whiteglass pale, liturgical gold, shadow black, candle-flame amber</p>\n<ul><li><em>Sights:</em> Vestments that hang perfectly straight — he adjusts them constantly, unconsciously — a jaw held tight enough to ache, eyes that look <em>through</em> you searching for the lie beneath, hands that gesture in precise liturgical patterns even in casual conversation, a @UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} pendant that catches light like a small cold sun</li><li><em>Sounds:</em> A voice trained to fill the Chryseum without shouting — resonant, certain, with edges — scripture quoted from memory mid-sentence, the soft click of prayer beads he works through his fingers when thinking, a tendency to leave sermons half-finished in conversation as if you should know the rest</li><li><em>Smells:</em> Temple incense (frankincense and something sharper, like juniper), beeswax candles, the clean astringency of @UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} (which shouldn&#x27;t have a smell but somehow does around him), starched linen, and beneath it all something faintly scorched — like faith burning too hot</li></ul>\n<p>A man who has stared into the light so long he sees shadows everywhere.<br>Not cruel, but <em>certain</em> — and certainty in the wrong hands cuts deeper than malice.</p>\n<h2>Role</h2>\n<p>Leads the congregation in @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion}.<br>He believes all bards and storytellers are liars and charlatans.<br>His preaching has turned at least a portion of his flock against performers and tale-tellers.<br>Ordered the imprisonment of bards, performers, and suspected Harlequin followers in the church dungeon beneath the Chryseum.</p>\n<p>Claimed the Morrow family have been worshippers of renewal since @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}&#x27;s founding.<br>He identified himself, his father @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}, and @UUID[Compendium.grimwild-kb.kb.JournalEntry.wE046R3Drp0snmvQ]{Dawnwarden Brenn} as the heralds of renewal — the counterparts to the party&#x27;s heralds of ruin.<br>Stated that his father has searched his entire life for a way to release ruin so that renewal could return.<br>Acknowledged the Laughing One has manipulated events to pit the heralds of ruin and renewal against each other.<br>Believes ruin is not acting within its nature — behaving like a wounded animal rather than a natural force.<br>Demonstrated the ability to open the hidden entrance to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Shrine of Renewal} beneath the Chryseum, his hands glowing green as he activated the mechanism.<br>Identified @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Marrow} as the missing herald needed to complete the connection and unlock the cocoon of renewal.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow} — His father; they share the family&#x27;s secret worship of renewal</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light} — His religious affiliation; he serves as a luminary, but holds heterodox views</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.wE046R3Drp0snmvQ]{Dawnwarden Brenn} — Ally and fellow herald of renewal; she and the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Order of the First Dawn} protect him</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Corona Vigil} — The Inquisition is investigating him for heterodox beliefs</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Order of the Eclipsed Sword} — The Inquisition&#x27;s military arm, arrived to arrest him</li></ul>\n<h2>Key Events</h2>\n<ul><li>Has been turning his congregation against bards and storytellers</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.YxfxYfYC1hm9ZNiA]{Session 4} — Imprisoned suspected Harlequins beneath the Chryseum; revealed himself to the party as a herald of renewal; opened the hidden staircase to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Shrine of Renewal}; led the party to the dormant God of Renewal; argued for cooperation between heralds of ruin and renewal; identified his father as the missing herald</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.c5SHL7wB7yKbx7cP]{Session 5} — Stayed in the tunnels beneath @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Crest Aurelion} with @UUID[Compendium.grimwild-kb.kb.JournalEntry.wE046R3Drp0snmvQ]{Dawnwarden Brenn} to avoid arrest by the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Order of the Eclipsed Sword}; reunited with @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow} in a warm embrace; participated in the gathering of all six heralds that opened the cocoon; @UUID[Compendium.grimwild-kb.kb.JournalEntry.s4ABoIqxcgBnmTYz]{Roderic}&#x27;s Eyes of the Faithful confirmed his sincerity</li></ul>\n<h2>Session Appearances</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.YxfxYfYC1hm9ZNiA]{Session 4}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.c5SHL7wB7yKbx7cP]{Session 5}</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!9r800oi2AazmBBPq.P9tawOkF3DzrddPV"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "luminary-severin-morrow",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!9r800oi2AazmBBPq"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Ashen Vale",
+  "_id": "luKOvcjkjHGprDBX",
+  "img": null,
+  "pages": [
+    {
+      "name": "Ashen Vale",
+      "type": "text",
+      "_id": "umG4i4HcvqZDz6kp",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Region<br><strong>First Visited:</strong> Session 0</p>\n<h2>Description</h2>\n<p>A fertile valley enriched by volcanic ash from the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall}.<br>A border region of the Kingdom of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}.<br>Home to @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} and @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor}.<br>Once an agrarian region during the @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium} era.<br>Fiefdoms were granted to war veterans like @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} after @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beacon Hold}&#x27;s conquest, though largely left to self-govern.</p>\n<h2>Notable Features</h2>\n<ul><li>Fed by the @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Lower Ashen Flow}, which runs clean after being filtered by the great beaver dam upstream</li><li>Fertile farmland enriched by volcanic ash</li></ul>\n<h2>@UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Greenholt}</h2>\n<p>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt}&#x27;s fiefdom, granted after @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beacon Hold}&#x27;s conquest and largely left to self-govern.<br>Garland serves as its accidental lord, with his grandson @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric Garlandsson} now ruling from @UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale}.</p>\n<h3>Witch Stones</h3>\n<p>The @UUID[Compendium.grimwild-kb.kb.JournalEntry.Yaz5mCHyP6xdTwoc]{Witch Stones} — a hidden ring of rune-carved standing stones also known as the Shepherd&#x27;s Teeth — stand somewhere on Garland&#x27;s land.<br>They are the source of Garland&#x27;s magic and, as recently revealed, can open a portal to a matching ring of stones on the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall}.<br>Garland speaks of the Ashen Vale openly, but guards the secret of their location and does not volunteer information about the stones themselves.</p>\n<h2>The Families</h2>\n<p>The Vale is held by a handful of powerful landowning families who act as its unofficial fiefdom under @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric}, the most powerful among them.<br>All of them are @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland}&#x27;s blood, generations down; to them he is half myth, and only Aldric&#x27;s line kept the direct knowledge — so Garland faces a crowd of his own descendants who do not really know him.<br>Three family heads led the delegation to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Yaz5mCHyP6xdTwoc]{Witch Stones}, all aggrieved by the spreading beavers:</p>\n<ul><li><strong>Sela Thornby</strong> — orchardist matriarch and de facto head of the prominent families, with decades of her trees drowning in beaver-flooded ground. She leads the delegation, is formidable, and is reachable by reason — under the anger is grief, not cruelty; the one Garland and @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} can actually talk down.</li><li><strong>Doral Beck</strong> — the miller, whose wheel depends on the Lower @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} the beavers keep diverting. Not cruel, just frightened for his living — the neutral, tragic face who didn&#x27;t want to come but had no choice.</li><li><strong>Wat Hollis</strong> — younger and hungry, the one setting traps along the Ashen Flow. He smells bounty and pelts in the chaos and pushes hardest to see Castor handed over and the colony broken — the escalator who can turn a tense parley ugly.</li></ul>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — The kingdom to the north that the vale borders</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale} — Seat of power within the vale</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall} — The mountain range to the south, source of the vale&#x27;s fertile ash</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook} — Former town in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall} above the vale, now cursed ruins (@UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Eld Ashara})</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} — The river that flows through the vale</li><li>Greenholt — @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt}&#x27;s fiefdom, home to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Yaz5mCHyP6xdTwoc]{Witch Stones}</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} — Long-time resident, accidental lord of Greenholt</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} — Resident, connected to the beaver dam on the @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric Garlandsson} — Rules @UUID[Compendium.grimwild-kb.kb.JournalEntry.VxJKyJDX5JtaCOX7]{Crownvale}</li></ul>\n<h2>Events Here</h2>\n<ul><li>Session 0 — Established as homeland of Garland and Castor; the curse threatens to reach the vale if the beaver dam fails</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — At the hidden Witch Stones, @UUID[Compendium.grimwild-kb.kb.JournalEntry.Ro74hUOP2RdYxDzh]{Captain Vask}&#x27;s delegation and the three great families came to retrieve @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} and end the beaver troubles; Mira opened a portal to the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} and stepped through, with Garland and Castor following — and Vask revealed that Aldric somehow knows everything that happens in the Vale</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!luKOvcjkjHGprDBX.umG4i4HcvqZDz6kp"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "ashen-vale",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!luKOvcjkjHGprDBX"
+}

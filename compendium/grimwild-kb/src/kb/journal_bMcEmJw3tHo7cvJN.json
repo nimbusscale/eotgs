@@ -1,0 +1,70 @@
+{
+  "name": "Greenholt Bloodline",
+  "_id": "bMcEmJw3tHo7cvJN",
+  "img": null,
+  "pages": [
+    {
+      "name": "Greenholt Bloodline",
+      "type": "text",
+      "_id": "DJAiDDSXQjEODb9q",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Category:</strong> Races / Culture</p>\n<h2>Overview</h2>\n<p>A hereditary trait found in the Greenholt family that occasionally expresses in family members.<br>It functions like a &quot;recessive gene&quot; in modern terms.</p>\n<h2>Details</h2>\n<p>Those who express the trait have elven features and live extraordinarily long lives.<br>Those who don&#x27;t look like normal humans and live normal human lifespans.<br>The family members are not elves and don&#x27;t consider themselves elves, though the ancestry question remains open.</p>\n<p>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} has the strongest expression of this trait — he has lived longer than anyone else in his family line.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} also carries the trait, sharing the same elven features and origin in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}.<br>Castor is in fact Garland&#x27;s great-grand-uncle — the elder of the line, despite Garland being the more mature in bearing.</p>\n<h2>Related Entries</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland yn Greenholt} — Strongest known expression of the trait</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} — Also carries the trait</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} — Where both Garland and Castor originate</li></ul>\n<h2>Sources</h2>\n<ul><li>Session 0 — Established during character creation</li></ul>\n<h2>Notes</h2>\n<p>The origin of this trait — whether it connects to actual elven ancestry or something else — remains an open question.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!bMcEmJw3tHo7cvJN.DJAiDDSXQjEODb9q"
+    }
+  ],
+  "folder": "2bFGRYcjnDRfL10e",
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "greenholt-bloodline",
+      "kbType": "world"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!bMcEmJw3tHo7cvJN"
+}

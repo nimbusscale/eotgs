@@ -1,0 +1,22 @@
+{
+  "name": "The Forgotten and the Forsaken",
+  "_id": "9T4OOgyl6yPIba1v",
+  "type": "JournalEntry",
+  "sorting": "a",
+  "sort": 100000,
+  "folder": "yo9bnVvt6ciI7nbB",
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!9T4OOgyl6yPIba1v"
+}

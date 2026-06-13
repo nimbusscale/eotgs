@@ -1,0 +1,9 @@
+{
+  "id": "grimwild-kb",
+  "title": "Echoes of the Godstorm — Campaign KB",
+  "description": "Browsable campaign knowledge base with show-to-players images, mirrored from the markdown KB.",
+  "version": "1.0.0",
+  "authors": [{ "name": "Joe" }],
+  "compatibility": { "minimum": "12", "verified": "13" },
+  "packs": [{ "name": "kb", "label": "Campaign KB", "path": "packs/kb", "type": "JournalEntry" }]
+}

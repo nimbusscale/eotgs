@@ -1,0 +1,22 @@
+{
+  "name": "Locations",
+  "_id": "sY5IhMK9FgIijYqP",
+  "type": "JournalEntry",
+  "sorting": "a",
+  "sort": 100000,
+  "folder": null,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!sY5IhMK9FgIijYqP"
+}

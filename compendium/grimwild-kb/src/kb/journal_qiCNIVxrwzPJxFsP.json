@@ -1,0 +1,70 @@
+{
+  "name": "Dire Coyotes",
+  "_id": "qiCNIVxrwzPJxFsP",
+  "img": null,
+  "pages": [
+    {
+      "name": "Dire Coyotes",
+      "type": "text",
+      "_id": "f6NqKyYbu1TaY0gw",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Category:</strong> Creatures</p>\n<h2>Overview</h2>\n<p>A tougher and more aggressive breed of coyote that dominates the lower elevations of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall} toward the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}.<br>Far more dangerous than their pasture-roaming cousins.</p>\n<h2>Details</h2>\n<p>To the locals, ordinary coyotes are considered mostly non-threatening and more of a pest to pets and livestock.<br>But in the more treacherous mountain areas where people have feared to tread, this aggressive breed has come to dominate.<br>Humankind is sparse where they roam, so few know of these keen predators.</p>\n<p>Even among the residents of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}, few have ventured far enough to catch sight of a dire coyote.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} has seen them during his time as a beaver, seeking proof of their existence out of curiosity, and getting little more than a frantic burrowing session in the mountains as a reward.</p>\n<p>A local named Phillip once talked a big game about going to the mountains to prove these coyotes existed.<br>That&#x27;s the last anyone heard of Phillip.</p>\n<h2>Related Entries</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall} — Mountain range where they are found</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} — Has encountered them as a beaver</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} — Region below their territory</li></ul>\n<h2>Sources</h2>\n<ul><li>Session 0 — Established by Dustin during world-building</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!qiCNIVxrwzPJxFsP.f6NqKyYbu1TaY0gw"
+    }
+  ],
+  "folder": "2bFGRYcjnDRfL10e",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "dire-coyotes",
+      "kbType": "world"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!qiCNIVxrwzPJxFsP"
+}

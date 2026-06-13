@@ -1,0 +1,70 @@
+{
+  "name": "Beaver Lake",
+  "_id": "XkO2NGJCUTmTTq3F",
+  "img": null,
+  "pages": [
+    {
+      "name": "Beaver Lake",
+      "type": "text",
+      "_id": "GEfmnPOy7apzeWRZ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Landmark<br><strong>First Visited:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1}</p>\n<h2>Description</h2>\n<p>A lake in the foothills of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall}, formed by the Great Beaver Dam.<br>The upper @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} feeds into it, and the lower @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} continues beyond the dam into the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}.<br>Home to a beaver colony that @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} knows well — his kin built and maintained the dam for generations.<br>The beavers were evacuated downstream when the party arrived ahead of the ruin.<br>In the downtime since the curse passed, the colony has grown unruly and unwieldy: many beavers have cast off the tribe&#x27;s &quot;old ways&quot; and spread downstream to trouble the @UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale}&#x27;s human settlements, and @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor}&#x27;s authority over them has waned.</p>\n<h2>Notable Features</h2>\n<ul><li>The Great Beaver Dam — a massive beaver-built dam that has stood for over 120 years; has partially collapsed, with water pouring into the lower @UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow}</li><li>An abandoned fisher&#x27;s hut on the lakeshore, where the party rested overnight</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland}&#x27;s spirit wall remains standing but appears to be blocking nothing — scrying from @UUID[Compendium.grimwild-kb.kb.JournalEntry.v85bRcnzMrFiDdn6]{The Nodrum} revealed no signs of ruin at the spirit wall or in the river</li><li>The cursed water the party witnessed has simply gone; the ruin travels with the party themselves, not through the waterway</li></ul>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Bao9p5LMs9wBf5j8]{Cinderwall} — The mountains surrounding the lake</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.ncbPkt06UQ9WQ2BL]{Ashen Flow} — The river feeding into and flowing out of the lake</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.luKOvcjkjHGprDBX]{Ashen Vale} — The valley downstream of the dam</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} — Considers the beaver colony his home and kin</li></ul>\n<h2>Events Here</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.QiQuaJOj62mEXbMZ]{Session 1} — Castor evacuated the beaver colony; Garland erected a spirit wall; Roderic&#x27;s healing failed and horses withered; Garland found a scrap of Aldric&#x27;s livery in the reeds</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jir5X1jFd08ME0H1]{Session 2} — Scrying from the Nodrum confirmed the spirit wall still stands but blocks nothing; the great beaver dam has partially collapsed; the ruin travels with the party, not through the water</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!XkO2NGJCUTmTTq3F.GEfmnPOy7apzeWRZ"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "beaver-lake",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!XkO2NGJCUTmTTq3F"
+}

@@ -1,0 +1,148 @@
+{
+  "name": "The Old Gods",
+  "_id": "jB7eRLPu6CNxnyYm",
+  "img": null,
+  "pages": [
+    {
+      "name": "The Old Gods",
+      "type": "text",
+      "_id": "7esrda93HzMn9q31",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Pantheon<br><strong>Status:</strong> Suppressed / Hidden</p>\n<h2>Overview</h2>\n<p>The Old Gods are the pre-Luciferian divine forces that once governed the natural cycles of the world.<br>They were not worshipped in the Luciferian sense — they were acknowledged, honored in their proper time.<br>None of them are evil; they are forces of nature, each governing a necessary part of existence.<br>Where an Old God&#x27;s nature concentrates, it can produce emanations — physical manifestations of divine force in the world (see @UUID[Compendium.grimwild-kb.kb.JournalEntry.miGdMuBQ4kTeRR0J]{Old Gods and New Gods}).</p>\n<p>For a broader history of the old religion and its suppression, see @UUID[Compendium.grimwild-kb.kb.JournalEntry.miGdMuBQ4kTeRR0J]{Old Gods and New Gods}.</p>\n<h2>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jB7eRLPu6CNxnyYm]{The God of Ruin}</h2>\n<p><strong>Titles and Epithets</strong> (true name unknown/unknowable):</p>\n<ul><li><strong>The Unmaker</strong> — Luciferian term, pejorative</li><li><strong>The Gentle Collapse</strong> — old honorific, still used by hedge traditions</li><li><strong>Lord/Lady of Endings</strong> — formal old religion term</li><li><strong>The Patient Dark</strong> — poetic name</li><li><strong>Terminus</strong> — scholarly term</li><li><strong>The Release</strong> — used by those who honor endings</li><li><strong>The Final Kindness</strong> — whispered by those who tend the dying</li></ul>\n<p>Ruin was never meant to exist in isolation — it had a counterpart in <strong>Renewal</strong>.<br>Without renewal&#x27;s balance, centuries of pent-up ruinous energy were released all at once when the @UUID[Compendium.grimwild-kb.kb.JournalEntry.9OEpISjcWiYE6Gpe]{Seal of Unmaking} was removed.<br>Ruin&#x27;s influence is carried by the party themselves (the &quot;heralds of ruin&quot;), destabilizing ancient wards and corrupting ley line energy.<br>The corruption extends to altering reality itself — changing the past so things once protected are now ruined.<br>Ruin targets each person&#x27;s core identity: protection (@UUID[Compendium.grimwild-kb.kb.JournalEntry.s4ABoIqxcgBnmTYz]{Roderic}), knowledge (@UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland}), inspiration (@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric}), creation (@UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor}).<br>According to both @UUID[Compendium.grimwild-kb.kb.JournalEntry.wE046R3Drp0snmvQ]{Dawnwarden Brenn} and @UUID[Compendium.grimwild-kb.kb.JournalEntry.9r800oi2AazmBBPq]{Luminary Severin Morrow}, ruin is not behaving as it should — acting like a wounded animal rather than a cunning natural force.<br>Something has corrupted its release, and they suspect the Laughing One&#x27;s interference.<br>Brenn stated that Lucifer locked ruin away long ago, which started a chain reaction that caused renewal to go dormant, leading to centuries of stagnation and civilizational decline.<br>Balance can be restored by reuniting the heralds of ruin with the heralds of renewal.</p>\n<h3>Those Who Honor Ruin</h3>\n<p>Ruinous cultists aren&#x27;t cackling villains.<br>They come to the god of ruin from different places:</p>\n<p><strong>The Grieving</strong> — People who lost everything and found peace only in accepting that loss is natural.<br>&quot;When my children died, only the Gentle Collapse offered comfort.<br>Not promises of reunion, not platitudes.<br>Just... permission to let go.&quot;</p>\n<p><strong>The Exhausted</strong> — People tired of the endless Luciferian labor of preservation.<br>&quot;Every day we shore up walls, mend what&#x27;s broken, fight the tide.<br>I&#x27;m so tired.<br>The Patient Dark offers something the Light never does: an end to the struggle.&quot;</p>\n<p><strong>The Philosophical</strong> — Those who believe the natural order has been disrupted.<br>&quot;The world is constipated with things that have outlived their purpose.<br>The Unmaker isn&#x27;t evil — they&#x27;re necessary.&quot;</p>\n<p><strong>The Converted</strong> — Once victims of ruin who came to see it as revelation.<br>&quot;The fire took my home, my shop, my life&#x27;s work.<br>And in the ashes I finally saw clearly.<br>I had been holding on so tight.<br>The Release showed me I could let go.&quot;</p>\n<p><strong>The Desperate</strong> — Those who want something specific to end: a tyrannical ruler, a corrupt institution, an abusive relationship, their own suffering.<br>They come to Ruin not from philosophy but from need.</p>\n<h2>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jB7eRLPu6CNxnyYm]{The God of Renewal}</h2>\n<p><strong>Titles and Epithets</strong> (true name unknown/unknowable):</p>\n<ul><li><strong>The Beloved</strong> — in relation to Ruin, used by those who know the old stories</li><li><strong>The Green After Fire</strong> — poetic name</li><li><strong>The First Shoot</strong> — old honorific</li><li><strong>The Dawn After</strong> — scholarly term</li><li><strong>Hope</strong> — sometimes, simply</li><li><strong>The Returner</strong> — used by those who await the awakening</li><li><strong>The Second Chance</strong> — whispered by those seeking redemption</li></ul>\n<p>Renewal is ruin&#x27;s counterpart among the old gods; without it, there is decay without rebirth.<br>Renewal also has heralds who must be found and reunited with the heralds of ruin to restore balance.<br>The God of Renewal sleeps within a translucent cocoon in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Shrine of Renewal}, an ancient chamber beneath the Chryseum in @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion}.<br>The cocoon inspires an instinctive, parental urge to protect it in all who behold it.<br>The sleeping form within is never clearly resolved — just a curve, a shadow suggesting dormant but living presence.<br>Renewal cannot be active without ruin — when Lucifer locked ruin away, renewal went dormant, leading to centuries of stagnation.<br>The Morrow family has maintained worship of renewal for generations; @UUID[Compendium.grimwild-kb.kb.JournalEntry.9r800oi2AazmBBPq]{Luminary Severin Morrow}, @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}, and @UUID[Compendium.grimwild-kb.kb.JournalEntry.wE046R3Drp0snmvQ]{Dawnwarden Brenn} are identified as heralds of renewal.<br>Signs of renewal&#x27;s proximity manifest when both herald groups are near: moss grows through cracks of ruin, torches reignite with soft white light.<br>Unlocking the cocoon requires the presence of multiple heralds who feel an interlocking connection like puzzle pieces.<br>The cocoon opened when all six heralds of ruin and renewal gathered together — ruinous energy flowed from the heralds of ruin and combined with renewal energy, releasing a spring-like surge that transformed the desiccated Shrine into a verdant, living space.<br>Residual renewal energy can partially counteract the effects of ruin.</p>\n<h3>Followers of Renewal</h3>\n<p>Think Celtic/druidic aesthetic.<br>They&#x27;ve kept the old ways in secret — hedge witches, hermits, rural communities that never fully converted, families with long memories.<br>They know Renewal sleeps and have been waiting for the awakening.<br>Some operate openly in the wilds; others hide within cities.</p>\n<h2>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jB7eRLPu6CNxnyYm]{The God of Forgetting}</h2>\n<p>A newly revealed Old God whose domain encompasses letting go, removal of memory, and erasure of existence.<br>Its primary emanation is @UUID[Compendium.grimwild-kb.kb.JournalEntry.03mz8edEPYw7i0UL]{The Xan-Kor} — a physical manifestation of the God of Forgetting&#x27;s power that emerged during the @UUID[Compendium.grimwild-kb.kb.JournalEntry.miGdMuBQ4kTeRR0J]{Godstorm}.<br>The old gods commanded mythical armies and their emanations clashed during these wars.<br>The Xan-Kor can erase things from existence by removing them backward through time.</p>\n<h2>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jB7eRLPu6CNxnyYm]{The God of Trickery}</h2>\n<p>Not evil — none of the Old Gods are.<br>A force of chaos, mischief, change, disruption.<br>They embody the truth that plans go awry, that certainty is illusion, that the universe has a sense of humor (and it&#x27;s not always kind).<br>Also known as &quot;the Laughing One.&quot;<br>The Laughing One does not demand worship — only entertainment.<br>According to the Harlequin Jimmy, the Laughing One has been bored for centuries since the Light sealed away the old gods, but the release of ruin has made things entertaining again.<br>The Laughing One views both @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Marrow} and the party as puppets on his strings, each playing a role in a grand cosmic joke.</p>\n<p><strong>Titles and Epithets:</strong></p>\n<ul><li>The Laughing One</li><li>Lord/Lady of Misrule</li><li>The Crooked Path</li><li>The Motley</li><li>The Unexpected</li><li>The Reversal</li></ul>\n<p><strong>Nature:</strong> Amoral, not immoral.<br>The Trickster doesn&#x27;t serve good or evil — they serve change, disruption, the puncturing of certainty.<br>They lie, but sometimes their lies reveal deeper truths.<br>They cause chaos, but sometimes that chaos breaks stagnant systems.</p>\n<h3>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jB7eRLPu6CNxnyYm]{The Harlequins}</h3>\n<p>Followers of the Trickster.<br>Not a formal cult — more like a loose network of those who&#x27;ve been touched by the Laughing One&#x27;s influence.<br>They have been actively following the party since they descended from @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWj3TqwnEfJS9PQa]{Ashbrook}, finding dark humor in their unwitting role as heralds of ruin.<br>They planted scraps of @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric}&#x27;s green-and-gold livery at @UUID[Compendium.grimwild-kb.kb.JournalEntry.XkO2NGJCUTmTTq3F]{Beaver Lake} and near Ashbrook as a low-effort deception to exploit @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland}&#x27;s paranoia.</p>\n<p><strong>Aesthetic:</strong> Motley, masks, bells, patchwork.<br>Classic harlequin imagery that can range from theatrical and almost playful to deeply unsettling.</p>\n<p><strong>What they do:</strong></p>\n<ul><li>Spread chaos, disruption, change</li><li>Puncture certainties, expose hypocrisies</li><li>Test people — are you as virtuous as you claim?</li><li>Manipulate, misdirect, arrange circumstances</li><li>Sometimes genuinely help people — but never straightforwardly</li></ul>\n<p><strong>The Dark Harlequin:</strong><br>The Harlequins&#x27; monstrous leader.<br>A figure with black and white checkered face paint, a purple and white fool&#x27;s cap, and a mouth full of inhuman teeth stretched into an impossible grin.<br>It has the power to project disturbing visions into people&#x27;s minds and can manifest within ordinary objects.<br>It sent @UUID[Compendium.grimwild-kb.kb.JournalEntry.eNop3Y7Qd04NHq5f]{Garland} an uninvited vision of @UUID[Compendium.grimwild-kb.kb.JournalEntry.2H09dC5u3Cx4I9uf]{Mira} and children in danger at @UUID[Compendium.grimwild-kb.kb.JournalEntry.WXUNMFUew0ikdeY3]{Aldric}&#x27;s castle.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric} glimpsed it inside a barrel, where it laughed silently before vanishing.<br>Claimed the Laughing One was responsible for @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor}&#x27;s original beaver curse, calling it the god&#x27;s greatest joke.<br>Attempted to recruit @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} away from Renewal, offering a partnership of building and laughter.<br>Demonstrated the ability to puppeteer a dead paladin&#x27;s corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.<br>Beheaded by @UUID[Compendium.grimwild-kb.kb.JournalEntry.s4ABoIqxcgBnmTYz]{Roderic} in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{The Chryseum} after puppeteering the murdered paladin&#x27;s corpse.</p>\n<p>Harlequins captured, tortured, and killed an @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Order of the First Dawn} paladin beneath the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{The Chryseum} — an escalation from trickery to lethal violence.</p>\n<p><strong>Tone options:</strong> Can be played light (mischievous, theatrical, almost likeable) or dark (sinister, alien, wrong laughter).<br>Mix both for unsettling effect.</p>\n<h2>Related Entries</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.miGdMuBQ4kTeRR0J]{Old Gods and New Gods} — History of the old religion and its suppression</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light} — The dominant faith that suppressed the Old Gods</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.pbvNoEuQV2PoM8wM]{Whiteglass} — The substance used to seal Old Gods</li></ul>\n<h2>Sources</h2>\n<ul><li>Session 0 — Established during world-building</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.jir5X1jFd08ME0H1]{Session 2} — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.YxfxYfYC1hm9ZNiA]{Session 4} — The dormant God of Renewal discovered in the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Shrine of Renewal}; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer&#x27;s suppression revealed as cause of renewal&#x27;s dormancy</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.c5SHL7wB7yKbx7cP]{Session 5} — The Dark Harlequin confronted @UUID[Compendium.grimwild-kb.kb.JournalEntry.crg1JpVHgdUHPdOO]{Castor} at the Shrine, claiming the Laughing One cursed him and trying to recruit him; Harlequins killed an @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Order of the First Dawn} paladin and overran the @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{The Chryseum}; the Dark Harlequin was beheaded by @UUID[Compendium.grimwild-kb.kb.JournalEntry.s4ABoIqxcgBnmTYz]{Roderic}; all six heralds gathered and the cocoon opened, releasing the God of Renewal</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!jB7eRLPu6CNxnyYm.7esrda93HzMn9q31"
+    },
+    {
+      "name": "The Dark Harlequin",
+      "type": "image",
+      "_id": "OTBrTrT6nk4fvlie",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": "The Dark Harlequin"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/dark-harlequin.jpg",
+      "system": {},
+      "category": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!jB7eRLPu6CNxnyYm.OTBrTrT6nk4fvlie"
+    },
+    {
+      "name": "The Chamber of Renewal",
+      "type": "image",
+      "_id": "HCOxlK7rFqJrsFzR",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": "The Chamber of Renewal"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/chamber-of-renewal-avatar.jpg",
+      "system": {},
+      "category": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!jB7eRLPu6CNxnyYm.HCOxlK7rFqJrsFzR"
+    }
+  ],
+  "folder": "lof1dgVrbVWKPCno",
+  "categories": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "old-gods",
+      "kbType": "faction"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!jB7eRLPu6CNxnyYm"
+}

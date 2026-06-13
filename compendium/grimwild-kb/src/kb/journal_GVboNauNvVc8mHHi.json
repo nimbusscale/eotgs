@@ -1,0 +1,70 @@
+{
+  "name": "The Spinewardens",
+  "_id": "GVboNauNvVc8mHHi",
+  "img": null,
+  "pages": [
+    {
+      "name": "The Spinewardens",
+      "type": "text",
+      "_id": "StUyJn3rMdTQXqHQ",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Organization (military / religious order)<br><strong>Status:</strong> Active</p>\n<h2>Overview</h2>\n<p>The Spinewardens are a military order of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} that garrisons the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Thirteen Spines} along the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall}, maintaining the ancient wards and holding back whatever presses in from @UUID[Compendium.grimwild-kb.kb.JournalEntry.nSK79xRnEUNF4khe]{Öuth Krelt} beyond the mountains.<br>They stand at the most remote and dangerous edge of the kingdom&#x27;s reach, where the wards are now beginning to fail.</p>\n<p>The Spinewardens are part of Beaconhold, not a faction controlled by @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light}.<br>The wards they keep are works of the Light and their cause is bound up with the faith, but the order answers to the leadership of Beaconhold rather than to the church.<br>The two institutions are deeply intertwined yet distinct — closer to the entanglement of a temporal kingdom and a powerful church at the height of its influence than to a clean separation of throne and altar.<br>They are a pseudo-military, pseudo-religious order, and their ascetic life of rituals and prayer manning the wards slowly drains the humanity out of them.<br>For all their vigil they do not truly know what lies on the other side of the wall.</p>\n<h2>The Sacrificial Renewal</h2>\n<p>When a Spine&#x27;s wards begin to fail, a long-hidden ritual can renew the seal — at the cost of a warden&#x27;s life.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton Lumnus} volunteered for such a rite at @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Hallowreach}, died, and woke changed.</p>\n<h2>Notable Members</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton Lumnus} — Former Spinewarden stationed at @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Hallowreach}; died anchoring the Light in a sacrificial ritual when the Spine&#x27;s wards failed, then woke in the mausoleum and left the order to seek the Light&#x27;s truth.</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.GVboNauNvVc8mHHi]{Senna} — A warden of @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Haven's Reach} whom Paxton served with; died and was &quot;reborn&quot; in the vision of @UUID[Compendium.grimwild-kb.kb.JournalEntry.tWUBizKeINDdSOq3]{Moldrex} , her hand turned scaled and her eyes reptilian, able to heal and command the tentacled marsh-creatures. Presumed Deceased — killed when Paxton burned her barge in the Reaches.</li></ul>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — The kingdom the order belongs to and answers to.</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{The Light} — Closely allied through the wards and shared faith, but not the order&#x27;s master; the leadership of Beaconhold and the leadership of the Light are not the same.</li></ul>\n<h2>Associated Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} — The mountain range whose Thirteen Spines they garrison</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Hallowreach} — The Spine where Paxton served and fell</li></ul>\n<h2>History with Party</h2>\n<p><em>No direct interactions yet.</em></p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!GVboNauNvVc8mHHi.StUyJn3rMdTQXqHQ"
+    }
+  ],
+  "folder": "lof1dgVrbVWKPCno",
+  "categories": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "spinewardens",
+      "kbType": "faction"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!GVboNauNvVc8mHHi"
+}

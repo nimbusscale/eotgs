@@ -1,0 +1,70 @@
+{
+  "name": "Cragmarr",
+  "_id": "PEnF3AXmLA3UEGGO",
+  "img": null,
+  "pages": [
+    {
+      "name": "Cragmarr",
+      "type": "text",
+      "_id": "Iod7HVpnQ1iPH8yt",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Region (Wilderness)<br><strong>First Visited:</strong> Session 0</p>\n<h2>Description</h2>\n<p>An independent region of cliffs, ravines, and treacherous terrain.<br>Lies between @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}&#x27;s environs and the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium}.<br>A labyrinth of broken rock — confusing and dangerous to navigate.<br>The @UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} cut through, providing the only reliable passage.</p>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — The kingdom to the west</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium} — The great lake to the east, accessible through the river passages</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} — Cut through the Cragmarr, providing passage</li></ul>\n<h2>Events Here</h2>\n<ul><li>Session 0 — Established as the treacherous terrain between Beaconhold and the Solvium</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!PEnF3AXmLA3UEGGO.Iod7HVpnQ1iPH8yt"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "cragmarr",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!PEnF3AXmLA3UEGGO"
+}

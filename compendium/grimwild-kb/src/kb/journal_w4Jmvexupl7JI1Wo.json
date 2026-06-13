@@ -1,0 +1,109 @@
+{
+  "name": "First Aureate Eisen Dorn",
+  "_id": "w4Jmvexupl7JI1Wo",
+  "img": "modules/grimwild-kb/assets/eisen-dorn-portrait.jpg",
+  "pages": [
+    {
+      "name": "First Aureate Eisen Dorn",
+      "type": "image",
+      "_id": "emFN4yeGdmwmUHjV",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": "Captain Eisen Dorn"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/eisen-dorn-portrait.jpg",
+      "system": {},
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!w4Jmvexupl7JI1Wo.emFN4yeGdmwmUHjV"
+    },
+    {
+      "name": "First Aureate Eisen Dorn",
+      "type": "text",
+      "_id": "BwE73GEIvW0TD4fO",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>First Mentioned:</strong> Pre-session notes<br><strong>Status:</strong> Active<br><strong>Title:</strong> First Aureate, Commander of the Aureate<br><strong>Affiliation:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}</p>\n<h2>Description</h2>\n<p>Commander of the Aureate, @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}&#x27;s armed guard in @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion}.<br>A pragmatic, tired old soldier who has seen enough to value practical solutions over confrontation.<br>He doesn&#x27;t care about politics or theology — he cares about keeping order and keeping people alive.</p>\n<h2>Appearance</h2>\n<p><strong>Colors:</strong> Tarnished gold, weathered leather brown, road dust gray, old iron</p>\n<ul><li><em>Sights:</em> Armor that was once gilded but now shows the steel beneath at the stress points, a face lined by sun and worry, hands that rest on his sword belt out of habit not threat, eyes that scan exits and rooftops without thinking, a cloak that was once fine but has been mended too many times</li><li><em>Sounds:</em> The creak of well-worn leather, a voice like gravel at the bottom of a dry well, the unconscious jingle of mail when he shifts his weight, sighs he doesn&#x27;t realize he&#x27;s making, orders given quietly because he&#x27;s learned shouting wastes energy</li><li><em>Smells:</em> Horse, road dust, the metallic tang of armor worn too long, cheap soldier&#x27;s soap, woodsmoke from garrison fires, the faint sourness of a man who sleeps in his boots more often than not</li></ul>\n<p>A man who has been holding a wall for so long he&#x27;s become part of it.<br>Tired down to his bones but still standing because someone has to.<br>The gold in his title feels like a weight rather than an honor.</p>\n<h2>Role</h2>\n<p>Leads the Aureate, @UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow}&#x27;s armed guard that enforces the law in @UUID[Compendium.grimwild-kb.kb.JournalEntry.aHJXqousaIFYnECh]{Marrow County}.<br>He and @UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} met when Edric successfully talked down a group of peasants angry about a high grain tax imposed by the Count.</p>\n<h2>Relationships</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.8DkFLtD2kUwDvf0s]{Count Albrecht Marrow} — Serves under his authority as commander of the Aureate</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} — Acquaintance; respects Edric for defusing the peasant uprising</li></ul>\n<h2>Key Events</h2>\n<ul><li>Witnessed @UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric Bloom} talk down peasants protesting a grain tax</li><li>Confided to @UUID[Compendium.grimwild-kb.kb.JournalEntry.6Eqkl1MNE1055IJC]{Edric} during a drunken evening that @UUID[Compendium.grimwild-kb.kb.JournalEntry.E6jtdcGA7bfRGvuj]{Aurelion}&#x27;s underground is riddled with smuggler tunnels, revealing the entrance location and the layout of the central junction; warned Edric never to use this knowledge, admitting he felt unusually comfortable confiding in the bard</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.u04lXzbSCHW2OEf7]{Session 3} — Arrived at the guarded tunnel junction to replace idle guards with elite soldiers, warning of a threat to the city; tightened security at the critical passage leading toward the Chryseum district</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!w4Jmvexupl7JI1Wo.BwE73GEIvW0TD4fO"
+    }
+  ],
+  "folder": "QTzQ25bOLzkkMbft",
+  "categories": [],
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "captain-eisen-dorn",
+      "kbType": "npc"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!w4Jmvexupl7JI1Wo"
+}

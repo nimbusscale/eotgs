@@ -1,0 +1,70 @@
+{
+  "name": "The Solvium",
+  "_id": "tLfbM4E64pEL9VF9",
+  "img": null,
+  "pages": [
+    {
+      "name": "The Solvium",
+      "type": "text",
+      "_id": "LkWqeSpOZqWJegy7",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Region (Body of Water)<br><strong>First Visited:</strong> Session 0</p>\n<h2>Description</h2>\n<p>A vast freshwater inland sea fed by the @UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers}.<br>So large it functions as an inland ocean — the far shores are not visible from any single vantage point.<br>Multiple city-states and kingdoms line its shores.<br>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}&#x27;s port town of @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} provides access to lake trade.<br>Accessible through the @UUID[Compendium.grimwild-kb.kb.JournalEntry.PEnF3AXmLA3UEGGO]{Cragmarr} via the river passages.<br>Multiple other kingdoms and city-states exist around the Solvium and beyond, none yet established.</p>\n<h2>Name</h2>\n<p>The name &quot;Solvium&quot; is of @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium}-era origin.<br>Its meaning is debated — possibly derived from <em>solus</em> (alone) or <em>solvere</em> (to release).<br>Sailors and scholars disagree on the etymology.<br>Some believe it reflects the feeling of isolation experienced on its vast surface; others suspect the name predates common usage and holds deeper significance lost to history.</p>\n<h2>Notable Features</h2>\n<ul><li>Hub of trade between multiple political entities</li><li>Fed by the @UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers}</li><li>Once a major artery of @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium} trade, connecting distant provinces</li></ul>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} — The rivers that feed the lake</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.PEnF3AXmLA3UEGGO]{Cragmarr} — The terrain between the lake and Beaconhold</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — Connected via @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} — Port town on the border between Beaconhold, the Eastern Rivers, and the Solvium</li></ul>\n<h2>Events Here</h2>\n<ul><li>Session 0 — Established as a major geographical feature</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!tLfbM4E64pEL9VF9.LkWqeSpOZqWJegy7"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 1500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "solvium",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!tLfbM4E64pEL9VF9"
+}

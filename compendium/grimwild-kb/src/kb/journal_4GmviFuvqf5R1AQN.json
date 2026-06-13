@@ -1,0 +1,109 @@
+{
+  "name": "Carnforth",
+  "_id": "4GmviFuvqf5R1AQN",
+  "img": "modules/grimwild-kb/assets/carnforth.jpg",
+  "pages": [
+    {
+      "name": "Carnforth",
+      "type": "image",
+      "_id": "drg9VeNQ2NgJRhqc",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {
+        "caption": "The climbing approach to Carnforth, its beacon gone dark"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "modules/grimwild-kb/assets/carnforth.jpg",
+      "system": {},
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!4GmviFuvqf5R1AQN.drg9VeNQ2NgJRhqc"
+    },
+    {
+      "name": "Carnforth",
+      "type": "text",
+      "_id": "skCZaAac5HSk88SF",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Landmark (Ward Tower)<br><strong>First Referenced:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6}</p>\n<h2>Description</h2>\n<p>The northernmost of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Thirteen Spines}, and the last of them.<br>Carnforth stands where the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} finally loses its height and its order, the farthest tower on the wall and the very edge of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold}&#x27;s territory and the king&#x27;s reach.<br>Beyond it the ridge breaks down through bad, sliding ground into the marsh of @UUID[Compendium.grimwild-kb.kb.JournalEntry.463cVY4T50jnwq7e]{The Reaches} and the open water of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium}.<br>The wardens posted there called it the Last Spine: the place where the wall, and the kingdom with it, simply runs out.</p>\n<p>The name reads as two old roots set together.<br><em>Carn</em> is a cairn, a heap of stones raised as a marker or a grave, and the slopes below the tower are crowded with them.<br><em>Forth</em> is the going-forth, the farthest point, the last stone set down before there is nothing left to build on.<br>Carnforth is the cairn at the end of the world, and the wardens never let a recruit forget which of the two meanings came first.</p>\n<p>Like every Spine, Carnforth looks on both worlds.<br>From its lower slope a watcher sees back over the valley toward the @UUID[Compendium.grimwild-kb.kb.JournalEntry.463cVY4T50jnwq7e]{Reaches}, the distant roofs of @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Haven's Reach}, and the cold shine of the Solvium beyond.<br>From its crest a watcher faces the other way, out over @UUID[Compendium.grimwild-kb.kb.JournalEntry.nSK79xRnEUNF4khe]{Öuth Krelt}, the country the Light names the darkness.</p>\n<p>Its light has gone out.<br>Carnforth is the first of the thirteen to go fully dark.</p>\n<p><strong>Sight.</strong><br>A gaunt grey tower of @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} shale, set on ground too steep and too broken to have welcomed it.<br>It stands lower on the slope than the inland Spines and seems to lean with the fall of the land, buttressed and patched where the rock beneath it has shifted over the centuries.<br>At its foot, spilling down the slope on every side, are the cairns: low heaps and rows of piled pale stone, some shaped and ordered, most rough and nameless, more graves than any other Spine carries.<br>The crowning beacon-chamber sits dead and cold, its lens dark, the only Spine on the wall showing no light at night.</p>\n<p><strong>Sound.</strong><br>The same restless wind that runs the length of the Bonewall, moaning through the ravines and the tower&#x27;s hollow shell, with no birdsong or insect drone beneath it.<br>Loose shale slides and clatters underfoot on the bad ground, so the approach to Carnforth is never quiet.<br>Lower down, where the wall gives way to the marsh, the dead silence thins and the first faint living sounds of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.463cVY4T50jnwq7e]{Reaches} drift up the slope: water, frogs, the distant business of things that are alive.</p>\n<p><strong>Smell.</strong><br>On the wall itself the defining note is the Bonewall&#x27;s dry, chalky dust, the mineral smell of powdered stone and old plaster that settles on the tongue and dries the throat.<br>But Carnforth sits low enough that the marsh reaches it.<br>At its base the tomb-dust mingles with a thread of wet loam and rot rising off the @UUID[Compendium.grimwild-kb.kb.JournalEntry.463cVY4T50jnwq7e]{Reaches}, the smell of living things returning, the one Spine where the wall does not smell entirely like a sealed tomb.</p>\n<h2>The Cost of Building It</h2>\n<p>Of all the Thirteen Spines, Carnforth was the deadliest to raise.<br>The ground at the wall&#x27;s end is the worst on the whole border: steep, fractured, and forever shifting, shale that splits and slides and will not hold a foundation without being fought for.<br>The imperial laborers and soldiers who raised the Spines lost more of their own here than at any other tower.<br>They died in falls, in collapses, under loads, and in the slow grind of working impossible stone in a killing wind, and many were buried where they fell because there was nowhere better to carry them.<br>The whole network was the work of the @UUID[Compendium.grimwild-kb.kb.JournalEntry.HPCCh0n7j5e7jUCS]{Spinewright}, the singular figure the Light remembers as the maker of the Thirteen Spines and a hero of @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Lucifer} and the Church, and Carnforth was the hardest length of wall that vision ever demanded.</p>\n<h2>The Cairns</h2>\n<p>The graves below Carnforth hold two kinds of forgotten dead.<br>The first are Spinewardens who died too far north to be carried home.<br>The honored dead of the wall are laid in the mausoleum beneath @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Hallowreach}; Carnforth is too far, the road too long and too dangerous, and so its fallen wardens were given to cairns on the slope rather than to that hallowed ground.<br>The second are the builders, the imperial laborers and soldiers who died raising the tower and never left it, buried under the same heaped stones they had spent themselves setting.<br>Warden and builder lie mixed together below the tower, the kept and the makers, none of them brought home, all of them under the Last Spine at the edge of the king&#x27;s reach.</p>\n<h2>The Light Gone Out</h2>\n<p>Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards weaken under the spreading influence of ruin and the corrupted ritual at @UUID[Compendium.grimwild-kb.kb.JournalEntry.v85bRcnzMrFiDdn6]{The Nodrum}.<br>That the forgotten edge of the wall should be the first to fall is fitting and ominous in equal measure.</p>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} — The wall Carnforth crowns at its northernmost, lowest end</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.463cVY4T50jnwq7e]{The Reaches} — The marsh below the tower, where the dead wall gives way to living water</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} — The port glimpsed from the lower slope, out across the marsh</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium} — The open water beyond the Reaches</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.nSK79xRnEUNF4khe]{Öuth Krelt} — The darkness the Spine was raised to watch, seen from its crest</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.HPCCh0n7j5e7jUCS]{Spinewright} — The singular figure credited with raising the Thirteen Spines, a hero of @UUID[Compendium.grimwild-kb.kb.JournalEntry.Iz0ZE5ZJtcXABZl7]{Lucifer} and the Church; Carnforth was the hardest length of wall the work ever demanded</li></ul>\n<h2>Events Here</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Carnforth went dark, the first of the Thirteen Spines to lose its light entirely</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!4GmviFuvqf5R1AQN.skCZaAac5HSk88SF"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "carnforth",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!4GmviFuvqf5R1AQN"
+}

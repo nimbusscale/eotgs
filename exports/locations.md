@@ -429,7 +429,6 @@ id: bonewall
 type: location
 name: Bonewall
 aliases:
-- Carnforth
 - Thirteen Spines
 - The Thirteen Spines
 - Hallowreach
@@ -515,7 +514,7 @@ One such Spine, a failing southern-ish tower, is known as **Hallowreach**, and a
 When its wards began to fail and something from beyond the [[Bonewall]] pressed through, the garrison held until it became clear the Spine would fall.
 A long-hidden ritual was offered to anchor the Light directly, but it required a sacrifice: the Spinewarden [[Paxton Lumnus]] volunteered, died, and closed the breach — only to wake afterward in the Spine's mausoleum, the Light burning in his heart and showing him that the wards themselves are flawed.
 
-The northernmost Spine, **Carnforth**, marks the very edge of [[Beaconhold]]'s territory and the king's reach.
+The northernmost Spine, [[Carnforth]], marks the very edge of [[Beaconhold]]'s territory and the king's reach, where the wall breaks down into the marsh of [[The Reaches]].
 Its light has now gone out — the first of the thirteen to go fully dark.
 
 The ancient wards are now beginning to weaken as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
@@ -525,6 +524,7 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - [[Eastern Rivers]] — Fed by springs and snowmelt from this range
 - [[Cinderwall]] — The other arm of the L-shaped border range
 - [[Öuth Krelt]] — The land beyond the Bonewall, held at bay by the Thirteen Spines
+- [[Carnforth]] — The northernmost Spine, at the wall's broken-down end above the Reaches; first to go dark
 - [[The Reaches]] — The marshy delta at the base of the wall in the far northeast
 - [[Witch Stones]] — A ring of stones on the wall's dead shale, linked by portal to a matching ring in the [[Ashen Vale]]
 
@@ -532,6 +532,98 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - [[Session 0]] — Established as the eastern mountain range
 - The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden [[Paxton Lumnus]] sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum
 - [[Session 6]] — Carnforth, the northernmost Spine, went dark; [[Mira]] opened a Witch Stone portal onto the wall's grey shale and stepped through, with [[Garland yn Greenholt|Garland]] and [[Castor]] following; in the [[The Reaches]] below the wall, [[Paxton Lumnus|Paxton]] burned [[Senna]]'s barge
+
+
+---
+id: carnforth
+type: location
+name: Carnforth
+aliases:
+- The Last Spine
+- Last Spine
+part_of: bonewall
+images:
+  hero:
+    file: carnforth.jpg
+    alt: The climbing approach to Carnforth, its beacon gone dark
+    description: 'Establishing view of Carnforth: the climber''s-eye approach up
+      the broken western slope at the Bonewall''s end — cairns lining a loose-shale
+      path, the leaning grey shale tower with its dead unlit beacon on the right, a
+      dark cave mouth off the path, and the bright marsh of the Reaches and the
+      Solvium opening to the left. Use for arriving at or establishing Carnforth.'
+    prompt: config/image/prompts/carnforth.json
+    subjects:
+    - carnforth
+---
+## Carnforth
+
+**Type:** Landmark (Ward Tower)
+**First Referenced:** [[Session 6]]
+
+### Description
+The northernmost of the [[Thirteen Spines]], and the last of them.
+Carnforth stands where the [[Bonewall]] finally loses its height and its order, the farthest tower on the wall and the very edge of [[Beaconhold]]'s territory and the king's reach.
+Beyond it the ridge breaks down through bad, sliding ground into the marsh of [[The Reaches]] and the open water of the [[Solvium]].
+The wardens posted there called it the Last Spine: the place where the wall, and the kingdom with it, simply runs out.
+
+The name reads as two old roots set together.
+*Carn* is a cairn, a heap of stones raised as a marker or a grave, and the slopes below the tower are crowded with them.
+*Forth* is the going-forth, the farthest point, the last stone set down before there is nothing left to build on.
+Carnforth is the cairn at the end of the world, and the wardens never let a recruit forget which of the two meanings came first.
+
+Like every Spine, Carnforth looks on both worlds.
+From its lower slope a watcher sees back over the valley toward the [[Reaches]], the distant roofs of [[Havens Reach|Haven's Reach]], and the cold shine of the Solvium beyond.
+From its crest a watcher faces the other way, out over [[Öuth Krelt]], the country the Light names the darkness.
+
+Its light has gone out.
+Carnforth is the first of the thirteen to go fully dark.
+
+**Sight.**
+A gaunt grey tower of [[Bonewall]] shale, set on ground too steep and too broken to have welcomed it.
+It stands lower on the slope than the inland Spines and seems to lean with the fall of the land, buttressed and patched where the rock beneath it has shifted over the centuries.
+At its foot, spilling down the slope on every side, are the cairns: low heaps and rows of piled pale stone, some shaped and ordered, most rough and nameless, more graves than any other Spine carries.
+The crowning beacon-chamber sits dead and cold, its lens dark, the only Spine on the wall showing no light at night.
+
+**Sound.**
+The same restless wind that runs the length of the Bonewall, moaning through the ravines and the tower's hollow shell, with no birdsong or insect drone beneath it.
+Loose shale slides and clatters underfoot on the bad ground, so the approach to Carnforth is never quiet.
+Lower down, where the wall gives way to the marsh, the dead silence thins and the first faint living sounds of the [[Reaches]] drift up the slope: water, frogs, the distant business of things that are alive.
+
+**Smell.**
+On the wall itself the defining note is the Bonewall's dry, chalky dust, the mineral smell of powdered stone and old plaster that settles on the tongue and dries the throat.
+But Carnforth sits low enough that the marsh reaches it.
+At its base the tomb-dust mingles with a thread of wet loam and rot rising off the [[Reaches]], the smell of living things returning, the one Spine where the wall does not smell entirely like a sealed tomb.
+
+### The Cost of Building It
+Of all the Thirteen Spines, Carnforth was the deadliest to raise.
+The ground at the wall's end is the worst on the whole border: steep, fractured, and forever shifting, shale that splits and slides and will not hold a foundation without being fought for.
+The imperial laborers and soldiers who raised the Spines lost more of their own here than at any other tower.
+They died in falls, in collapses, under loads, and in the slow grind of working impossible stone in a killing wind, and many were buried where they fell because there was nowhere better to carry them.
+The whole network was the work of the [[Spinewright]], the singular figure the Light remembers as the maker of the Thirteen Spines and a hero of [[Lucifer]] and the Church, and Carnforth was the hardest length of wall that vision ever demanded.
+
+### The Cairns
+The graves below Carnforth hold two kinds of forgotten dead.
+The first are Spinewardens who died too far north to be carried home.
+The honored dead of the wall are laid in the mausoleum beneath [[Hallowreach]]; Carnforth is too far, the road too long and too dangerous, and so its fallen wardens were given to cairns on the slope rather than to that hallowed ground.
+The second are the builders, the imperial laborers and soldiers who died raising the tower and never left it, buried under the same heaped stones they had spent themselves setting.
+Warden and builder lie mixed together below the tower, the kept and the makers, none of them brought home, all of them under the Last Spine at the edge of the king's reach.
+
+### The Light Gone Out
+Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards weaken under the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
+That the forgotten edge of the wall should be the first to fall is fitting and ominous in equal measure.
+
+### Connected Locations
+- [[Bonewall]] — The wall Carnforth crowns at its northernmost, lowest end
+- [[The Reaches]] — The marsh below the tower, where the dead wall gives way to living water
+- [[Havens Reach]] — The port glimpsed from the lower slope, out across the marsh
+- [[Solvium]] — The open water beyond the Reaches
+- [[Öuth Krelt]] — The darkness the Spine was raised to watch, seen from its crest
+
+### Associated NPCs
+- [[Spinewright]] — The singular figure credited with raising the Thirteen Spines, a hero of [[Lucifer]] and the Church; Carnforth was the hardest length of wall the work ever demanded
+
+### Events Here
+- [[Session 6]] — Carnforth went dark, the first of the Thirteen Spines to lose its light entirely
 
 
 ---
@@ -846,6 +938,18 @@ name: The Reaches
 aliases:
 - Reaches
 part_of: beaconhold
+images:
+  hero:
+    file: reaches-delta.jpg
+    alt: The marsh delta of the Reaches, crossed by the imperial road
+    description: 'Establishing view of the Reaches: a vast, teeming marsh delta of
+      brown channels and reed under dawn mist, crossed by a single grand imperial
+      stone causeway; a ruined roadside way station sits half-sunk off a crumbling
+      spur, and the port of Havens Reach is barely glimpsed as a faint smudge on the
+      far horizon. Use for arriving in or establishing the Reaches.'
+    prompt: config/image/prompts/reaches-delta.json
+    subjects:
+    - reaches
 ---
 ## The Reaches
 

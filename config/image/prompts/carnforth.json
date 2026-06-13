@@ -1,0 +1,31 @@
+{
+  "title": "Carnforth — The Last Spine",
+  "purpose": "The establishing reference for Carnforth, the northernmost and last of the Thirteen Spines, where the Bonewall loses its height and order and breaks down toward the marsh of the Reaches. This is the visual anchor for the dead Spine: its leaning grey shale tower with the beacon gone out, the cairn-strewn climbing approach, the cave below, and the one open vista of living water beyond the wall's end. Use it as the hero plate for the Carnforth location, and as the location reference when illustrating scenes set on the approach to or at the foot of Carnforth. Built from the Bonewall's dead-shale palette and terrain so the two read as the same range.",
+  "subject": "A wide establishing view looking up the western approach to Carnforth from the vantage of someone climbing the path toward it. No characters (the climber's own point of view). The dead tower, the graves below it, and the broken edge of the world are the subject.",
+  "core_aesthetic": {
+    "the_tower": "A gaunt grey Spine of the same brittle Bonewall shale as the ground beneath it, set on steep broken rock that never welcomed it. It stands lower than the inland Spines and leans slightly with the fall of the land, buttressed and patched where the rock has shifted over centuries — weathered and partly derelict, never clean or pristine. It reads as kin to the terrain, a petrified outcrop with a tower in it, not a heroic silhouette against the sky.",
+    "the_dead_beacon": "The crowning beacon-chamber sits dead and cold, the lens dark and unlit. This is the one Spine on the wall showing no light — the dark beacon is the focal accent the eye returns to, and it must never glow, burn, or read as lit.",
+    "the_cairns": "Spilling down the slope and flanking the climbing path are the cairns: low heaps and rows of piled pale stone, some shaped and ordered, most rough and nameless — far more graves than any other stretch of the wall carries, the forgotten dead of builders and wardens buried under the same bone-grey shale.",
+    "the_cave": "Off the main path, a smaller track branches and descends to an obvious dark cave mouth in the shale below the tower: a raw, recessed natural opening into a cave system — the spring the tower once drew its water from. No built structure, doors, or mine headframe; just a dark hollow in the rock.",
+    "the_terrain": "Bare flaking pale shale — bone-white where freshly broken, weathering through ashen grey toward near-black in the oldest hollows — splitting into loose plates and shards, eroding into skeletal ribs and knuckled spurs. The slopes are bare stone with no tangled woody growth.",
+    "the_water_beyond": "To the left, where the dead shale finally gives way, the land opens wide into the marsh of the Reaches and the broad pale shine of the Solvium: a prominent, luminous expanse of water and wetland in the lowlands below, under grey haze. It is the one open, living vista — the edge of the kingdom and the king's reach — contrasting the dead wall.",
+    "emotional_register": "Tomb-quiet desolation at the end of the world. A gaunt, forgotten tower whose light has gone out, ringed by graves; ominous and lonely. Post-imperial emptiness, not active menace, with the wind never quite stopping."
+  },
+  "setting": "The steep, broken western approach to Carnforth at the very end of the Bonewall. A loose-shale climbing path switches up the slope from the lower left toward the tower; cairns line it; a branch path drops to a dark cave mouth; and beyond, to the left, the wall breaks down into the bright marsh-and-lake country of the Reaches and the Solvium.",
+  "composition": "A wide landscape weighted to the right, with a vertical sense of ascent. The loose-shale path climbs from the lower-left foreground up toward the RIGHT, where the leaning grey tower stands against an overcast sky and the dead Bonewall ridge runs. On the LEFT the ground falls away to a broad, apparent expanse of pale marsh-and-lake water — the major bright opening of the frame. A dark cave mouth sits off a branching path lower on the slope. Cairns flank the path; the dead, dark beacon-chamber is the accent the eye returns to.",
+  "lighting": "Flat, cold, overcast daylight; windswept and shadeless, with a dry mineral dust haze softening the far ravines and the distant marsh. No warm sun, no golden hour, no glow from the dark beacon.",
+  "mood": "Desolate, tomb-quiet, ominous and lonely — a dead Spine at the forgotten edge of the world, its light gone out, ringed by graves above a far shine of living water.",
+  "aspect_ratio": "16:9 landscape — wide establishing view of the approach",
+  "do_not_include": [
+    "any lit, glowing, or burning beacon — the beacon-chamber and its lens must read dead, cold, and dark",
+    "other lit or glowing Spines or watchtowers along the wall",
+    "snow",
+    "warm or golden palette, dramatic sun shafts, golden hour",
+    "green foliage, grass, or living trees",
+    "vines, creepers, or knotted woody tangles across the rock — the shale is bare flaking stone",
+    "people, figures, or creatures in the frame",
+    "an intact, clean, or pristine fortress — the tower is patched, leaning, weathered, partly derelict",
+    "a built structure, doors, or mine headframe at the cave mouth — it is a raw dark opening in the rock",
+    "glossy or CGI gloss, movie-poster glamour"
+  ]
+}

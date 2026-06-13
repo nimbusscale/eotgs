@@ -90,6 +90,18 @@ locations/bonewall:
     prompt: config/image/prompts/bonewall-slate-watcher.json
     subjects:
     - bonewall
+locations/carnforth:
+  hero:
+    file: carnforth.jpg
+    alt: The climbing approach to Carnforth, its beacon gone dark
+    description: 'Establishing view of Carnforth: the climber''s-eye approach up the
+      broken western slope at the Bonewall''s end — cairns lining a loose-shale path,
+      the leaning grey shale tower with its dead unlit beacon on the right, a dark
+      cave mouth off the path, and the bright marsh of the Reaches and the Solvium
+      opening to the left. Use for arriving at or establishing Carnforth.'
+    prompt: config/image/prompts/carnforth.json
+    subjects:
+    - carnforth
 locations/nodrum:
   hero:
     file: the-nodrum-exterior.jpg

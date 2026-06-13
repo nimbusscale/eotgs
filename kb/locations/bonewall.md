@@ -3,7 +3,6 @@ id: bonewall
 type: location
 name: Bonewall
 aliases:
-- Carnforth
 - Thirteen Spines
 - The Thirteen Spines
 - Hallowreach
@@ -89,7 +88,7 @@ One such Spine, a failing southern-ish tower, is known as **Hallowreach**, and a
 When its wards began to fail and something from beyond the [[Bonewall]] pressed through, the garrison held until it became clear the Spine would fall.
 A long-hidden ritual was offered to anchor the Light directly, but it required a sacrifice: the Spinewarden [[Paxton Lumnus]] volunteered, died, and closed the breach — only to wake afterward in the Spine's mausoleum, the Light burning in his heart and showing him that the wards themselves are flawed.
 
-The northernmost Spine, **Carnforth**, marks the very edge of [[Beaconhold]]'s territory and the king's reach.
+The northernmost Spine, [[Carnforth]], marks the very edge of [[Beaconhold]]'s territory and the king's reach, where the wall breaks down into the marsh of [[The Reaches]].
 Its light has now gone out — the first of the thirteen to go fully dark.
 
 The ancient wards are now beginning to weaken as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
@@ -99,6 +98,7 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - [[Eastern Rivers]] — Fed by springs and snowmelt from this range
 - [[Cinderwall]] — The other arm of the L-shaped border range
 - [[Öuth Krelt]] — The land beyond the Bonewall, held at bay by the Thirteen Spines
+- [[Carnforth]] — The northernmost Spine, at the wall's broken-down end above the Reaches; first to go dark
 - [[The Reaches]] — The marshy delta at the base of the wall in the far northeast
 - [[Witch Stones]] — A ring of stones on the wall's dead shale, linked by portal to a matching ring in the [[Ashen Vale]]
 

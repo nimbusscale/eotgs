@@ -1,0 +1,33 @@
+{
+  "title": "The Reaches — Marsh Delta Establishing View",
+  "subject": "A vast, low marsh delta at the northeastern edge of the kingdom, crossed by a single grand imperial stone road running toward a port barely glimpsed in the haze",
+  "setting": "Flat, teeming wet country under a wide sky — slow brown channels winding between banks of tall reed and marsh grass, hummocks of peat and tussock, and low islands barely above the waterline, stretching to the horizon in dawn mist. The marsh dominates the whole frame; open lake is only a thin sliver at the far horizon. A place that never stopped being alive and that keeps what falls into it: old, layered, fermenting, stagnant.",
+  "key_features": {
+    "the_main_road": "A broad, grand raised imperial stone causeway — the kingdom's trade artery between Beaconhold and the port of Havens Reach — wide and substantial, carried over the channels on old weathered, lichened stone bridges, sinking and reclaimed at the edges but still solid. It is plainly the one straight and certain thing in a landscape with no edges, and reads as a major paved highway.",
+    "the_ruined_way_station": "Off to one side in the middle distance, a short crumbling spur or off-ramp branches from the causeway (with its own small arched bridge) onto a low island and leads to a ruined roadside way station — once a tavern and waystop where wagons and horses pulled off the road. Its remains read as a small complex: a broken square stone tower as the main building, the tumbled foundations of outbuildings and a stable, and the faint outline of a cleared wagon yard, all canted, decayed, and half-swallowed by reed and water.",
+    "havens_reach_glimpse": "Far at the horizon, only just coming into view, the faintest hint of the port town of Havens Reach — a small, barely-pronounced low smudge of old rooftops, indistinct in the haze, with only a thin sliver of a pale calm freshwater lake (the Solvium) glimpsed beyond. You are only beginning to glimpse the town across miles of marsh."
+  },
+  "composition": "Wide establishing landscape, slightly elevated vantage looking down the broad causeway as it recedes into the marsh; the cobbled road is the dominant central spine sweeping from a close foreground to the vanishing point. The teeming reed-and-water delta fills most of the frame. The ruined way station, connected to the causeway by its short off-ramp, is the single clear focal ruin off to one side. The town is only a tiny faint smudge at the horizon.",
+  "lighting": "Soft, flat dawn light through low mist; cool, humid, muted. Pale sky, no harsh sun.",
+  "mood": "Teeming, fecund, and faintly uneasy — old, layered, and stagnant: one grand road still running straight across endless marsh toward a port barely glimpsed.",
+  "color_palette": [
+    "muted brown bog water",
+    "dun and ochre reed and marsh grass",
+    "weathered grey lichened stone",
+    "pale misted sky",
+    "soft sage and olive greens"
+  ],
+  "aspect_ratio": "16:9 landscape",
+  "do_not_include": [
+    "open water dominating the frame — the marsh dominates; the lake is only a thin sliver at the horizon",
+    "a prominent or detailed town skyline — Havens Reach is a faint, distant smudge just coming into view",
+    "ruins strewn across the whole marsh — only the one way-station complex and the faint distant town",
+    "mountains, grey shale cliffs, or any wall on the horizon",
+    "lit beacons, glowing windows, or bright town lights",
+    "snow or ice",
+    "people, carts, or boats in frame",
+    "bright or saturated colors",
+    "clean modern stonework — the road, bridges, and way station are old and weathered",
+    "open ocean or sea horizon"
+  ]
+}

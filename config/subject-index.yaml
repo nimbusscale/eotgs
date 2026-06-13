@@ -4,6 +4,9 @@
 # `subjects:` list across all kb frontmatter). Lets the illustrate skills find
 # every picture of a slug — including page-less sub-entities — at a glance.
 
+bonewall:
+- bonewall-dead-shale.jpg
+- bonewall-slate-watcher.jpg
 captain-vask:
 - sessions/session-6-castor-confronts-vask.jpg
 castor:
@@ -27,6 +30,8 @@ old-gods:
 - sessions/session-5-roderic-beheads-harlequin.jpg
 paxton-lumnus:
 - sessions/session-6-paxton-burns-barge.jpg
+reaches:
+- reaches-delta.jpg
 senna:
 - sessions/session-6-paxton-burns-barge.jpg
 sir-roderic-lightbearer:

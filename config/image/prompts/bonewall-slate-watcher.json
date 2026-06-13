@@ -1,0 +1,28 @@
+{
+  "title": "The Bonewall — A Watcher",
+  "purpose": "A reference view of one of the Watchers — the Bonewall's strange weathered statues, a figure worn into the dead shale as if it had always been there, with no record of who carved it or why. One of the wall's unexplained curiosities, called the Watchers by those who cross the wall. Use as a gallery plate for the Bonewall and as a location reference for scenes that feature or pass one of these statues out on the dead shale.",
+  "subject": "An expanse of dead grey shale featuring a single strange, finely-formed weathered statue. No living figures — the statue is the only humanlike form, and it is stone.",
+  "core_aesthetic": {
+    "the_statue": "A humanlike figure, finely formed but softened and blurred by long erosion, carved of the same petrified slate as the ground so that it seems to emerge from the shale rather than to have been set upon it. It bears no heraldry, no inscription, no clear identity — no one can say who it is meant to be. It should feel discovered and uncanny, not monumental or heroic: a thing that has simply always stood here.",
+    "the_stone": "The Bonewall shale: pale, brittle, flaking, bone-white through ashen grey to near-black, eroding into rib-like ridges, knuckled outcrops, and empty-socket hollows. The statue is of this same stone and this same palette.",
+    "the_growth": "Knotted, grey-brown, near-leafless woody vines sprawl across the rock nearby, often climbing or wrapping the statue's base.",
+    "emotional_register": "Uncanny stillness and tomb-quiet desolation — the unsettling sense of a watcher that has always been here and that no record explains."
+  },
+  "setting": "A view across the dead shale — a shallow ravine or rock face of pale flaking stone — with the statue as a quiet, off-center focal point, vines wound about its feet, the empty grey country falling away beyond it into dust haze.",
+  "composition": "The statue sits off-center in a barren wide frame, integrated into / emerging from the rock (e.g. set against or growing out of an outcrop or cliff face rather than standing free on a plinth). It should feel stumbled-upon, not staged. The surrounding dead-shale country reads as the true subject; the figure is a single uncanny detail within it.",
+  "lighting": "Flat, cold, overcast daylight; windswept and shadeless, with dry mineral dust haze in the distance. No warm sun, no dramatic shafts.",
+  "mood": "Uncanny, tomb-quiet, desolate; the still gaze of a forgotten figure in an emptied land.",
+  "aspect_ratio": "16:9 landscape",
+  "do_not_include": [
+    "snow",
+    "green foliage, grass, or living trees — the only plant growth is the grey, leafless, near-dead woody vine",
+    "people, living figures, or creatures; birds",
+    "a polished, pristine, or heroic monument — the statue is weathered, eroded, and modest, of the same stone as the ground",
+    "a graveyard or field of many statues — a single weathered figure only",
+    "heraldry, banners, plaques, or legible inscriptions on the figure",
+    "lit, glowing, or intact watchtowers or Spines — and nothing that could be misread as a Spine",
+    "warm or golden palette",
+    "water, rivers, lakes, or pools",
+    "glossy or CGI gloss, movie-poster glamour"
+  ]
+}

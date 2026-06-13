@@ -69,6 +69,27 @@ locations/beaconhold:
   - file: kingdom-of-beaconhold-map.jpg
     caption: Map of the Kingdom of Beaconhold
     prompt: config/image/prompts/kingdom-of-beaconhold-map.json
+locations/bonewall:
+  hero:
+    file: bonewall-dead-shale.jpg
+    alt: The dead shale of the Bonewall
+    description: 'Establishing view of the Bonewall''s dead shale: jagged bone-and-grey
+      flaking stone eroded into skeletal ribs and empty-socket hollows, knotted leafless
+      vines, and a dead imperial ruin half-lost in the rock. Cold overcast, lifeless,
+      tomb-quiet. Use for arriving on or establishing the Bonewall.'
+    prompt: config/image/prompts/bonewall-dead-shale.json
+    subjects:
+    - bonewall
+  gallery:
+  - file: bonewall-slate-watcher.jpg
+    caption: A Watcher
+    description: One of the Watchers — the Bonewall's strange weathered statues, a
+      finely-formed figure worn into the dead shale as if it had always been there,
+      of the same petrified slate as the ground, no record of who carved it. Use for
+      scenes that come upon one of the wall's unexplained statues.
+    prompt: config/image/prompts/bonewall-slate-watcher.json
+    subjects:
+    - bonewall
 locations/nodrum:
   hero:
     file: the-nodrum-exterior.jpg
@@ -87,6 +108,18 @@ locations/nodrum:
   - file: the-depths-xan-kors-chamber.jpg
     caption: The Depths — Xan-Kor's chamber
     prompt: config/image/prompts/the-depths-xan-kors-chamber.json
+locations/reaches:
+  hero:
+    file: reaches-delta.jpg
+    alt: The marsh delta of the Reaches, crossed by the imperial road
+    description: 'Establishing view of the Reaches: a vast, teeming marsh delta of
+      brown channels and reed under dawn mist, crossed by a single grand imperial
+      stone causeway; a ruined roadside way station sits half-sunk off a crumbling
+      spur, and the port of Havens Reach is barely glimpsed as a faint smudge on the
+      far horizon. Use for arriving in or establishing the Reaches.'
+    prompt: config/image/prompts/reaches-delta.json
+    subjects:
+    - reaches
 npcs/aldric-garlandsson:
   gallery:
   - file: aldric-and-crown-vale.jpg

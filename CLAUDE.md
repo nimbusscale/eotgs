@@ -36,6 +36,7 @@ python scripts/ingest_transcript.py --session N
 - `/extract-session` - Filter non-game content from prepared transcripts, output structured YAML
 - `/incorporate-session` - Process extracted YAML into KB files, create/update entities
 - `/incorporate-notes` - Incorporate planning notes from Claude Mobile sessions
+- `/illustrate-reference` - Generate a durable reference image (location establishing view or character portrait) for a KB entity: author the brief, generate candidates into scratch for the user to pick, then promote the winner (copy to `images/`, author a reusable prompt spec, register it in frontmatter)
 - `/export-kb` - Generate consolidated export files for Claude Project Knowledge, then build and deploy the website and the Foundry compendium
 - `/export-foundry` - Mirror the KB into the `grimwild-kb` Foundry VTT compendium and deploy it (also run as part of `/export-kb`)
 

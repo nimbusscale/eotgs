@@ -7,6 +7,29 @@ aliases:
 - Thirteen Spines
 - The Thirteen Spines
 - Hallowreach
+- The Watchers
+- Watchers
+images:
+  hero:
+    file: bonewall-dead-shale.jpg
+    alt: The dead shale of the Bonewall
+    description: 'Establishing view of the Bonewall''s dead shale: jagged bone-and-grey
+      flaking stone eroded into skeletal ribs and empty-socket hollows, knotted leafless
+      vines, and a dead imperial ruin half-lost in the rock. Cold overcast, lifeless,
+      tomb-quiet. Use for arriving on or establishing the Bonewall.'
+    prompt: config/image/prompts/bonewall-dead-shale.json
+    subjects:
+    - bonewall
+  gallery:
+  - file: bonewall-slate-watcher.jpg
+    caption: A Watcher
+    description: One of the Watchers — the Bonewall's strange weathered statues, a
+      finely-formed figure worn into the dead shale as if it had always been there,
+      of the same petrified slate as the ground, no record of who carved it. Use for
+      scenes that come upon one of the wall's unexplained statues.
+    prompt: config/image/prompts/bonewall-slate-watcher.json
+    subjects:
+    - bonewall
 ---
 # The Bonewall
 
@@ -51,6 +74,7 @@ The ancient military road still runs precariously along the base of the wall tow
 
 Travelers out on the dead shale occasionally come upon a strange, finely formed statue — a figure with no record of who carved it or why, weathered into the rock as if it had always been there.
 No one can say who they are meant to be, and they remain one of the wall's unexplained curiosities.
+Those who cross the wall call them the Watchers.
 
 ## [[The Thirteen Spines]]
 Thirteen towers built along the Bonewall during the [[Imperium Lucis Aeternae|Imperium]] era.

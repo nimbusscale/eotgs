@@ -1,0 +1,70 @@
+{
+  "name": "The Reaches",
+  "_id": "463cVY4T50jnwq7e",
+  "img": null,
+  "pages": [
+    {
+      "name": "The Reaches",
+      "type": "text",
+      "_id": "ft3iGS5ctLMNh6OW",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Type:</strong> Region (Marsh Delta)<br><strong>First Visited:</strong> @UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — site of the barge encounter; the town of @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} sits within it</p>\n<h2>Description</h2>\n<p>The marshy delta at the kingdom&#x27;s northeastern edge, where the @UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} drain off the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} and spread into a vast, low country of water and reed before emptying into the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium}.<br>It separates the port of @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} from the rest of @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} and runs inland until it meets the dead grey shale of the Bonewall, where the wet, living marsh stops in a single abrupt line.</p>\n<p>If the Bonewall is the kingdom&#x27;s dead and frozen edge, the Reaches is its opposite: low, wet, and teeming, a place that never stopped being alive.<br>It is also a place that keeps what falls into it.<br>The bog preserves and ferments rather than clears away, and a thousand years of settlement, runoff, and old power have steeped in it.</p>\n<p><strong>Sight.</strong><br>A flat, open country under a wide sky.<br>Slow channels of brown water wind between banks of tall reed and marsh grass, past hummocks of peat and tussock and islands barely above the waterline.<br>Mist sits on the water at dawn and dusk.<br>Pale columns rise from one flooded stretch, the remains of a drowned temple far older than the Imperium, standing half-sunk where the ground gave way.<br>Everywhere are the bones of old habitation: overgrown villages, abandoned camps, foundations and streets half-claimed by water and weed.<br>Cutting through all of it in a single deliberate line runs the raised stone road, carried over the channels on old bridges, the one straight and certain thing in a landscape with no edges.<br>At the far inland horizon the Bonewall stands grey and lifeless above the green.</p>\n<p><strong>Sound.</strong><br>Water is constant: lapping, trickling, the suck and gurgle of mud underfoot and under hull.<br>Over it runs the hiss of wind through reeds and a dense chorus of living things, frogs, insects, and waterbirds in numbers the rest of the kingdom has forgotten.<br>After the silence of the Bonewall it is almost overwhelming.<br>Threaded through the chorus are sounds that do not belong to it: something heavy shifting in the reeds out of sight, a call with no name, a stillness that falls where it should not.</p>\n<p><strong>Smell.</strong><br>Heavy, wet, and full.<br>Rich rotting vegetation and stagnant water, the iron tang of bog, the sweetish preserved smell of peat, and the sulfur whiff of marsh gas where mud is disturbed.<br>Where camps burn peat for fuel the smoke hangs low and clings.<br>It is the smell of a place fermenting, the exact opposite of the Bonewall&#x27;s dry dust, and travelers who have known both never confuse them.</p>\n<h2>The Road and the Bridges</h2>\n<p>Almost all travel out of @UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} is by boat, across the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium} or along the one navigable shipping channel through the marsh.<br>By land there is a single road, the artery running between @UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} and the port.<br>It is the only way goods move overland between the kingdom and its northeastern harbor, which makes it one of the most important and most vulnerable stretches of road in all of Beaconhold.<br>A few old stone bridges, Imperium-built and among the few things in the Reaches still deliberately maintained, carry the clear road over the channels on the final approach to the town.<br>Cut the bridges or lose the road, and Havens Reach becomes an island.</p>\n<h2>The Drowned Temple</h2>\n<p>Among the ruins stands a pillared temple to the water gods, older than the @UUID[Compendium.grimwild-kb.kb.JournalEntry.yAiIJMlC7flCgMRm]{Imperium} and built in a style that is not the Imperium&#x27;s own.<br>Lucifer&#x27;s Imperium raised its own architecture wherever it spread, but here, much as at @UUID[Compendium.grimwild-kb.kb.JournalEntry.v85bRcnzMrFiDdn6]{the Nodrum}, it found something already standing and claimed it rather than building anew.<br>What remains is a mixing of two ages of stone, the older bones of the temple overlaid with later Imperium work, now half-drowned where the delta swallowed its ground.<br>The powers it honored were not gentle ones: gods of water that drown and keep, the deep that takes things down and does not give them back.<br>It is the oldest visible thing in the Reaches, and the one the local boatfolk give the widest berth.</p>\n<h2>Creatures and the Practitioners Who Court Them</h2>\n<p>The Reaches is known, to the few who know it at all, as a place that breeds strange things.<br>The steeping of runoff, old magic, and whatever the bog has held for centuries seems to change what lives in it, and the marsh has a reputation for predators and stranger creatures found nowhere else.<br>That reputation draws its own kind of people: hedge-wizards, naturalists, and less reputable scholars who come to study, harvest, or court what the marsh produces, living in isolated huts and towers out among the channels.<br>Where their study ends and their making begins is not always clear, and some of the marsh&#x27;s stranger inhabitants may owe their existence to it.</p>\n<h2>The Layered Dead</h2>\n<p>Unlike the Bonewall, which froze and emptied cleanly, the Reaches has been lived in over and over.<br>For a thousand years, settlements, camps, and fishing villages have sprouted on its richness and then been drowned, abandoned, or swallowed back, each leaving its layer.<br>People keep coming to live off the marsh, and the marsh keeps taking it back.<br>The result is a country thick with half-sunk ruins in every state of decay, from Imperium foundations to villages lost within living memory.</p>\n<h2>Connected Locations</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.5ieJV78RD0ZwDQRD]{Havens Reach} — The port town that sits within the Reaches, near where the marsh meets the @UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium}</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.tLfbM4E64pEL9VF9]{Solvium} — The great lake the delta empties into</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.3Fsz5CXjF9SwnyKx]{Eastern Rivers} — The rivers that drain off the @UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} and spread into the marsh</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.2oPdZNZmUGdavykO]{Bonewall} — The dead grey wall along the Reaches&#x27; far inland edge, where the living marsh stops in a single line</li><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.bEFUlWN5ttWk0y59]{Beaconhold} — The kingdom the Reaches belongs to</li></ul>\n<h2>Associated NPCs</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.yMtETX400iieRRXN]{Paxton Lumnus} — Passed back through the Reaches on his way to the wall, encountering Senna&#x27;s barge among the reeds</li></ul>\n<h2>Events Here</h2>\n<ul><li>@UUID[Compendium.grimwild-kb.kb.JournalEntry.SUWNsmWvbkJyVUMV]{Session 6} — Paxton came upon Senna&#x27;s barge in the reeds, learned of her rebirth in Moldrex&#x27;s vision, and burned the vessel to escape — killing Senna and unknown others hidden aboard</li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "category": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "grimwild",
+        "systemVersion": "0.3.1",
+        "createdTime": 0,
+        "modifiedTime": 0,
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!463cVY4T50jnwq7e.ft3iGS5ctLMNh6OW"
+    }
+  ],
+  "folder": "sY5IhMK9FgIijYqP",
+  "categories": [],
+  "sort": 1500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "grimwild-kb": {
+      "kbId": "reaches",
+      "kbType": "location"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "grimwild",
+    "systemVersion": "0.3.1",
+    "createdTime": 0,
+    "modifiedTime": 0,
+    "lastModifiedBy": null
+  },
+  "_key": "!journal!463cVY4T50jnwq7e"
+}

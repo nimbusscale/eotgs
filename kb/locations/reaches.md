@@ -5,6 +5,18 @@ name: The Reaches
 aliases:
 - Reaches
 part_of: beaconhold
+images:
+  hero:
+    file: reaches-delta.jpg
+    alt: The marsh delta of the Reaches, crossed by the imperial road
+    description: 'Establishing view of the Reaches: a vast, teeming marsh delta of
+      brown channels and reed under dawn mist, crossed by a single grand imperial
+      stone causeway; a ruined roadside way station sits half-sunk off a crumbling
+      spur, and the port of Havens Reach is barely glimpsed as a faint smudge on the
+      far horizon. Use for arriving in or establishing the Reaches.'
+    prompt: config/image/prompts/reaches-delta.json
+    subjects:
+    - reaches
 ---
 # The Reaches
 

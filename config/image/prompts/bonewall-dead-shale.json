@@ -1,0 +1,26 @@
+{
+  "title": "The Bonewall — Dead Shale",
+  "purpose": "The establishing reference for the land of the Bonewall itself: the desolate, craggy, barren character of the eastern mountain range. This is the visual anchor for the wall — its palette, its skeletal stone, and the ghost-country emptiness left when the Imperium fell and the people simply walked away. Use it as the hero plate for the Bonewall location, and as the location reference when illustrating any scene set out on the dead shale (and, later, as backdrop/palette grounding for the Thirteen Spines).",
+  "subject": "A wide establishing view of broken shale country. No characters. The stone is the subject — that, and the way the range swallows what was built on it.",
+  "core_aesthetic": {
+    "the_stone": "The Bonewall is built entirely of pale, brittle shale: bone-white where freshly broken, weathering down through ashen grey to near-black in the oldest, most sheltered hollows. It splits and flakes into loose plates and shards. It erodes into shapes the eye reads as skeletal — ridges running like exposed ribs along the spurs, knuckled outcrops, and smooth hollows worn into the cliffs like empty eye-sockets.",
+    "the_terrain": "The land behind the first slopes is deep and broken: a maze country of ravines, blind valleys, and stacked outcroppings where sightlines are short and travel turns labyrinthine. There are no gentle vistas — the country closes in.",
+    "the_growth": "The only stubborn growth is a hardy woody vine, grey-brown and near-leafless, sprawling in thick knotted tangles across the shale and choking the mouths of ravines — like old grapevine swollen to a wilder, deadened scale. It is the only living-ish thing, and it barely lives.",
+    "the_ghost_country": "The wall was never true wilderness; under the Imperium it was settled and sustained by imperial engineering and magic. When the Imperium fell, the support failed and the wall emptied with startling speed. What remains is a ghost country — abandoned settlements, worked-out quarries, and the derelict shells of imperial works, standing dry and dust-choked. Crucially, these ruins are the same stone as the range, so they camouflage into the terrain: you could miss a whole quarry or a fallen keep out here.",
+    "emotional_register": "Tomb-quiet desolation. Post-imperial emptiness, not active menace. The smell of a sealed tomb — powdered stone, old plaster, a cold flinty edge. No birdsong, no insect drone, none of the ordinary noise of a living landscape."
+  },
+  "setting": "A wide view across the dead shale: a foreground of flaked, shard-strewn rock and knotted leafless vine, a broken ravine country falling away into short, maze-like sightlines, and at mid-to-far distance a dead imperial ruin — a worked-out quarry cut or the derelict shell of a small keep — half-lost in the rock, rendered in the same bone-and-grey palette as the stone so the eye nearly takes it for terrain.",
+  "composition": "A wide landscape that rewards a second look. Jagged, flaking shale shards build the foreground and the spurs; the ground reads as skeletal ribs and knuckled outcrops. The ruin reads as terrain first, built structure second — tucked into the rock, not silhouetted against the sky. No single heroic landmark dominates: the desolation and the swallowing of what was built here is the point.",
+  "lighting": "Flat, cold, overcast daylight; windswept and shadeless, with a dry mineral dust haze softening the far ravines. No warm sun, no dramatic shafts, no golden hour.",
+  "mood": "Desolate, tomb-quiet, post-imperial. A lifeless landscape that smells like a sealed tomb. The wind never fully stops, but nothing else moves.",
+  "aspect_ratio": "16:9 landscape — wide establishing view of the range",
+  "do_not_include": [
+    "snow (the Bonewall is dry and cold, with far less snow than the volcanic Cinderwall)",
+    "green foliage, grass, or living trees — the only plant growth is the grey, leafless, near-dead woody vine",
+    "people, creatures, or birds",
+    "lit, glowing, or intact watchtowers or Spines — and nothing that could be misread as a Spine; the only structure is the dead, dark, half-hidden ruin",
+    "warm or golden palette",
+    "water, rivers, lakes, or pools",
+    "glossy or CGI gloss, movie-poster glamour"
+  ]
+}

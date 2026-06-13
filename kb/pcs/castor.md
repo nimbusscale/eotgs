@@ -40,7 +40,7 @@ STR 0, DEX 1, INT 1, WIS 2, CHA -1
 Druid
 
 ## Drive
-Stubbornly protect something others think is not worth saving.
+Endanger yourself for wildlife or outcasts.
 
 ## Background
 Castor was born after the Godstorm, in the early days of the [[Imperium Lucis Aeternae|Imperium]] — his parents lived through [[Lucifer]]'s ascension.

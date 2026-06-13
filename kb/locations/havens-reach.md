@@ -4,8 +4,7 @@ type: location
 name: Havens Reach
 aliases:
 - Haven's Reach
-- The Reaches
-- Reaches
+part_of: reaches
 ---
 # Havens Reach
 
@@ -31,10 +30,8 @@ The Imperium-era name of the original settlement has been largely forgotten.
 - Birthplace of [[Paxton Lumnus]]
 
 ## The Reaches
-Haven's Reach lies within the Reaches — the marshy delta that separates the town from the rest of the [[Beaconhold]] kingdom, with the [[Bonewall]] rising along its far inland edge.
-It is a maze of small, non-navigable waterways threaded by a single main shipping channel and one poorly maintained road.
-An ancient military road also runs precariously along the base of the Bonewall.
-Life gives way abruptly here, from wet, vibrant marsh to the dead grey shale of the wall, above which rise the failing spines of Hallowreach and Carnforth.
+Haven's Reach lies within [[The Reaches|the Reaches]] — the marshy delta that separates the town from the rest of the [[Beaconhold]] kingdom and runs inland to the [[Bonewall]], above which rise the failing spines of Hallowreach and Carnforth.
+See [[The Reaches]] for the marsh itself, its single road and bridges, and the drowned temple.
 
 ## Connected Locations
 - [[Solvium]] — The great lake it sits upon, which the Reaches' trade ultimately reaches

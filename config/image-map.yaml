@@ -368,3 +368,55 @@ sessions/forgotten-and-forsaken/session-6:
       barge burns in the marshy Reaches below the Bonewall cliffs; Senna and round
       long-tentacled marsh-creatures are glimpsed low-detail through the cargo door.
       Only existing depiction of Senna (low detail).
+sessions/forgotten-and-forsaken/session-7:
+  gallery:
+  - file: sessions/session-7-paxton-saves-family.jpg
+    caption: Paxton drags a mother and child from the burning barge, and leaves Roy
+      to the flames
+    subjects:
+    - paxton-lumnus
+    description: Paxton wades back to Senna's burning canal barge and pulls a woman
+      and her young child free; barge style kept consistent with the session-6 burning-barge
+      image.
+  - file: sessions/session-7-paxton-vine-rescue.jpg
+    caption: Paxton ropes a young Slate to safety as the Bonewall's vines turn monstrous
+    subjects:
+    - paxton-lumnus
+    - the-slate
+    description: Paxton hauls a frightened adolescent Slate up a rope amid the Bonewall's
+      mutated, thorny vines — a usable secondary reference for the Slate's younger
+      (teenage) form.
+  - file: sessions/session-7-portal-arrival.jpg
+    caption: Garland, Castor, and Mira step from the portal onto the Bonewall's silent
+      ring of stones
+    subjects:
+    - garland-yn-greenholt
+    - castor
+    - mira
+    - the-slate
+    - witch-stones
+    description: Arrival on the Bonewall's second ring of Witch Stones through Mira's
+      portal, the stone-skinned Slate closing in; Castor is in human form here. Usable
+      reference for the Bonewall witch-stone ring and the adult Slate.
+  - file: sessions/session-7-roderic-ambush.jpg
+    caption: Roderic breaks the ambush of the men sent to keep him from the Spinewright's
+      tomb
+    subjects:
+    - sir-roderic-lightbearer
+    description: Roderic, mounted, springs an ambush by Roland's mercenaries in an
+      open forest clearing, archers loosing from the treeline.
+  - file: sessions/session-7-slate-town.jpg
+    caption: The party reunites in the Slate's hidden town, built from the petrified
+      bodies of its dead
+    subjects:
+    - paxton-lumnus
+    - sir-roderic-lightbearer
+    - garland-yn-greenholt
+    - castor
+    - mira
+    - the-slate
+    - slate-town
+    description: First depiction of the Slate Town — a cavern settlement built from
+      the Slate's petrified dead — with the living Slate celebrating the first child
+      and the reunited party resting. Usable establishing reference for the Slate
+      Town.

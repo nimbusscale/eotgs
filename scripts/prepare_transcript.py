@@ -2,14 +2,25 @@
 """Prepare a raw campaign transcript: map Discord speaker names to character
 names and apply transcription corrections.
 
-Reads a raw transcript (output of download_transcript.py) where each line is:
-    [TIMESTAMP] SPEAKER: TEXT
+Accepts either of two raw input formats and auto-detects which it is:
+
+1. Cleaned line format (output of download_transcript.py), one turn per line:
+       [TIMESTAMP] SPEAKER: TEXT
+
+2. Markdown export from the transcription service (raw/session-N.md), where
+   each turn is a bolded speaker header followed by the spoken text:
+       **Speaker Name** - 01:13:01 PM
+       Spoken text, possibly spanning several lines.
+   A `## Transcript` heading separates the body from the metadata header, and
+   the recording date lives in a `**Date**: June 13, 2026 ...` header line.
+   Markdown input is normalized into the cleaned line format before mapping.
 
 Produces a prepared transcript with speaker names mapped to display names
 (e.g. "Killjoy Keegan" → "GM") and common transcription errors corrected.
 """
 
 import argparse
+import datetime as _dt
 import re
 import sys
 from collections import defaultdict
@@ -22,6 +33,79 @@ DEFAULT_CONFIG = REPO_ROOT / "config" / "speaker-map.yaml"
 
 # Matches lines like: [1/10/2026 2:56 PM] SomeUser: Hello world
 LINE_RE = re.compile(r"^(\[.+?\])\s+(.+?):\s+(.+)$")
+
+# --- New markdown transcription-service format ----------------------------
+# The `## Transcript` heading marks the boundary between the metadata header
+# and the spoken turns.
+MD_TRANSCRIPT_HEADER_RE = re.compile(r"^##\s+Transcript\s*$")
+# A turn header: **Speaker Name** - 1:13:01 PM   (seconds optional)
+MD_SPEAKER_RE = re.compile(r"^\*\*(.+?)\*\*\s+-\s+(\d{1,2}:\d{2}(?::\d{2})?\s*[AP]M)\s*$")
+# The recording date in the metadata header: **Date**: June 13, 2026 at ...
+MD_DATE_RE = re.compile(r"\*\*Date\*\*:\s*([A-Za-z]+\s+\d{1,2},\s*\d{4})")
+
+
+def is_markdown_transcript(text):
+    """Return True if text is the new markdown transcription-service export.
+
+    Identified by a `## Transcript` heading plus at least one bolded
+    `**Speaker** - TIME` turn header.
+    """
+    if not any(MD_TRANSCRIPT_HEADER_RE.match(line) for line in text.splitlines()):
+        return False
+    return any(MD_SPEAKER_RE.match(line.rstrip()) for line in text.splitlines())
+
+
+def parse_markdown_date(text):
+    """Extract the recording date as 'M/D/YYYY', or None if absent/unparseable."""
+    m = MD_DATE_RE.search(text)
+    if not m:
+        return None
+    try:
+        d = _dt.datetime.strptime(m.group(1).replace(",", ""), "%B %d %Y")
+    except ValueError:
+        return None
+    return f"{d.month}/{d.day}/{d.year}"
+
+
+def markdown_to_cleaned_lines(text):
+    """Convert the markdown transcript export into cleaned-format lines.
+
+    Each spoken turn becomes a single '[DATE TIME] speaker: text' line so the
+    rest of the pipeline (speaker mapping, corrections, manifest) is unchanged.
+    Metadata header, presence/voice-event lines, and blank lines are dropped.
+    """
+    date_str = parse_markdown_date(text)
+    lines = text.splitlines()
+
+    # Skip everything up to and including the `## Transcript` heading.
+    start = 0
+    for i, line in enumerate(lines):
+        if MD_TRANSCRIPT_HEADER_RE.match(line):
+            start = i + 1
+            break
+
+    out = []
+    i = start
+    while i < len(lines):
+        m = MD_SPEAKER_RE.match(lines[i].rstrip())
+        if not m:
+            # Presence lines, voice events, blanks, stray markdown — skip.
+            i += 1
+            continue
+        speaker = m.group(1).strip()
+        time_str = m.group(2).strip()
+        i += 1
+        # Collect the body until a blank line or the next turn header.
+        body = []
+        while i < len(lines) and lines[i].strip() and not MD_SPEAKER_RE.match(lines[i].rstrip()):
+            body.append(lines[i].strip())
+            i += 1
+        spoken = " ".join(body).strip()
+        if not spoken:
+            continue
+        timestamp = f"{date_str} {time_str}" if date_str else time_str
+        out.append(f"[{timestamp}] {speaker}: {spoken}")
+    return out
 
 
 def parse_args(argv=None):
@@ -200,7 +284,11 @@ def main(argv=None):
     corrections = config.get("transcription_corrections", [])
 
     raw_text = input_path.read_text(encoding="utf-8")
-    lines = raw_text.splitlines()
+    if is_markdown_transcript(raw_text):
+        lines = markdown_to_cleaned_lines(raw_text)
+        print(f"Detected markdown transcript format: {len(lines)} turns parsed.")
+    else:
+        lines = raw_text.splitlines()
 
     output_lines, speaker_counts, corrections_count, unmapped = prepare_transcript(
         lines, speaker_map, corrections,

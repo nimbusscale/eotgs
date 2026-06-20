@@ -2,7 +2,7 @@
 
 **Purpose:** Filter non-game content and extract structured session data from a prepared transcript, producing a small YAML file that the `incorporate-session` skill can efficiently process.
 
-**Input:** Session number (ingest pipeline runs automatically)
+**Input:** Session number (ingest pipeline runs automatically). The raw transcript is a markdown file exported from the transcription service, saved by the user at `inbox/transcripts/raw/session-{N}.md`.
 
 **Output:** A structured YAML file in `inbox/transcripts/extracted/`
 
@@ -27,16 +27,17 @@
 
 ### Step 2 — Ingest transcript
 
-Run the ingest pipeline to download and prepare the transcript (this also generates the manifest of entity context):
+The user exports the session from the transcription service as a markdown file and saves it at `inbox/transcripts/raw/session-{N}.md`. Run the ingest pipeline to prepare it and build the manifest of entity context:
 
 ```bash
 python3 scripts/ingest_transcript.py --session {session_number}
 ```
 
+- When `inbox/transcripts/raw/session-{N}.md` exists, ingest auto-detects it, skips the Discord download, and feeds it straight to `prepare_transcript.py`, which parses the markdown turns (`**Speaker** - HH:MM:SS PM` + spoken text), maps speaker names, and applies transcription corrections. No `DISCORD_TOKEN` is required.
 - If this succeeds, the prepared transcript (`inbox/transcripts/prepared/session-{N}.txt`) and the manifest (`inbox/transcripts/manifest/session-{N}-manifest.json`) both exist — proceed to Step 3.
-- If it fails, report the error and stop. Common failure: missing `DISCORD_TOKEN` env var.
-- If the transcript was already downloaded to a local file, pass it through:
-  `python3 scripts/ingest_transcript.py --session {N} --input <path-to-raw-file>`
+- If the markdown file isn't found, first confirm the user has saved it to `inbox/transcripts/raw/session-{N}.md`. To point at a markdown file elsewhere, pass it explicitly:
+  `python3 scripts/ingest_transcript.py --session {N} --input <path-to-session.md>`
+- Legacy path: if no markdown file is present, ingest falls back to the Discord download/clean step (requires the exporter bot token). This applies only to older sessions captured via Discord.
 
 ### Step 3 — Load context and the full transcript
 
@@ -171,7 +172,7 @@ After drafting entity updates, triage each one:
 
 #### Date extraction
 
-If a date was not provided in the arguments, extract the session date from the first timestamped line of the prepared transcript. Expected format: `[M/DD/YYYY H:MM AM/PM]`. Report it as YYYY-MM-DD in `date_played`.
+If a date was not provided in the arguments, extract the session date from the first timestamped line of the prepared transcript. Expected format: `[M/D/YYYY H:MM:SS AM/PM]` — `prepare_transcript.py` stamps every line with the recording date taken from the markdown export's `**Date**:` header, so the date is present on the first line. Report it as YYYY-MM-DD in `date_played`.
 
 ### Step 5 — Compose the summary and recap teaser
 

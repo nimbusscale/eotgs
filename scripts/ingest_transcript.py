@@ -16,7 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from build_index import main as build_index_main
 from download_transcript import main as download_main
-from prepare_transcript import main as prepare_main
+from prepare_transcript import main as prepare_main, is_markdown_transcript
 from build_manifest import main as build_manifest_main
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -78,6 +78,19 @@ def default_raw_path(session):
     return str(REPO_ROOT / "inbox" / "transcripts" / "raw" / f"session-{session}.txt")
 
 
+def default_markdown_raw_path(session):
+    """Return the default markdown raw transcript path for a session."""
+    return REPO_ROOT / "inbox" / "transcripts" / "raw" / f"session-{session}.md"
+
+
+def is_markdown_file(path):
+    """Return True if the file is a markdown transcription-service export."""
+    try:
+        return is_markdown_transcript(Path(path).read_text(encoding="utf-8"))
+    except OSError:
+        return False
+
+
 def default_prepared_path(session):
     """Return the default prepared transcript path for a session."""
     return str(REPO_ROOT / "inbox" / "transcripts" / "prepared" / f"session-{session}.txt")
@@ -120,13 +133,26 @@ def main():
 
     # Determine raw transcript path
     if run_download:
-        if args.input and is_already_cleaned(args.input):
+        md_default = default_markdown_raw_path(args.session)
+        if args.input and is_markdown_file(args.input):
+            # Markdown export from the transcription service. prepare_transcript
+            # auto-detects and normalizes it; skip the Discord download/clean step.
+            print(f"Input {args.input} is a markdown transcript; "
+                  f"skipping download/clean step.")
+            raw_path = args.input
+        elif args.input and is_already_cleaned(args.input):
             # Input is already a cleaned transcript (e.g. a pre-formatted
             # phone-app recording, or raw/session-N.txt itself). Skip the
             # Discord download/clean step and feed it straight to prepare.
             print(f"Input {args.input} is already in cleaned transcript form; "
                   f"skipping download/clean step.")
             raw_path = args.input
+        elif not args.input and md_default.exists():
+            # The transcription service produces raw/session-N.md. When it is
+            # present and no explicit input was given, use it and skip download.
+            print(f"Found markdown transcript {md_default.relative_to(REPO_ROOT)}; "
+                  f"skipping Discord download.")
+            raw_path = str(md_default)
         else:
             download_argv = ["--session", str(args.session)]
             if args.after:

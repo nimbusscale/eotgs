@@ -18,12 +18,18 @@ The whole network of Spines was the Spinewright's work, but no length of it cost
 The imperial laborers and soldiers who raised the Spines lost more of their own at Carnforth than at any other tower, dying in the falls, collapses, and killing wind of impossible stone, and many were buried where they fell.
 What the Spinewright demanded at the edge of the world is remembered as the hardest thing that vision ever asked.
 
+The Spinewright was laid to rest in the [[Tomb of the Spinewright]], set into the [[Bonewall]]'s valley side, once guarded by the Spinewright's own constructs and trials of faith.
+Among what the tomb held was [[The Spinewright's Lantern]], a portable ward built in the image of the great Spines — the relic [[Sir Roderic Lightbearer|Roderic]]'s paladin company died seeking, now lost.
+
 ## Related Entries
 - [[Bonewall]] — The wall the Spines crown and ward
 - [[Carnforth]] — The northernmost and deadliest Spine to raise
+- [[Tomb of the Spinewright]] — Where the Spinewright was entombed, on the wall's valley side
+- [[The Spinewright's Lantern]] — A portable ward kept in the tomb, built in the image of the Spines
 - [[The Light]] — The faith that remembers the Spinewright as a hero
 - [[Lucifer]] — The god the Spinewright served
 - [[Spinewardens]] — The order that now garrisons and maintains the towers
 
 ## Sources
 - [[Session 6]] — Named in the lore of Carnforth as the maker of the Thirteen Spines
+- [[Session 7]] — His tomb and the lantern relic it held identified as the site of Roderic's lost battalion

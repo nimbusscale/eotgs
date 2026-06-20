@@ -76,6 +76,11 @@ Warden and builder lie mixed together below the tower, the kept and the makers, 
 Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards weaken under the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
 That the forgotten edge of the wall should be the first to fall is fitting and ominous in equal measure.
 
+## The Lantern Necklace
+By reputation a chaplain stationed at Carnforth was known to wear [[The Spinewright's Lantern|the Spinewright's lantern]] as a necklace — the same symbol now worn by [[Roland]]'s men, who ambushed [[Sir Roderic Lightbearer|Roderic]] to keep him from the [[Tomb of the Spinewright]].
+[[Spinewardens|Spine wardens]] do not normally wear the lantern, so those who do are anomalous.
+What the necklace signifies has not been revealed; the party suspects a cult or hidden order centered on the failing northern spine, but that remains only their theory.
+
 ## Connected Locations
 - [[Bonewall]] — The wall Carnforth crowns at its northernmost, lowest end
 - [[The Reaches]] — The marsh below the tower, where the dead wall gives way to living water

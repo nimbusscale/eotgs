@@ -22,13 +22,16 @@ The two institutions are deeply intertwined yet distinct — closer to the entan
 They are a pseudo-military, pseudo-religious order, and their ascetic life of rituals and prayer manning the wards slowly drains the humanity out of them.
 For all their vigil they do not truly know what lies on the other side of the wall.
 
+By their conduct the wardens do not normally leave their spines except to carry messages, and abduction or kidnapping lies far outside their order's ways.
+Nor do they wear [[The Spinewright's Lantern|the Spinewright's lantern]] as a necklace; those who do are anomalous — like the chaplain reputed to wear one at [[Carnforth]], and like [[Roland]]'s men — and what the symbol signifies has not been revealed.
+
 ## The Sacrificial Renewal
 When a Spine's wards begin to fail, a long-hidden ritual can renew the seal — at the cost of a warden's life.
 [[Paxton Lumnus]] volunteered for such a rite at [[Hallowreach]], died, and woke changed.
 
 ## Notable Members
 - [[Paxton Lumnus]] — Former Spinewarden stationed at [[Hallowreach]]; died anchoring the Light in a sacrificial ritual when the Spine's wards failed, then woke in the mausoleum and left the order to seek the Light's truth.
-- [[Senna]] — A warden of [[Havens Reach|Haven's Reach]] whom Paxton served with; died and was "reborn" in the vision of [[Moldrex]] , her hand turned scaled and her eyes reptilian, able to heal and command the tentacled marsh-creatures. Presumed Deceased — killed when Paxton burned her barge in the Reaches.
+- [[Senna]] — A warden of [[Havens Reach|Haven's Reach]] whom Paxton served with; not literally killed and resurrected as Paxton was, but transformed and "reborn" in a metaphysical sense in the vision of [[Moldrex]] — a born-again change she accepted — her hand turned scaled and her eyes reptilian, able to heal and command the tentacled marsh-creatures. Presumed Deceased — killed when Paxton burned her barge in the Reaches.
 
 ## Relationships
 - [[Beaconhold]] — The kingdom the order belongs to and answers to.

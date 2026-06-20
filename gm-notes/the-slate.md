@@ -1,8 +1,12 @@
 # The Slate
 
-> **GM ONLY.** Developing concept, not yet player-facing. Locked decisions and open questions are marked below. Promote to its own entry once the players are likely to encounter them.
+> **GM ONLY.** First contact happened in [[Session 7]] — the player-facing entry now lives at [[The Slate]] (and their town at [[The Slate Town]]). This file keeps the secrets the players have **not** learned: the Stagnation/Awakening framing, the Moldrex temptation, the Imperium-quarry grievance, and the open mechanics below. Locked decisions and open questions are marked.
 
-See also: [[Bonewall]], [[Thirteen Spines]], [[Moldrex]], [[Öuth Krelt]], [[Senna]], [[Spinewardens]], [[Witch Stones]]
+See also: [[The Slate]], [[The Slate Town]], [[Bonewall]], [[Thirteen Spines]], [[Moldrex]], [[Öuth Krelt]], [[Senna]], [[Spinewardens]], [[Witch Stones]]
+
+## What the party learned in Session 7
+Through [[Mira]]'s translation, the party learned only the surface: that the Slate are living stone, are born from the mountain and petrify into their town's architecture in death, keep no records but their own dead, and that for as long as any of them can remember none had aged, died, or been born — until a single child emerged very recently, the first in living memory, sparking celebration.
+The Stagnation/Awakening framing, the tie to the [[God of Renewal]] and the cycle restarting, and Moldrex's interest in them remain GM-only.
 
 ## Concept
 

@@ -75,6 +75,18 @@ Travelers out on the dead shale occasionally come upon a strange, finely formed 
 No one can say who they are meant to be, and they remain one of the wall's unexplained curiosities.
 Those who cross the wall call them the Watchers.
 
+## The Slate
+The Bonewall is not as empty as it looks.
+Hidden within it dwell [[The Slate|the Slate]], a people of living stone who emerge from the mountain, harden as they age, and petrify into the architecture of their own [[The Slate Town|hidden town]] when they die.
+The carved Watchers travelers find weathered into the dead shale are not artifacts at all — they are Slate who died out on the wall, and the Slate revere them as their own kind.
+The Slate move silently over the shale and can part solid stone with their hands, and only the youngest of them can force out a few words of common speech.
+
+## The Failing Wilds
+Near the failing wards the wall's only vegetation — the gnarled grey vines, like old grapevine swollen to a wilder scale — has begun to behave unnaturally.
+They grow discolored and shifted, swell to monstrous size, resist fire, and even move to strike, a vine the size of a tree lashing out hard enough to knock a creature down a slope.
+Nesting among them are cat-sized black spiders, new to the Bonewall — a creature unrecorded and unseen even by [[Spinewardens|spine wardens]] who have spent their lives on the wall.
+The land carries a "natural unnaturalness," a dread that deepens the closer one comes to [[Öuth Krelt]] as the wards fail.
+
 ## [[The Thirteen Spines]]
 Thirteen towers built along the Bonewall during the [[Imperium Lucis Aeternae|Imperium]] era.
 They rise from the mountain slopes like spines along a ridge — tall enough to peer over the crest of the Bonewall, but built on the slopes facing [[Beaconhold]] rather than at the very summit.
@@ -99,11 +111,14 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - [[Cinderwall]] — The other arm of the L-shaped border range
 - [[Öuth Krelt]] — The land beyond the Bonewall, held at bay by the Thirteen Spines
 - [[Carnforth]] — The northernmost Spine, at the wall's broken-down end above the Reaches; first to go dark
+- [[Tomb of the Spinewright]] — The buried tomb of the maker of the Spines, set into the wall's valley side, mid-range and separate from Carnforth
+- [[The Slate Town]] — The Slate's hidden settlement, deep within the wall
 - [[The Reaches]] — The marshy delta at the base of the wall in the far northeast
-- [[Witch Stones]] — A ring of stones on the wall's dead shale, linked by portal to a matching ring in the [[Ashen Vale]]
+- [[Witch Stones]] — A ring of stones on the wall's dead shale, linked by portal to a matching ring in the [[Ashen Vale]]; the Bonewall ring is carved in a different, unreadable runic language
 
 ## Events Here
 - [[Session 0]] — Established as the eastern mountain range
 - The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden [[Paxton Lumnus]] sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum
 - [[Session 6]] — Carnforth, the northernmost Spine, went dark; [[Mira]] opened a Witch Stone portal onto the wall's grey shale and stepped through, with [[Garland yn Greenholt|Garland]] and [[Castor]] following; in the [[The Reaches]] below the wall, [[Paxton Lumnus|Paxton]] burned [[Senna]]'s barge
+- [[Session 7]] — All three threads converged inside the wall: [[Paxton Lumnus|Paxton]] followed a young Slate up the mutating wilds toward [[Carnforth]] and was carried down near death; [[Garland yn Greenholt|Garland]] and [[Castor]] arrived at the second ring of [[Witch Stones]] and met the Slate; [[Sir Roderic Lightbearer|Roderic]] fell through the collapsing [[Tomb of the Spinewright]] and was pulled into the Slate's hidden town, where the party reunited
 

@@ -46,6 +46,7 @@ Act callously or recklessly about death.
 ## Background
 Paxton was born along the [[Eastern Rivers]] in [[Havens Reach]], a stagnant port town built in the bones of a much larger Imperium-era city where the lake, the rivers, and [[Beaconhold]] all meet.
 Tired of the city's unchanging rhythms, he enlisted with the [[Spinewardens]] to serve the [[The Light|Light]] where it mattered most.
+He served as a regular [[Spinewardens|Spinewarden]], not a chaplain, and once saw a chaplain stationed at [[Carnforth]] wearing [[The Spinewright's Lantern|the Spinewright's lantern]] as a necklace — an oddity, since the wardens do not normally wear it.
 He was stationed at the Spine called [[Hallowreach]] when the wards began to fail and something from beyond the [[Bonewall]] pressed through.
 
 The garrison held as long as it could, but it became clear the Spine would fall.
@@ -65,6 +66,7 @@ The Light, as he has come to know it, does not lie, but it may show uncomfortabl
 ## Key Traits & Abilities
 
 **Background:** Dawn Unending (Heart of the Phoenix) — he sacrificed his entire being and was returned to life with the Light in his heart; when he Crumbles he does not truly die but returns to life when everyone next Settles In, and each time he comes back something is different.
+His spontaneous resurrection is genuinely rare and ill-understood — a divine act unrelated to any ritual, and unlike [[Senna]], who was not raised from death at all but transformed and "reborn" only in a metaphysical sense in the vision of [[Moldrex]].
 
 **Moves:**
 - **Lightbrand** — He can move, shape, and create light; his light is Distinctive, Fiery (it burns, sears, and ignites), and Near, with the chosen traits Restrained (allies gain +1 Armor against it) and Spontaneous (he can create light, not merely manipulate existing fire).
@@ -87,7 +89,10 @@ When the Light stirs in him, he goes unnervingly still before acting.
 He loves dawn over water, hot black tea, the sound of harbor work beginning before the city wakes, and plain soldier's food; he hates enclosed spaces and sometimes wakes in a cold sweat, remembering the mausoleum.
 
 ## Relationships
-- [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, revealed to have been reborn in the vision of [[Moldrex]]; Its presumed he killed her when he burned her barge in the [[The Reaches|Reaches]]
+- [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, who was not killed and resurrected as he was but transformed and "reborn" in the vision of [[Moldrex]]; he burned her barge in the [[The Reaches|Reaches]] to escape, killing her and a family hidden among the cargo
+- [[Sir Roderic Lightbearer]] — Met for the first time in the [[The Slate Town|Slate town]]
+- [[Garland yn Greenholt]] — Reunited with on the Bonewall; unaware that Garland has privately recognized the mark of his resurrection
+- [[Castor]] — Reunited with on the Bonewall
 
 ## Favors
 _None yet._
@@ -104,8 +109,10 @@ Paxton has "died" several times since the ritual, but it never seems to take, an
 What is changing in him with each resurrection, and what the Light is slowly making him into, is unresolved.
 
 ### Too Quick to Burn
-Aboard Senna's barge in the [[The Reaches|Reaches]], Paxton set the vessel ablaze and threw himself into the river to escape — and only as the screams rose did he realize others had been hidden aboard, captives or stowaways, who burned because he had been too quick to spend his own life to count the cost to anyone else's.
-His readiness to treat his survival, pain, and death as expendable has a price others pay, and what it will cost him to learn that is unresolved.
+Aboard Senna's barge in the [[The Reaches|Reaches]], Paxton set the vessel ablaze and threw himself into the river to escape — and only as the screams rose did he realize a family had been hidden among the cargo.
+Wading back, he found the fire would let him save only one side of it: he pulled a woman and her young child from the window and left her husband, Roy, to burn, and realized the corpse he had found earlier in the marsh was the woman's lost son.
+The needless deaths drove home that he cannot keep spending lives — his own and others' — so cavalierly.
+His readiness to treat his survival, pain, and death as expendable has a price others pay, and whether this hard lesson finally changes him is unresolved.
 
 ### Burned by the Light
 Paxton arrives owing a debt of favor to a party member his Light has already burned.
@@ -113,3 +120,4 @@ What happened, and what that person lost, is an open question to be answered in 
 
 ## Session Appearances
 - [[Session 6]] — Recounted his death at [[Bonewall|Hallowreach]] and his waking in the mausoleum with the Light in his chest; heard that Carnforth had gone dark and turned back toward the wall; in the [[The Reaches|Reaches]] found [[Senna]] healing marsh-creatures with scaled hand and reptilian eyes, learned she had been reborn in the vision of [[Moldrex]] and he "wrong" in Lucifer's, and burned her barge to escape — killing Senna and unknown others hidden aboard
+- [[Session 7]] — Waded back to the burning barge and saved a woman and child while leaving the husband Roy to the fire; climbing toward [[Carnforth]] he followed a young [[The Slate|Slate]] up the mutating wilds, roped it from a giant vine at the cost of a wrenched shoulder, and was bitten near death by a black spider before the Slate carried him down into the mountain; healed with moss in the [[The Slate Town|Slate town]], where he met [[Sir Roderic Lightbearer|Roderic]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]

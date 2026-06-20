@@ -84,6 +84,10 @@ He now shelters and mentors [[Mira]] at the Witch Stones, helping her heal from 
 When she commanded the stones to tear open a portal onto the [[Bonewall]], Garland recognized the gate-craft as a far more powerful form of magic he had once owned and has since lost.
 To follow her through it he Favored [[Sergeant Iyer]] and swore to bring her back to [[Crownvale]] on his own life, and crossed the threshold to the Bonewall alongside [[Castor]].
 
+On the Bonewall he found a second ring of Witch Stones, twin to his own but carved in an unreadable runic language and worn nearly silent — his connection to them faint and distant, like a worn-out battery beside a fresh one.
+Having watched Mira's grasping-gate and now studied this far ring, he intends to recreate that long-distance gate as a ritual to send her safely home.
+When the party met the resurrected [[Paxton Lumnus|Paxton]], Garland privately recognized the sigil of his return as the mark of what his youth had called the "unborn" — those reborn through the Light — but kept the knowledge to himself rather than confront him.
+
 ## Religion
 Has never had much use for gods.
 
@@ -111,6 +115,7 @@ Has never had much use for gods.
 - His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
 - [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
 - [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
+- [[Paxton Lumnus]] — Newly met on the Bonewall; Garland silently recognized the sigil of Paxton's resurrection as the mark of the "unborn" his youth knew, and has chosen to keep that recognition secret for now
 
 ## Favors
 
@@ -127,7 +132,8 @@ He would be very interested in investigating other Witch Stones if they exist el
 On returning to them in the downtime he felt a renewed connection unlike the one he built through centuries of study — one that returns magic without knowledge.
 And he is not the only one who hears them: his great-granddaughter [[Mira]] hears the stones as actual words, not the grinding of the earth, raising the question of why the stones speak so differently to her.
 The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]].
-Whether they connect to still more rings, or form a wider network, is unknown.
+That far ring is twin to his own yet carved in a wholly different, unreadable runic language, and his bond to it is faint and distant — evidence that the stones may form a wider network and hold secrets he never learned.
+He now means to study the Bonewall ring closely, both to read what it says and to reproduce Mira's long-distance gate as a ritual that could send her safely home to [[Crownvale]].
 
 ### Garland's Reluctant Apprentice
 [[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.
@@ -167,3 +173,4 @@ How Aldric sees and hears so much, whether the ravens are his eyes, and what his
 - [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
 - [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Hosted a Sunday dinner at the [[Witch Stones]] with [[Castor]] and [[Mira]]; faced [[Captain Vask]]'s delegation, conceding Mira's return while defending Castor and the beavers; recognized Mira's portal as gate-craft he once knew and lost; broke Vask's grip, was tackled by [[Sergeant Iyer]], then Favored Iyer and swore on his life to compel him aside, crossing the portal to the [[Bonewall]] after Mira and Castor
+- [[Session 7]] — Came through the portal to the Bonewall's second ring of Witch Stones, again losing a memory to the curse as he crossed; found the ring carved in an unreadable tongue and worn nearly silent; met the [[The Slate|Slate]], privately recognized [[Paxton Lumnus|Paxton]]'s resurrection-sigil as the mark of the "unborn" and said nothing, and resolved to study the ring as a ritual gate to send Mira home

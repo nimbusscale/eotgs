@@ -75,11 +75,11 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 
 **Moves:**
 - **Devout Virtues** — Gain boons by upholding vows; break a vow to lose its boon
-- **Decree** — Roll+CHA to issue a divine command that compels obedience
+- **Decree** — Roll+CHA to issue a divine command that compels obedience; it commands only a single enemy to surrender or repent, not a whole group at once
 - **Chains of Faith** — Bind enemies or restrain evil through the power of faith
 - **Armed and Ready** — Always prepared for battle; never caught without weapon or armor
 - **Healing Hands** — Lay on hands to heal; Guardian background allows choosing two effects
-- **Eyes of the Faithful** *(Advanced)* — Perceive truth, sin, and spiritual nature in others
+- **Eyes of the Faithful** *(Advanced)* — Used via Scrutinize or Examine, it always reveals a guilt or transgression on its target; it is meant to be turned on those who have done wrong, not used as a neutral sense-motive to judge whether someone is simply good or bad
 
 **Asset:** Organization — The Church of Light
 
@@ -90,6 +90,8 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Primus Griswald]] — His mentor and patron, who recruited him as a boy and spared him from disgrace after the lost battalion; now vanished
 - [[Inquisitor Voss]] — A Corona Vigil inquisitor who once branded him a heretic, now an uneasy ally who charged him to investigate the failing wards
 - [[Vicar Lucis Gregory]] — A longstanding contact in the Beaconhold church who has known him since boyhood; Roderic has long owed him a favor, a standing debt whose origin is unspoken
+- [[Paxton Lumnus]] — Met for the first time in the [[The Slate Town|Slate town]] when the party reunited
+- [[Roland]] — An unseen figure who sent lantern-marked men to keep Roderic from the [[Tomb of the Spinewright]]; his name, aims, and allegiance are unknown
 
 ## Favors
 
@@ -101,9 +103,11 @@ It was always there; it simply came to light when Roderic returned to lean on Gr
 ## Hooks
 
 ### Roderic's Lost Battalion
-Roderic's company of paladins died in the [[Bonewall]], sent into the tomb of the hero who long ago stopped the darkness and raised the towers, seeking a relic they believed could let them push past the wall.
+Roderic's company of paladins died in the [[Tomb of the Spinewright]] on the [[Bonewall]], sent to recover a relic they believed could let them push past the wall.
 He woke among his mutilated companions with the relic gone, remembers nothing of the night, and was cast out as the suspected, sole survivor — saved from worse only by [[Primus Griswald]]'s faith in him.
-What the relic was, whose tomb it truly was, and what happened the night his battalion died all remain unknown — and Griswald, the one man who knew the truth of his innocence, has now vanished.
+Two pieces have since come clear: the tomb belongs to the [[Spinewright]], the hero who raised the Thirteen Spines, and the relic was [[The Spinewright's Lantern]], a portable ward that could carry the Light past the wall.
+But the tomb is now buried under a fresh rockslide, and a figure named [[Roland]] is sending lantern-marked men to keep Roderic from reaching it — convinced his return would put something in jeopardy.
+Who Roland is, what now lies in the tomb, what the lantern necklace signifies, and what happened the night his battalion died all remain unknown — and Griswald, the one man who knew the truth of his innocence, has now vanished.
 
 ### Roderic Remembers Sariel
 Where the clergy of Beaconhold can no longer recall the hero [[Sariel]] — his bust vanished from [[Vicar Lucis Gregory]]'s office without even a trace of dust — Roderic remembers him clearly, as the right hand of [[Lucifer]] and the general who imprisoned the God of Ruin and the [[Xan-Kor]].
@@ -117,3 +121,4 @@ Why the forgetting that is unmaking Sariel from record and memory has not touche
 - [[Session 4]] — Sent intelligence to [[Beaconhold]] via a Luciferian priest; captured by the Aureate and imprisoned beneath the Chryseum; freed by [[Castor]] and [[Garland yn Greenholt|Garland]]; issued a divine decree commanding freed Harlequins back into their cells; negotiated passage with [[Dawnwarden Brenn]]; used Eyes of the Faithful to confirm Brenn and Severin's sincerity; descended into the [[Shrine of Renewal]] and felt the interlocking herald connection; resolved his theological crisis by interpreting his journey as divinely guided
 - [[Session 5]] — Infiltrated besieged [[Aurelion|Crest Aurelion]] with [[Garland yn Greenholt|Garland]] to retrieve [[Count Albrecht Marrow]]; bluffed past Aureate guards using [[Luminary Severin Morrow|Severin]]'s [[Whiteglass|whiteglass]] pendant; fought [[Order of the Eclipsed Sword]] soldiers in the vault and was branded a heretic by a [[Corona Vigil]] inquisitor; cleared the [[Chryseum|The Chryseum]] of rioters with a divine decree; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it puppeteered a dead paladin's corpse; used Eyes of the Faithful to confirm the sincerity of the followers of renewal; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Returned to a [[Beaconhold]] whose Light had fractured and whose scripture had subtly changed; was lured to the imperial tunnels under [[Primus Griswald]]'s name and met [[Inquisitor Voss]] instead, learning Griswald and other faithful had vanished; weighed Voss's words as true and accepted the charge to investigate the failing Bonewall wards; learned the full story of his lost battalion; pressed [[Vicar Lucis Gregory]] and discovered [[Sariel]]'s bust gone without a trace of dust, the clergy unable to remember the hero he still recalls
+- [[Session 7]] — Ambushed at the edge of the [[The Reaches|Reaches]] by six lantern-marked men sent by [[Roland]] to keep him from the [[Tomb of the Spinewright]]; charged free and traced them to their camp to learn their purpose; doubled back to find the tomb buried under a rockslide, fell through collapsing ground into an underground river, and was hauled out by the [[The Slate|Slate]] into their hidden town, where he met [[Paxton Lumnus|Paxton]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]

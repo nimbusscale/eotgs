@@ -87,3 +87,9 @@ Religious authorities enforce orthodoxy while the ground shifts beneath them.
 Refugees flee dangers that didn't exist a month ago.
 Trade routes become unsafe.
 Alliances shift.
+
+## Running Notes
+
+- **Pacing (Session 7):** the split-party structure — everyone running separate solo scenes — felt like a mistake, and reuniting the group underground was a relief. Intent going forward: tighten pacing and keep the party together now that it's whole again (minus [[Edric Bloom|Edric]]).
+- **Treasure/loot:** start working treasure and loot into encounters; its absence has been noticeable.
+- **The Slate's broken stasis** (first birth in time immemorial) is positioned as significant and likely tied to the renewal/cycle themes — track it against the [[God of Renewal]]'s awakening. Player-facing surface lives at [[The Slate]]; the GM framing lives in [[The Slate|the Slate concept doc]] (`gm-notes/the-slate.md`).

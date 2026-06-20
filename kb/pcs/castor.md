@@ -79,7 +79,7 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 - **Shapeshift** — Adapted from Unlimited Dungeons; the shift always succeeds, but the roll determines nature points earned; on partial successes in shifted form, spend a nature point or revert; running out of nature points forces revert to human; beaver form is exempt (always free)
 - **Attunement** — Bond with a creature to add it to his Attuned list
 - **Commune** — Speak with the natural world to gain insight
-- **At One With The World** — Deep connection to the natural order
+- **At One With The World** — Deep connection to the natural order; he can extend the bond toward the [[The Slate|Slate]], reading the mountain's and the creatures' intent as wordless "vibes" rather than speech, and felt the Bonewall celebrating something new at his arrival
 
 **Attuned Creatures:**
 - Beaver (instinct: reshape the world)
@@ -157,6 +157,7 @@ His short time adventuring, the breaking of his vow of celibacy, and the growing
 He finds himself burdened with a mid-life crisis despite having spent far more of his life as a wetland creature than a man.
 He no longer wants merely to reclaim his humanity — he wants to learn what his mitigated curse is truly capable of, suspecting destiny has marked him as something unusual.
 There is no getting around it, though: this is a man who has spent human lifetimes as a beaver.
+Passing through Mira's portal in wind form gave him a sudden, rare moment of clarity — a vision of the valley before the [[Beaconhold|Beacon]] was built and of his own lost life as a young carpenter in the early days of the [[Imperium Lucis Aeternae|Imperium]], a glimpse of the man beneath the centuries of beaver before it slipped away again.
 
 ### Castor's Offspring
 [[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
@@ -175,3 +176,4 @@ What this role means and what it demands of him is unresolved.
 - [[Session 4]] — Shapeshifted into a mouse with a beaver-like head to steal dungeon keys and free [[Sir Roderic Lightbearer|Roderic]]; gnawed through a chair leg, a guard's key strap, and wood for barricades; freed Harlequin prisoners; the mouse transformation locked him out of beaver form; felt the interlocking herald connection at the [[Shrine of Renewal]]
 - [[Session 5]] — Communed with the dormant [[God of Renewal|The God of Renewal]] at the [[Shrine of Renewal]], feeling an overwhelming sense of homecoming; confronted the [[Dark Harlequin|The Dark Harlequin]] who tried to recruit him and claimed the [[Laughing One|The Laughing One]] cursed him; touched the cocoon and received a vision of himself as protector; shifted into a wolverine and drove off the Dark Harlequin; built a dam-like barricade to fortify the Shrine entrance; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — At a Sunday dinner at the [[Witch Stones]], confronted [[Captain Vask]]'s delegation in beaver form, introducing himself as "Garland's uncle"; defended the beavers against the Vale's three great families; learned Aldric somehow knew the beaver could speak; dissolved into wind for the first time to chase [[Mira]] through the Witch Stone portal onto the [[Bonewall]]
+- [[Session 7]] — Came through the portal in wind form and was struck by a vision of his lost life as a young carpenter before the curse; opened his bond to the world and felt the mountain celebrating the [[The Slate|Slate]]'s first child; reunited with [[Sir Roderic Lightbearer|Roderic]] and met [[Paxton Lumnus|Paxton]] in the Slate's hidden town

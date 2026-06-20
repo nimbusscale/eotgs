@@ -26,7 +26,10 @@ Beneath that precociousness lies a deeper wound: the ruin that harmed Crownvale'
 ## Role
 She serves as an unwitting go-between, having delivered [[Garland yn Greenholt|Garland]]'s warning letter to [[Aldric Garlandsson|Aldric]], and her connection to Garland makes her a focal point in the family's affairs.
 She is an emerging cleric of the [[Witch Stones]], hearing and commanding their words directly — a different and far more powerful connection than Garland's hard-won, study-built bond.
-At the Witch Stones she spoke an unknown, booming tongue and commanded the stones to open a stable portal onto the [[Bonewall]], then stepped through it and left the Ashen Vale entirely, drawing Garland and Castor after her.
+She heard the stones "calling," promising safety, and dreamed of the Bonewall site as she once dreamed of Garland's stones, before tearing open a stable portal onto the [[Bonewall]] and leaving the Ashen Vale entirely, drawing Garland and Castor after her.
+
+Channeling the stones, she can now cast Tongues: when she turns it on the [[The Slate|Slate]] she speaks their grinding stone-tongue but cannot be understood in any human language, making her the party's only translator with the Slate.
+A sanctuary she establishes counts as a home for those bonded to her through the stones.
 
 ## Relationships
 - [[Aldric Garlandsson]] — Her father
@@ -37,4 +40,5 @@ At the Witch Stones she spoke an unknown, booming tongue and commanded the stone
 - [[Session 1]] — Recognized Garland despite his disguise in Crownvale; received candy and a warning letter to deliver to Aldric
 - During the downtime after the curse — declared herself Garland's apprentice and revealed she hears the [[Witch Stones]] as words
 - [[Session 6]] — Sheltering with Garland at the Witch Stones to heal from the ruin that depressed her; spoke an unknown booming tongue and commanded the stones to open a portal onto the [[Bonewall]], then stepped through and left the Ashen Vale
+- [[Session 7]] — Arrived at the Bonewall's second ring of Witch Stones; reaching for the same bond Castor used, she gained the [[The Slate|Slate]]'s grinding stone-tongue but could no longer make herself understood in human speech, serving as the party's translator with the Slate
 

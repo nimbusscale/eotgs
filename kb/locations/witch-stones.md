@@ -28,13 +28,19 @@ His great-granddaughter [[Mira]] also hears the stones, but as actual words rath
 ## The Portal to the Bonewall
 At the hidden ring in the Ashen Vale, Mira commanded the stones to tear open a stable portal onto the dead grey shale of the [[Bonewall]], where a matching ring of Witch Stones stood.
 She and her pursuers stepped through, and the portal closed behind them.
-This is the only such portal seen so far; whether the stones connect to still more rings, or form a wider network, is unknown.
+
+## The Second Ring on the Bonewall
+The Bonewall ring is configured exactly like Garland's stones in the Ashen Vale and hums with the same earthen energy, familiar to him as kin to his own.
+But it is carved in a completely different runic language — recognizable as the same kind of writing yet wholly unreadable, "like English versus Korean."
+Garland's connection to the Bonewall stones is faint and distant, like a worn-out battery set beside a fresh one, suggesting the stones may hold secrets he never learned and that the rings may form a wider network.
+A recent campfire near the ring showed that some human had passed this way not long before the party arrived.
+This is the only such portal seen so far; whether the stones connect to still more rings is unknown.
 The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, hinting at some connection between these ancient sites.
-Garland would be very interested in investigating other Witch Stones if they exist elsewhere.
+Garland would be very interested in investigating other Witch Stones if they exist elsewhere, and now intends to study the Bonewall ring closely — both for its secrets and to reproduce Mira's long-distance gate as a ritual that could one day send her safely home.
 
 ## Connected Locations
 - [[Ashen Vale]] — The region where the known ring stands hidden, on Garland's Greenholt land
-- [[Bonewall]] — Site of a matching ring, reached through a portal Mira opened
+- [[Bonewall]] — Site of a matching ring carved in a different, unreadable runic language, reached through a portal Mira opened
 - [[Aurelion]] — Whose Shrine of Renewal carries the same ancient resonance
 
 ## Associated NPCs
@@ -43,3 +49,4 @@ Garland would be very interested in investigating other Witch Stones if they exi
 
 ## Events Here
 - [[Session 6]] — A Sunday dinner at the stones was interrupted by [[Captain Vask]]'s delegation; Mira spoke an unknown tongue and opened a portal to the [[Bonewall]], stepping through with [[Garland yn Greenholt|Garland]] and [[Castor]] following
+- [[Session 7]] — At the Bonewall ring, Garland found the stones twin to his own but carved in an unreadable runic language and worn nearly silent; channeling them, [[Mira]] gained the [[The Slate|Slate]]'s grinding stone-tongue but lost the ability to be understood in human speech, and Garland set himself to studying the ring as a possible ritual gate home

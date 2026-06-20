@@ -13,6 +13,10 @@ aliases:
 The singular figure the Light remembers as the maker of the [[Thirteen Spines]], the tower network warding the [[Bonewall]] against [[Öuth Krelt]].
 The Spinewright is honored as a hero of [[Lucifer]] and the Church, the vision behind a wall raised in an age the [[Imperium Lucis Aeternae|Imperium]] could still command such works.
 
+Even the Light keeps no name for the Spinewright — only the title; whatever he was once called has worn away with the centuries, the ordinary forgetting of an age rather than anything torn deliberately from the record.
+What little survives of the man is that he was no son of the [[Imperium Lucis Aeternae|Imperium]] — an outsider, of some far country or stock the vale never had a name for, who came to [[Lucifer]] as a convert rather than being born to the Light.
+That a foreigner's vision raised the Bonewall's great wards, and that the Church took the work for its own, is half-forgotten even in the lore that praises him.
+
 ## Details
 The whole network of Spines was the Spinewright's work, but no length of it cost more than [[Carnforth]], the northernmost tower, set on the worst ground at the very end of the wall.
 The imperial laborers and soldiers who raised the Spines lost more of their own at Carnforth than at any other tower, dying in the falls, collapses, and killing wind of impossible stone, and many were buried where they fell.

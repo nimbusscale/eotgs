@@ -29,6 +29,26 @@ factions/the-light:
   - file: order-of-first-dawn.jpg
     caption: The Order of First Dawn
     prompt: config/image/prompts/order-of-first-dawn.json
+items/spinewrights-lantern:
+  gallery:
+  - file: spinewrights-lantern-legend.jpg
+    caption: The Spinewright's Lantern as legend imagines it
+    description: An idealized Renaissance/Baroque devotional painting of the relic
+      (Hiillos) suspended unheld in glory, archangels driving back the dark and the
+      faithful in reverence below, with a mountain range crowned by the beacon-towers
+      of the Spines — the lantern shown as their portable kin. Stylized legend art,
+      not the true object.
+    prompt: config/image/prompts/spinewrights-lantern-legend.json
+    subjects:
+    - spinewrights-lantern
+  library:
+  - file: config/image/library/spinewrights-lantern-reference-plate.jpg
+    prompt: config/image/prompts/spinewrights-lantern-reference-plate-prompt.json
+    description: 'The Spinewright''s Lantern (Hiillos): a tall, slender, sturdy hand-lantern
+      of bone-grey shale, dark iron, and tarnished amber-gold, with a stacked-shale
+      dome, bail carry-ring, side chains, and gothic arched openwork; at its heart
+      an enclosed faceted housing shelters a living warm ember. The true-object reference
+      plate.'
 locations/aurelion:
   hero:
     file: aurelion-approach.jpg

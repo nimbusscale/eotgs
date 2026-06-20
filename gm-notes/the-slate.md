@@ -29,6 +29,19 @@ As the world wakes, the mountain can produce new Slate again, after an age in wh
 
 *Open:* the exact mechanism of emergence is still undecided, whether they rise spontaneously from the living rock, only under certain conditions, or have some form of reproduction.
 
+## Syvämaa and the Spinewright (locked)
+
+The Slate's deeper origin is **Syvämaa**, the Deep-earth — the inner world at the world's core, with its own buried sun (see the GM note: The Spinewright).
+They are stone-people of the deep, kin in the broad sense to **Vaalo**, the foreigner the Light remembers only as the [[Spinewright]].
+This is why the Slate alone still hold his lost name: they keep their past in stone, and stone forgets more slowly than men.
+
+Working hypothesis to develop in play: the Slate raised the [[Thirteen Spines]] alongside Vaalo, or for him — the impossible deep stonework the Light credits to long-dead imperial laborers at [[Carnforth]] may in truth be theirs.
+This sharpens the "Imperium's quarries" grievance below: the Imperium may have cut into the very people who, through Vaalo, helped raise the wall it sheltered behind.
+
+Vaalo's own resting place reads in Slate terms too.
+The [[Tomb of the Spinewright]] is named **Kehto**, "the Cradle" — not a grave but a settling, a return to the stone, and (petrified out on the wall, apart from any city) a sacrifice in their reckoning.
+Play the rhyme: the same deep that cradles Vaalo's dead is birthing the first Slate child in an age.
+
 ## The Stagnation
 
 During the long Stagnation the Slate froze completely.
@@ -119,9 +132,9 @@ Whether the Imperium knew, traded, exploited, or simply cut into them unaware is
 - Whether the Slate know the first child has emerged, or are still sealed away and unaware
 - Who finds the child first, and what the Slate want done about it
 - Whether a petrified Slate can be recovered or revived, and the customs around the dead
-- Their relationship to an Old God of stone or the mountain, if any
+- Their relationship to an Old God of stone or the mountain, if any (and whether Syvämaa's buried sun is that god)
 - How many cities, where they sit, and how they relate to the Imperium ruins above
-- Names for the people, their cities, and their origin-figure or god if one exists
+- Names for the people and their cities (origin-realm now locked as **Syvämaa**; origin-figure tied to **Vaalo** the Spinewright)
 
 ## Appearance Notes (for image reference)
 

@@ -5,6 +5,27 @@ name: The Spinewright's Lantern
 aliases:
 - Spinewright's Lantern
 - Spinewright Lantern
+- Hiillos
+images:
+  gallery:
+  - file: spinewrights-lantern-legend.jpg
+    caption: The Spinewright's Lantern as legend imagines it
+    description: An idealized Renaissance/Baroque devotional painting of the relic
+      (Hiillos) suspended unheld in glory, archangels driving back the dark and the
+      faithful in reverence below, with a mountain range crowned by the beacon-towers
+      of the Spines — the lantern shown as their portable kin. Stylized legend art,
+      not the true object.
+    prompt: config/image/prompts/spinewrights-lantern-legend.json
+    subjects:
+    - spinewrights-lantern
+  library:
+  - file: config/image/library/spinewrights-lantern-reference-plate.jpg
+    prompt: config/image/prompts/spinewrights-lantern-reference-plate-prompt.json
+    description: 'The Spinewright''s Lantern (Hiillos): a tall, slender, sturdy hand-lantern
+      of bone-grey shale, dark iron, and tarnished amber-gold, with a stacked-shale
+      dome, bail carry-ring, side chains, and gothic arched openwork; at its heart
+      an enclosed faceted housing shelters a living warm ember. The true-object reference
+      plate.'
 ---
 # The Spinewright's Lantern
 
@@ -15,6 +36,9 @@ aliases:
 ## Description
 A portable ward built by the [[Spinewright]] — a hand-carried version of the great wards atop the [[Thirteen Spines]].
 Where the Spines are fixed towers, the lantern is a flame a single person can carry, holding back the dark wherever it goes.
+
+In the Spinewright's own tongue — a language no one in the vale now speaks — it is named **Hiillos**, a word imperfectly remembered to mean something closer to a kept ember or a banked coal than a lantern at all.
+Why the maker of the Light's great wards should have called his fire by a foreign word for a humble coal is not a question the Church has ever cared to ask.
 
 ## Properties
 Its open flame pushes back the darkness of [[Öuth Krelt]] for miles and purifies the land its light touches.

@@ -1,0 +1,36 @@
+{
+  "title": "The Spinewright's Lantern (Hiillos) — Reference Plate",
+  "purpose": "The canonical reference for the Spinewright's Lantern, the portable ward the Light calls by the elder name Hiillos. This is the 'true object' plate — what the relic actually is, grounded and museum-real, distinct from any glorified legend depiction. Use it as the visual reference whenever the lantern appears in a scene, is carried, or is described, so its build and its sheltered ember stay consistent. It is a portable kin of the great beacon-lights set within the Spine towers: where each tower mounts a large warding light, this is that same ward shrunk into a lantern one person can carry — a LANTERN, never a model of a tower.",
+  "subject": "A single sacred ward-lantern, shown alone as a reference plate. No characters, no hands, no environment.",
+  "core_aesthetic": {
+    "form": "A tall, slender, sturdy hand-lantern — vertical and stout, not squat. A domed top of stacked bone-grey shale-like stone shingles bound in worked dark iron banding and tarnished amber-gold strapping, crowned with a heavy forged bail carry-ring so it can be borne in one hand or hung. Short iron carry-chains loop at the sides. The body is a ring of pointed gothic arches — open arched apertures framed by iron mullions, with pale translucent stone/horn panels between them rather than clear glass. An open, breathing lantern, not a sealed glass case.",
+    "the_ember_housing": "At the heart, raised on a short central post within the arches, sits a small ENCLOSED protective housing — a faceted iron-and-gold cage, a lantern-within-the-lantern, that fully surrounds and shelters the ember while letting its light shine out through faceted amber panes and openings. This is a guarded, enclosed vessel, NOT an open cup, bowl, or dish.",
+    "the_ember": "Cradled inside that housing is the ward itself: a single living, warm, mythic ember — a banked coal that is clearly alight and brighter than a dim bead, glowing hot amber-orange and casting a gentle warm wash out through the faceted cage into the surrounding stone and iron. It is the one warm light on the object. It glows and gives off light, luminous and alive, but it remains a tended ember — never a roaring flame, torch-blaze, or open fire.",
+    "materials_and_wear": "Worked dark iron, tarnished amber-gold that never gleams, and bone-grey shale-like stone — aged, dented, patched and mended like everything raised on the Bonewall. Never new, clean, matching, or mirror-polished.",
+    "emotional_register": "Reliquary quiet with a living, guarded heart — an ancient, humble, holy thing whose sheltered coal has never been allowed to die. Post-imperial melancholy; faded grandeur worn down to a single tended ember."
+  },
+  "setting": "A reference plate: the lantern centered on a seamless neutral mid-gray studio backdrop with a slight natural vignette. No set, no environment, no props.",
+  "composition": "Single object centered, full lantern in frame with calm breathing room around it, settled and un-posed like a museum reference plate. The bail carry-ring at the top and the glowing ember in its enclosed faceted housing at the heart are the two points the eye reads; the warm ember at the core is the single focal accent against the cool grey iron and stone.",
+  "lighting": "Soft, even, diffuse front studio light, low contrast, reading every weathered material honestly. The only warm, colored light in the frame is the lantern's own ember glowing from inside its enclosed housing and casting a gentle warm wash into the surrounding stonework — never a hard spotlight, lens flare, god-ray, or torch-bright blaze.",
+  "color_palette": [
+    "bone-grey shale, weathering from pale to ashen",
+    "worked dark iron, near-black",
+    "tarnished amber-gold strapping, dull, never gleaming",
+    "warm amber-orange ember glow at the heart"
+  ],
+  "aspect_ratio": "2:3 portrait",
+  "do_not_include": [
+    "a tower, spire, lighthouse, or miniature Spine — this is a lantern, not a tower",
+    "a staff, stick, pole, haft, or torch mount — it is a hand lantern",
+    "an open cup, open bowl, chalice, or open dish holding the ember — the ember sits INSIDE an enclosed, protective faceted housing",
+    "an ember that reads as cool amber stone or glass with a spark trapped inside — it is a real glowing coal with its own warm light",
+    "a roaring flame, bonfire, or torch-bright blaze; light flooding the frame",
+    "lens flare, god-rays, halos, or magical blue/neon glow",
+    "a squat, short, or stubby body — keep the tall, slender, sturdy proportions",
+    "characters, hands, figures, or creatures",
+    "pristine, clean, intact, or mirror-polished metal; new or matching parts",
+    "any text, labels, captions, numbers, or diagram / reference-sheet framing",
+    "glossy plastic or CGI gloss, movie-poster glamour",
+    "snow, foliage, environment, or background set — neutral studio backdrop only"
+  ]
+}

@@ -13,6 +13,11 @@ Pass one or more --image reference images to do image-to-image (a known
 character/place in a new situation): each reference is sent as a likeness source
 to OpenAI's images/edits endpoint instead of plain text-to-image generation.
 
+Pass --count N (N>1) to generate N candidates from the same prompt concurrently
+(one independent API call each, run in a thread pool). The outputs are suffixed
+<name>-a.jpg, <name>-b.jpg, ...; --count 1 (the default) keeps the single-image
+behaviour and naming unchanged.
+
 Size defaults to --wide (1536x1024). The file is written into the repo's images/
 directory as <name>.jpg (where build_site.py syncs from). Unless --name is given,
 a kebab-case slug is derived from the
@@ -27,10 +32,12 @@ import json
 import mimetypes
 import os
 import re
+import string
 import sys
 import urllib.error
 import urllib.request
 import uuid
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 IMAGE_URL = "https://api.openai.com/v1/images/generations"
@@ -40,6 +47,7 @@ MODEL = os.environ.get("OPENAI_IMAGE_MODEL", "gpt-image-2")
 NAMING_MODEL = os.environ.get("OPENAI_NAMING_MODEL", "gpt-4o-mini")
 MAX_NAME_LEN = 48
 MAX_NAME_ATTEMPTS = 5
+MAX_WORKERS = 8
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_OUT_DIR = REPO_ROOT / "images"
 
@@ -258,6 +266,36 @@ def generate(
     )
 
 
+def candidate_suffixes(count: int) -> list[str]:
+    """Suffixes for N concurrent candidates: a, b, c ... then numeric past 26."""
+    if count <= len(string.ascii_lowercase):
+        return list(string.ascii_lowercase[:count])
+    return [str(i + 1) for i in range(count)]
+
+
+def generate_to_file(
+    name: str,
+    prompt: str,
+    access_key: str,
+    size: str,
+    images: list[Path] | None,
+    out_dir: Path,
+) -> tuple[str, str | None, str | None]:
+    """Generate one image and write it to ``out_dir/name.jpg``.
+
+    Returns ``(name, path_or_None, error_or_None)`` instead of raising, so one
+    failed candidate in a concurrent batch does not abort the others.
+    """
+    try:
+        image_bytes = generate(prompt, access_key, size, images)
+        out_path = out_dir / f"{name}.jpg"
+        out_path.write_bytes(image_bytes)
+        print(f"Wrote {len(image_bytes)} bytes to {out_path}")
+        return name, str(out_path), None
+    except (Exception, SystemExit) as exc:  # noqa: BLE001 - reported per-candidate
+        return name, None, str(exc)
+
+
 SIZES = {"tall": "1024x1536", "wide": "1536x1024", "square": "1024x1024"}
 
 
@@ -317,8 +355,23 @@ def main(argv=None) -> str:
         type=Path,
         help="directory to write the image into (default: the repo's images/ dir)",
     )
+    parser.add_argument(
+        "-n",
+        "--count",
+        type=int,
+        default=1,
+        metavar="N",
+        help=(
+            "number of candidates to generate concurrently from the same "
+            "prompt (default 1). With N>1, outputs <name>-a.jpg, <name>-b.jpg, "
+            "... and requires a base --name (else one is derived once)"
+        ),
+    )
     parser.set_defaults(size=SIZES["wide"])
     args = parser.parse_args(argv)
+
+    if args.count < 1:
+        parser.error("--count must be >= 1")
 
     if bool(args.prompt) == bool(args.prompt_file):
         parser.error(
@@ -343,21 +396,52 @@ def main(argv=None) -> str:
                 sys.exit(f"reference image not found: {path}")
             images.append(path)
 
-    image_bytes = generate(prompt, access_key, args.size, images)
     args.out_dir.mkdir(parents=True, exist_ok=True)
 
-    # An explicit --name overwrites any existing file; otherwise the naming
-    # model picks a name and a collision triggers a reprompt.
-    if args.name:
-        name = slugify(args.name)
-    else:
-        name = unique_llm_name(prompt, access_key, args.out_dir)
+    # Single image: existing behaviour. An explicit --name overwrites any
+    # existing file; otherwise the naming model picks a name and a collision
+    # triggers a reprompt.
+    if args.count == 1:
+        image_bytes = generate(prompt, access_key, args.size, images)
+        if args.name:
+            name = slugify(args.name)
+        else:
+            name = unique_llm_name(prompt, access_key, args.out_dir)
+        out_path = args.out_dir / f"{name}.jpg"
+        out_path.write_bytes(image_bytes)
+        print(f"Wrote {len(image_bytes)} bytes to {out_path}")
+        return str(out_path)
 
-    out_path = args.out_dir / f"{name}.jpg"
-    out_path.write_bytes(image_bytes)
+    # Multiple candidates: one independent API call each, fanned out across a
+    # thread pool (the calls are I/O-bound and do not build on one another).
+    base = slugify(args.name) if args.name else generate_name(prompt, access_key)
+    names = [f"{base}-{suffix}" for suffix in candidate_suffixes(args.count)]
 
-    print(f"Wrote {len(image_bytes)} bytes to {out_path}")
-    return str(out_path)
+    results: list[tuple[str, str | None, str | None]] = []
+    with ThreadPoolExecutor(max_workers=min(args.count, MAX_WORKERS)) as pool:
+        futures = [
+            pool.submit(
+                generate_to_file,
+                name,
+                prompt,
+                access_key,
+                args.size,
+                images,
+                args.out_dir,
+            )
+            for name in names
+        ]
+        for future in as_completed(futures):
+            results.append(future.result())
+
+    results.sort(key=lambda r: r[0])
+    paths = [path for _, path, _ in results if path]
+    failures = [(name, err) for name, path, err in results if path is None]
+    for name, err in failures:
+        print(f"FAILED {name}: {err}", file=sys.stderr)
+    if not paths:
+        sys.exit("all image generations failed")
+    return "\n".join(paths)
 
 
 if __name__ == "__main__":

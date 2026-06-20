@@ -76,16 +76,15 @@ For each view, build the composed prompt **once** (dry-run), then generate the c
 python3 scripts/compose_image_prompt.py \
   --request image-test/.composed/<view>-request.json --dry-run
 
-# 2) Generate the candidates (n=1 per call; vary the name). Use the size flag
-#    matching the aspect: --wide (16:9), --tall (2:3), --square (1:1):
-for s in a b c; do
-  python3 scripts/generate_image.py \
-    --prompt-file image-test/.composed/<view>.json \
-    --wide --name <view>-$s --out-dir image-test
-done
+# 2) Generate the candidates with --count (fans them out concurrently, one
+#    API call each). Pass a base --name; outputs are suffixed -a/-b/-c.
+#    Use the size flag matching the aspect: --wide (16:9), --tall (2:3), --square (1:1):
+python3 scripts/generate_image.py \
+  --prompt-file image-test/.composed/<view>.json \
+  --wide --name <view> --count 3 --out-dir image-test
 ```
 
-Run views in parallel (independent background jobs) when generating several. Result: `image-test/<view>-{a,b,c}.jpg`, scratch only. Confirm the composed JSON carries the injected `house_style` block and `"references": []`.
+`--count N` runs the N candidates concurrently in a thread pool, so a 3-candidate batch takes ~1× a single generation instead of 3×; one candidate failing does not abort the others (it is reported and the rest still land). For multiple *views*, run each view's command as its own background job. Result: `image-test/<view>-{a,b,c}.jpg`, scratch only. Confirm the composed JSON carries the injected `house_style` block and `"references": []`.
 
 ### Step 6 — Evaluate, present, and STOP
 

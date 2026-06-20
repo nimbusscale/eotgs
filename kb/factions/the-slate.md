@@ -5,6 +5,14 @@ name: The Slate
 aliases:
 - Slate
 - The Slate
+images:
+  hero:
+    file: the-slate-portrait.jpg
+    alt: An adult of the Slate in their flexible-stone life-stage
+    description: Canonical reference for an ordinary living, mobile Slate (the middle "flexible stone" stage the party most often meets) — androgynous, stone-skinned, on the Bonewall shale. Distinct from the newborn and the petrified Watcher statue.
+    prompt: config/image/prompts/the-slate-portrait.json
+    subjects:
+    - the-slate
 ---
 # The Slate
 

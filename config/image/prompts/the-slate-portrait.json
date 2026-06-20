@@ -1,0 +1,41 @@
+{
+  "title": "The Slate — Reference Plate (flexible-stone life-stage)",
+  "purpose": "The canonical reference for an ordinary adult of the Slate, the living-stone people who dwell within the Bonewall. This depicts their MIDDLE 'flexible stone' life-stage — the form the party most often meets and the one to reach for whenever the Slate appear in a scene. It is distinct from their two other stages: the newborn (smooth flesh-like skin, fresh from the mountain) and the Watcher (the FINAL, fully-petrified rigid statue, fused into the rock — see bonewall-slate-watcher). Use this plate as the reference for any living, mobile Slate.",
+  "subject": "A single adult of the Slate, standing on the dead grey shale of the Bonewall — a fully humanoid person of living stone, mobile and graceful, NOT a statue. They are peaceful, hospitable, and quietly curious; their bearing is calm and gentle rather than threatening.",
+  "critical_direction": {
+    "androgynous_and_sexless": "The Slate are not born biologically and do not reproduce — they emerge already-formed from the mountain. The figure is therefore ANDROGYNOUS and SEXLESS: a smooth, featureless chest with no breasts, and a smooth, featureless groin with no genitals. Read the body as neutral and un-gendered — neither clearly male nor female. Nudity here is non-sexual; the stone IS their skin.",
+    "living_flexible_stone_not_a_statue": "This is the defining direction. The figure must read as a LIVING PERSON whose skin is stone, not as a carved or petrified statue. The stone-skin clearly still flexes — visible mobile seams at the shoulders, elbows, knuckles, hips, knees and neck — and the pose is active (mid-stride, walking, weight shifting) rather than plinthed or frozen. Do NOT render the Watcher here: no rigid statue, nothing fused into the rock, nothing monumental.",
+    "pronounced_plated_texture": "The skin is broken into clearly DEFINED slate plates and sections across the chest, shoulders, arms, thighs and back, with raised seams and ridges between them and a rough, gravelly, faceted matte-mineral surface — more pronounced and textured than smooth stone. Deep cracks run between and across the plates. The register is toward a rocky-skinned being (in the vein of a stone-skinned hero) but distinctly LESS blocky and LESS monstrous: the plates are moderate in size and the body stays lithe and human-proportioned. Not a boulder-golem; not a heap of rocks."
+  },
+  "character": {
+    "physicality": "Fully humanoid in form and proportion — lean, neutral, gracefully built, standing roughly human height. The Slate move silently and gracefully over loose shale and can part solid stone with their hands, so the build reads capable but not bulky.",
+    "skin": "Living, flexible grey rock. The surface is the same petrified slate as the Bonewall shale: pale bone-grey through ashen grey to near-black, brittle-edged and faintly flaking at the plate margins, matte mineral with no gloss. Defined plates and sections with raised seams; deep cracks; a rough faceted texture. The plates flex at every major joint.",
+    "face": "Calm, finely formed, androgynous and serene — unmistakably a person's face rendered in worn stone, weathered like rock. The eyes are gentle and curious, set in stone-skin. No hair, or only suggestions of stone-formed contour where hair would be.",
+    "expression": "Quiet, gentle curiosity. Peaceful and hospitable, never menacing.",
+    "posture": "Active and mobile — mid-stride or settling, weight on one leg, clearly a body that moves. Never a statue's frozen attention."
+  },
+  "setting": {
+    "location": "The Bonewall's dead grey country — loose pale shale underfoot, the empty grey land falling away behind into dry mineral dust haze. Knotted grey-brown, near-leafless woody vines sprawl across the rocks. The same desolate palette and stone as the Watcher plate.",
+    "depth_of_focus": "The figure is sharp and the clear focal point; the dead-shale country is a quiet, secondary backdrop, readable but not competing.",
+    "lighting": "Flat, cold, overcast daylight — even and shadeless, raking just enough to reveal the faceted plated stone-skin texture, the ridged seams and the cracks. No warm sun, no dramatic shafts, no glow."
+  },
+  "color_palette": [
+    "petrified slate skin: pale bone-grey through ashen grey to near-black, matte mineral",
+    "Bonewall shale ground: the same pale-to-ashen flaking grey",
+    "grey-brown near-leafless woody vines",
+    "cold pale-grey overcast sky and distant dust haze"
+  ],
+  "composition": "Single figure, three-quarter to near-full body, centered and reading clearly head to knee, framed so the rough plated stone-skin texture, the defined sections and seams, and the androgynous humanoid build all read at a glance — a clean canonical reference plate. The dead-shale country is a quiet backdrop.",
+  "mood": "Calm, uncanny, gentle — a living person of stone, weathered and serene, curious rather than threatening. The unsettling wonder of a people who are an expression of the mountain itself.",
+  "aspect_ratio": "2:3 portrait — vertical composition for a full-figure people reference, room for head-to-knee and the stone-skin detail",
+  "do_not_include": [
+    "breasts, a female chest, male or female genitals, or any visible sexual characteristics — the figure is smooth and sexless at chest and groin",
+    "a rigid, fully-petrified statue; a Watcher; anything frozen, plinthed, or fused into the rock",
+    "a boulder-golem, rock-pile creature, or extremely blocky / monstrous heavy rock-monster — keep the plates moderate and the body lithe and human-proportioned",
+    "a crystalline, gemstone, or mineral-crystal being",
+    "glowing runes, magma cracks, lava veins, or inner light",
+    "metal armor, cloth armor, clothing, robes, weapons, or heraldry",
+    "snow, green foliage, grass, or living trees — only grey near-leafless vines",
+    "a warm or golden palette, glossy CGI sheen, or movie-poster glamour"
+  ]
+}

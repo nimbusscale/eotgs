@@ -29,6 +29,16 @@ factions/the-light:
   - file: order-of-first-dawn.jpg
     caption: The Order of First Dawn
     prompt: config/image/prompts/order-of-first-dawn.json
+factions/the-slate:
+  hero:
+    file: the-slate-portrait.jpg
+    alt: An adult of the Slate in their flexible-stone life-stage
+    description: Canonical reference for an ordinary living, mobile Slate (the middle
+      "flexible stone" stage the party most often meets) — androgynous, stone-skinned,
+      on the Bonewall shale. Distinct from the newborn and the petrified Watcher statue.
+    prompt: config/image/prompts/the-slate-portrait.json
+    subjects:
+    - the-slate
 items/spinewrights-lantern:
   gallery:
   - file: spinewrights-lantern-legend.jpg

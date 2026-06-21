@@ -146,6 +146,13 @@ The Trickster doesn't serve good or evil — they serve change, disruption, the 
 They lie, but sometimes their lies reveal deeper truths.
 They cause chaos, but sometimes that chaos breaks stagnant systems.
 
+**The two masks.**
+Where the [[The God of Forgetting|God of Forgetting]] wears its power as a single dread emanation in [[The Xan-Kor]], the Laughing One wears its own as a matched pair of masks — the old faces of Comedy and Tragedy.
+One is light: the wink and the prank, the laughter that punctures a pompous certainty and lets the air back in.
+The other is the [[Dark Harlequin]] — the same humor turned cruel, the joke that costs a life and laughs anyway.
+They are not two beings but two faces of one, and the god slides from the one to the other as the punchline demands.
+Like every emanation of the Old Gods, neither can truly be destroyed — only driven back, deferred, made to wear the other face for a while.
+
 ### [[The Harlequins]]
 
 Followers of the Trickster.
@@ -172,7 +179,7 @@ It sent [[Garland yn Greenholt|Garland]] an uninvited vision of [[Mira]] and chi
 Claimed the Laughing One was responsible for [[Castor]]'s original beaver curse, calling it the god's greatest joke.
 Attempted to recruit [[Castor]] away from Renewal, offering a partnership of building and laughter.
 Demonstrated the ability to puppeteer a dead paladin's corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.
-Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse.
+Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse — though an emanation is not a thing a blade can end, and what wore that mask may yet find another face to return in.
 
 Harlequins captured, tortured, and killed an [[Order of the First Dawn]] paladin beneath the [[Chryseum|The Chryseum]] — an escalation from trickery to lethal violence.
 

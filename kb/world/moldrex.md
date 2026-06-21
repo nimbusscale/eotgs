@@ -8,12 +8,13 @@ name: Moldrex
 **Category:** Gods (New Gods)
 
 ## Overview
-A New God — once mortal, ascended to divinity during the [[Old Gods and New Gods|Godstorm]], and sealed behind the [[Bonewall]] by [[Lucifer]]'s forces.
+A New God — once mortal, ascended to divinity in the generations after [[Lucifer]], during the rise of the [[Imperium Lucis Aeternae|Imperium]], and later sealed behind the [[Bonewall]] by Lucifer's forces.
 Moldrex is evil — not indifferent like the [[Old Gods]], not merely opposed to Lucifer, but malicious in intent and purpose.
 Where Lucifer represents light, radiance, guidance, and civilization, Moldrex represents something that actively seeks to corrupt and consume.
 
 ## History
-Like all New Gods, Moldrex was once mortal — a figure who ascended during the chaotic period when the Old Gods' balance collapsed and mortals seized divine power for themselves.
+Like all New Gods, Moldrex was once mortal.
+Where [[Lucifer]] ascended first, in the chaos of the [[Old Gods and New Gods|Godstorm]] itself, Moldrex came to godhood later — one of those who followed in the generations after, as the [[Imperium Lucis Aeternae|Imperium]] was already rising and mortals went on seizing divine power for themselves.
 Who Moldrex was before ascending, and the specific nature of their grudge against Lucifer, is unknown.
 During the [[Imperium Lucis Aeternae|Imperium]] era, Lucifer's forces drove Moldrex beyond the [[Bonewall]] and erected the [[Thirteen Spines]] — a network of ward towers — to keep Moldrex's influence contained.
 Moldrex has been sealed in [[Öuth Krelt]] for centuries — long enough to plan, build followers, and prepare.

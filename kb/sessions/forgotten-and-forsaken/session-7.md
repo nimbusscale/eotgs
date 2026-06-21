@@ -133,7 +133,7 @@ Garland devoted his attention to the witch stones, intent on reproducing Mira's 
 ## Notable Quotes
 
 > "Forgetting is fine, but remembering that you forgot — I'm done with that."
-> — [[Garland yn Greenholt|Garland]], as the curse takes another memory while he comes through the portal
+> — [[Garland yn Greenholt|Garland]], as the forgetting dredges up the memory it already took — the lost note for Aldric — and leaves him grasping at it while he comes through the portal
 
 > "These are the same bones of the earth that I've spent the last several hundred years with. But the language is different."
 > — [[Garland yn Greenholt|Garland]], touching the second ring of witch stones

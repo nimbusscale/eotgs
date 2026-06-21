@@ -136,7 +136,7 @@ Garland devoted his attention to the witch stones, intent on reproducing Mira's 
 ### Notable Quotes
 
 > "Forgetting is fine, but remembering that you forgot — I'm done with that."
-> — [[Garland yn Greenholt|Garland]], as the curse takes another memory while he comes through the portal
+> — [[Garland yn Greenholt|Garland]], as the forgetting dredges up the memory it already took — the lost note for Aldric — and leaves him grasping at it while he comes through the portal
 
 > "These are the same bones of the earth that I've spent the last several hundred years with. But the language is different."
 > — [[Garland yn Greenholt|Garland]], touching the second ring of witch stones
@@ -731,7 +731,8 @@ Tremors shook the facility and the party pressed deeper, past malfunctioning clo
 The Triune's wards began failing; they confessed they had secretly siphoned energy from the curse Garland blocked on Castor to power what they called the Aegis Mechanism — their attempt to repurpose the Xan-Kor.
 The party's arrival, carrying ruin's influence, had destabilized everything.
 
-Garland refused to let Castor be re-cursed and instead teleported to retrieve the [[Seal of Unmaking]]'s case, losing his most recent memory of his great-great-grandchild [[Mira]] in the transit.
+Garland refused to let Castor be re-cursed and instead teleported to retrieve the [[Seal of Unmaking]]'s case, the forgetting curse taking his single most recent memory of his great-great-grandchild [[Mira]] in the transit — the [[Session 1]] moment in which he had slipped her the warning letter for [[Aldric Garlandsson|Aldric]].
+He still knew the child herself; only that latest memory was gone, and with it any recollection of what the letter had said.
 The party helped the Triune redirect the ley line energy into the [[Whiteglass]] seal, pushing the Xan-Kor back to a faint outline — but the ritual went awry.
 Ley lines passing through Edric and [[Sir Roderic Lightbearer|Roderic]] emerged corrupted, reality itself shifted, the [[Bonewall]]'s ancient protective wards began to crumble, and a pivotal historical victory by Lucifer's champion was retroactively undone.
 
@@ -758,7 +759,7 @@ The party resolved to press on toward the Chryseum, hoping to find a path to ren
 - Delta explained that ruin had a counterpart — the God of Renewal — and without that balance, centuries of ruinous energy were released at once
 - Tremors destabilized the facility; the party discovered the Nodrum was once the Nexarium, a prison built to contain [[The Xan-Kor]] — a construct of the God of Forgetting capable of erasing things from existence
 - [[The Triune]] confessed they had secretly siphoned energy from [[Castor]]'s curse to power the Aegis Mechanism — their attempt to repurpose the Xan-Kor
-- [[Garland yn Greenholt|Garland]] refused to let Castor be re-cursed and teleported to retrieve the [[Seal of Unmaking]]'s case, losing his most recent memory of [[Mira]] in the transit
+- [[Garland yn Greenholt|Garland]] refused to let Castor be re-cursed and teleported to retrieve the [[Seal of Unmaking]]'s case, losing only his single most recent memory of [[Mira]] in the transit — the [[Session 1]] handoff of the warning letter for [[Aldric Garlandsson|Aldric]], its contents now gone with it, though not his knowledge of the child herself
 - The party redirected ley line energy into the Whiteglass seal, pushing the Xan-Kor back — but ley lines passing through Edric and Roderic emerged corrupted, reality shifted, and the [[Bonewall]]'s protective wards began to crumble
 - Garland admonished the Triune for wielding power not meant for mortal hands; they agreed to repair the Seal's case and study whether the empowered Whiteglass seal could reseal the God of Ruin
 - Ruin manifested personally for each party member overnight: Roderic's lock crumbled, Garland's books became unreadable, Edric's dreams drained of inspiration, Castor's presence broke the clockwork servants

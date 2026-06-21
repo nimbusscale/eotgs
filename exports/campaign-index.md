@@ -16,7 +16,7 @@ Now something is being forgotten at a scale larger than any single herald's curs
 Along the spine of the Bonewall the wards that anchor the Thirteen Spines are failing — Carnforth, the northernmost Spine, has gone fully dark — and something from Öuth Krelt is pressing against what remains.
 The faithful of the Light are vanishing from their beds in Beaconhold, among them Roderic's mentor Primus Griswald, while the hero Sariel is being unmade from the Church's records and its clergy's memory — though Roderic alone still remembers him.
 At a failing Spine called Hallowreach, a Spinewarden named Paxton Lumnus died anchoring the Light in a sacrificial ritual, then woke in the mausoleum with the Light burning in his heart and a vision that the wards themselves are flawed.
-The heralds' three scattered roads have finally met underground, in the hidden town of the Slate — a people of living stone whose ageless, deathless, birthless stasis has just broken with the first child born among them in living memory.
+The heralds' three scattered roads have finally met underground, in Muistola — "the Remembrance," the hidden town of the Slate — a people of living stone whose ageless, deathless, birthless stasis has just broken with the first child born among them in living memory.
 
 ## Player Characters
 
@@ -64,7 +64,7 @@ Roderic returned to a Beaconhold whose Light had fractured and whose scripture h
 Mira commanded the Witch Stones to tear open a portal onto a matching ring on the Bonewall's dead grey shale, and Garland and Castor followed her through.
 Paxton found Senna in the Reaches healing marsh-creatures with a scaled hand and reptilian eyes, learned she had been reborn in the vision of Moldrex, and burned her barge to escape — killing Senna and a family hidden aboard.
 
-In Session 7 the three threads finally met, deep inside the wall, in the hidden town of the Slate — a people of living stone whose ageless, deathless, birthless stasis has just broken with the first child born among them in living memory.
+In Session 7 the three threads finally met, deep inside the wall, in Muistola, the hidden town of the Slate — a people of living stone whose ageless, deathless, birthless stasis has just broken with the first child born among them in living memory.
 Paxton waded back to the burning barge and saved a woman and child but left her husband Roy to the fire, then climbed toward dark Carnforth through vines that had begun to move, resist fire, and grow monstrous, and was carried near death into the mountain by a young Slate.
 Garland and Castor spilled from the portal onto the Bonewall's second ring of Witch Stones — twin to Garland's own but carved in an unreadable tongue and worn nearly silent — where Castor felt the mountain celebrating and Mira gained the grinding stone-tongue at the cost of being understood in any human language.
 Roderic broke an ambush by Roland's lantern-marked men sent to keep him from the Spinewright's tomb, found it buried under a rockslide, and fell through collapsing ground into the underground river, hauled out by the Slate.

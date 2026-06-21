@@ -20,7 +20,7 @@ images:
 **Status:** Active
 
 ## Overview
-The Slate are a long-lived people of living stone who dwell within the [[Bonewall]], hidden from the surface world in a town reached only through the rock itself.
+The Slate are a long-lived people of living stone who dwell within the [[Bonewall]], hidden from the surface world in [[The Slate Town|Muistola]] — "the Remembrance" — a town reached only through the rock itself.
 They call themselves the Slate, and few outside the wall know they exist.
 The strange, finely formed [[Bonewall|Watcher]] statues that travelers sometimes find weathered into the dead shale are not carvings at all — they are Slate who died out on the wall, and the Slate revere them as their own kind.
 

@@ -84,7 +84,7 @@ Under the cracking stone is real flesh — they are devolving from enduring ston
 
 ## 5. Locations
 
-Eight places, each tagged to what it earns at the **End of Session** (▣ Discover · ▣ Visit/Alter · ▣ Overcome) and to whose **Drive** it feeds. Matches the cutaway map spec (`map-slate-town-cutaway`). *(Player-safe places — the town interior and the speedways — are now mirrored in [[The Slate Town]]; the Gallery of the Lost and the Descending Stair are kept GM-only.)*
+Eight places, each tagged to what it earns at the **End of Session** (▣ Discover · ▣ Visit/Alter · ▣ Overcome) and to whose **Drive** it feeds. Matches the cutaway map spec (`map-slate-town-cutaway`). *(The town's own name is **Muistola**, "the Remembrance"; the conduit network is **Suonet**, "the Veins" — players know them as the Slate Town and the Speedways. Player-safe places — the town interior and Suonet — are now mirrored in [[The Slate Town|Muistola]]; the Gallery of the Lost and the Descending Stair are kept GM-only.)*
 
 **Surface — The Bonewall Ridge** (dead grey shale, one side of the wall only; Öuth Krelt off-frame):
 - **▶ The Bonewall Witch-Ring** — a rough ring of standing stones, twin to Garland's but carved in the unreadable runic tongue, worn nearly silent; low subsonic hum, faint grinding when Mira channels; cold stone, dry lichen, ozone after a channeling. **Earns:** ▣ Discover · ▣ Overcome (the vine attack, §8). **Drive:** *Garland — "Step forward where others hesitate"* (first into the vine fight or the channeling risk).
@@ -101,7 +101,7 @@ Eight places, each tagged to what it earns at the **End of Session** (▣ Discov
 - **▶ The Hall of Deep Memory** *(Holvi's domain)* — walls dense with glyph-carved memory-stones, the oldest ancestor-figures standing here; a deeper grinding, the stones "speak" longest; age, dry dust, faint metal. **Earns:** ▣ Discover (Vaalo's name; the Spines' true origin; Hiillos as banked ember). Redirects Roderic's and Paxton's Drives toward Kehto and Carnforth next session.
 
 **The Network & The Deep:**
-- **▶ The Speedways** *(new canon ▶)* — smooth, ancient, glyph-carved conduits, plainly built and purposeful, branching off the rough caves; two run prominently **north to Carnforth**, **south to Kehto**, others sealed. The Slate's fast-travel network between fixed nodes — fast travel, **not** free roaming. Explains their tie to the tomb and the towers. **Earns:** ▣ Discover.
+- **▶ Suonet, "the Veins"** *(party nickname: the Speedways)* — smooth, ancient, glyph-carved conduits, plainly built and purposeful, branching off the rough caves; two run prominently **north to Carnforth**, **south to Kehto**, others sealed. The Slate's fast-travel network between fixed nodes, threading the living mountain like veins — fast travel, **not** free roaming. Explains their tie to the tomb and the towers. **Earns:** ▣ Discover.
 - **▶ The Descending Stair** *(Syvämaa hint)* — ⚠️ **GM-only / keep shut this session.** At the lowest point, a great half-sealed stair vanishing into a deep amber glow from far below; a warmth-hum felt more than heard; warm air rising. **Earns:** ▣ Discover (a future road). Plants the descent to the Deep-earth (Castor's curiosity, Mira's faith, the stone-god question).
 
 ---

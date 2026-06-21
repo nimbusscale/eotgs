@@ -46,7 +46,7 @@ Play the rhyme: the same deep that cradles Vaalo's dead is birthing the first Sl
 
 The door to Syvämaa sits in the town itself: at its lowest point a great half-sealed **Descending Stair** vanishes into a deep amber glow rising from far below, a warmth felt more than heard.
 Keep it shut for now — it plants the descent to the Deep-earth (Castor's curiosity, Mira's faith, the buried-sun/stone-god question) without opening it.
-Keep the whole Syvämaa thread GM-only for the present; only the Slate's own fast-travel **Speedways** (the glyph-carved conduits linking fixed nodes north to Carnforth and south to Kehto) are surfaced to players, as their road through the wall.
+Keep the whole Syvämaa thread GM-only for the present; only **Suonet**, "the Veins" — the Slate's own fast-travel network of glyph-carved conduits linking fixed nodes north to Carnforth and south to Kehto, which the party nickname the Speedways — is surfaced to players, as their road through the wall.
 
 ## The Stagnation
 

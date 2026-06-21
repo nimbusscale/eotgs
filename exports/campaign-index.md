@@ -12,11 +12,11 @@ The party retrieved Count Marrow from besieged Crest Aurelion during the Order o
 The cocoon opened, releasing a spring-like surge that transformed the desiccated chamber into a verdant, living space; the Dark Harlequin was beheaded by Roderic after attempting to prevent the reunion, and Edric vanished mid-step beneath an invisibility spell in the tunnels below, his whereabouts unknown.
 The balance between ruin and renewal was restored within the Shrine, but the broader world still bore the scars: First Aureate Eisen Dorn fell defending Crest Aurelion, Aurelion struck a grudging truce with the Morrows, the Great Beaver Dam partially collapsed and its beavers spread downstream as pests, Aldric Garlandsson began consolidating power across the vale, and cults of whispered endings took root in Crownvale and southern Marrow County.
 
-Now something is being forgotten at a scale larger than any single herald's curse.
-Along the spine of the Bonewall the wards that anchor the Thirteen Spines are failing — Carnforth, the northernmost Spine, has gone fully dark — and something from Öuth Krelt is pressing against what remains.
+Now something is being forgotten at a scale larger than the curse any one of them once carried.
+Along the spine of the Bonewall the wards that anchor the Thirteen Spines are failing — the rites that once renewed them lost when Sariel's erasure unmade part of the Light's history, so the wards decay untended and unremembered — and Carnforth, the northernmost Spine, has gone fully dark as something from Öuth Krelt presses against what remains.
 The faithful of the Light are vanishing from their beds in Beaconhold, among them Roderic's mentor Primus Griswald, while the hero Sariel is being unmade from the Church's records and its clergy's memory — though Roderic alone still remembers him.
 At a failing Spine called Hallowreach, a Spinewarden named Paxton Lumnus died anchoring the Light in a sacrificial ritual, then woke in the mausoleum with the Light burning in his heart and a vision that the wards themselves are flawed.
-The heralds' three scattered roads have finally met underground, in Muistola — "the Remembrance," the hidden town of the Slate — a people of living stone whose ageless, deathless, birthless stasis has just broken with the first child born among them in living memory.
+The party's three scattered roads have finally met underground, in Muistola — "the Remembrance," the hidden town of the Slate — a people of living stone whose ageless, deathless, birthless stasis has just broken with the first child born among them in living memory.
 
 ## Player Characters
 
@@ -55,9 +55,9 @@ The heralds' three scattered roads have finally met underground, in Muistola —
 **Status:** Active
 
 The cocoon opened and the world breathed, but balance is not peace.
-Renewal has awakened within the Shrine, yet ruin's passage has left scars no ceremony can heal — and now something is being forgotten at a scale larger than any single herald's curse.
+Renewal has awakened within the Shrine, yet ruin's passage has left scars no ceremony can heal — and now something is being forgotten at a scale larger than the curse any one of them once carried.
 Along the Bonewall the wards are failing, the faithful are vanishing, and the hero Sariel is being unmade from memory and record.
-The heralds were scattered and converging on the Bonewall, each finding the same rot wearing a different face.
+The party were scattered and converging on the Bonewall, each finding the same rot wearing a different face.
 
 In Session 6, three roads led toward the wall.
 Roderic returned to a Beaconhold whose Light had fractured and whose scripture had subtly changed, was lured to the imperial tunnels under Griswald's name, met Inquisitor Voss instead, and accepted the charge to investigate the failing wards while learning that the faithful — Griswald among them — had vanished and Sariel's bust had disappeared without a trace of dust.
@@ -68,7 +68,7 @@ In Session 7 the three threads finally met, deep inside the wall, in Muistola, t
 Paxton waded back to the burning barge and saved a woman and child but left her husband Roy to the fire, then climbed toward dark Carnforth through vines that had begun to move, resist fire, and grow monstrous, and was carried near death into the mountain by a young Slate.
 Garland and Castor spilled from the portal onto the Bonewall's second ring of Witch Stones — twin to Garland's own but carved in an unreadable tongue and worn nearly silent — where Castor felt the mountain celebrating and Mira gained the grinding stone-tongue at the cost of being understood in any human language.
 Roderic broke an ambush by Roland's lantern-marked men sent to keep him from the Spinewright's tomb, found it buried under a rockslide, and fell through collapsing ground into the underground river, hauled out by the Slate.
-All three threads reunited in the Slate's town, where it came clear that the wards are failing as a side effect of Sariel's erasure from history, compounded by the heralds of ruin whose energies struck at that same unmaking.
+All three threads reunited in the Slate's town, where it came clear that the wards are failing as a side effect of Sariel's erasure from history — the rites that once renewed them lost along with the angel — and that the party's hand in it is indirect and already behind them: their ruin at the Nodrum let the erasure happen, but that ruin passed from them when renewal was reborn, and they are heralds of ruin no longer.
 
 **Open Questions:**
 - What is the God of Renewal now that it has awakened, and how will it affect the broader world?

@@ -166,12 +166,13 @@ name: Moldrex
 **Category:** Gods (New Gods)
 
 ### Overview
-A New God — once mortal, ascended to divinity during the [[Old Gods and New Gods|Godstorm]], and sealed behind the [[Bonewall]] by [[Lucifer]]'s forces.
+A New God — once mortal, ascended to divinity in the generations after [[Lucifer]], during the rise of the [[Imperium Lucis Aeternae|Imperium]], and later sealed behind the [[Bonewall]] by Lucifer's forces.
 Moldrex is evil — not indifferent like the [[Old Gods]], not merely opposed to Lucifer, but malicious in intent and purpose.
 Where Lucifer represents light, radiance, guidance, and civilization, Moldrex represents something that actively seeks to corrupt and consume.
 
 ### History
-Like all New Gods, Moldrex was once mortal — a figure who ascended during the chaotic period when the Old Gods' balance collapsed and mortals seized divine power for themselves.
+Like all New Gods, Moldrex was once mortal.
+Where [[Lucifer]] ascended first, in the chaos of the [[Old Gods and New Gods|Godstorm]] itself, Moldrex came to godhood later — one of those who followed in the generations after, as the [[Imperium Lucis Aeternae|Imperium]] was already rising and mortals went on seizing divine power for themselves.
 Who Moldrex was before ascending, and the specific nature of their grudge against Lucifer, is unknown.
 During the [[Imperium Lucis Aeternae|Imperium]] era, Lucifer's forces drove Moldrex beyond the [[Bonewall]] and erected the [[Thirteen Spines]] — a network of ward towers — to keep Moldrex's influence contained.
 Moldrex has been sealed in [[Öuth Krelt]] for centuries — long enough to plan, build followers, and prepare.
@@ -182,7 +183,8 @@ Moldrex acts through armies, followers, strategy, and purpose.
 The forces of Öuth Krelt are not a tide of mindless darkness — they are directed, intelligent, and pursuing specific goals.
 
 ### Current Situation
-The ancient wards of the [[Thirteen Spines]] are weakening — destabilized by the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
+The ancient wards of the [[Thirteen Spines]] are weakening — not from any fresh assault, but because the rites that once renewed them were lost when [[Sariel]]'s erasure unmade part of [[The Light]]'s history.
+The corrupted ritual at [[The Nodrum]] set that erasure in motion; the wards have gone untended ever since, their lapse forgotten along with the angel who anchored it.
 For the first time in living memory, the barrier that has held Moldrex's forces at bay is failing.
 [[The Light]] is aware that the wards are weakening but is hampered by internal disputes, theological confusion caused by gaps in their own history, and the general institutional decay of centuries of stagnation.
 
@@ -500,13 +502,13 @@ For a broader history of the old religion and its suppression, see [[Old Gods an
 
 Ruin was never meant to exist in isolation — it had a counterpart in **Renewal**.
 Without renewal's balance, centuries of pent-up ruinous energy were released all at once when the [[Seal of Unmaking]] was removed.
-Ruin's influence is carried by the party themselves (the "heralds of ruin"), destabilizing ancient wards and corrupting ley line energy.
-The corruption extends to altering reality itself — changing the past so things once protected are now ruined.
+Ruin's influence was carried by the party themselves (the "heralds of ruin") from [[Ashbrook]] until renewal was reborn beneath the Chryseum, and in that span it destabilized ancient wards and corrupted ley line energy.
+That corruption reached as far as reality itself — changing the past so things once protected became ruined — but it passed from the party when ruin and renewal were rejoined; they are heralds of ruin no longer.
 Ruin targets each person's core identity: protection ([[Sir Roderic Lightbearer|Roderic]]), knowledge ([[Garland yn Greenholt|Garland]]), inspiration ([[Edric Bloom|Edric]]), creation ([[Castor]]).
 According to both [[Dawnwarden Brenn]] and [[Luminary Severin Morrow]], ruin is not behaving as it should — acting like a wounded animal rather than a cunning natural force.
 Something has corrupted its release, and they suspect the Laughing One's interference.
 Brenn stated that Lucifer locked ruin away long ago, which started a chain reaction that caused renewal to go dormant, leading to centuries of stagnation and civilizational decline.
-Balance can be restored by reuniting the heralds of ruin with the heralds of renewal.
+Balance was restored by reuniting the heralds of ruin with the heralds of renewal — accomplished when all six gathered and the cocoon opened beneath the Chryseum ([[Session 5]]).
 
 ##### Those Who Honor Ruin
 
@@ -548,7 +550,7 @@ They come to Ruin not from philosophy but from need.
 - **The Second Chance** — whispered by those seeking redemption
 
 Renewal is ruin's counterpart among the old gods; without it, there is decay without rebirth.
-Renewal also has heralds who must be found and reunited with the heralds of ruin to restore balance.
+Renewal also had heralds who had to be found and reunited with the heralds of ruin to restore balance.
 The God of Renewal sleeps within a translucent cocoon in the [[Shrine of Renewal]], an ancient chamber beneath the Chryseum in [[Aurelion]].
 The cocoon inspires an instinctive, parental urge to protect it in all who behold it.
 The sleeping form within is never clearly resolved — just a curve, a shadow suggesting dormant but living presence.
@@ -596,6 +598,13 @@ The Trickster doesn't serve good or evil — they serve change, disruption, the 
 They lie, but sometimes their lies reveal deeper truths.
 They cause chaos, but sometimes that chaos breaks stagnant systems.
 
+**The two masks.**
+Where the [[The God of Forgetting|God of Forgetting]] wears its power as a single dread emanation in [[The Xan-Kor]], the Laughing One wears its own as a matched pair of masks — the old faces of Comedy and Tragedy.
+One is light: the wink and the prank, the laughter that punctures a pompous certainty and lets the air back in.
+The other is the [[Dark Harlequin]] — the same humor turned cruel, the joke that costs a life and laughs anyway.
+They are not two beings but two faces of one, and the god slides from the one to the other as the punchline demands.
+Like every emanation of the Old Gods, neither can truly be destroyed — only driven back, deferred, made to wear the other face for a while.
+
 ##### [[The Harlequins]]
 
 Followers of the Trickster.
@@ -622,7 +631,7 @@ It sent [[Garland yn Greenholt|Garland]] an uninvited vision of [[Mira]] and chi
 Claimed the Laughing One was responsible for [[Castor]]'s original beaver curse, calling it the god's greatest joke.
 Attempted to recruit [[Castor]] away from Renewal, offering a partnership of building and laughter.
 Demonstrated the ability to puppeteer a dead paladin's corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.
-Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse.
+Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse — though an emanation is not a thing a blade can end, and what wore that mask may yet find another face to return in.
 
 Harlequins captured, tortured, and killed an [[Order of the First Dawn]] paladin beneath the [[Chryseum|The Chryseum]] — an escalation from trickery to lethal violence.
 
@@ -876,7 +885,7 @@ A knightly order within the Church focused on redemption through deeds.
 - **The Chryseum** — The cathedral of the Light in [[Aurelion]], presided over by [[Luminary Severin Morrow]]; features a massive gold dome and a [[Whiteglass]] stained-glass window; built over an older, pre-Luciferian temple that conceals the [[Shrine of Renewal]]
 - **The Farus Lucis** — Great towers that symbolized the [[Imperium Lucis Aeternae|Imperium]]'s reach across the known world; most are now destroyed, with [[Beaconhold]]'s tower the last known intact example
 - **The Aurelion Vault** — Now known as [[The Nodrum]]; originally a facility used by the Light to contain [[The Xan-Kor]], a construct of the God of Forgetting, during the wars against the [[Old Gods]]; eventually abandoned by the Church and later rediscovered by [[The Triune]]
-- **The Bonewall** — Luciferian fortresses and wards along the mountain range, built to hold back threats from beyond; their protections are now crumbling as ruin's influence spreads
+- **The Bonewall** — Luciferian fortresses and wards along the mountain range, built to hold back threats from beyond; their protections are now crumbling, the rites that once renewed them lost to [[Sariel]]'s erasure
 
 #### Enforcement by Region
 Enforcement of the faith varies by region:
@@ -887,7 +896,7 @@ Enforcement of the faith varies by region:
 #### Associated Locations
 - [[Beaconhold]] — Kingdom where the Church is the state religion; home of the last intact Farus Lucis
 - [[Aurelion]] — The Chryseum cathedral; site of the current theological conflict between orthodox and heterodox factions
-- [[Bonewall]] — Luciferian fortresses and wards along the mountain range, now crumbling as ruin's influence spreads
+- [[Bonewall]] — Luciferian fortresses and wards along the mountain range, now crumbling, the rites that once renewed them lost to [[Sariel]]'s erasure
 - [[The Nodrum]] — Originally the Aurelion Vault, used by the Light to contain [[The Xan-Kor]] during the wars against the Old Gods
 - [[Marrow County]] — Deeply entwined with the Church through Count Marrow
 

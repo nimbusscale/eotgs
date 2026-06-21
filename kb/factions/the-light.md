@@ -132,7 +132,7 @@ A knightly order within the Church focused on redemption through deeds.
 - **The Chryseum** — The cathedral of the Light in [[Aurelion]], presided over by [[Luminary Severin Morrow]]; features a massive gold dome and a [[Whiteglass]] stained-glass window; built over an older, pre-Luciferian temple that conceals the [[Shrine of Renewal]]
 - **The Farus Lucis** — Great towers that symbolized the [[Imperium Lucis Aeternae|Imperium]]'s reach across the known world; most are now destroyed, with [[Beaconhold]]'s tower the last known intact example
 - **The Aurelion Vault** — Now known as [[The Nodrum]]; originally a facility used by the Light to contain [[The Xan-Kor]], a construct of the God of Forgetting, during the wars against the [[Old Gods]]; eventually abandoned by the Church and later rediscovered by [[The Triune]]
-- **The Bonewall** — Luciferian fortresses and wards along the mountain range, built to hold back threats from beyond; their protections are now crumbling as ruin's influence spreads
+- **The Bonewall** — Luciferian fortresses and wards along the mountain range, built to hold back threats from beyond; their protections are now crumbling, the rites that once renewed them lost to [[Sariel]]'s erasure
 
 ## Enforcement by Region
 Enforcement of the faith varies by region:
@@ -143,7 +143,7 @@ Enforcement of the faith varies by region:
 ## Associated Locations
 - [[Beaconhold]] — Kingdom where the Church is the state religion; home of the last intact Farus Lucis
 - [[Aurelion]] — The Chryseum cathedral; site of the current theological conflict between orthodox and heterodox factions
-- [[Bonewall]] — Luciferian fortresses and wards along the mountain range, now crumbling as ruin's influence spreads
+- [[Bonewall]] — Luciferian fortresses and wards along the mountain range, now crumbling, the rites that once renewed them lost to [[Sariel]]'s erasure
 - [[The Nodrum]] — Originally the Aurelion Vault, used by the Light to contain [[The Xan-Kor]] during the wars against the Old Gods
 - [[Marrow County]] — Deeply entwined with the Church through Count Marrow
 

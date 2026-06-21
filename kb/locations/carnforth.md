@@ -73,7 +73,7 @@ The second are the builders, the imperial laborers and soldiers who died raising
 Warden and builder lie mixed together below the tower, the kept and the makers, none of them brought home, all of them under the Last Spine at the edge of the king's reach.
 
 ## The Light Gone Out
-Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards weaken under the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
+Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards decay untended — the rites that once renewed them lost when [[Sariel]]'s erasure unmade part of [[The Light]]'s history, an erasure set in motion by the corrupted ritual at [[The Nodrum]].
 That the forgotten edge of the wall should be the first to fall is fitting and ominous in equal measure.
 
 ## The Lantern Necklace

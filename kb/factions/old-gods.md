@@ -50,13 +50,13 @@ For a broader history of the old religion and its suppression, see [[Old Gods an
 
 Ruin was never meant to exist in isolation — it had a counterpart in **Renewal**.
 Without renewal's balance, centuries of pent-up ruinous energy were released all at once when the [[Seal of Unmaking]] was removed.
-Ruin's influence is carried by the party themselves (the "heralds of ruin"), destabilizing ancient wards and corrupting ley line energy.
-The corruption extends to altering reality itself — changing the past so things once protected are now ruined.
+Ruin's influence was carried by the party themselves (the "heralds of ruin") from [[Ashbrook]] until renewal was reborn beneath the Chryseum, and in that span it destabilized ancient wards and corrupted ley line energy.
+That corruption reached as far as reality itself — changing the past so things once protected became ruined — but it passed from the party when ruin and renewal were rejoined; they are heralds of ruin no longer.
 Ruin targets each person's core identity: protection ([[Sir Roderic Lightbearer|Roderic]]), knowledge ([[Garland yn Greenholt|Garland]]), inspiration ([[Edric Bloom|Edric]]), creation ([[Castor]]).
 According to both [[Dawnwarden Brenn]] and [[Luminary Severin Morrow]], ruin is not behaving as it should — acting like a wounded animal rather than a cunning natural force.
 Something has corrupted its release, and they suspect the Laughing One's interference.
 Brenn stated that Lucifer locked ruin away long ago, which started a chain reaction that caused renewal to go dormant, leading to centuries of stagnation and civilizational decline.
-Balance can be restored by reuniting the heralds of ruin with the heralds of renewal.
+Balance was restored by reuniting the heralds of ruin with the heralds of renewal — accomplished when all six gathered and the cocoon opened beneath the Chryseum ([[Session 5]]).
 
 ### Those Who Honor Ruin
 
@@ -98,7 +98,7 @@ They come to Ruin not from philosophy but from need.
 - **The Second Chance** — whispered by those seeking redemption
 
 Renewal is ruin's counterpart among the old gods; without it, there is decay without rebirth.
-Renewal also has heralds who must be found and reunited with the heralds of ruin to restore balance.
+Renewal also had heralds who had to be found and reunited with the heralds of ruin to restore balance.
 The God of Renewal sleeps within a translucent cocoon in the [[Shrine of Renewal]], an ancient chamber beneath the Chryseum in [[Aurelion]].
 The cocoon inspires an instinctive, parental urge to protect it in all who behold it.
 The sleeping form within is never clearly resolved — just a curve, a shadow suggesting dormant but living presence.

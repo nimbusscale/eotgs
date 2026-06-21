@@ -1,6 +1,31 @@
 # Sessions
 
 
+## Session 8: A Cradle of Stone
+
+**Date Played:**
+
+### Recap-Teaser
+
+*The three roads have finally become one.*
+*Deep inside the **Bonewall**, in a hidden town built from the petrified bodies of its own dead, the old friends are together again — **Garland**, **Castor**, **Roderic**, and **Paxton** met at last, with young **Mira** speaking for them all in the grinding stone-tongue of the mountain.*
+*The **Slate** are dancing.*
+*For the first time in an age none of them can measure, a child has emerged from the rock — no births, no deaths, no aging for longer than their memory reaches, and now, suddenly, a single cradle that is full.*
+*It is a strange harbor, this town of the dead — but the Slate are warm, Paxton is mending in their care, and the road can wait a night.*
+
+*But the wall they crossed to reach this place is turning into something else.*
+*The grey vines that choke its ravines have begun to move of their own will, shrugging off fire and swelling to monstrous size; cat-sized spiders prowl the shale, creatures no warden has ever recorded; and to the north the Spine of **Carnforth** has gone fully and finally dark.*
+*Paxton has already felt the wall's new teeth — bitten near to death on the climb toward that darkness — and he alone has seen the face behind it: **Senna**, healing horrors with a scaled hand, reborn not in **Lucifer**'s light but in the vision of **Moldrex**.*
+*What was sealed beyond the mountains is bleeding back over the wall now, a little more of it every day.*
+
+*And this buried town is far more than a place to wait out the night.*
+*The **Slate** are a people of living stone — ageless, deathless, and birthless until a few days ago — memory and endurance made flesh, and the truest mirror **Mira** has yet found for the faith waking inside her.*
+*They hold a second ring of **Witch Stones** whose carvings **Garland** cannot read, though young Mira hears them speak; and for **Roderic** and **Paxton**, both sworn to the **Light**, this place stirs unexpected glimpses of something older and deeper in their faith than the Church above ever taught.*
+*Yet even here, deep in the warm heart of the mountain, **Castor** can feel it — the same stone that sang with welcome only days ago has begun to carry a wrong note from somewhere further down, something that should not be.*
+*Moldrex's rot has crept across the surface of the wall above them.*
+*The only question left is how deep it goes.*
+
+
 ---
 id: session-7
 type: session
@@ -118,7 +143,7 @@ Garland devoted his attention to the witch stones, intent on reproducing Mira's 
 
 - The relic Roderic's company sought in the Spinewright's tomb is named: [[The Spinewright's Lantern]], a portable version of the great wards atop the [[Thirteen Spines]], whose flame pushes back [[Öuth Krelt]] for miles and purifies the land its light touches. It is missing; the company never recovered it.
 - [[Senna]] did not die and return the way Paxton did — she was not killed and resurrected but transformed and "reborn" only in a metaphysical sense in the vision of [[Moldrex]], a change she accepted. Paxton's spontaneous resurrection is genuinely rare, divine, and unrelated to any ritual.
-- The Bonewall wards and the Thirteen Spines are failing as a side effect of [[Sariel]]'s erasure from history, compounded by the party — the heralds of ruin — whose ruinous energies struck at that same unmaking.
+- The Bonewall wards and the Thirteen Spines are failing as a side effect of [[Sariel]]'s erasure from history: the rites by which [[The Light]] once renewed the wards were lost along with the angel, so the wards decay untended while no one remembers they were ever tended at all. The party's hand in this is indirect and already behind them — it was their ruin, back at [[The Nodrum]], that let the [[The Xan-Kor|Xan-Kor]] work the erasure — but that ruin passed from them when renewal was reborn beneath the Chryseum; they are no longer heralds of ruin and carry its influence no longer.
 - The three scattered threads converged: Paxton, Roderic, and the Garland–Castor–Mira group reunited underground in the town of the Slate, bringing the party back together (minus [[Edric Bloom|Edric]]) and joining Paxton to the group in play.
 
 ### Notable NPCs Introduced
@@ -209,7 +234,7 @@ images:
 ## Session 6: Three Roads to the Bonewall
 
 **Date Played:** 2026-05-30
-**In-Game Timeline:** The days before the heralds reunite, each moving alone through the changed world
+**In-Game Timeline:** The days before the party reunite, each moving alone through the changed world
 
 ### Recap-Teaser
 > Three threads, three places, one wound widening.
@@ -217,7 +242,7 @@ images:
 > The party is scattered along the Bonewall now — and the next time the dawn breaks, it will break over all of them at once.
 
 ### Summary
-The reunion was still days off, and so each herald moved alone through the changed world, and each found the same rot wearing a different face.
+The reunion was still days off, and so each of them moved alone through the changed world, and each found the same rot wearing a different face.
 
 In Beaconhold, [[Sir Roderic Lightbearer|Roderic]] returned to a faith he no longer recognized.
 The Light that had once stood unified in the city had fractured into bickering factions, and the rites and scripture he remembered no longer matched what the churches now taught.
@@ -240,7 +265,7 @@ She stepped through.
 Garland recognized the gate-craft as a far stronger echo of magic he had once owned and lost; Castor became wind and rushed after her; Garland broke free of Vask, was tackled by Iyer, and with a desperate threat bent the sergeant to defy his own captain and grant him the chance to follow.
 Both old friends crossed the threshold before it closed.
 
-Far to the northeast, in the marshy [[The Reaches|Reaches]] below the Bonewall, the newest herald told his story.
+Far to the northeast, in the marshy [[The Reaches|Reaches]] below the Bonewall, the newest of their number told his story.
 [[Paxton Lumnus]], a dock worker's son turned Spinewarden, had been stationed at the failing spine of [[Bonewall|Hallowreach]] when its wards began to die.
 When an elder's ritual demanded a life to renew the seal, Paxton volunteered, died, and was honored and entombed — only to wake at dawn in the mausoleum with the Light burning in his chest and a terrible certainty that the whole system of protection was flawed.
 Bound for [[Aurelion]] to confront the church, he heard that the northernmost spine, Carnforth, had gone dark, and turned back toward the wall.
@@ -269,7 +294,7 @@ Paxton answered with fire, burning the barge down to the waterline and throwing 
 
 ### Questions Answered / Arcs Advanced
 - **Resolved:** What happened to Roderic's lost battalion, and how did he become a knight-errant? — His company died in the tomb of the hero who stopped the darkness, seeking a relic to push past the Bonewall; Roderic woke as the only survivor among mutilated dead, was cast out under suspicion, and was made a knight-errant by Griswald, the one man who believed him innocent. (What the relic and tomb truly were, and what happened that night, remain unknown.)
-- **The Forgotten and the Forsaken:** The forgetting moved from rumor to evidence — Sariel's bust vanished without a trace of dust, the clergy can no longer remember him, and the faithful are disappearing overnight. The threat behind the failing wards gained a name: [[Moldrex]]. The heralds converged on the Bonewall — Mira opened a portal there, Garland and Castor followed, Paxton is already in the Reaches, and Roderic has been charged to ride for the failing towers.
+- **The Forgotten and the Forsaken:** The forgetting moved from rumor to evidence — Sariel's bust vanished without a trace of dust, the clergy can no longer remember him, and the faithful are disappearing overnight. The threat behind the failing wards gained a name: [[Moldrex]]. The party converged on the Bonewall — Mira opened a portal there, Garland and Castor followed, Paxton is already in the Reaches, and Roderic has been charged to ride for the failing towers.
 - **Sir Roderic Lightbearer — Redemption:** The wound at the root of Roderic's exile surfaced, and his mentor Griswald — who alone believed in him — is now missing. An inquisitor he once opposed made him an uneasy ally, while Roderic alone still remembers the erased hero Sariel.
 - **Garland yn Greenholt — Uncover the Truth:** Garland's history deepened — a second family a century back from which Aldric and Rowan descend, and the Witch Stones as the source of his lost magic. The stones proved able to open a portal to a matching ring on the Bonewall, just as Aldric's reach over the Vale closed in.
 - **Castor — Renewal's Chosen:** Castor came into a new elemental shapeshifting power, becoming wind to chase Mira through the portal. His role among the beavers was established — the elder who built the Great Beaver Dam — and so was the fracture now tearing the colony apart under the upstart [[Tamarack]].

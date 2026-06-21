@@ -36,12 +36,12 @@ The erasure is now manifesting physically: in [[Session 6]], [[Sariel]]'s bust v
 **Related:** [[Bonewall]], [[The Light]], [[Moldrex]], [[Öuth Krelt]], [[Thirteen Spines]]
 
 The [[Thirteen Spines]] — thirteen ward towers along the [[Bonewall]] — have held back [[Moldrex]], an evil New God sealed in [[Öuth Krelt]] beyond the mountains.
-The ancient wards are now weakening as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
+The ancient wards are now weakening because the rites that once renewed them were lost when [[Sariel]]'s erasure unmade part of [[The Light]]'s history — an erasure set in motion by the corrupted ritual at [[The Nodrum]]; the wards now decay untended and unremembered.
 Moldrex acts through armies, followers, and strategy — the forces of Öuth Krelt are directed and intelligent, pursuing specific goals.
 Moldrex wants something from the [[Solvium]] and has been waiting for an opportunity to reach it.
 What Moldrex seeks and whether the party's actions have inadvertently enabled the breach are open questions.
 In [[Session 6]] the threat gained a clearer shape: Carnforth, the northernmost Spine, went fully dark, and the warden [[Senna]] — who died at a failing tower and was reborn "in the vision of Moldrex," scaled and reptile-eyed — revealed that Moldrex may be remaking the wardens who fall, raising the question of whether every Spinewarden who dies at the towers returns as its servant.
-In [[Session 7]] the cause came clearer still: the wards are failing as a side effect of [[Sariel]]'s erasure from history (see *Lucifer's Champion*), compounded by the party — the heralds of ruin — whose ruinous energies struck at that same unmaking.
+In [[Session 7]] the cause came clearer still: the wards are failing as a side effect of [[Sariel]]'s erasure from history (see *Lucifer's Champion*) — the rites that once renewed them lost along with the angel, so the wards decay untended and unremembered. The party's part is indirect and already behind them: their ruin at [[The Nodrum]] let the erasure happen, but that ruin left them when renewal was reborn, and they are heralds of ruin no longer.
 The corruption is already bleeding through the weakening wards: the Bonewall's grey vines have begun to move, resist fire, and grow monstrous, harboring giant spiders unrecorded even by the wardens, and a hidden order or cult marked by [[The Spinewright's Lantern|the lantern necklace]] — tied to the figure [[Roland]] — is working to keep [[Sir Roderic Lightbearer|Roderic]] from the [[Tomb of the Spinewright]].
 
 ## The Vanishing Faithful

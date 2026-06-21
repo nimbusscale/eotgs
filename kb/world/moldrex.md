@@ -25,7 +25,8 @@ Moldrex acts through armies, followers, strategy, and purpose.
 The forces of Öuth Krelt are not a tide of mindless darkness — they are directed, intelligent, and pursuing specific goals.
 
 ## Current Situation
-The ancient wards of the [[Thirteen Spines]] are weakening — destabilized by the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
+The ancient wards of the [[Thirteen Spines]] are weakening — not from any fresh assault, but because the rites that once renewed them were lost when [[Sariel]]'s erasure unmade part of [[The Light]]'s history.
+The corrupted ritual at [[The Nodrum]] set that erasure in motion; the wards have gone untended ever since, their lapse forgotten along with the angel who anchored it.
 For the first time in living memory, the barrier that has held Moldrex's forces at bay is failing.
 [[The Light]] is aware that the wards are weakening but is hampered by internal disputes, theological confusion caused by gaps in their own history, and the general institutional decay of centuries of stagnation.
 

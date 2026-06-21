@@ -56,7 +56,7 @@ images:
 # Session 6: Three Roads to the Bonewall
 
 **Date Played:** 2026-05-30
-**In-Game Timeline:** The days before the heralds reunite, each moving alone through the changed world
+**In-Game Timeline:** The days before the party reunite, each moving alone through the changed world
 
 ## Recap-Teaser
 > Three threads, three places, one wound widening.
@@ -64,7 +64,7 @@ images:
 > The party is scattered along the Bonewall now — and the next time the dawn breaks, it will break over all of them at once.
 
 ## Summary
-The reunion was still days off, and so each herald moved alone through the changed world, and each found the same rot wearing a different face.
+The reunion was still days off, and so each of them moved alone through the changed world, and each found the same rot wearing a different face.
 
 In Beaconhold, [[Sir Roderic Lightbearer|Roderic]] returned to a faith he no longer recognized.
 The Light that had once stood unified in the city had fractured into bickering factions, and the rites and scripture he remembered no longer matched what the churches now taught.
@@ -87,7 +87,7 @@ She stepped through.
 Garland recognized the gate-craft as a far stronger echo of magic he had once owned and lost; Castor became wind and rushed after her; Garland broke free of Vask, was tackled by Iyer, and with a desperate threat bent the sergeant to defy his own captain and grant him the chance to follow.
 Both old friends crossed the threshold before it closed.
 
-Far to the northeast, in the marshy [[The Reaches|Reaches]] below the Bonewall, the newest herald told his story.
+Far to the northeast, in the marshy [[The Reaches|Reaches]] below the Bonewall, the newest of their number told his story.
 [[Paxton Lumnus]], a dock worker's son turned Spinewarden, had been stationed at the failing spine of [[Bonewall|Hallowreach]] when its wards began to die.
 When an elder's ritual demanded a life to renew the seal, Paxton volunteered, died, and was honored and entombed — only to wake at dawn in the mausoleum with the Light burning in his chest and a terrible certainty that the whole system of protection was flawed.
 Bound for [[Aurelion]] to confront the church, he heard that the northernmost spine, Carnforth, had gone dark, and turned back toward the wall.
@@ -116,7 +116,7 @@ Paxton answered with fire, burning the barge down to the waterline and throwing 
 
 ## Questions Answered / Arcs Advanced
 - **Resolved:** What happened to Roderic's lost battalion, and how did he become a knight-errant? — His company died in the tomb of the hero who stopped the darkness, seeking a relic to push past the Bonewall; Roderic woke as the only survivor among mutilated dead, was cast out under suspicion, and was made a knight-errant by Griswald, the one man who believed him innocent. (What the relic and tomb truly were, and what happened that night, remain unknown.)
-- **The Forgotten and the Forsaken:** The forgetting moved from rumor to evidence — Sariel's bust vanished without a trace of dust, the clergy can no longer remember him, and the faithful are disappearing overnight. The threat behind the failing wards gained a name: [[Moldrex]]. The heralds converged on the Bonewall — Mira opened a portal there, Garland and Castor followed, Paxton is already in the Reaches, and Roderic has been charged to ride for the failing towers.
+- **The Forgotten and the Forsaken:** The forgetting moved from rumor to evidence — Sariel's bust vanished without a trace of dust, the clergy can no longer remember him, and the faithful are disappearing overnight. The threat behind the failing wards gained a name: [[Moldrex]]. The party converged on the Bonewall — Mira opened a portal there, Garland and Castor followed, Paxton is already in the Reaches, and Roderic has been charged to ride for the failing towers.
 - **Sir Roderic Lightbearer — Redemption:** The wound at the root of Roderic's exile surfaced, and his mentor Griswald — who alone believed in him — is now missing. An inquisitor he once opposed made him an uneasy ally, while Roderic alone still remembers the erased hero Sariel.
 - **Garland yn Greenholt — Uncover the Truth:** Garland's history deepened — a second family a century back from which Aldric and Rowan descend, and the Witch Stones as the source of his lost magic. The stones proved able to open a portal to a matching ring on the Bonewall, just as Aldric's reach over the Vale closed in.
 - **Castor — Renewal's Chosen:** Castor came into a new elemental shapeshifting power, becoming wind to chase Mira through the portal. His role among the beavers was established — the elder who built the Great Beaver Dam — and so was the fracture now tearing the colony apart under the upstart [[Tamarack]].

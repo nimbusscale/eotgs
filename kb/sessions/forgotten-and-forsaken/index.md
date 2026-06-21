@@ -10,10 +10,10 @@ name: The Forgotten and the Forsaken
 **Status:** Active
 
 The cocoon opened and the world breathed, but balance is not peace.
-Renewal has awakened within the Shrine, yet ruin's passage has left scars no ceremony can heal — and now something is being forgotten at a scale larger than any single herald's curse.
+Renewal has awakened within the Shrine, yet ruin's passage has left scars no ceremony can heal — and now something is being forgotten at a scale larger than the curse any one of them once carried.
 Along the [[Bonewall]] the wards are failing, the faithful are vanishing, and the hero [[Sariel]] is being unmade from memory and record.
 
-The heralds are scattered and converging on the Bonewall, each finding the same rot wearing a different face.
+The party were scattered and converging on the Bonewall, each finding the same rot wearing a different face.
 
 In [[Session 7]] the three threads finally met, deep inside the wall, in the hidden town of [[The Slate|the Slate]] — a people of living stone whose ageless, deathless, birthless stasis has just broken with the first child born among them in living memory.
 

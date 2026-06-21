@@ -115,7 +115,7 @@ Garland devoted his attention to the witch stones, intent on reproducing Mira's 
 
 - The relic Roderic's company sought in the Spinewright's tomb is named: [[The Spinewright's Lantern]], a portable version of the great wards atop the [[Thirteen Spines]], whose flame pushes back [[Öuth Krelt]] for miles and purifies the land its light touches. It is missing; the company never recovered it.
 - [[Senna]] did not die and return the way Paxton did — she was not killed and resurrected but transformed and "reborn" only in a metaphysical sense in the vision of [[Moldrex]], a change she accepted. Paxton's spontaneous resurrection is genuinely rare, divine, and unrelated to any ritual.
-- The Bonewall wards and the Thirteen Spines are failing as a side effect of [[Sariel]]'s erasure from history, compounded by the party — the heralds of ruin — whose ruinous energies struck at that same unmaking.
+- The Bonewall wards and the Thirteen Spines are failing as a side effect of [[Sariel]]'s erasure from history: the rites by which [[The Light]] once renewed the wards were lost along with the angel, so the wards decay untended while no one remembers they were ever tended at all. The party's hand in this is indirect and already behind them — it was their ruin, back at [[The Nodrum]], that let the [[The Xan-Kor|Xan-Kor]] work the erasure — but that ruin passed from them when renewal was reborn beneath the Chryseum; they are no longer heralds of ruin and carry its influence no longer.
 - The three scattered threads converged: Paxton, Roderic, and the Garland–Castor–Mira group reunited underground in the town of the Slate, bringing the party back together (minus [[Edric Bloom|Edric]]) and joining Paxton to the group in play.
 
 ## Notable NPCs Introduced

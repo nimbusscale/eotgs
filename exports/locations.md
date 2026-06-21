@@ -529,7 +529,10 @@ A long-hidden ritual was offered to anchor the Light directly, but it required a
 The northernmost Spine, [[Carnforth]], marks the very edge of [[Beaconhold]]'s territory and the king's reach, where the wall breaks down into the marsh of [[The Reaches]].
 Its light has now gone out — the first of the thirteen to go fully dark.
 
-The ancient wards are now beginning to weaken as ruin's influence spreads, destabilized by the corrupted ritual at [[The Nodrum]].
+The ancient wards are now failing — not under any fresh assault, but from a neglect no one knows they are committing.
+The corrupted ritual at [[The Nodrum]] let the [[The Xan-Kor|Xan-Kor]] strike [[Sariel]] from history, and that erasure changed [[The Light]] at its root: among the things lost along with the angel were the rites by which the Light once renewed the wards.
+No longer performed and their very memory forgotten, the rites have left the wards to wither unrenewed, while the [[Spinewardens]] garrison towers they no longer know how to recharge.
+No one in the Light remembers enough to grasp what has lapsed; they see only the Spines weakening, [[Carnforth]] gone dark, and [[Öuth Krelt]] pressing against what remains.
 Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy delta of [[The Reaches]].
 
 ### Connected Locations
@@ -624,7 +627,7 @@ The second are the builders, the imperial laborers and soldiers who died raising
 Warden and builder lie mixed together below the tower, the kept and the makers, none of them brought home, all of them under the Last Spine at the edge of the king's reach.
 
 ### The Light Gone Out
-Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards weaken under the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
+Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards decay untended — the rites that once renewed them lost when [[Sariel]]'s erasure unmade part of [[The Light]]'s history, an erasure set in motion by the corrupted ritual at [[The Nodrum]].
 That the forgotten edge of the wall should be the first to fall is fitting and ominous in equal measure.
 
 ### The Lantern Necklace

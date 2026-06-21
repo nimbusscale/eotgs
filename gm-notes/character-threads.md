@@ -22,7 +22,7 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - Previously consulted [[The Triune]] about [[Castor]]'s curse but kept the druid's true identity secret
 - Known as "Lord Greenholt" in the [[Ashen Vale]] — widely recognized and must disguise himself to move unnoticed
 - The Aldric livery mystery resolved as a Harlequin trick, but broader questions about [[Aldric Garlandsson|Aldric]] remain
-- His herald curse — the herald of forgetting — causes knowledge to be lost and people to forget things in his proximity
+- His herald curse — the herald of forgetting — caused knowledge to be lost and people to forget things in his proximity; its active spread ended when renewal was reborn (the rebirth stripped the heralds' ruinous influence), but the losses it already worked persist and have not returned
 - **Garland–Iyer favor (strategic angle):** the bond itself is recorded on [[Garland yn Greenholt|Garland]]'s `## Favors` section (its source of truth) — what's GM-private here is the lever: [[Sergeant Iyer]]'s open defiance of [[Captain Vask]] before the families and soldiers will bring trouble down on him from the captain and from [[Aldric Garlandsson|Aldric]], and Garland's life-sworn debt to him can be pulled either way as that fallout unfolds
 - His spellbook responded to residual renewal energy at the [[Shrine of Renewal]], growing slightly stronger — the first real hope that knowledge stolen by the forgetting curse could be recovered
 - The loss of [[Rowan yn Greenholt]] and the fall of [[Ashbrook]] remain emotionally unresolved

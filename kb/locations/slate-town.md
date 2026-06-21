@@ -7,6 +7,19 @@ aliases:
 - Slate Town
 - Town of the Slate
 part_of: bonewall
+images:
+  hero:
+    file: slate-town-cutaway-map.jpg
+    alt: Isometric cutaway map of Muistola
+    description: 'Hand-painted isometric cutaway map of Muistola inside the Bonewall:
+      a cross-section through the mountain showing the town''s built halls whose
+      columns and walls are its petrified ancestors, the witch-stone ring and vine-choked
+      cave on the surface ridge, the central birthing pool, glyph-carved memory halls,
+      and the stair descending into the amber depths. Use as the reference for the
+      town''s layout and overall look.'
+    prompt: config/image/prompts/slate-town-cutaway-map.json
+    subjects:
+    - slate-town
 ---
 # Muistola
 

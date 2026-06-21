@@ -1,0 +1,29 @@
+{
+  "title": "Muistola — Isometric Cutaway Map",
+  "purpose": "The canonical reference map of Muistola, the Slate's hidden town inside the Bonewall: a hand-painted isometric cutaway through the mountain showing the town's built halls, sacred chambers, and the descent into the deep. This is a stylized cartographic artifact, NOT a grounded establishing photo — it is rendered as an old TTRPG lore-map / cutaway-dungeon-map. Use it as the hero plate for the Slate Town location and as an in-play reference for the layout of the town. Because of its distinct map style, generate it DIRECTLY (bypassing the grounded house-style composer), not as an injected scene reference.",
+  "subject": "A wide cutaway cross-section of an underground town carved inside a grey mountain wall. The town and its architecture are the subject; any stone-folk present are low-detail and incidental.",
+  "core_aesthetic": {
+    "the_architecture_is_the_dead": "The signature look: Muistola is a BUILT town whose architecture is made of its own honored dead. Gothic arched doorways, vaulted and pillared halls, terraced carved dwellings with arched windows and balconies, stone bridges and stairways thread the living rock — and the petrified humanoid ancestors are the MATERIAL of it all: the columns, the caryatid pillars, the lintels and door-jambs, and relief figures half-emerging from the facade walls. It must read as constructed dwellings, never as an open cavern of free-standing statues.",
+    "the_light": "Carved halls glow with warm amber candle-light pooling in their niches, while cool teal bioluminescent moss traces the floors, seams, and water threads (matching the Session 7 look). The deepest level warms to a buried amber glow rising from far below.",
+    "the_surface": "Along the top, a section of the bleak grey Bonewall ridge of dead shale under soft pale daylight: a rough ring of weathered standing stones (the second Witch Stone ring) on open rock, and nearby a low cave-mouth choked with oversized, discolored, unnatural grey vines, scorched where they were recently burned. One side of the wall only — the far side never appears.",
+    "the_chambers": "Distinct spaces read across the cut: the great pillared Hall of the Settled strewn with celebration garlands (the first child); a central rounded birthing hollow (the Cradle-Hollow) holding a calm, still teal pool ringed by warm glow; quiet side-niches of small still forms; and a deep carved chamber of glyph-covered memory-stones. At one lower corner a great stair descends into the amber depths.",
+    "emotional_register": "Ancient, hushed, sacred — a living mountain that is at once a tomb and a cradle. Reverent, weathered, never garish."
+  },
+  "setting": "A horizontal cross-section sliced open through the mountain: the grey shale ridge with witch-stone ring and vine-choked cave along the top, a thin thread of water spilling down into teal basins, the built halls of the town stepped across the width and down in depth, and the amber-glowing descent at the bottom.",
+  "composition": "A wide isometric (axonometric) cutaway that rewards a second look. Layered, offset chambers linked by stairs and bridges; the petrified-ancestor architecture is the star, water and lighting subordinate to it. The left and right edges read as continuous solid grey mountain rock and carved stonework — NO protruding tunnel mouths or conduit openings. Framed by an ornate parchment border with gothic filigree corners, a spiral medallion (a Godstorm motif) centered at top, and an interlaced stone-knot panel along the bottom; a small clean lower-right corner left empty.",
+  "lighting": "Soft pale daylight on the surface ridge; cool shadow in the upper interior; warm amber candle-glow in the carved halls; cool teal bioluminescent moss along floors and seams; a deep buried amber glow rising from the lowest descent.",
+  "mood": "Ancient, hushed, sacred; tomb-and-cradle reverence.",
+  "palette": "Muted earthy base — bone-grey and warm tan stone, teal-green underground water and moss-light, warm amber candle-glow and amber depths. Restrained and weathered, not garish; warm aged-paper outside the frame.",
+  "medium": "Hand-painted fantasy cartography: clean dark-brown ink linework with layered watercolor and gouache shading; a TTRPG lore-map / cutaway-dungeon-map hybrid.",
+  "aspect_ratio": "16:9 landscape — wide cutaway cross-section",
+  "do_not_include": [
+    "text, letters, labels, words, or captions baked into the art",
+    "the far side of the wall / Outh Krelt, blight, or any second darkened horizon — one side of the wall only",
+    "an open cavern full of free-standing identical statues — the dead must be built INTO the architecture",
+    "protruding tunnel mouths or conduit openings on the left or right edges — the edges are solid rock",
+    "a child or humanoid figure in the central birthing chamber — it is a still pool",
+    "gendered or bearded 'dwarf' reads for the stone-folk; keep any figures low-detail and non-portrait",
+    "mutated vines anywhere but the single surface cave-mouth",
+    "photorealism, garish saturated colors, neon, lens flare, sci-fi, modern objects, gore"
+  ]
+}

@@ -31,6 +31,17 @@ She heard the stones "calling," promising safety, and dreamed of the Bonewall si
 Channeling the stones, she can now cast Tongues: when she turns it on the [[The Slate|Slate]] she speaks their grinding stone-tongue but cannot be understood in any human language, making her the party's only translator with the Slate.
 A sanctuary she establishes counts as a home for those bonded to her through the stones.
 
+## Faith
+The [[Witch Stones]] are Mira's deity, and her calling is to revive their worship — a creed she understands the lost line of the [[Greenholt Bloodline|Greenholt blood]] once kept, and means to bring back to the people.
+Its tenets, as she frames them, all return to the land:
+- **Domain:** the earth, and the living things that crawl and grow upon it — *the land abides.*
+- **Aspect:** endurance, inevitability, remembrance — *the land endures.*
+- **Worshippers:** the lost faithful of the Greenholt blood, whose creed she is called to restore — *the land provides.*
+- **Enemies:** the despoilers of the past, the rootless, and the revelers in the ephemeral — *the land remembers.*
+- **Demands:** preserve what must endure, and leave the world stronger for those who come after — *the land survives.*
+
+What power truly answers through the stones — and whether it is kin to the deep stone the [[The Slate|Slate]] are born from — she does not yet know.
+
 ## Relationships
 - [[Aldric Garlandsson]] — Her father
 - [[Garland yn Greenholt]] — Her great-grandfather, whom she calls "Pappy"; she has declared herself his apprentice, though he is the more reluctant party

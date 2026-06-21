@@ -82,7 +82,7 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 - **Shapeshift** — Adapted from Unlimited Dungeons; the shift always succeeds, but the roll determines nature points earned; on partial successes in shifted form, spend a nature point or revert; running out of nature points forces revert to human; beaver form is exempt (always free)
 - **Attunement** — Bond with a creature to add it to his Attuned list
 - **Commune** — Speak with the natural world to gain insight
-- **At One With The World** — Deep connection to the natural order
+- **At One With The World** — Deep connection to the natural order; he can extend the bond toward the [[The Slate|Slate]], reading the mountain's and the creatures' intent as wordless "vibes" rather than speech, and felt the Bonewall celebrating something new at his arrival
 
 **Attuned Creatures:**
 - Beaver (instinct: reshape the world)
@@ -160,6 +160,7 @@ His short time adventuring, the breaking of his vow of celibacy, and the growing
 He finds himself burdened with a mid-life crisis despite having spent far more of his life as a wetland creature than a man.
 He no longer wants merely to reclaim his humanity — he wants to learn what his mitigated curse is truly capable of, suspecting destiny has marked him as something unusual.
 There is no getting around it, though: this is a man who has spent human lifetimes as a beaver.
+Passing through Mira's portal in wind form gave him a sudden, rare moment of clarity — a vision of the valley before the [[Beaconhold|Beacon]] was built and of his own lost life as a young carpenter in the early days of the [[Imperium Lucis Aeternae|Imperium]], a glimpse of the man beneath the centuries of beaver before it slipped away again.
 
 #### Castor's Offspring
 [[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
@@ -178,6 +179,7 @@ What this role means and what it demands of him is unresolved.
 - [[Session 4]] — Shapeshifted into a mouse with a beaver-like head to steal dungeon keys and free [[Sir Roderic Lightbearer|Roderic]]; gnawed through a chair leg, a guard's key strap, and wood for barricades; freed Harlequin prisoners; the mouse transformation locked him out of beaver form; felt the interlocking herald connection at the [[Shrine of Renewal]]
 - [[Session 5]] — Communed with the dormant [[God of Renewal|The God of Renewal]] at the [[Shrine of Renewal]], feeling an overwhelming sense of homecoming; confronted the [[Dark Harlequin|The Dark Harlequin]] who tried to recruit him and claimed the [[Laughing One|The Laughing One]] cursed him; touched the cocoon and received a vision of himself as protector; shifted into a wolverine and drove off the Dark Harlequin; built a dam-like barricade to fortify the Shrine entrance; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — At a Sunday dinner at the [[Witch Stones]], confronted [[Captain Vask]]'s delegation in beaver form, introducing himself as "Garland's uncle"; defended the beavers against the Vale's three great families; learned Aldric somehow knew the beaver could speak; dissolved into wind for the first time to chase [[Mira]] through the Witch Stone portal onto the [[Bonewall]]
+- [[Session 7]] — Came through the portal in wind form and was struck by a vision of his lost life as a young carpenter before the curse; opened his bond to the world and felt the mountain celebrating the [[The Slate|Slate]]'s first child; reunited with [[Sir Roderic Lightbearer|Roderic]] and met [[Paxton Lumnus|Paxton]] in the Slate's hidden town
 
 
 ---
@@ -361,6 +363,10 @@ He now shelters and mentors [[Mira]] at the Witch Stones, helping her heal from 
 When she commanded the stones to tear open a portal onto the [[Bonewall]], Garland recognized the gate-craft as a far more powerful form of magic he had once owned and has since lost.
 To follow her through it he Favored [[Sergeant Iyer]] and swore to bring her back to [[Crownvale]] on his own life, and crossed the threshold to the Bonewall alongside [[Castor]].
 
+On the Bonewall he found a second ring of Witch Stones, twin to his own but carved in an unreadable runic language and worn nearly silent — his connection to them faint and distant, like a worn-out battery beside a fresh one.
+Having watched Mira's grasping-gate and now studied this far ring, he intends to recreate that long-distance gate as a ritual to send her safely home.
+When the party met the resurrected [[Paxton Lumnus|Paxton]], Garland privately recognized the sigil of his return as the mark of what his youth had called the "unborn" — those reborn through the Light — but kept the knowledge to himself rather than confront him.
+
 ### Religion
 Has never had much use for gods.
 
@@ -388,6 +394,7 @@ Has never had much use for gods.
 - His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
 - [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
 - [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
+- [[Paxton Lumnus]] — Newly met on the Bonewall; Garland silently recognized the sigil of Paxton's resurrection as the mark of the "unborn" his youth knew, and has chosen to keep that recognition secret for now
 
 ### Favors
 
@@ -404,7 +411,8 @@ He would be very interested in investigating other Witch Stones if they exist el
 On returning to them in the downtime he felt a renewed connection unlike the one he built through centuries of study — one that returns magic without knowledge.
 And he is not the only one who hears them: his great-granddaughter [[Mira]] hears the stones as actual words, not the grinding of the earth, raising the question of why the stones speak so differently to her.
 The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]].
-Whether they connect to still more rings, or form a wider network, is unknown.
+That far ring is twin to his own yet carved in a wholly different, unreadable runic language, and his bond to it is faint and distant — evidence that the stones may form a wider network and hold secrets he never learned.
+He now means to study the Bonewall ring closely, both to read what it says and to reproduce Mira's long-distance gate as a ritual that could send her safely home to [[Crownvale]].
 
 #### Garland's Reluctant Apprentice
 [[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.
@@ -444,6 +452,7 @@ How Aldric sees and hears so much, whether the ravens are his eyes, and what his
 - [[Session 4]] — Followed [[Captain Eisen Dorn]] through the tunnels to find [[Sir Roderic Lightbearer|Roderic]]; shattered an Aureate guard's sword with [[Second Harvest]]; challenged [[Luminary Severin Morrow|Severin]]'s claim to be a herald of renewal; descended into the [[Shrine of Renewal]] where his spellbook responded to renewal energy; felt the interlocking herald connection
 - [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Hosted a Sunday dinner at the [[Witch Stones]] with [[Castor]] and [[Mira]]; faced [[Captain Vask]]'s delegation, conceding Mira's return while defending Castor and the beavers; recognized Mira's portal as gate-craft he once knew and lost; broke Vask's grip, was tackled by [[Sergeant Iyer]], then Favored Iyer and swore on his life to compel him aside, crossing the portal to the [[Bonewall]] after Mira and Castor
+- [[Session 7]] — Came through the portal to the Bonewall's second ring of Witch Stones, again losing a memory to the curse as he crossed; found the ring carved in an unreadable tongue and worn nearly silent; met the [[The Slate|Slate]], privately recognized [[Paxton Lumnus|Paxton]]'s resurrection-sigil as the mark of the "unborn" and said nothing, and resolved to study the ring as a ritual gate to send Mira home
 
 
 ---
@@ -494,6 +503,7 @@ Act callously or recklessly about death.
 ### Background
 Paxton was born along the [[Eastern Rivers]] in [[Havens Reach]], a stagnant port town built in the bones of a much larger Imperium-era city where the lake, the rivers, and [[Beaconhold]] all meet.
 Tired of the city's unchanging rhythms, he enlisted with the [[Spinewardens]] to serve the [[The Light|Light]] where it mattered most.
+He served as a regular [[Spinewardens|Spinewarden]], not a chaplain, and once saw a chaplain stationed at [[Carnforth]] wearing [[The Spinewright's Lantern|the Spinewright's lantern]] as a necklace — an oddity, since the wardens do not normally wear it.
 He was stationed at the Spine called [[Hallowreach]] when the wards began to fail and something from beyond the [[Bonewall]] pressed through.
 
 The garrison held as long as it could, but it became clear the Spine would fall.
@@ -513,6 +523,7 @@ The Light, as he has come to know it, does not lie, but it may show uncomfortabl
 ### Key Traits & Abilities
 
 **Background:** Dawn Unending (Heart of the Phoenix) — he sacrificed his entire being and was returned to life with the Light in his heart; when he Crumbles he does not truly die but returns to life when everyone next Settles In, and each time he comes back something is different.
+His spontaneous resurrection is genuinely rare and ill-understood — a divine act unrelated to any ritual, and unlike [[Senna]], who was not raised from death at all but transformed and "reborn" only in a metaphysical sense in the vision of [[Moldrex]].
 
 **Moves:**
 - **Lightbrand** — He can move, shape, and create light; his light is Distinctive, Fiery (it burns, sears, and ignites), and Near, with the chosen traits Restrained (allies gain +1 Armor against it) and Spontaneous (he can create light, not merely manipulate existing fire).
@@ -535,7 +546,10 @@ When the Light stirs in him, he goes unnervingly still before acting.
 He loves dawn over water, hot black tea, the sound of harbor work beginning before the city wakes, and plain soldier's food; he hates enclosed spaces and sometimes wakes in a cold sweat, remembering the mausoleum.
 
 ### Relationships
-- [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, revealed to have been reborn in the vision of [[Moldrex]]; Its presumed he killed her when he burned her barge in the [[The Reaches|Reaches]]
+- [[Senna]] — A fellow [[Spinewardens|Spinewarden]] he served with, who was not killed and resurrected as he was but transformed and "reborn" in the vision of [[Moldrex]]; he burned her barge in the [[The Reaches|Reaches]] to escape, killing her and a family hidden among the cargo
+- [[Sir Roderic Lightbearer]] — Met for the first time in the [[The Slate Town|Slate town]]
+- [[Garland yn Greenholt]] — Reunited with on the Bonewall; unaware that Garland has privately recognized the mark of his resurrection
+- [[Castor]] — Reunited with on the Bonewall
 
 ### Favors
 _None yet._
@@ -552,8 +566,10 @@ Paxton has "died" several times since the ritual, but it never seems to take, an
 What is changing in him with each resurrection, and what the Light is slowly making him into, is unresolved.
 
 #### Too Quick to Burn
-Aboard Senna's barge in the [[The Reaches|Reaches]], Paxton set the vessel ablaze and threw himself into the river to escape — and only as the screams rose did he realize others had been hidden aboard, captives or stowaways, who burned because he had been too quick to spend his own life to count the cost to anyone else's.
-His readiness to treat his survival, pain, and death as expendable has a price others pay, and what it will cost him to learn that is unresolved.
+Aboard Senna's barge in the [[The Reaches|Reaches]], Paxton set the vessel ablaze and threw himself into the river to escape — and only as the screams rose did he realize a family had been hidden among the cargo.
+Wading back, he found the fire would let him save only one side of it: he pulled a woman and her young child from the window and left her husband, Roy, to burn, and realized the corpse he had found earlier in the marsh was the woman's lost son.
+The needless deaths drove home that he cannot keep spending lives — his own and others' — so cavalierly.
+His readiness to treat his survival, pain, and death as expendable has a price others pay, and whether this hard lesson finally changes him is unresolved.
 
 #### Burned by the Light
 Paxton arrives owing a debt of favor to a party member his Light has already burned.
@@ -561,6 +577,7 @@ What happened, and what that person lost, is an open question to be answered in 
 
 ### Session Appearances
 - [[Session 6]] — Recounted his death at [[Bonewall|Hallowreach]] and his waking in the mausoleum with the Light in his chest; heard that Carnforth had gone dark and turned back toward the wall; in the [[The Reaches|Reaches]] found [[Senna]] healing marsh-creatures with scaled hand and reptilian eyes, learned she had been reborn in the vision of [[Moldrex]] and he "wrong" in Lucifer's, and burned her barge to escape — killing Senna and unknown others hidden aboard
+- [[Session 7]] — Waded back to the burning barge and saved a woman and child while leaving the husband Roy to the fire; climbing toward [[Carnforth]] he followed a young [[The Slate|Slate]] up the mutating wilds, roped it from a giant vine at the cost of a wrenched shoulder, and was bitten near death by a black spider before the Slate carried him down into the mountain; healed with moss in the [[The Slate Town|Slate town]], where he met [[Sir Roderic Lightbearer|Roderic]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]
 
 
 ---
@@ -640,11 +657,11 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 
 **Moves:**
 - **Devout Virtues** — Gain boons by upholding vows; break a vow to lose its boon
-- **Decree** — Roll+CHA to issue a divine command that compels obedience
+- **Decree** — Roll+CHA to issue a divine command that compels obedience; it commands only a single enemy to surrender or repent, not a whole group at once
 - **Chains of Faith** — Bind enemies or restrain evil through the power of faith
 - **Armed and Ready** — Always prepared for battle; never caught without weapon or armor
 - **Healing Hands** — Lay on hands to heal; Guardian background allows choosing two effects
-- **Eyes of the Faithful** *(Advanced)* — Perceive truth, sin, and spiritual nature in others
+- **Eyes of the Faithful** *(Advanced)* — Used via Scrutinize or Examine, it always reveals a guilt or transgression on its target; it is meant to be turned on those who have done wrong, not used as a neutral sense-motive to judge whether someone is simply good or bad
 
 **Asset:** Organization — The Church of Light
 
@@ -655,6 +672,8 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - [[Primus Griswald]] — His mentor and patron, who recruited him as a boy and spared him from disgrace after the lost battalion; now vanished
 - [[Inquisitor Voss]] — A Corona Vigil inquisitor who once branded him a heretic, now an uneasy ally who charged him to investigate the failing wards
 - [[Vicar Lucis Gregory]] — A longstanding contact in the Beaconhold church who has known him since boyhood; Roderic has long owed him a favor, a standing debt whose origin is unspoken
+- [[Paxton Lumnus]] — Met for the first time in the [[The Slate Town|Slate town]] when the party reunited
+- [[Roland]] — An unseen figure who sent lantern-marked men to keep Roderic from the [[Tomb of the Spinewright]]; his name, aims, and allegiance are unknown
 
 ### Favors
 
@@ -666,9 +685,11 @@ It was always there; it simply came to light when Roderic returned to lean on Gr
 ### Hooks
 
 #### Roderic's Lost Battalion
-Roderic's company of paladins died in the [[Bonewall]], sent into the tomb of the hero who long ago stopped the darkness and raised the towers, seeking a relic they believed could let them push past the wall.
+Roderic's company of paladins died in the [[Tomb of the Spinewright]] on the [[Bonewall]], sent to recover a relic they believed could let them push past the wall.
 He woke among his mutilated companions with the relic gone, remembers nothing of the night, and was cast out as the suspected, sole survivor — saved from worse only by [[Primus Griswald]]'s faith in him.
-What the relic was, whose tomb it truly was, and what happened the night his battalion died all remain unknown — and Griswald, the one man who knew the truth of his innocence, has now vanished.
+Two pieces have since come clear: the tomb belongs to the [[Spinewright]], the hero who raised the Thirteen Spines, and the relic was [[The Spinewright's Lantern]], a portable ward that could carry the Light past the wall.
+But the tomb is now buried under a fresh rockslide, and a figure named [[Roland]] is sending lantern-marked men to keep Roderic from reaching it — convinced his return would put something in jeopardy.
+Who Roland is, what now lies in the tomb, what the lantern necklace signifies, and what happened the night his battalion died all remain unknown — and Griswald, the one man who knew the truth of his innocence, has now vanished.
 
 #### Roderic Remembers Sariel
 Where the clergy of Beaconhold can no longer recall the hero [[Sariel]] — his bust vanished from [[Vicar Lucis Gregory]]'s office without even a trace of dust — Roderic remembers him clearly, as the right hand of [[Lucifer]] and the general who imprisoned the God of Ruin and the [[Xan-Kor]].
@@ -682,3 +703,4 @@ Why the forgetting that is unmaking Sariel from record and memory has not touche
 - [[Session 4]] — Sent intelligence to [[Beaconhold]] via a Luciferian priest; captured by the Aureate and imprisoned beneath the Chryseum; freed by [[Castor]] and [[Garland yn Greenholt|Garland]]; issued a divine decree commanding freed Harlequins back into their cells; negotiated passage with [[Dawnwarden Brenn]]; used Eyes of the Faithful to confirm Brenn and Severin's sincerity; descended into the [[Shrine of Renewal]] and felt the interlocking herald connection; resolved his theological crisis by interpreting his journey as divinely guided
 - [[Session 5]] — Infiltrated besieged [[Aurelion|Crest Aurelion]] with [[Garland yn Greenholt|Garland]] to retrieve [[Count Albrecht Marrow]]; bluffed past Aureate guards using [[Luminary Severin Morrow|Severin]]'s [[Whiteglass|whiteglass]] pendant; fought [[Order of the Eclipsed Sword]] soldiers in the vault and was branded a heretic by a [[Corona Vigil]] inquisitor; cleared the [[Chryseum|The Chryseum]] of rioters with a divine decree; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it puppeteered a dead paladin's corpse; used Eyes of the Faithful to confirm the sincerity of the followers of renewal; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Returned to a [[Beaconhold]] whose Light had fractured and whose scripture had subtly changed; was lured to the imperial tunnels under [[Primus Griswald]]'s name and met [[Inquisitor Voss]] instead, learning Griswald and other faithful had vanished; weighed Voss's words as true and accepted the charge to investigate the failing Bonewall wards; learned the full story of his lost battalion; pressed [[Vicar Lucis Gregory]] and discovered [[Sariel]]'s bust gone without a trace of dust, the clergy unable to remember the hero he still recalls
+- [[Session 7]] — Ambushed at the edge of the [[The Reaches|Reaches]] by six lantern-marked men sent by [[Roland]] to keep him from the [[Tomb of the Spinewright]]; charged free and traced them to their camp to learn their purpose; doubled back to find the tomb buried under a rockslide, fell through collapsing ground into an underground river, and was hauled out by the [[The Slate|Slate]] into their hidden town, where he met [[Paxton Lumnus|Paxton]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]

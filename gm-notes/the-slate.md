@@ -1,6 +1,8 @@
 # The Slate
 
-> **GM ONLY.** First contact happened in [[Session 7]] — the player-facing entry now lives at [[The Slate]] (and their town at [[The Slate Town]]). This file keeps the secrets the players have **not** learned: the Stagnation/Awakening framing, the Moldrex temptation, the Imperium-quarry grievance, and the open mechanics below. Locked decisions and open questions are marked.
+> **GM ONLY.** First contact happened in [[Session 7]] — the player-facing entry now lives at [[The Slate]] (and their town at [[The Slate Town]]). This file keeps the secrets the players have **not** learned: the Stagnation/Awakening framing, the Moldrex temptation, the birthing secret, the Imperium-quarry grievance, and the open mechanics below. Locked decisions and open questions are marked.
+
+The live-play staging that draws on this lore lives in the GM note **Session 8 Prep — The Slate Town**.
 
 See also: [[The Slate]], [[The Slate Town]], [[Bonewall]], [[Thirteen Spines]], [[Moldrex]], [[Öuth Krelt]], [[Senna]], [[Spinewardens]], [[Witch Stones]]
 
@@ -42,6 +44,10 @@ Vaalo's own resting place reads in Slate terms too.
 The [[Tomb of the Spinewright]] is named **Kehto**, "the Cradle" — not a grave but a settling, a return to the stone, and (petrified out on the wall, apart from any city) a sacrifice in their reckoning.
 Play the rhyme: the same deep that cradles Vaalo's dead is birthing the first Slate child in an age.
 
+The door to Syvämaa sits in the town itself: at its lowest point a great half-sealed **Descending Stair** vanishes into a deep amber glow rising from far below, a warmth felt more than heard.
+Keep it shut for now — it plants the descent to the Deep-earth (Castor's curiosity, Mira's faith, the buried-sun/stone-god question) without opening it.
+Keep the whole Syvämaa thread GM-only for the present; only the Slate's own fast-travel **Speedways** (the glyph-carved conduits linking fixed nodes north to Carnforth and south to Kehto) are surfaced to players, as their road through the wall.
+
 ## The Stagnation
 
 During the long Stagnation the Slate froze completely.
@@ -66,6 +72,15 @@ It is a first contact, and a fragile one.
 **Stakes:** the child is precious and unprecedented, the future of a people that had stopped having one.
 That also makes the child exactly what Moldrex's agents would most want to claim or corrupt.
 It can become a flashpoint between the party, the Slate, and the forces beyond the wall.
+
+**The birthing secret (locked).**
+The child — named **Itu**, "the Seed" — is not truly the first to emerge.
+It is the first to *survive*.
+Others came before, stillborn, and the town does not know it.
+Only **Aamu**, the Keeper of Emergence, knows — not even Routa — and Aamu has hidden the failures out of mercy, not coercion, to spare the people from despair.
+The stillborn forms are kept in the **Gallery of the Lost**, a quiet side-niche off the Cradle-Hollow, a row of small, unfinished forms in low niches, easy to miss and the one silent place in the town.
+The tragedy is that the same protective silence that shields the town is what isolates Aamu enough for Moldrex's offer to take root: no one knows the weight Aamu carries, so no one can talk them out of it.
+The diplomatic lever is therefore not to argue Moldrex is evil but to bring the grief into the open, so the keeper is no longer alone with it.
 
 ## Lifecycle and Petrification
 
@@ -122,19 +137,36 @@ The Slate are simply a new and richer target.
 There is a thematic rhyme worth playing on: the Awakening offers the Slate real renewal, the first child and the cycle turning, while Moldrex offers a counterfeit, escape from stillness through transformation.
 Real change and false change arrive at the same moment.
 
+**The offer, made concrete.**
+Moldrex's pitch is not a threat but a seduction, framed as a divorce from the Old Gods: the Slate are a people *of* the abiding order, and Moldrex offers them out of it, at both ends of the lifecycle.
+- **Control over birth** — make their own children, like the surface folk, never again at the mercy of a mountain that keeps losing them. This is **Aamu's** want, born of the stillbirths only they know of.
+- **Control over death** — never return to the stone; petrification stops being destiny. This is **Lohka's** want, the head warrior nearing petrification, who is not despairing but *wanting*.
+Both are exactly what [[Mira]]'s emerging creed names sacred — *the land endures, the land survives* — so the rival faction becomes the literal doctrinal enemy of her faith: the rootless, the revelers in the ephemeral.
+
+**The rival faction (embedded inside the town).**
+This is not raiders from beyond the wall but Slate of the town itself, recruited by the offer.
+- **Aamu**, the Keeper of Emergence, is the leader and the sympathetic core — reachable, because the wound is grief, not zeal, and they have the standing to redefine what the Slate are.
+- **Lohka**, the head warrior, cannot lead the movement alone (no cachet), so they back Aamu; talk Aamu down and you do not stop Lohka, you *trigger* them, because their only road out of dying just walked away.
+- **Sora**, Lohka's lieutenant, and the younger loyal warriors give the movement a second voice and the body of any fight.
+
+**The devolution — what the change actually is.**
+The Slate's nature is to harden toward permanence; Moldrex's "evolution" is the exact inversion, dragging them backward into soft biological life.
+Under the cracking stone exterior is real flesh — they are devolving from enduring stone beings into perishable creatures, becoming the revelers in the ephemeral in the most literal sense.
+The exposed flesh under broken stone is a visible weakness: the more transformed a warrior, the more flesh shows, the easier they are to wound — the "stronger, freer" Slate are the most vulnerable.
+Keep this separate from the **mutated Bonewall vines**, which are their own phenomenon of the failing wards, not part of the warriors' transformation.
+This devolution rhymes against [[Castor]]'s curse: the Slate *choose* the unwanted softening that was *forced* on him.
+
 **The Imperium's quarries.**
 The ruined Imperium quarry camps on the Bonewall read very differently if the mountain is a living people.
 Whether the Imperium knew, traded, exploited, or simply cut into them unaware is open, but it is a historical grievance the Slate may remember even when no human does.
 
 ## Open Questions
 
-- Mechanism of emergence from the mountain, and whether any reproduction exists
-- Whether the Slate know the first child has emerged, or are still sealed away and unaware
-- Who finds the child first, and what the Slate want done about it
+- Mechanism of emergence from the mountain, and whether any reproduction exists (now sharpened: emergence has been *failing* — stillbirths — until Itu)
 - Whether a petrified Slate can be recovered or revived, and the customs around the dead
-- Their relationship to an Old God of stone or the mountain, if any (and whether Syvämaa's buried sun is that god)
+- Their relationship to an Old God of stone or the mountain, if any (and whether Syvämaa's buried sun is that god, and whether it is kin to the power behind [[Mira]]'s [[Witch Stones]])
 - How many cities, where they sit, and how they relate to the Imperium ruins above
-- Names for the people and their cities (origin-realm now locked as **Syvämaa**; origin-figure tied to **Vaalo** the Spinewright)
+- Names for the cities (origin-realm now locked as **Syvämaa**; origin-figure tied to **Vaalo** the Spinewright; the town's living figures named — Itu, Routa, Kallio, Holvi, Aamu, Lohka, Sora)
 
 ## Appearance Notes (for image reference)
 

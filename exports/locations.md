@@ -501,6 +501,18 @@ Travelers out on the dead shale occasionally come upon a strange, finely formed 
 No one can say who they are meant to be, and they remain one of the wall's unexplained curiosities.
 Those who cross the wall call them the Watchers.
 
+### The Slate
+The Bonewall is not as empty as it looks.
+Hidden within it dwell [[The Slate|the Slate]], a people of living stone who emerge from the mountain, harden as they age, and petrify into the architecture of their own [[The Slate Town|hidden town]] when they die.
+The carved Watchers travelers find weathered into the dead shale are not artifacts at all — they are Slate who died out on the wall, and the Slate revere them as their own kind.
+The Slate move silently over the shale and can part solid stone with their hands, and only the youngest of them can force out a few words of common speech.
+
+### The Failing Wilds
+Near the failing wards the wall's only vegetation — the gnarled grey vines, like old grapevine swollen to a wilder scale — has begun to behave unnaturally.
+They grow discolored and shifted, swell to monstrous size, resist fire, and even move to strike, a vine the size of a tree lashing out hard enough to knock a creature down a slope.
+Nesting among them are cat-sized black spiders, new to the Bonewall — a creature unrecorded and unseen even by [[Spinewardens|spine wardens]] who have spent their lives on the wall.
+The land carries a "natural unnaturalness," a dread that deepens the closer one comes to [[Öuth Krelt]] as the wards fail.
+
 ### [[The Thirteen Spines]]
 Thirteen towers built along the Bonewall during the [[Imperium Lucis Aeternae|Imperium]] era.
 They rise from the mountain slopes like spines along a ridge — tall enough to peer over the crest of the Bonewall, but built on the slopes facing [[Beaconhold]] rather than at the very summit.
@@ -525,13 +537,16 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - [[Cinderwall]] — The other arm of the L-shaped border range
 - [[Öuth Krelt]] — The land beyond the Bonewall, held at bay by the Thirteen Spines
 - [[Carnforth]] — The northernmost Spine, at the wall's broken-down end above the Reaches; first to go dark
+- [[Tomb of the Spinewright]] — The buried tomb of the maker of the Spines, set into the wall's valley side, mid-range and separate from Carnforth
+- [[The Slate Town]] — The Slate's hidden settlement, deep within the wall
 - [[The Reaches]] — The marshy delta at the base of the wall in the far northeast
-- [[Witch Stones]] — A ring of stones on the wall's dead shale, linked by portal to a matching ring in the [[Ashen Vale]]
+- [[Witch Stones]] — A ring of stones on the wall's dead shale, linked by portal to a matching ring in the [[Ashen Vale]]; the Bonewall ring is carved in a different, unreadable runic language
 
 ### Events Here
 - [[Session 0]] — Established as the eastern mountain range
 - The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden [[Paxton Lumnus]] sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum
 - [[Session 6]] — Carnforth, the northernmost Spine, went dark; [[Mira]] opened a Witch Stone portal onto the wall's grey shale and stepped through, with [[Garland yn Greenholt|Garland]] and [[Castor]] following; in the [[The Reaches]] below the wall, [[Paxton Lumnus|Paxton]] burned [[Senna]]'s barge
+- [[Session 7]] — All three threads converged inside the wall: [[Paxton Lumnus|Paxton]] followed a young Slate up the mutating wilds toward [[Carnforth]] and was carried down near death; [[Garland yn Greenholt|Garland]] and [[Castor]] arrived at the second ring of [[Witch Stones]] and met the Slate; [[Sir Roderic Lightbearer|Roderic]] fell through the collapsing [[Tomb of the Spinewright]] and was pulled into the Slate's hidden town, where the party reunited
 
 
 ---
@@ -611,6 +626,11 @@ Warden and builder lie mixed together below the tower, the kept and the makers, 
 ### The Light Gone Out
 Carnforth was the first of the Thirteen Spines to go fully dark, its beacon failing as the wards weaken under the spreading influence of ruin and the corrupted ritual at [[The Nodrum]].
 That the forgotten edge of the wall should be the first to fall is fitting and ominous in equal measure.
+
+### The Lantern Necklace
+By reputation a chaplain stationed at Carnforth was known to wear [[The Spinewright's Lantern|the Spinewright's lantern]] as a necklace — the same symbol now worn by [[Roland]]'s men, who ambushed [[Sir Roderic Lightbearer|Roderic]] to keep him from the [[Tomb of the Spinewright]].
+[[Spinewardens|Spine wardens]] do not normally wear the lantern, so those who do are anomalous.
+What the necklace signifies has not been revealed; the party suspects a cult or hidden order centered on the failing northern spine, but that remains only their theory.
 
 ### Connected Locations
 - [[Bonewall]] — The wall Carnforth crowns at its northernmost, lowest end
@@ -1026,6 +1046,46 @@ The result is a country thick with half-sunk ruins in every state of decay, from
 
 
 ---
+id: slate-town
+type: location
+name: The Slate Town
+aliases:
+- Slate Town
+- Town of the Slate
+part_of: bonewall
+---
+## The Slate Town
+
+**Type:** Settlement (underground)
+**First Visited:** [[Session 7]]
+
+> The name is a descriptive placeholder; no in-fiction name was given in play.
+
+### Description
+A hidden settlement deep within the [[Bonewall]], home to [[The Slate|the Slate]] — the people of living stone who dwell inside the mountain.
+It is lit only by dim bioluminescent moss and reached not by road or door but through the rock itself, which the Slate part with their hands like clay.
+
+Its buildings are its dead.
+The walls, the roofs, the very beds are the petrified bodies of elder Slate who, dying of old age, settle where they mean to remain and fuse into the town's architecture — ancestors literally forming the halls the living inhabit.
+The Slate say their history is written in their city; they keep no records but the bodies of those who came before.
+
+### Notable Features
+- Architecture built from the petrified bodies of the Slate's own dead
+- Dim bioluminescent moss for light; the Slate also use moss to heal the injured
+- Reached only through solid stone, which the Slate can part with their hands
+
+### Connected Locations
+- [[Bonewall]] — The wall the town is hidden within
+- [[Tomb of the Spinewright]] — The buried tomb nearby, through whose collapse Roderic fell into the Slate's reach
+
+### Associated NPCs
+- [[The Slate]] — The people of living stone who built and inhabit the town
+
+### Events Here
+- [[Session 7]] — All three of the party's threads converged here: the Slate carried in the dying [[Paxton Lumnus|Paxton]] and [[Sir Roderic Lightbearer|Roderic]], reuniting them with [[Garland yn Greenholt|Garland]], [[Castor]], and [[Mira]]; through Mira's translation the Slate told of their broken stasis and the first child born among them in living memory, and the party settled in to rest among the celebrating people
+
+
+---
 id: solvium
 type: location
 name: The Solvium
@@ -1068,6 +1128,56 @@ Some believe it reflects the feeling of isolation experienced on its vast surfac
 
 
 ---
+id: tomb-of-the-spinewright
+type: location
+name: Tomb of the Spinewright
+aliases:
+- Spinewright's Tomb
+- The Spinewright's Tomb
+- Spinewright Tomb
+- Kehto
+part_of: bonewall
+---
+## Tomb of the Spinewright
+
+**Type:** Landmark (Tomb)
+**First Visited:** [[Session 7]]
+
+### Description
+The tomb of the [[Spinewright]], the [[Imperium Lucis Aeternae|Imperium]] hero who raised the [[Thirteen Spines]], set into the rock of the [[Bonewall]] on the valley side of the wall.
+It lies roughly mid-range along the Bonewall, separate from the northernmost tower at [[Carnforth]].
+An underground river runs beneath it, deep in the stone.
+
+In the Spinewright's own lost tongue the place is named **Kehto** — a word remembered, where it is remembered at all, to mean something closer to a *cradle* than a tomb.
+What it means that the maker of the wall should have called his own resting place a cradle, no one in the vale has thought to ask.
+
+Once the tomb was filled with the Spinewright's constructs and trials of faith, set to guard what it held: [[The Spinewright's Lantern]], a portable ward built in the image of the great wards atop the Spines.
+It was that relic [[Sir Roderic Lightbearer|Roderic]]'s paladin company came seeking, believing it could let them push past the wall into the darkness beyond.
+The company was slaughtered there, the lantern lost, and Roderic woke the sole survivor among his mutilated companions, remembering nothing of the night.
+
+By the time Roderic returned, the tomb's entrance was completely buried beneath a fresh rockslide.
+The [[The Slate|Slate]] who dwell within the Bonewall can reach it only through its main entrance, not by parting the stone, and so it remains sealed.
+
+### Notable Features
+- A buried main entrance, collapsed under a recent rockslide
+- An underground river running through the rock beneath it
+- Former home of the Spinewright's constructs and trials, and of the missing [[The Spinewright's Lantern|lantern]]
+
+### Connected Locations
+- [[Bonewall]] — The wall the tomb is set into, on its valley side
+- [[Carnforth]] — The northernmost Spine, separate and further along the wall
+- [[The Slate Town]] — The Slate's hidden settlement, reached through the rock near the tomb
+
+### Associated NPCs
+- [[Spinewright]] — The hero entombed here, maker of the Thirteen Spines
+- [[Sir Roderic Lightbearer]] — Sole survivor of the company that died here seeking the lantern
+- [[Roland]] — Sent men to keep Roderic from returning to the tomb
+
+### Events Here
+- [[Session 7]] — Roderic returned to find the tomb buried under a rockslide; the ground gave way and dropped him into the underground river below, where the [[The Slate|Slate]] pulled him out and into their hidden town
+
+
+---
 id: witch-stones
 type: location
 name: Witch Stones
@@ -1097,13 +1207,19 @@ His great-granddaughter [[Mira]] also hears the stones, but as actual words rath
 ### The Portal to the Bonewall
 At the hidden ring in the Ashen Vale, Mira commanded the stones to tear open a stable portal onto the dead grey shale of the [[Bonewall]], where a matching ring of Witch Stones stood.
 She and her pursuers stepped through, and the portal closed behind them.
-This is the only such portal seen so far; whether the stones connect to still more rings, or form a wider network, is unknown.
+
+### The Second Ring on the Bonewall
+The Bonewall ring is configured exactly like Garland's stones in the Ashen Vale and hums with the same earthen energy, familiar to him as kin to his own.
+But it is carved in a completely different runic language — recognizable as the same kind of writing yet wholly unreadable, "like English versus Korean."
+Garland's connection to the Bonewall stones is faint and distant, like a worn-out battery set beside a fresh one, suggesting the stones may hold secrets he never learned and that the rings may form a wider network.
+A recent campfire near the ring showed that some human had passed this way not long before the party arrived.
+This is the only such portal seen so far; whether the stones connect to still more rings is unknown.
 The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, hinting at some connection between these ancient sites.
-Garland would be very interested in investigating other Witch Stones if they exist elsewhere.
+Garland would be very interested in investigating other Witch Stones if they exist elsewhere, and now intends to study the Bonewall ring closely — both for its secrets and to reproduce Mira's long-distance gate as a ritual that could one day send her safely home.
 
 ### Connected Locations
 - [[Ashen Vale]] — The region where the known ring stands hidden, on Garland's Greenholt land
-- [[Bonewall]] — Site of a matching ring, reached through a portal Mira opened
+- [[Bonewall]] — Site of a matching ring carved in a different, unreadable runic language, reached through a portal Mira opened
 - [[Aurelion]] — Whose Shrine of Renewal carries the same ancient resonance
 
 ### Associated NPCs
@@ -1112,3 +1228,4 @@ Garland would be very interested in investigating other Witch Stones if they exi
 
 ### Events Here
 - [[Session 6]] — A Sunday dinner at the stones was interrupted by [[Captain Vask]]'s delegation; Mira spoke an unknown tongue and opened a portal to the [[Bonewall]], stepping through with [[Garland yn Greenholt|Garland]] and [[Castor]] following
+- [[Session 7]] — At the Bonewall ring, Garland found the stones twin to his own but carved in an unreadable runic language and worn nearly silent; channeling them, [[Mira]] gained the [[The Slate|Slate]]'s grinding stone-tongue but lost the ability to be understood in human speech, and Garland set himself to studying the ring as a possible ritual gate home

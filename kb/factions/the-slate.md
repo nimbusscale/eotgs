@@ -32,6 +32,9 @@ They move silently and gracefully over the loose shale, can part solid stone wit
 Only with great effort can the younger ones force out single words of common speech.
 They are peaceful and hospitable, deeply curious about outsiders — they marveled at [[Sir Roderic Lightbearer|Roderic]]'s metal armor and nursed the dying [[Paxton Lumnus|Paxton]] back with bioluminescent moss.
 
+The Slate have no gender.
+Mountain-born and without biological reproduction, they are androgynous beings, and each is spoken of as "they."
+
 ## The Broken Stasis
 For as long as any of the Slate can remember, none had aged, none had died, and none had been born.
 Their society simply stopped, frozen in place for an age.
@@ -39,7 +42,15 @@ Then, very recently, a single child emerged from the mountain — the first birt
 What ended their long stillness, and what the first child signifies, is the central mystery surrounding them.
 
 ## Notable Members
-- *None individually named yet — the party met the Slate as a people, through [[Mira]]'s translation.*
+The party first met the Slate as a people, but the town's figures are quickly becoming known through [[Mira]]'s translation, each carried in plain speech by the epithet Mira renders.
+
+- **Itu**, "the Seed" — the first child, the single new Slate to emerge in an age; small, curious, and precious to the whole people
+- **Routa**, "Deep-Frost" — an eldest guardian who raised Itu, slow and warm and immovable, the elder the celebrating town gathers around
+- **Kallio**, "Bedrock" — a stone-scribe elder who tends the [[Bonewall]] witch-ring; he holds the people's stone-memory but cannot work the ring himself
+- **Holvi**, "the Vault" — a loremaster elder, keeper of the people's deepest memory and the truths the surface world has forgotten
+- **Aamu**, "the Dawnkeeper" — the Keeper of Emergence, who presides over the mountain's births
+- **Lohka**, "the Boulder" — the town's head warrior, an elder nearing petrification
+- **Sora**, "Gravel" — Lohka's younger, fiercely loyal lieutenant
 
 ## Relationships
 - [[Bonewall]] — The wall the Slate are born from and dwell within; they are less its settlers than an expression of it

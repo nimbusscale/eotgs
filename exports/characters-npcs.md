@@ -449,7 +449,10 @@ Beneath that precociousness lies a deeper wound: the ruin that harmed Crownvale'
 ### Role
 She serves as an unwitting go-between, having delivered [[Garland yn Greenholt|Garland]]'s warning letter to [[Aldric Garlandsson|Aldric]], and her connection to Garland makes her a focal point in the family's affairs.
 She is an emerging cleric of the [[Witch Stones]], hearing and commanding their words directly — a different and far more powerful connection than Garland's hard-won, study-built bond.
-At the Witch Stones she spoke an unknown, booming tongue and commanded the stones to open a stable portal onto the [[Bonewall]], then stepped through it and left the Ashen Vale entirely, drawing Garland and Castor after her.
+She heard the stones "calling," promising safety, and dreamed of the Bonewall site as she once dreamed of Garland's stones, before tearing open a stable portal onto the [[Bonewall]] and leaving the Ashen Vale entirely, drawing Garland and Castor after her.
+
+Channeling the stones, she can now cast Tongues: when she turns it on the [[The Slate|Slate]] she speaks their grinding stone-tongue but cannot be understood in any human language, making her the party's only translator with the Slate.
+A sanctuary she establishes counts as a home for those bonded to her through the stones.
 
 ### Relationships
 - [[Aldric Garlandsson]] — Her father
@@ -460,6 +463,7 @@ At the Witch Stones she spoke an unknown, booming tongue and commanded the stone
 - [[Session 1]] — Recognized Garland despite his disguise in Crownvale; received candy and a warning letter to deliver to Aldric
 - During the downtime after the curse — declared herself Garland's apprentice and revealed she hears the [[Witch Stones]] as words
 - [[Session 6]] — Sheltering with Garland at the Witch Stones to heal from the ruin that depressed her; spoke an unknown booming tongue and commanded the stones to open a portal onto the [[Bonewall]], then stepped through and left the Ashen Vale
+- [[Session 7]] — Arrived at the Bonewall's second ring of Witch Stones; reaching for the same bond Castor used, she gained the [[The Slate|Slate]]'s grinding stone-tongue but could no longer make herself understood in human speech, serving as the party's translator with the Slate
 
 
 ---
@@ -493,6 +497,37 @@ He has now gone missing along with other faithful, vanished without a trace of s
 
 ### Session Appearances
 - [[Session 6]] — Absent; named and discussed but not present
+
+
+---
+id: roland
+type: npc
+name: Roland
+aliases: []
+---
+## Roland
+
+**First Appeared:** [[Session 7]]
+**Status:** Unknown
+**Affiliation:** Unknown
+
+### Description
+An unseen figure who has not yet appeared in person.
+He is known only through the men he commands — a band who wear the [[The Spinewright's Lantern|Spinewright's lantern]] as a necklace and fear his anger more than the Lightbearer's blade.
+
+### Role
+Roland dispatched six lantern-marked men to intercept [[Sir Roderic Lightbearer|Roderic]] at the edge of [[The Reaches]] and stop him from reaching the [[Tomb of the Spinewright]].
+His instructions were precise: keep "the Lightbearer" away from the tomb, but harm no one else.
+His men believed that Roderic's arrival at the tomb would put something in jeopardy, though they did not say what.
+[[Paxton Lumnus|Paxton]], a former [[Spinewardens|Spinewarden]], had never heard the name among the wardens of the wall.
+What Roland wants from the buried tomb, who he answers to, and why the lantern necklace marks his people are all unknown.
+
+### Relationships
+- [[Sir Roderic Lightbearer]] — The "Lightbearer" he is determined to keep from the Spinewright's tomb
+- [[The Spinewright's Lantern]] — The symbol his men wear as a necklace
+
+### Key Events
+- [[Session 7]] — Sent six lantern-marked men to ambush Roderic at the edge of the Reaches and turn him back from the Spinewright's tomb
 
 
 ---

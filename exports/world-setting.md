@@ -420,20 +420,30 @@ aliases:
 The singular figure the Light remembers as the maker of the [[Thirteen Spines]], the tower network warding the [[Bonewall]] against [[Öuth Krelt]].
 The Spinewright is honored as a hero of [[Lucifer]] and the Church, the vision behind a wall raised in an age the [[Imperium Lucis Aeternae|Imperium]] could still command such works.
 
+Even the Light keeps no name for the Spinewright — only the title; whatever he was once called has worn away with the centuries, the ordinary forgetting of an age rather than anything torn deliberately from the record.
+What little survives of the man is that he was no son of the [[Imperium Lucis Aeternae|Imperium]] — an outsider, of some far country or stock the vale never had a name for, who came to [[Lucifer]] as a convert rather than being born to the Light.
+That a foreigner's vision raised the Bonewall's great wards, and that the Church took the work for its own, is half-forgotten even in the lore that praises him.
+
 ### Details
 The whole network of Spines was the Spinewright's work, but no length of it cost more than [[Carnforth]], the northernmost tower, set on the worst ground at the very end of the wall.
 The imperial laborers and soldiers who raised the Spines lost more of their own at Carnforth than at any other tower, dying in the falls, collapses, and killing wind of impossible stone, and many were buried where they fell.
 What the Spinewright demanded at the edge of the world is remembered as the hardest thing that vision ever asked.
 
+The Spinewright was laid to rest in the [[Tomb of the Spinewright]], set into the [[Bonewall]]'s valley side, once guarded by the Spinewright's own constructs and trials of faith.
+Among what the tomb held was [[The Spinewright's Lantern]], a portable ward built in the image of the great Spines — the relic [[Sir Roderic Lightbearer|Roderic]]'s paladin company died seeking, now lost.
+
 ### Related Entries
 - [[Bonewall]] — The wall the Spines crown and ward
 - [[Carnforth]] — The northernmost and deadliest Spine to raise
+- [[Tomb of the Spinewright]] — Where the Spinewright was entombed, on the wall's valley side
+- [[The Spinewright's Lantern]] — A portable ward kept in the tomb, built in the image of the Spines
 - [[The Light]] — The faith that remembers the Spinewright as a hero
 - [[Lucifer]] — The god the Spinewright served
 - [[Spinewardens]] — The order that now garrisons and maintains the towers
 
 ### Sources
 - [[Session 6]] — Named in the lore of Carnforth as the maker of the Thirteen Spines
+- [[Session 7]] — His tomb and the lantern relic it held identified as the site of Roderic's lost battalion
 
 
 ## Factions
@@ -655,13 +665,16 @@ The two institutions are deeply intertwined yet distinct — closer to the entan
 They are a pseudo-military, pseudo-religious order, and their ascetic life of rituals and prayer manning the wards slowly drains the humanity out of them.
 For all their vigil they do not truly know what lies on the other side of the wall.
 
+By their conduct the wardens do not normally leave their spines except to carry messages, and abduction or kidnapping lies far outside their order's ways.
+Nor do they wear [[The Spinewright's Lantern|the Spinewright's lantern]] as a necklace; those who do are anomalous — like the chaplain reputed to wear one at [[Carnforth]], and like [[Roland]]'s men — and what the symbol signifies has not been revealed.
+
 #### The Sacrificial Renewal
 When a Spine's wards begin to fail, a long-hidden ritual can renew the seal — at the cost of a warden's life.
 [[Paxton Lumnus]] volunteered for such a rite at [[Hallowreach]], died, and woke changed.
 
 #### Notable Members
 - [[Paxton Lumnus]] — Former Spinewarden stationed at [[Hallowreach]]; died anchoring the Light in a sacrificial ritual when the Spine's wards failed, then woke in the mausoleum and left the order to seek the Light's truth.
-- [[Senna]] — A warden of [[Havens Reach|Haven's Reach]] whom Paxton served with; died and was "reborn" in the vision of [[Moldrex]] , her hand turned scaled and her eyes reptilian, able to heal and command the tentacled marsh-creatures. Presumed Deceased — killed when Paxton burned her barge in the Reaches.
+- [[Senna]] — A warden of [[Havens Reach|Haven's Reach]] whom Paxton served with; not literally killed and resurrected as Paxton was, but transformed and "reborn" in a metaphysical sense in the vision of [[Moldrex]] — a born-again change she accepted — her hand turned scaled and her eyes reptilian, able to heal and command the tentacled marsh-creatures. Presumed Deceased — killed when Paxton burned her barge in the Reaches.
 
 #### Relationships
 - [[Beaconhold]] — The kingdom the order belongs to and answers to.
@@ -895,6 +908,61 @@ Enforcement of the faith varies by region:
 - [[Session 5]] — The Order of the Eclipsed Sword besieged [[Aurelion|Crest Aurelion]] and breached the castle; a Corona Vigil inquisitor branded [[Sir Roderic Lightbearer|Roderic]] a heretic in the vault; an [[Order of the First Dawn]] paladin was killed by Harlequins beneath the [[Chryseum|The Chryseum]]; [[Dawnwarden Brenn]] fought alongside the party to eliminate Harlequins
 
 
+---
+id: the-slate
+type: faction
+name: The Slate
+aliases:
+- Slate
+- The Slate
+images:
+  hero:
+    file: the-slate-portrait.jpg
+    alt: An adult of the Slate in their flexible-stone life-stage
+    description: Canonical reference for an ordinary living, mobile Slate (the middle "flexible stone" stage the party most often meets) — androgynous, stone-skinned, on the Bonewall shale. Distinct from the newborn and the petrified Watcher statue.
+    prompt: config/image/prompts/the-slate-portrait.json
+    subjects:
+    - the-slate
+---
+### The Slate
+
+**Type:** People (living stone)
+**Status:** Active
+
+#### Overview
+The Slate are a long-lived people of living stone who dwell within the [[Bonewall]], hidden from the surface world in a town reached only through the rock itself.
+They call themselves the Slate, and few outside the wall know they exist.
+The strange, finely formed [[Bonewall|Watcher]] statues that travelers sometimes find weathered into the dead shale are not carvings at all — they are Slate who died out on the wall, and the Slate revere them as their own kind.
+
+The Slate are born by emerging from the mountain, already formed, with smooth flesh-like skin.
+As they age their skin hardens to flexible stone, and then to rigid statue, until in death they petrify completely and fuse into the architecture of their town — "rejoining the mountain."
+Their cities are built of their own honored dead, and they say their history is written in their city, for they keep no other records.
+
+They move silently and gracefully over the loose shale, can part solid stone with their hands, and speak a slow, grinding, guttural stone-tongue.
+Only with great effort can the younger ones force out single words of common speech.
+They are peaceful and hospitable, deeply curious about outsiders — they marveled at [[Sir Roderic Lightbearer|Roderic]]'s metal armor and nursed the dying [[Paxton Lumnus|Paxton]] back with bioluminescent moss.
+
+#### The Broken Stasis
+For as long as any of the Slate can remember, none had aged, none had died, and none had been born.
+Their society simply stopped, frozen in place for an age.
+Then, very recently, a single child emerged from the mountain — the first birth in living memory — and the whole people broke into celebration.
+What ended their long stillness, and what the first child signifies, is the central mystery surrounding them.
+
+#### Notable Members
+- *None individually named yet — the party met the Slate as a people, through [[Mira]]'s translation.*
+
+#### Relationships
+- [[Bonewall]] — The wall the Slate are born from and dwell within; they are less its settlers than an expression of it
+- [[Mira]] — Channeling the [[Witch Stones]], she can speak the Slate's grinding tongue and served as the party's translator with them
+
+#### Associated Locations
+- [[Bonewall]] — The mountain wall that is their home and their origin
+- [[The Slate Town]] — Their hidden underground settlement, built from their petrified dead
+
+#### History with Party
+- [[Session 7]] — First contact: the Slate carried the gravely wounded [[Paxton Lumnus|Paxton]] and the fallen [[Sir Roderic Lightbearer|Roderic]] into their hidden town, where the party reunited; through Mira's translation they told their story and welcomed the party in to rest amid their celebration of the first child
+
+
 ## Notable Items
 
 ---
@@ -966,6 +1034,62 @@ When [[Garland yn Greenholt|Garland]] settled in the [[Ashen Vale]] and started 
 During a harsh winter, he melted out its gold inlay to feed the vale.
 When he left home again, he reforged the ploughshare back into a sword.
 Where the gold once lay, the blade now glows with dread — the omen that compelled Garland to leave his home and set out once more.
+
+
+---
+id: spinewrights-lantern
+type: item
+name: The Spinewright's Lantern
+aliases:
+- Spinewright's Lantern
+- Spinewright Lantern
+- Hiillos
+images:
+  gallery:
+  - file: spinewrights-lantern-legend.jpg
+    caption: The Spinewright's Lantern as legend imagines it
+    description: An idealized Renaissance/Baroque devotional painting of the relic
+      (Hiillos) suspended unheld in glory, archangels driving back the dark and the
+      faithful in reverence below, with a mountain range crowned by the beacon-towers
+      of the Spines — the lantern shown as their portable kin. Stylized legend art,
+      not the true object.
+    prompt: config/image/prompts/spinewrights-lantern-legend.json
+    subjects:
+    - spinewrights-lantern
+  library:
+  - file: config/image/library/spinewrights-lantern-reference-plate.jpg
+    prompt: config/image/prompts/spinewrights-lantern-reference-plate-prompt.json
+    description: 'The Spinewright''s Lantern (Hiillos): a tall, slender, sturdy hand-lantern
+      of bone-grey shale, dark iron, and tarnished amber-gold, with a stacked-shale
+      dome, bail carry-ring, side chains, and gothic arched openwork; at its heart
+      an enclosed faceted housing shelters a living warm ember. The true-object reference
+      plate.'
+---
+### The Spinewright's Lantern
+
+**Type:** Artifact (portable ward)
+**Current Holder:** Unknown / missing
+**First Referenced:** [[Session 7]]
+
+#### Description
+A portable ward built by the [[Spinewright]] — a hand-carried version of the great wards atop the [[Thirteen Spines]].
+Where the Spines are fixed towers, the lantern is a flame a single person can carry, holding back the dark wherever it goes.
+
+In the Spinewright's own tongue — a language no one in the vale now speaks — it is named **Hiillos**, a word imperfectly remembered to mean something closer to a kept ember or a banked coal than a lantern at all.
+Why the maker of the Light's great wards should have called his fire by a foreign word for a humble coal is not a question the Church has ever cared to ask.
+
+#### Properties
+Its open flame pushes back the darkness of [[Öuth Krelt]] for miles and purifies the land its light touches.
+That reach is not free: creatures of the dark must be battled back for the light to extend, so the lantern protects best in the hands of those willing to fight for the ground it claims.
+It was prized as a relic that could let its bearers push past the [[Bonewall]] into the country the Light names the darkness.
+
+#### History
+The lantern was kept in the [[Tomb of the Spinewright]], guarded by the Spinewright's constructs and trials of faith.
+[[Sir Roderic Lightbearer|Roderic]]'s paladin company came seeking it, believing it could carry them past the wall — but the company was slaughtered in the tomb and the lantern lost.
+Roderic woke the sole survivor, remembering nothing, and the relic was never recovered.
+
+Its lantern symbol now appears as a necklace worn by [[Roland]]'s men and, by reputation, by a chaplain stationed at [[Carnforth]].
+What the symbol signifies, and where the lantern itself has gone, remain unknown.
 
 
 ---

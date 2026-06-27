@@ -35,15 +35,23 @@ fails, run `nvm use 22` first (or `npm install -g @foundryvtt/foundryvtt-cli`).
 bash scripts/publish_compendium.sh
 ```
 
-Rebuilds, then `rsync`s `module.json`, `packs/kb`, and `assets/` into
-`/home/foundry/foundrydata/Data/modules/grimwild-kb/` on `foundry.jjk3.com`.
+Stops the `foundryvtt.service`, rebuilds, `rsync`s `module.json`, `packs/kb`, and
+`assets/` into `/home/foundry/foundrydata/Data/modules/grimwild-kb/` on
+`foundry.jjk3.com`, then restarts Foundry.
+
+The stop/start bracket is **mandatory, not optional**: the pack is a LevelDB, and
+LevelDB is not safe to swap on disk under a live reader. If rsync replaces the
+`CURRENT`/`MANIFEST`/`*.ldb` files while Foundry holds the pack open, LevelDB runs
+recovery on the mismatched files, orphans the SSTable into a `lost/` dir, and the
+compendium opens **empty**. The script handles this automatically (with an EXIT
+trap so Foundry is restarted even if the rsync fails partway).
 
 ### Step 3 — One-time / after-change Foundry steps (manual, GM)
 
 - First time only: in Foundry, **Manage Modules → enable "Echoes of the Godstorm
   — Campaign KB"**.
-- After a content change: restart Foundry (or re-open the world) so it re-reads
-  the pack, then open the **Campaign KB** compendium.
+- After a content change: the script already restarted Foundry, so just **re-open
+  the world (or refresh the browser)** and open the **Campaign KB** compendium.
 
 ---
 

@@ -21,4 +21,3 @@
 *Yet even here, deep in the warm heart of the mountain, **Castor** can feel it — the same stone that sang with welcome only days ago has begun to carry a wrong note from somewhere further down, something that should not be.*
 *Moldrex's rot has crept across the surface of the wall above them.*
 *The only question left is how deep it goes.*
-/cle

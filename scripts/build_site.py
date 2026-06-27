@@ -33,6 +33,10 @@ IMAGE_SRC_DIR = REPO_ROOT / "images"
 IMAGE_DEST_DIR = CONTENT_DIR / "img"
 
 QUARTZ_REPO = "https://github.com/jackyzha0/quartz.git"
+# Pin Quartz to the version our bootstrap overrides target. Upstream's default
+# branch moved to v5.0.0, which restructured the OG-image plugin import and
+# breaks our v4 overrides on a fresh bootstrap.
+QUARTZ_REF = "v4.5.2"
 
 # Map subdirectory names to tags
 DIR_TO_TAG = {
@@ -532,7 +536,10 @@ def bootstrap_quartz():
     if SITE_DIR.exists():
         shutil.rmtree(SITE_DIR)
 
-    subprocess.run(["git", "clone", QUARTZ_REPO, str(SITE_DIR)], check=True)
+    subprocess.run(
+        ["git", "clone", "--branch", QUARTZ_REF, "--depth", "1", QUARTZ_REPO, str(SITE_DIR)],
+        check=True,
+    )
 
     # Remove Quartz's own .git so it doesn't conflict with our repo
     quartz_git = SITE_DIR / ".git"

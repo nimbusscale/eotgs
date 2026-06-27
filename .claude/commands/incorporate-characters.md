@@ -6,9 +6,9 @@ moves, equipment) into each entry's own sections — **in place, by judgment**, 
 separate block.
 
 Players edit their sheets in the live Foundry "Echoes of the Godstorm" world
-(`pbta-test`, Chasing Adventure on the `pbta` system) between games. `scripts/pull_actors.sh`
-pulls those sheets and writes one snapshot per PC to `inbox/characters/<slug>.md`. This
-command merges each snapshot into `kb/pcs/<slug>.md`.
+(`pbta-test`, Chasing Adventure on the `pbta` system) between games. This command first
+refreshes the snapshots straight from Foundry (Step 0), then merges each one into
+`kb/pcs/<slug>.md`.
 
 **Writing convention:** All narrative prose in KB files uses **one sentence per line**
 (semantic linebreaks). Move/ability lists and stat lines are not prose — keep them as the
@@ -25,12 +25,24 @@ sections agree with the snapshot — rewriting them in place — **never** to ap
 
 ## Workflow
 
-Process each snapshot file individually.
+### Step 0 — Refresh snapshots from Foundry
+
+Run `bash scripts/pull_actors.sh`. This pulls the live world's actor sheets (read-only
+against the server; Foundry can stay up), unpacks them, and (re)writes one snapshot per
+mapped PC to `inbox/characters/<slug>.md`.
+
+- If the script fails (e.g. SSH/network unreachable, or the Foundry CLI is missing), report
+  the error and fall back to whatever snapshots already exist in `inbox/characters/`. Only
+  stop entirely if there are none.
+- Skip this step only if the user explicitly says to incorporate existing snapshots without
+  re-pulling.
+
+Then process each snapshot file individually.
 
 ### Step 1 — Discover snapshots
 
 List files in `inbox/characters/` (exclude `processed/` and `.gitkeep`).
-If none exist, report that and stop — the user likely needs to run `bash scripts/pull_actors.sh` first.
+If none exist (and Step 0 produced none), report that and stop.
 Process snapshots **one at a time** in alphabetical order.
 
 ### Step 2 — Load context (context-efficient)

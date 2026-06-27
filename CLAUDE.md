@@ -35,31 +35,30 @@ python scripts/ingest_transcript.py --session N
 
 Players edit their character sheets in the live Foundry "Echoes of the Godstorm"
 world (`pbta-test`, Chasing Adventure on the `pbta` system) between games (adding
-moves, leveling, adjusting stats). Pull those changes back into the PC entries via
-an extract→incorporate pipeline that mirrors the session/notes flow:
+moves, leveling, adjusting stats). Pull those changes back into the PC entries with a
+single Claude Code command, then review via git diff:
 
-```bash
-# 1. Pull the world's actor sheets, unpack to JSON, and write per-PC snapshots to
-#    inbox/characters/<slug>.md (read-only against the server; Foundry can stay up)
-bash scripts/pull_actors.sh
-
-# 2. Fold each snapshot into its PC entry (Claude Code slash command), then review via git diff
+```
 /incorporate-characters
 ```
 
-`/incorporate-characters` reconciles the live build (stats, playbook/level, moves,
-equipment) **into the entry's own sections by judgment** — renaming colloquial moves
-to their canonical sheet names, adding new moves, and flagging conflicts in
-`review/pending-changes.md`. It never appends a parallel block that duplicates
-stats/moves. Universal basic moves (`adventure`/`peripheral` types) are filtered out
-during extraction. Actor→PC mapping lives in `config/foundry-actors.yaml` (hand-maintained).
+`/incorporate-characters` first runs `scripts/pull_actors.sh` (rsync the world's actors
+LevelDB down — read-only, Foundry can stay up — unpack it, and write per-PC snapshots
+to `inbox/characters/<slug>.md` via `scripts/extract_characters.py`), then reconciles
+the live build (stats, playbook/level, moves, equipment) **into each entry's own sections
+by judgment** — renaming colloquial moves to their canonical sheet names, adding new
+moves, and flagging conflicts in `review/pending-changes.md`. It never appends a parallel
+block that duplicates stats/moves. Universal basic moves (`adventure`/`peripheral` types)
+are filtered out during extraction. `scripts/pull_actors.sh` can still be run on its own
+to refresh snapshots without incorporating. Actor→PC mapping lives in
+`config/foundry-actors.yaml` (hand-maintained).
 
 ### Claude Code Slash Commands
 
 - `/extract-session` - Filter non-game content from prepared transcripts, output structured YAML
 - `/incorporate-session` - Process extracted YAML into KB files, create/update entities
 - `/incorporate-notes` - Incorporate planning notes from Claude Mobile sessions
-- `/incorporate-characters` - Fold Foundry character-sheet snapshots (`inbox/characters/`, produced by `scripts/pull_actors.sh`) into the PC entries, reconciling stats/moves into the existing sections
+- `/incorporate-characters` - Pull the live Foundry character sheets (runs `scripts/pull_actors.sh`) and fold each into its PC entry, reconciling stats/moves into the existing sections
 - `/illustrate-reference` - Generate a durable reference image (location establishing view or character portrait) for a KB entity: author the brief, generate candidates into scratch for the user to pick, then promote the winner (copy to `images/`, author a reusable prompt spec, register it in frontmatter)
 - `/export-kb` - Generate consolidated export files for Claude Project Knowledge, then build and deploy the website and the Foundry compendium
 - `/export-foundry` - Mirror the KB into the `grimwild-kb` Foundry VTT compendium and deploy it (also run as part of `/export-kb`)

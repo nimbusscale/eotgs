@@ -4,6 +4,8 @@
 >
 > Markers: **●** locked canon · **▶** proposed / workshopped · **⚠️** handle-with-care or hold. Nothing under ▶ is committed until the table makes it real.
 
+> **Running it at the table?** The mechanical companion — stat blocks for the rival Slate, the forgetting/Witch-Stones contest as an Avalanche, and per-PC move call-outs — lives in **[[Session 8 — Run Guide (Mechanical Companion)|gm-notes/session-8-run-guide.md]]**. This doc owns the fiction; that one owns the dice.
+
 See also: [[The Slate]] · [[The Slate Town|Muistola]] · [[Bonewall]] · [[Moldrex]] · [[Witch Stones]] · [[Mira]] · [[Garland yn Greenholt]] · [[Sir Roderic Lightbearer]] · [[Paxton Lumnus]] · [[Castor]] · [[Spinewright|Vaalo]] · [[Tomb of the Spinewright|Kehto]] · [[Carnforth]] · [[Roland]] · [[Sariel]] · [[The Xan-Kor]]
 
 ---

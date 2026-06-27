@@ -39,7 +39,7 @@ He once knew deep magic, but the Curse of Ruin — his burden as the herald of f
 STR 2, DEX -1, INT 1, WIS 1, CHA 0
 
 ## Playbook
-Fighter (with cross-class Wizard moves)
+Fighter — Level 4 (with cross-class Wizard moves)
 
 ## Drive
 Step forward where others hesitate.
@@ -99,10 +99,12 @@ Has never had much use for gods.
 - **Signature Weapon** — [[Second Harvest]], a legendary great sword with a storied past
 - **Battle Momentum** — Build momentum in combat to fuel powerful follow-up actions
 - **Particular Set of Skills** — Specialized combat expertise honed over centuries of fighting
+- **Armed and Ready** — Ignore the Clumsy tag on the armor he wears
 
 **Cross-Class Wizard Moves:**
 - **Evoke a Spell** — Roll+WIS to cast a known spell
 - **Prestidigitation** — Minor magical tricks and cantrips, fragments of his former mastery
+- **Ritual** — Work powerful magical effects given time and a price the GM sets; the ritual capacity newly returned to him through the [[Witch Stones]]
 
 **Known Spells:** Immunity, Invisibility
 

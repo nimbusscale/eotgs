@@ -34,7 +34,7 @@ He serves as the party's moral anchor and frontline defender.
 STR 1, DEX 0, INT -1, WIS 1, CHA 2
 
 ## Playbook
-Paladin
+Paladin — Level 3
 
 ## Drive
 Endanger yourself to save or protect someone.
@@ -80,6 +80,8 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - **Armed and Ready** — Always prepared for battle; never caught without weapon or armor
 - **Healing Hands** — Lay on hands to heal; Guardian background allows choosing two effects
 - **Eyes of the Faithful** *(Advanced)* — Used via Scrutinize or Examine, it always reveals a guilt or transgression on its target; it is meant to be turned on those who have done wrong, not used as a neutral sense-motive to judge whether someone is simply good or bad
+- **Divine Favor** *(Advanced)* — He has drawn a deity's notice, gaining the Cleric's Divine Agent and Invoke Miracle moves and learning Miracles (up to three known)
+- **Illuminate** *(Miracle)* — A holy light shines from him or something he touches, piercing darkness, illusions, and trickery
 
 **Asset:** Organization — The Church of Light
 

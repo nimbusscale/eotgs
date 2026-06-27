@@ -37,7 +37,7 @@ He carries the [[Greenholt Bloodline]] and serves as the party's scout, utility 
 STR 0, DEX 1, INT 1, WIS 2, CHA -1
 
 ## Playbook
-Druid
+Druid — Level 3
 
 ## Drive
 Endanger yourself for wildlife or outcasts.
@@ -80,6 +80,8 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 - **Attunement** — Bond with a creature to add it to his Attuned list
 - **Commune** — Speak with the natural world to gain insight
 - **At One With The World** — Deep connection to the natural order; he can extend the bond toward the [[The Slate|Slate]], reading the mountain's and the creatures' intent as wordless "vibes" rather than speech, and felt the Bonewall celebrating something new at his arrival
+- **Resist Instinct** — Roll+WIS to change shape before he has fulfilled a form's Instinct
+- **Bridge Between Worlds** (Advanced) — He perceives the patterns beneath the world and can now extend Shapeshift and At One With The World to inanimate natural things (plants, rocks) and to the raw elements — fire, water, air, and earth; this is the source of his power to dissolve into wind and move "between worlds"
 
 **Attuned Creatures:**
 - Beaver (instinct: reshape the world)
@@ -96,7 +98,7 @@ He has traveled across the continent as a beaver, including to regions with sava
 In animal form he can speak.
 His beaver sense of smell is specialized — excellent for beaver-specific scents like pheromones and territorial markers, but less effective for general tracking.
 
-He has grown into a new elemental power: he can dissolve into wind, moving "between worlds," which he used to rush after [[Mira]] through the [[Witch Stones]] portal to the [[Bonewall]].
+Through the Advanced move **Bridge Between Worlds**, he has grown into a new elemental power: he can dissolve into wind, moving "between worlds," which he used to rush after [[Mira]] through the [[Witch Stones]] portal to the [[Bonewall]].
 In wind form he can pass only through openings a breeze could move through — a wide crack will let him by, but a narrow one will not.
 
 ## The Beaver Dam

@@ -38,7 +38,7 @@ He is an embodiment of radiance who no longer trusts the institutions that wield
 STR 1, DEX 1, INT 0, WIS -1, CHA 2
 
 ## Playbook
-Immolator (reskinned for [[The Light]])
+Immolator — Level 1 (reskinned for [[The Light]])
 
 ## Drive
 Act callously or recklessly about death.

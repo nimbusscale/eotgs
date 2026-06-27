@@ -1,0 +1,22 @@
+# Maps a Foundry actor name (in the live "Echoes of the Godstorm" / pbta-test
+# world) to a kb/pcs slug.
+#
+# Hand-maintained (like config/speaker-map.yaml) — NOT generated. Players edit
+# their character sheets in Foundry between games; the pipeline reads those
+# sheets back into the PC entries:
+#
+#   bash scripts/pull_actors.sh   # pull + unpack + write inbox/characters/<slug>.md snapshots
+#   /incorporate-characters       # fold each snapshot into kb/pcs/<slug>.md (review via git diff)
+#
+# Match is by actor name (exact). The Foundry actor names are shorter than the KB
+# entry names (e.g. "Garland" vs garland-yn-greenholt), so the mapping is
+# explicit. Actors with no entry here are skipped with a warning.
+Castor: castor
+Edric: edric-bloom
+Garland: garland-yn-greenholt
+Paxton: paxton-lumnus
+Sir Roderic Lightbearer: sir-roderic-lightbearer
+# Mira has a full Foundry sheet (Cleric) but lives in kb/npcs/, not kb/pcs/, so
+# she is skipped. Add a mapping (and teach sync_actors.py about npcs) if she
+# should be synced.
+# Mira: mira

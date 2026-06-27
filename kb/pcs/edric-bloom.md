@@ -19,7 +19,7 @@ He serves as the party's face and information broker.
 STR -1, DEX 1, INT 1, WIS 0, CHA 2
 
 ## Playbook
-Bard
+Bard — Level 2
 
 ## Drive
 Endanger or sacrifice something for the sake of your art.

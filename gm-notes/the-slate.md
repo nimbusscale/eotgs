@@ -2,7 +2,7 @@
 
 > **GM ONLY.** First contact happened in [[Session 7]] — the player-facing entry now lives at [[The Slate]] (and their town at [[The Slate Town]]). This file keeps the secrets the players have **not** learned: the Stagnation/Awakening framing, the Moldrex temptation, the birthing secret, the Imperium-quarry grievance, and the open mechanics below. Locked decisions and open questions are marked.
 
-The live-play staging that draws on this lore lives in the GM note **Session 8 Prep — The Slate Town**.
+The live-play staging that draws on this lore lives in the GM note **Session 8 and Beyond — Planning Guide**.
 
 See also: [[The Slate]], [[The Slate Town]], [[Bonewall]], [[Thirteen Spines]], [[Moldrex]], [[Öuth Krelt]], [[Senna]], [[Spinewardens]], [[Witch Stones]]
 

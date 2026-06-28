@@ -110,3 +110,55 @@ transcription_corrections:
     replace: "Sariel"
   - match: "serial"
     replace: "Sariel"
+
+  # --- Session 8 names (the Slate town Muistola, Finnish-rooted) ---
+  # Corrections are raw case-insensitive substring replacements (no word
+  # boundaries), so only DISTINCTIVE mishearings are listed here. The shortest
+  # canonical names — Aamu, Itu, Routa, Lohka — are NOT auto-corrected from their
+  # bare mishearings (Amu, Ito, Rota, Loka/Loca), because those fragments occur
+  # inside ordinary words ("amused", "monitor", "rotate", "located"). Catch those
+  # by hand at extraction instead.
+  - match: "Vallo"
+    replace: "Vaalo"
+  - match: "Halvey"
+    replace: "Holvi"
+  - match: "Holvey"
+    replace: "Holvi"
+  - match: "Hallvey"
+    replace: "Holvi"
+  - match: "Holby"
+    replace: "Holvi"
+  - match: "Kalillo"
+    replace: "Kallio"
+  - match: "Calillo"
+    replace: "Kallio"
+  - match: "Kalilo"
+    replace: "Kallio"
+  - match: "Kaleo"
+    replace: "Kallio"
+  - match: "Amio"
+    replace: "Aamu"
+  - match: "Rotu"
+    replace: "Routa"
+  - match: "Itsu"
+    replace: "Itu"
+  - match: "Sauvignon"
+    replace: "Syvämaa"
+  - match: "Savinat"
+    replace: "Syvämaa"
+  - match: "Massula"
+    replace: "Muistola"
+  - match: "Masola"
+    replace: "Muistola"
+  - match: "swonet"
+    replace: "Suonet"
+  - match: "swownet"
+    replace: "Suonet"
+  - match: "squeenet"
+    replace: "Suonet"
+  # Real-word collisions — corrected here because they are plot names this
+  # campaign, but review/remove if a future session uses the word literally:
+  - match: "Helios"
+    replace: "Hiillos"
+  - match: "David"
+    replace: "Dafydd"

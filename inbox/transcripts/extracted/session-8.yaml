@@ -1,0 +1,320 @@
+session_number: 8
+date_played: "2026-06-27"
+source_transcript: "inbox/transcripts/prepared/session-8.txt"
+
+# NOTE: This session's transcript was machine-transcribed with badly garbled
+# Finnish-rooted proper nouns. Names below are normalized to the canonical
+# spellings in gm-notes/session-8-run-guide.md and gm-notes/the-slate.md:
+#   Sauvignon -> Syvämaa · Vallo -> Vaalo · Helios -> Hiillos · Halvey -> Holvi
+#   Kalillo/Cleo -> Kallio · Loka -> Lohka · Amu -> Aamu · Rota -> Routa
+#   I2/E2/Ito -> Itu · swonet -> Suonet · (the cradle/tomb) -> Kehto
+
+recap_teaser: |
+  The forgetting did not begin with Sariel.
+  Beneath the Bonewall, in the singing dark of Muistola, the heralds learned the name the Light has lost — Vaalo, who raised the wall's lights with a coal of the buried sun — and felt the cold thing on the far side reaching its tendrils up through the stone toward them.
+
+summary: |
+  In the great hall of Muistola, the celebration of the Slate's first child in an age gave way to the rite of the memory stones.
+  An old loremaster named Holvi led the heralds into the Hall of Deep Memory, where each laid a hand on the standing stones and was imbued with the Slate's tongue — and with glimpses of older memories besides.
+  Paxton saw the deep dwarf Vaalo, a gray-skinned worshipper of a light below who had befriended Lucifer, helped raise the Imperium, and faded from every scripture until the Light remembered him only as a nameless builder.
+  Roderic relived the grief of paladins sealing the emanation of ruin, and sensed a forgotten figure as vital as Lucifer whose name the world would no longer surrender.
+  Garland looked into his own blood and saw an ancient civilization in the Vale that had learned stonecutting from the Bonewall shale, given a child to the standing stones to become their first speaker, raised towering cities, and at its height been betrayed by one of his own line who opened the gates to invaders.
+  Castor reached into recent history and found a millennium of monotony and one Slate, Aamu, who carried a grief unlike the rest.
+  From Holvi and old Lohka the party learned that the towers' lights are the children of Hiillos — the Spinewright's lantern, a banked coal of the buried sun — and that the Slate believe Hiillos lies in Vaalo's cradle Kehto, the same tomb Roderic alone survived when his company was slaughtered seeking that very lantern.
+
+  Garland and Mira sought out the stone-scribe Kallio, who tends the Slate's reverent annotations on the Bonewall witch-ring and had charted the stones as a network of nexus lines running out to the world — the Ashen Vale, the Cragmarr, Beaconhold, the Nodrum — with one node lately gone silent.
+  Mira's deepening connection pulled them into a blue spirit realm of standing stones, which proved to be the realm of the forgotten, where erased things drift and the Xan-Kor stirred at the distant Nodrum.
+  There Garland recognized a fragment of Mira wandering loose: a memory of her that ruin had stripped from him at the Nodrum.
+  To wrench them all back to the waking world swiftly, he had to leave a piece of himself behind, and he gave up the memory of his first son, Dafydd, dead these hundreds of years — choosing the living child over the smiling boy who reached for him, and forgetting Dafydd had ever existed.
+  He woke at the stones hearing them now as clearly as Mira does, while Mira raged that his hesitation had let one of the network's voices fall dark.
+
+  Above, the celebration curdled into schism.
+  Moldrex, the darkness beyond the wall, had whispered to Lohka, to some of the elders, and to others a promise: surrender the child Itu, and be freed forever from the Slate's cycle of emergence and petrifaction, to make and keep children of their own like the mortals above.
+  Aamu, who presides over the Slate's births and is sick with a private grief, reached for that promise; old Routa, who had raised Itu, fought to keep the child.
+  As warriors closed a ring around Itu and the factions came to blows, the Dark Harlequin breathed in Castor's ear that he could only ever watch, never act — and Castor answered by leaping into a gorilla's shape, snatching the child, and putting his back to the wall.
+  Garland fought to his nephew's side and Mira raised a sanctuary none could enter uninvited, while below, Roderic and Paxton pleaded with Lohka and the wavering guards.
+  Roderic's blade lit with Lucifer's light and bit into Lohka's stony hide to reveal soft, perishable flesh beneath — the devolution of a Slate trading stone for Moldrex's gift — and Lohka snapped the sword in two like a twig.
+
+  Paxton's radiance seared the boulder's exposed flesh, the first pain Lohka had ever known, and Roderic's divine decree turned the guards aside; Paxton wrung a wrestled soldier's surrender with a promise to spare Lohka's life.
+  But Lohka would not yield: "There will be no agreement — Moldrex will keep me from petrifying," he swore, and fled up the stairs toward the standoff at Mira's sanctuary.
+  Outside, cat-sized spiders swarmed the sealed upper entrance in their dozens, and the chittering drew closer through the dark.
+  Then the ceiling of Muistola began to crack, and pale tendrils pressed down through the stone — the rot of Öuth Krelt breaching the Remembrance at last.
+
+major_events:
+  - description: |
+      In the Hall of Deep Memory, Holvi guided the heralds to touch the Slate's memory stones, imbuing each with the ability to speak with the Slate and granting visions of older, half-erased memories.
+      Through the stones they glimpsed Vaalo, a deep dwarf and friend of Lucifer who had faded from history until the Light remembered him only as a nameless builder, and learned that another figure as important as Lucifer had been forgotten by the world.
+    entities_involved: ["Paxton Lumnus", "Sir Roderic Lightbearer", "Garland yn Greenholt", "Castor", "Holvi", "Vaalo"]
+    location: "Muistola"
+  - description: |
+      Garland's stone-vision revealed an ancient civilization in the Ashen Vale tied to his own bloodline: people who learned stonecutting from the Bonewall shale, gave a child to the standing stones to become their first speaker, raised towering cities, and were finally betrayed by one of Garland's line who opened the gates to invaders.
+      The vision left Garland fearing the stones might demand a sacrifice of Mira.
+    entities_involved: ["Garland yn Greenholt", "Mira"]
+    location: "Muistola"
+  - description: |
+      Holvi and Lohka revealed that the lights atop the Thirteen Spines are the "children of Hiillos" — Hiillos being the Spinewright's lantern, which carries a banked coal of the light below.
+      The Slate believe Hiillos lies in Vaalo's cradle Kehto — revealed to be the same tomb Roderic alone survived when his company was slaughtered seeking that lantern — though whether it is still there is unknown, and reigniting the failing lights would mean recovering it.
+    entities_involved: ["Sir Roderic Lightbearer", "Paxton Lumnus", "Holvi", "Lohka", "Vaalo"]
+    location: "Muistola"
+  - description: |
+      Garland and the stone-scribe Kallio compared notes on the witch stones, confirming they form a network of nexus lines spanning the Ashen Vale, the Cragmarr, Beaconhold, and the Nodrum, with one node recently gone silent.
+      Mira's connection drew the group into a blue spirit realm of standing stones.
+    entities_involved: ["Garland yn Greenholt", "Mira", "Kallio"]
+    location: "Muistola"
+  - description: |
+      The spirit realm proved to be the realm of the forgotten, where erased things drift and the Xan-Kor stirs at the Nodrum.
+      To pull everyone back to the waking world quickly, Garland sacrificed the memory of his first son, Dafydd — choosing the living Mira over the boy who reached for him, and forgetting Dafydd had ever existed.
+      He emerged able to hear the witch stones as clearly as Mira does.
+    entities_involved: ["Garland yn Greenholt", "Mira"]
+    location: "Muistola"
+  - description: |
+      A schism erupted among the Slate over the child Itu: Moldrex had promised Lohka and others freedom from the Slate's cycle of emergence and petrifaction in exchange for handing the child across the wall.
+      Aamu, who presides over births and carries a private grief, reached for the promise while Routa, who raised Itu, fought to keep the child, and the warriors closed a ring around Itu as the factions came to blows.
+    entities_involved: ["Lohka", "Aamu", "Routa", "Itu"]
+    location: "Muistola"
+  - description: |
+      As the brawl spread and Castor hung back to watch as he always had, the Dark Harlequin — beheaded by Roderic in the Chamber of Renewal yet lingering as a voice in his ear — whispered that of all his companions he alone could do nothing but watch society, never act.
+      The taunt struck his deepest doubt and froze him where he stood, until he tore himself loose of it and moved.
+    entities_involved: ["Castor"]
+    location: "Muistola"
+  - description: |
+      Castor transformed into a gorilla mid-leap, snatched Itu from the brawl, and put his back to the wall; Garland fought to his side and Mira raised a sanctuary none could enter without her consent.
+      Below, Roderic's lit blade revealed soft flesh beneath Lohka's stone — the devolution of trading stone for Moldrex's gift — before Lohka snapped the sword in half, and Paxton's radiance burned Lohka, the first pain the boulder had ever felt.
+    entities_involved: ["Castor", "Garland yn Greenholt", "Mira", "Sir Roderic Lightbearer", "Paxton Lumnus", "Lohka", "Itu"]
+    location: "Muistola"
+  - description: |
+      Lohka refused all pleas, declared that Moldrex would keep him from petrifying, and fled up the stairs toward the party's standoff at the sanctuary.
+      As he did, dozens of cat-sized spiders swarmed the sealed upper entrance and tendrils of corruption cracked through the ceiling of Muistola — Öuth Krelt breaching the town.
+    entities_involved: ["Lohka", "Sir Roderic Lightbearer", "Paxton Lumnus", "Garland yn Greenholt", "Castor", "Mira"]
+    location: "Muistola"
+
+new_entities:
+  # The named Slate (Holvi, Kallio, Lohka, Aamu, Routa, Itu) already exist as sub-entities of
+  # kb/factions/the-slate.md, so this session's developments are folded in as entity_updates there
+  # rather than as standalone NPC pages. Vaalo (a deep dwarf, not a Slate) is folded into the
+  # existing 'The Spinewright' world entity, whose name he is.
+  npcs: []
+
+  locations:
+    - name: "Syvämaa"
+      type: "Region"
+      description: |
+        The Deep-earth — an inner world at the world's core, a hollow beneath the world with its own firmament and a sun burning at the heart of the rock.
+        The true light, in Vaalo's gospel, does not hang in the sky but burns below; what the Imperium worships overhead as Lucifer's radiance, the deep folk know as that buried sun.
+        It is the origin of both the Slate and the deep dwarf Vaalo, and the Slate emerge from it and petrify back toward it; the Spinewright's lantern, Hiillos, carries a single coal banked from its inner sun.
+      notes: |
+        Canon name (gm-notes/spinewright.md, the-slate.md): Syvämaa, "the Deep-earth." Heard in the transcript
+        as Sauvignon/Savina/Savinat. In play the GM called its buried sun "the under god" / an old god / "the light
+        below"; canon keeps the buried-sun-as-god (a possible "stone-god") an OPEN question, possibly kin to the
+        power behind Mira's Witch Stones. NOTE: the run guide intended the Syvämaa thread to stay GM-only this
+        session (only the Suonet surfaced); the GM revealed considerably more in play — flagged for the GM to
+        decide how much enters the player-facing KB.
+    - name: "The Realm of the Forgotten"
+      type: "Landmark"
+      description: |
+        A spirit realm reached through the witch stones, perceived as a blue overlay of standing stones, drifting buildings, and faint lights where the physical landscape falls away.
+        It is where erased and forgotten things go: the Xan-Kor stirs there at the Nodrum, and lost memories take wandering, half-solid form.
+        Leaving it quickly demands that a traveler abandon a piece of themselves to remain behind.
+      notes: |
+        Emergent name from play. Mechanically this is the forgetting itself (the run guide's "Avalanche"); touching
+        the live witch-stone network puts those who reach it on the forgetting's radar. Garland lost the memory of
+        his son Dafydd here; a fragment of Mira lingered here as a memory ruin had stripped from him.
+
+  items: []
+
+  factions: []
+
+entity_updates:
+  - entity: "Castor"
+    category: "pc"
+    new_info: |
+      In the Hall of Deep Memory, Castor looked into the Slate's recent history and felt their millennium of stasis as a deep, traumatic depression, marking out Aamu as the one Slate for whom something had changed.
+      Watching the child Itu deepened his late-life ache for the human life he squandered as a beaver.
+      When the schism turned violent, the Dark Harlequin's voice — familiar from the Chamber of Renewal — taunted him that he could only ever watch society and never act, freezing him; he broke the spell by leaping into a gorilla's shape, snatching the child, and shielding it.
+  - entity: "Garland yn Greenholt"
+    category: "pc"
+    new_info: |
+      A stone-vision showed Garland an ancient civilization in the Ashen Vale tied to his own bloodline — people who learned stonecutting from the Bonewall shale, gave a child to the standing stones to become their first speaker, and were undone when one of Garland's own line opened the gates to invaders.
+      To pull Mira and the others out of the realm of the forgotten, he sacrificed the memory of his first son, Dafydd (pronounced "Daveth") — born after he returned to the Vale from soldiering and dead these hundreds of years — and now no longer remembers Dafydd at all.
+      The sacrifice left him able to hear the witch stones as clearly as Mira does, and forged a new driving purpose: to protect Mira from every danger, including the stones, her family, and herself, at the cost of his own goals and safety.
+  - entity: "Paxton Lumnus"
+    category: "pc"
+    new_info: |
+      Paxton learned from Holvi of Vaalo and the light below of Syvämaa, deepening his suspicion that the Church's account of Lucifer is incomplete.
+  - entity: "Mira"
+    category: "npc"
+    new_info: |
+      Mira's bond with the witch stones has deepened sharply: she can now project herself and others into the spirit realm of the forgotten and perceive the stone network as living blue lights.
+      She resents Garland for holding her back from restoring a fading stone-node, accusing him of hesitating when he was always the one who stepped forward.
+  - entity: "Witch Stones"
+    category: "location"
+    new_info: |
+      The witch stones form a network of nexus lines reaching far beyond the Ashen Vale — to the Cragmarr, past Beaconhold, the Nodrum, and through the Bonewall itself — with the Slate stone-scribe Kallio tending the Bonewall ring's annotations and charting matching nodes from Muistola.
+      The Bonewall ring's deep carvings predate the Slate (who study the ring rather than having built it) and may tie to the gods of Syvämaa, the world below.
+      Touching the live network can open the realm of the forgotten and puts those who reach it on the forgetting's radar; one node in the Cragmarr has recently gone silent, and a fading node may be suppressed rather than destroyed.
+    parent_file: "locations/witch-stones.md"
+  - entity: "The Slate"
+    category: "faction"
+    parent_file: "factions/the-slate.md"
+    new_info: |
+      The Slate are genderless and androgynous, going by they/them, and grow blockier and more petrified with age.
+      They emerge fully formed from the mountain — from Syvämaa, the Deep-earth — rather than being born, and at the end of their lives petrify back into the stone, becoming the Watchers scattered across the Bonewall; this cycle is something they do not control.
+      Moldrex has now split them: a faction reaching through Aamu and the head warrior Lohka would surrender the newborn Itu to Moldrex to break their dependence on the mountain's emergence and live and breed like the mortals above.
+      They travel quickly through the Suonet ("the Veins"), glyph-carved passages they move through the mountain, running north to Carnforth and south to Kehto.
+  - entity: "Holvi"
+    category: "npc"
+    parent_file: "factions/the-slate.md"
+    sub_section: "Holvi"
+    new_info: |
+      Holvi, the loremaster "Vault," is the one Slate who still speaks undrifted Imperial, learned long ago from his friend Vaalo; he led the party through the memory-stone rite that gave them the Slate tongue.
+      Drawn to Roderic's metal and the memory of his lost friend, he opened the Vaalo and Hiillos lore to them; warm and gracious, he was briefly swayed back toward the light during the schism but is grieved by what is overtaking his people.
+  - entity: "Kallio"
+    category: "npc"
+    parent_file: "factions/the-slate.md"
+    sub_section: "Kallio"
+    new_info: |
+      Kallio, the stone-scribe "Bedrock," has charted the Bonewall witch-ring as one node in a network of nexus lines running out to the world, and worked with Garland to compare the two rings' carvings.
+      He is privately frightened that nodes are going dark for the first time in memory.
+  - entity: "Lohka"
+    category: "npc"
+    parent_file: "factions/the-slate.md"
+    sub_section: "Lohka"
+    new_info: |
+      Lohka, the head warrior "Boulder," nearing petrifaction and terrified of dying back into stone, has turned to Moldrex for the promise of never returning to the mountain and leads the faction's muscle by force.
+      Roderic's lit blade chipped his stone to reveal the soft, perishable flesh of his devolution and Paxton's radiance gave him the first pain of his long life, yet he could not be felled; he fled vowing Moldrex would keep him from petrifying.
+  - entity: "Aamu"
+    category: "npc"
+    parent_file: "factions/the-slate.md"
+    sub_section: "Aamu"
+    new_info: |
+      Aamu, the Keeper of Emergence, carries a deep grief unlike the millennial calm of the others and is openly joyful about the child Itu — Castor's stone-vision marked Aamu as the one Slate for whom something had truly changed.
+      Aamu leads the movement to give Itu to Moldrex, framing it not as betrayal but as a way to make children of their own that will not be lost to the mountain.
+  - entity: "Routa"
+    category: "npc"
+    parent_file: "factions/the-slate.md"
+    sub_section: "Routa"
+    new_info: |
+      Routa, the eldest guardian "Deep-Frost" who raised Itu and is the party's warmest bond among the Slate, opposes giving the child to Moldrex and fights to protect Itu and keep the town whole.
+  - entity: "Itu"
+    category: "npc"
+    parent_file: "factions/the-slate.md"
+    sub_section: "Itu"
+    new_info: |
+      Itu, the first Slate child in an age, has become the heart of the schism — one faction would raise the child and another would surrender Itu to Moldrex across the wall.
+      Castor seized the child in gorilla form to keep Itu from being taken.
+  - entity: "Bonewall"
+    category: "location"
+    parent_file: "locations/bonewall.md"
+    new_info: |
+      The grey "Watchers" standing out on the Bonewall are revealed to be Slate who petrified outside Muistola at the end of their lives.
+      The mutating vines and the swarms of cat-sized spiders are spreading from a second, no-longer-safe entrance to the Slate town, and corruption from Öuth Krelt has begun breaking through into Muistola itself.
+  - entity: "The Spinewright's Lantern"
+    category: "item"
+    parent_file: "items/spinewrights-lantern.md"
+    new_info: |
+      The lantern's elder name, Hiillos, is borne out in the Slate's memory: it is a single coal banked from Syvämaa's inner sun, the light below.
+      The thirteen towers' lights along the Bonewall are the "children of Hiillos," powered by it to hold back Moldrex.
+      The Slate believe Hiillos lies in Vaalo's cradle, Kehto, and that recovering it could reignite the failing spines — though that is the same tomb Roderic's company died seeking the lantern in, so whether it remains there is unknown.
+  - entity: "The Spinewright"
+    category: "world"
+    parent_file: "world/spinewright.md"
+    new_info: |
+      The Spinewright who built the Thirteen Spines is named Vaalo: a deep dwarf of Syvämaa, gray-skinned and bearded, robed as a churchman of the Radiance and a worshipper of the light below (the buried sun at the world's core).
+      He came up from the deep, befriended Lucifer, learned the imperial tongue, and helped organize the Imperium; a convert who married the two faiths, raising the Bonewall's wards and their lights — "the children of Hiillos" — with the fire of the world's core in service to the Light of the sky, alongside the Slate.
+      The Light has forgotten his name, remembering him only as the Spinewright; he settled back into stone at his cradle, Kehto, where he now lies dormant.
+  - entity: "Tomb of the Spinewright"
+    category: "location"
+    parent_file: "locations/tomb-of-the-spinewright.md"
+    new_info: |
+      The tomb is named Kehto, "the Cradle" — to the Slate not a grave but Vaalo's return to the stone that bore him.
+      The dormant Spinewright lies there, and the Slate believe his lantern Hiillos rests with him — though it is the same tomb Roderic's company died seeking the lantern in, so whether it remains is unknown.
+      It sits south of Muistola along the Suonet, and Roderic is understood to have come from there; the Slate warn its stones have shifted dangerously of late.
+  - entity: "Xan-Kor"
+    category: "item"
+    parent_file: "items/xan-kor.md"
+    new_info: |
+      In the realm of the forgotten, the Xan-Kor was seen manifesting at the Nodrum — the interdimensional prison where the emanation of forgetting was bound — stirring and brightening as Garland worked his ritual.
+  - entity: "Old Gods"
+    category: "faction"
+    parent_file: "factions/old-gods.md"
+    sub_section: "The Harlequins"
+    new_info: |
+      Though beheaded by Roderic in the Chamber of Renewal, the Dark Harlequin persists as a taunting voice, whispering to Castor in Muistola and mocking him for being able only to watch and never act.
+
+questions_raised:
+  - "What is Syvämaa, the Deep-earth, truly — and is its buried sun (the 'light below') an old god, perhaps kin to the power behind Mira's witch stones?"
+  - "Can Vaalo, the dormant Spinewright, be recovered from his cradle Kehto, and can Hiillos be retrieved to reignite the failing lights of the Thirteen Spines?"
+  - "Why has the Light forgotten Vaalo, the builder of its own wards, keeping only the title 'the Spinewright' — and can his name and works be recovered?"
+  - "Garland's bloodline learned the stones and was betrayed by one of its own who let invaders in — what was that ancient Vale civilization, and what does its fall mean for him?"
+  - "Do the witch stones demand a sacrifice — a child given to become their speaker — and do they want Mira?"
+  - "Can what is lost in the realm of the forgotten — Dafydd, Mira's stripped memory, the silenced stone-nodes — ever be recovered?"
+  - "How will hearing the stones as Mira does change Garland, and does it bind him to them as it may bind her?"
+  - "Is Moldrex telling the truth that it can free the Slate from their emergence-and-petrifaction cycle, or only tricking them as Roderic believes?"
+  - "Can the Slate schism be stopped and the child Itu saved before the corruption fully takes Muistola?"
+  - "What breaks through the ceiling of Muistola, and can the party survive Öuth Krelt's rot breaching the Remembrance?"
+
+questions_resolved:
+  - question: "What is the nature of the Spinewright's Lantern (Hiillos)?"
+    answer: |
+      Hiillos is a single coal banked from Syvämaa's inner sun, the light below; the thirteen towers along the Bonewall are its "children," powered by it to hold back Moldrex.
+    session_established: 8
+  - question: "Who was the Spinewright who built the Thirteen Spines?"
+    answer: |
+      Vaalo, a deep dwarf of Syvämaa and a convert-friend of Lucifer, raised the spines and their lights with a coal of the buried sun — and the Light has since forgotten his name.
+    session_established: 8
+  - question: "What are the Watchers — the rigid statues out on the Bonewall?"
+    answer: |
+      They are Slate who reached the end of their lives and petrified outside Muistola, returning to the stone as part of their natural cycle.
+    session_established: 8
+  - question: "Why are the Bonewall's vines mutating and harboring spiders?"
+    answer: |
+      It is Moldrex's corruption from Öuth Krelt seeping through the failing wards by way of a second, no-longer-safe entrance to the Slate town; by session's end it breaches Muistola directly.
+    session_established: 8
+
+arc_progress:
+  - arc_name: "The Forgotten and the Forsaken"
+    arc_type: "group"
+    development: |
+      The theme of forgetting widens beyond Sariel: Vaalo, the deep dwarf who built the Bonewall's defenses with Lucifer, has faded from the Light's memory until only the Slate still hold his name, and his lantern Hiillos — a coal of the buried sun — is what powers the failing spines.
+      Beneath the wall, Moldrex's corruption has split the Slate and broken through into Muistola itself, while Garland's own sacrifice in the realm of the forgotten ties the forgetting directly to the witch-stone network and his bloodline.
+
+notable_quotes:
+  - speaker: "Mira"
+    line: "Dagar, every story I hear about you has always been you stepping forward when others hesitate. And now at the time where we need that most, you hesitate."
+    context: "Furious that Garland held her back from restoring a fading witch-stone node."
+  - speaker: "The Dark Harlequin"
+    line: "This is the height of humor. Out of all of your companions, any one of them could do something. But you can't do anything here. All you do is watch society."
+    context: "Whispering to Castor as the Slate schism turned violent, mocking his passivity."
+  - speaker: "Lohka"
+    line: "There will be no agreement. Moldrex will keep me from petrifying."
+    context: "Refusing the party's pleas and fleeing toward the standoff at the sanctuary."
+  - speaker: "Roderic"
+    line: "Let Lucifer's light purify you."
+    context: "Striking Lohka with his lit blade, just before Lohka snapped the sword in half."
+
+
+
+filtered_sections:
+  - line_range: "1-23"
+    reason: "Out-of-character discussion about using Claude/AI for GM feedback and player engagement"
+  - line_range: "290-302"
+    reason: "Bio break and technical/roll-call chatter"
+  - line_range: "697-716"
+    reason: "Real-world tangent about colds and coughing"
+  - line_range: "956-985"
+    reason: "Ramsey's connection dropping mid-scene; technical troubleshooting"
+  - line_range: "1148-1206"
+    reason: "Extended real-world tangent about public urination"
+  - line_range: "1228-1267"
+    reason: "Out-of-character banter about AI image generation being flagged; Foundry display issues"
+  - line_range: "2306-2389"
+    reason: "End-of-session meta discussion of pacing, the two-group split, and a hypothetical GM bot, plus image-generation tool talk"
+
+gm_observations:
+  - "Aamu's grief read clearly to Castor's stone-vision (the 'deep trauma sadness'), but its true source — the hidden stillborn dead in the Gallery of the Lost, known only to Aamu — never surfaced in play. Keep that secret GM-only; the party has only sensed that something weighs on Aamu."
+  - "GM-only — the Roland seed: the forgotten figure Roderic sensed in his stone-vision (as vital as Lucifer, explicitly NOT Sariel) is the planted hook for Roland, the erased-ascension contender who did not ascend when Lucifer did (see gm-notes/session-8-and-beyond.md). Do NOT reveal to the players — it stays a nameless mystery on their side."
+  - "Moldrex is winning converts among the Slate faster than the party can counter — Holvi wavered and Lohka's faction hardened within a single scene, suggesting the corruption spreads through belief as much as through the vines."
+  - "Lohka's exposed flesh beneath the cracking stone is the devolution mechanic made visible: rival Slate trade stone for Moldrex's soft, perishable flesh, becoming 'stronger, freer' and more vulnerable at once."
+  - "The realm-of-the-forgotten ritual establishes a reusable, costly mechanism: the witch stones can reach the place where erased things persist, which may be the route to recovering Vaalo, Sariel, or lost memories later — at the price of being seen by the forgetting."
+
+unresolved_references: []

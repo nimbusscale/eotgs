@@ -36,6 +36,7 @@ Reality is slowly catching up to this fact, which is why the Xan-Kor's prison is
 Sariel may still exist — wherever erased things go, they are not necessarily destroyed.
 Whether Sariel can be found or restored is an open question.
 The erasure is now manifesting physically: in [[Session 6]], [[Sariel]]'s bust vanished from a [[Beaconhold]] office without leaving even a trace of dust, and the clergy can no longer remember him — yet [[Sir Roderic Lightbearer|Roderic]] still does, raising the question of why the forgetting has not touched him.
+In [[Session 8]] the erasure proved wider than Sariel alone: the Slate's memory stones showed Roderic a second figure, nearly as important as [[Lucifer]] and distinct from Sariel, scrubbed entirely from what the Church teaches. The deep dwarf Vaalo — builder of the spines, absent from all scripture as though excluded from time — may be that figure or merely another like him, suggesting the forgetting has taken more of the Light's founders than anyone now remembers losing.
 
 ### The Bonewall's Darkness
 **Source:** [[Session 2]]
@@ -49,6 +50,7 @@ What Moldrex seeks and whether the party's actions have inadvertently enabled th
 In [[Session 6]] the threat gained a clearer shape: Carnforth, the northernmost Spine, went fully dark, and the warden [[Senna]] — who died at a failing tower and was reborn "in the vision of Moldrex," scaled and reptile-eyed — revealed that Moldrex may be remaking the wardens who fall, raising the question of whether every Spinewarden who dies at the towers returns as its servant.
 In [[Session 7]] the cause came clearer still: the wards are failing as a side effect of [[Sariel]]'s erasure from history (see *Lucifer's Champion*) — the rites that once renewed them lost along with the angel, so the wards decay untended and unremembered. The party's part is indirect and already behind them: their ruin at [[The Nodrum]] let the erasure happen, but that ruin left them when renewal was reborn, and they are heralds of ruin no longer.
 The corruption is already bleeding through the weakening wards: the Bonewall's grey vines have begun to move, resist fire, and grow monstrous, harboring giant spiders unrecorded even by the wardens, and a hidden order or cult marked by [[The Spinewright's Lantern|the lantern necklace]] — tied to the figure [[Roland]] — is working to keep [[Sir Roderic Lightbearer|Roderic]] from the [[Tomb of the Spinewright]].
+In [[Session 8]] the wards' true nature came clear: they were built not by [[Lucifer]] but by the deep dwarf Vaalo, the [[Spinewright]], who drew their fire from the light of [[Syvämaa]], the world below, carried in the lantern [[The Spinewright's Lantern|Hiillos]]. The thirteen spines are the "children of Hiillos," and the [[The Slate|Slate]] hold that the towers going dark can be rekindled only by retrieving Hiillos from Vaalo's cradle in the [[Tomb of the Spinewright]] — giving the party a concrete objective, and tying [[Roland]]'s lantern-marked order to the relic that could restore the wall. Moldrex's corruption has now broken clear through into the Slate's hidden town.
 
 ### The Vanishing Faithful
 **Source:** [[Session 6]]
@@ -61,10 +63,12 @@ Whether the missing left willingly or were taken, and how the vanishings connect
 
 ### The Waking of the Slate
 **Source:** [[Session 7]]
-**Related:** [[The Slate]], [[Bonewall]], [[God of Renewal]], [[Moldrex]]
+**Related:** [[The Slate]], [[Bonewall]], [[God of Renewal]], [[Moldrex]], [[Syvämaa]]
 
 Hidden within the [[Bonewall]] dwell [[The Slate|the Slate]], a people of living stone who emerge from the mountain and petrify into the architecture of their own town when they die.
-For as long as any of them can remember, none had aged, died, or been born — their whole society frozen in a long stillness — until, very recently, a single child emerged from the mountain, the first birth in living memory, and the people broke into celebration.
-That a deathless, birthless stasis should break now, as the world wakes, reads as an echo of the [[God of Renewal]]'s awakening — the cycle beginning to turn again.
-Why the newborn child fled the party and why the rigid [[Bonewall|Watcher]] statues pursued it is unexplained, and a people whose destiny is to harden into stillness make exactly the prize the forces beyond the wall would most want to claim.
-What the first child signifies, and what the party's arrival among the Slate sets in motion, could grow into an arc of its own.
+For as long as any of them can remember, none had aged, died, or been born — their whole society frozen in a long stillness — until, very recently, a single child, Itu, emerged from the mountain, the first birth in living memory, and the people broke into celebration.
+That stasis broke as an echo of the [[God of Renewal]]'s awakening: with the suppressed old gods reviving, change has returned to the Slate, and with it aging, death, and the dread of petrifying once more.
+The Slate are bound body and being to [[Syvämaa]], the deep world below, from which they emerge and to which their dead return — a dependence some now feel as abandonment.
+In [[Session 8]] [[Moldrex]] turned that fear into a wedge, offering to sever the Slate from Syvämaa entirely — to let them be born, live, and die freely — in exchange for the child Itu, to be carried through the Suonet into [[Öuth Krelt]] and given to his emissary.
+The offer split [[The Slate Town|Muistola]]: the warrior [[The Slate|Lohka]] and the scribe [[The Slate|Kallio]] converted, his vines and spiders breached the town, and the party fought to keep the child from him.
+What Itu's destiny is, whether Lohka's faction succeeds in reaching Moldrex, and what Syvämaa truly is remain open.

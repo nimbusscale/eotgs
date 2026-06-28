@@ -41,9 +41,12 @@ In the Spinewright's own tongue — a language no one in the vale now speaks —
 Why the maker of the Light's great wards should have called his fire by a foreign word for a humble coal is not a question the Church has ever cared to ask.
 
 ## Properties
+The ember Hiillos carries is a shard of the light below — the second light of [[Syvämaa]], the deep world from which the [[Spinewright]] himself came.
+That same fire is what powers the [[Thirteen Spines]]: the towers are called the "children of Hiillos," and the lantern is their parent and their source.
 Its open flame pushes back the darkness of [[Öuth Krelt]] for miles and purifies the land its light touches.
 That reach is not free: creatures of the dark must be battled back for the light to extend, so the lantern protects best in the hands of those willing to fight for the ground it claims.
 It was prized as a relic that could let its bearers push past the [[Bonewall]] into the country the Light names the darkness.
+Because the spines draw their light from it, the [[The Slate|Slate]] hold that the towers now going dark can only be rekindled by retrieving Hiillos from the [[Tomb of the Spinewright|Spinewright's cradle]] and reigniting them from the lantern itself.
 
 ## History
 The lantern was kept in the [[Tomb of the Spinewright]], guarded by the Spinewright's constructs and trials of faith.

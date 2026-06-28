@@ -42,7 +42,8 @@ STR 2, DEX -1, INT 1, WIS 1, CHA 0
 Fighter — Level 4 (with cross-class Wizard moves)
 
 ## Drive
-Step forward where others hesitate.
+Protect [[Mira]] from every danger — the stones, her family, even herself — whatever it costs him.
+(Formerly: step forward where others hesitate — a drive he set aside on the Bonewall, to Mira's open dismay, when caution for her sake won out over his old instinct to lead the charge.)
 
 ## Background
 Garland is extremely old — centuries implied — with elven features but human.
@@ -88,6 +89,12 @@ On the Bonewall he found a second ring of Witch Stones, twin to his own but carv
 Having watched Mira's grasping-gate and now studied this far ring, he intends to recreate that long-distance gate as a ritual to send her safely home.
 When the party met the resurrected [[Paxton Lumnus|Paxton]], Garland privately recognized the sigil of his return as the mark of what his youth had called the "unborn" — those reborn through the Light — but kept the knowledge to himself rather than confront him.
 
+Within the Slate's town his sense of the stones deepened and darkened.
+The memory stones showed him his own bloodline raising the [[Witch Stones]] and giving a child over to them, and a descendant of his line betraying an ancient vale civilization to invaders — visions that left him fearing the stones might want something of [[Mira]].
+When she slipped into the spirit realm to mend a dimming stone, he followed and worked a ritual to drag them both free; the price was a piece of himself, and he gave up the memory of his first child — Dafydd, a son born when he first came home from soldiering, dead these hundreds of years, who had carried the face of Garland's own mother.
+He chose the living girl over the remembered boy and surfaced remembering neither Dafydd nor the bargain, only an aching, unexplained grief — but now hearing the Witch Stones clearly, in words, the way Mira does.
+Out of that fear for her, his drive turned: where once he stepped forward where others hesitated, he now means to shield Mira from every danger, including the stones and her own reckless reaching, whatever it costs him.
+
 ## Religion
 Has never had much use for gods.
 
@@ -115,7 +122,7 @@ Has never had much use for gods.
 - [[Rowan yn Greenholt]] — Great-grandchild through his second family; lived in [[Ashbrook]] and perished when the town fell
 - [[Aldric Garlandsson]] — Grandson through his second family, who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
 - His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
-- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
+- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] as words; he now shelters and mentors her, and after the Bonewall his protectiveness has hardened into his governing drive — to shield her even from the stones and from herself, though she chafes at being held back and now calls him by the name he prefers, "Dagar"
 - [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
 - [[Paxton Lumnus]] — Newly met on the Bonewall; Garland silently recognized the sigil of Paxton's resurrection as the mark of the "unborn" his youth knew, and has chosen to keep that recognition secret for now
 
@@ -136,6 +143,7 @@ And he is not the only one who hears them: his great-granddaughter [[Mira]] hear
 The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]].
 That far ring is twin to his own yet carved in a wholly different, unreadable runic language, and his bond to it is faint and distant — evidence that the stones may form a wider network and hold secrets he never learned.
 He now means to study the Bonewall ring closely, both to read what it says and to reproduce Mira's long-distance gate as a ritual that could send her safely home to [[Crownvale]].
+Comparing notes with the Slate sage [[The Slate|Kallio]] confirmed the stones form a ley-line network spanning the [[Ashen Vale]], the [[Cragmarr|Cragmar]], and beyond, reaching even the dark far side of the wall — and after his passage through the [[The Realm of the Forgotten|realm of the forgotten]] he now hears the stones clearly, in words, as Mira does rather than as the old grinding of the earth.
 
 ### Garland's Reluctant Apprentice
 [[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.
@@ -160,6 +168,13 @@ What called him away, and how his friend came to die, remain unspoken — a buri
 ### The Greenholt Bloodline Origin
 The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.
 Whether it connects to actual elven ancestry or something else entirely remains an open question.
+The Slate's memory stones gave Garland a first glimpse of an answer: he saw his own bloodline raising the [[Witch Stones]] square-cut and new in the vale and giving a child over to them to become their first speaker, then a great vale civilization in its heyday — and a descendant of his line opening its gates to invaders.
+Whether the long lifespan, the bond to the stones, and a buried act of betrayal all spring from the same lost ancestry is now his to unravel.
+
+### The Forgotten Son
+To pull [[Mira]] free of the [[The Realm of the Forgotten|realm of the forgotten]], Garland surrendered the memory of his first child — Dafydd, a son of his first family, dead hundreds of years — and now cannot recall the boy at all, only a grief he cannot name.
+That realm gathers everything erased from time and memory, and what is taken there is not necessarily destroyed: Dafydd, the suppressed Witch Stone, and a lost fragment of Mira all drift somewhere within it.
+Whether what Garland has given up can ever be recovered, and what else the forgetting has quietly stripped from him over his long life, is an open thread.
 
 ### Aldric's Unnatural Reach
 [[Aldric Garlandsson|Aldric]], Garland's grandson, is consolidating power across the [[Ashen Vale]] — and now somehow knows everything that happens within it, down to the fact that the beaver [[Castor]] could speak.
@@ -176,3 +191,4 @@ How Aldric sees and hears so much, whether the ravens are his eyes, and what his
 - [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Hosted a Sunday dinner at the [[Witch Stones]] with [[Castor]] and [[Mira]]; faced [[Captain Vask]]'s delegation, conceding Mira's return while defending Castor and the beavers; recognized Mira's portal as gate-craft he once knew and lost; broke Vask's grip, was tackled by [[Sergeant Iyer]], then Favored Iyer and swore on his life to compel him aside, crossing the portal to the [[Bonewall]] after Mira and Castor
 - [[Session 7]] — Came through the portal to the Bonewall's second ring of Witch Stones, the forgetting taking hold again as he crossed — briefly reliving yet still unable to recall the lost memory of the note he once gave [[Mira]] for Aldric; found the ring carved in an unreadable tongue and worn nearly silent; met the [[The Slate|Slate]], privately recognized [[Paxton Lumnus|Paxton]]'s resurrection-sigil as the mark of the "unborn" and said nothing, and resolved to study the ring as a ritual gate to send Mira home
+- [[Session 8]] — At the memory stones glimpsed his bloodline raising the [[Witch Stones]] and sacrificing a child to them, and a descendant betraying an ancient vale civilization; studied the stone-network with the Slate sage [[The Slate|Kallio]]; followed Mira into the [[The Realm of the Forgotten|realm of the forgotten]] and sacrificed the memory of his first son, Dafydd, to pull her free — surfacing able to hear the stones clearly and bearing a grief he can no longer name; took up [[Second Harvest]] against the Slate warriors to defend [[Castor]] and the child Itu, was poisoned by a giant spider, and fell back into Mira's sanctuary

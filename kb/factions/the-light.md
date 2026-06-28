@@ -45,6 +45,11 @@ The faith spread through hope rather than conquest.
 The Church genuinely believes it is protecting humanity from darkness.
 Its faith has brought real benefits — stability, safety, the foundations of civilization.
 
+The wards that protect those lands were not Lucifer's own work.
+In the founding age Lucifer — the god of the light above — befriended Vaalo, a deep dwarf who had climbed up from [[Syvämaa]], the deep world, and worshipped the light below.
+It was Vaalo, remembered by the Church only as the [[Spinewright]], who built the [[Thirteen Spines]] to hold back the darkness beyond the [[Bonewall]], drawing their fire from a shard of the light below carried in the lantern [[The Spinewright's Lantern|Hiillos]].
+The Church keeps no name for him and no scripture of the light below — an absence that may be more than ordinary forgetting.
+
 ## Terminology
 
 ### The Faith

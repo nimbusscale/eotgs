@@ -72,6 +72,7 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - **Honor** — Vow and boon tied to keeping one's word and acting with integrity
 - **Mercy** — Vow and boon tied to sparing the defeated and offering redemption
 - **Purity** — Vow and boon tied to resisting corruption and temptation
+- **Justice** — *Suffer not a crime unpunished*: when he questions a captive or friendly individual, he knows whether they are lying; it gives him no read on the unfriendly or unwilling
 
 **Moves:**
 - **Devout Virtues** — Gain boons by upholding vows; break a vow to lose its boon
@@ -79,7 +80,7 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - **Chains of Faith** — Bind enemies or restrain evil through the power of faith
 - **Armed and Ready** — Always prepared for battle; never caught without weapon or armor
 - **Healing Hands** — Lay on hands to heal; Guardian background allows choosing two effects
-- **Eyes of the Faithful** *(Advanced)* — Used via Scrutinize or Examine, it always reveals a guilt or transgression on its target; it is meant to be turned on those who have done wrong, not used as a neutral sense-motive to judge whether someone is simply good or bad
+- **Eyes of the Faithful** *(custom)* — Used via Scrutinize or Examine, it always reveals a guilt or transgression on its target; it is meant to be turned on those who have done wrong, not used as a neutral sense-motive to judge whether someone is simply good or bad
 - **Divine Favor** *(Advanced)* — He has drawn a deity's notice, gaining the Cleric's Divine Agent and Invoke Miracle moves and learning Miracles (up to three known)
 - **Illuminate** *(Miracle)* — A holy light shines from him or something he touches, piercing darkness, illusions, and trickery
 
@@ -114,6 +115,8 @@ Who Roland is, what now lies in the tomb, what the lantern necklace signifies, a
 ### Roderic Remembers Sariel
 Where the clergy of Beaconhold can no longer recall the hero [[Sariel]] — his bust vanished from [[Vicar Lucis Gregory]]'s office without even a trace of dust — Roderic remembers him clearly, as the right hand of [[Lucifer]] and the general who imprisoned the God of Ruin and the [[Xan-Kor]].
 Why the forgetting that is unmaking Sariel from record and memory has not touched Roderic is an open question.
+At the Slate's memory stones the mystery widened: behind the visions of the old paladins Roderic sensed yet another figure, nearly as important as Lucifer and distinct from Sariel, whose presence has likewise been erased from everything he was ever taught — a second unmade name he has no way to recover.
+The deep dwarf Vaalo, builder of the spines, may be one such erased figure, but whether the one Roderic sensed is Vaalo or another is unknown.
 
 ## Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -124,3 +127,4 @@ Why the forgetting that is unmaking Sariel from record and memory has not touche
 - [[Session 5]] — Infiltrated besieged [[Aurelion|Crest Aurelion]] with [[Garland yn Greenholt|Garland]] to retrieve [[Count Albrecht Marrow]]; bluffed past Aureate guards using [[Luminary Severin Morrow|Severin]]'s [[Whiteglass|whiteglass]] pendant; fought [[Order of the Eclipsed Sword]] soldiers in the vault and was branded a heretic by a [[Corona Vigil]] inquisitor; cleared the [[Chryseum|The Chryseum]] of rioters with a divine decree; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it puppeteered a dead paladin's corpse; used Eyes of the Faithful to confirm the sincerity of the followers of renewal; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Returned to a [[Beaconhold]] whose Light had fractured and whose scripture had subtly changed; was lured to the imperial tunnels under [[Primus Griswald]]'s name and met [[Inquisitor Voss]] instead, learning Griswald and other faithful had vanished; weighed Voss's words as true and accepted the charge to investigate the failing Bonewall wards; learned the full story of his lost battalion; pressed [[Vicar Lucis Gregory]] and discovered [[Sariel]]'s bust gone without a trace of dust, the clergy unable to remember the hero he still recalls
 - [[Session 7]] — Ambushed at the edge of the [[The Reaches|Reaches]] by six lantern-marked men sent by [[Roland]] to keep him from the [[Tomb of the Spinewright]]; charged free and traced them to their camp to learn their purpose; doubled back to find the tomb buried under a rockslide, fell through collapsing ground into an underground river, and was hauled out by the [[The Slate|Slate]] into their hidden town, where he met [[Paxton Lumnus|Paxton]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]
+- [[Session 8]] — At the memory stones sensed a second figure, as important as [[Lucifer]] and not [[Sariel]], erased from all he was taught; learned from [[The Slate|Holvi]] of Vaalo and [[The Spinewright's Lantern|Hiillos]]; raised his light to turn [[The Slate|Holvi]] back from Moldrex and decreed the wavering guards aside, but had his sword snapped in half by the boulder-warrior [[The Slate|Lohka]], leaving him weaponless as the dark god's swarm broke into the town

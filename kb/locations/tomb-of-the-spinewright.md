@@ -21,6 +21,7 @@ An underground river runs beneath it, deep in the stone.
 
 In the Spinewright's own lost tongue the place is named **Kehto** — a word remembered, where it is remembered at all, to mean something closer to a *cradle* than a tomb.
 What it means that the maker of the wall should have called his own resting place a cradle, no one in the vale has thought to ask.
+The [[The Slate|Slate]] know it as the cradle of Vaalo, the deep dwarf they remember as the [[Spinewright]], and hold that the lantern [[The Spinewright's Lantern|Hiillos]] still lies within — the source from which the failing spines must be rekindled.
 
 Once the tomb was filled with the Spinewright's constructs and trials of faith, set to guard what it held: [[The Spinewright's Lantern]], a portable ward built in the image of the great wards atop the Spines.
 It was that relic [[Sir Roderic Lightbearer|Roderic]]'s paladin company came seeking, believing it could let them push past the wall into the darkness beyond.
@@ -46,3 +47,4 @@ The [[The Slate|Slate]] who dwell within the Bonewall can reach it only through 
 
 ## Events Here
 - [[Session 7]] — Roderic returned to find the tomb buried under a rockslide; the ground gave way and dropped him into the underground river below, where the [[The Slate|Slate]] pulled him out and into their hidden town
+- [[Session 8]] — The Slate revealed the cradle as Vaalo's resting place, still holding the lantern [[The Spinewright's Lantern|Hiillos]]; they can carry travelers there by the southern Suonet, though the stones around it have shifted dangerously of late

@@ -39,6 +39,16 @@ factions/the-slate:
     prompt: config/image/prompts/the-slate-portrait.json
     subjects:
     - the-slate
+  library:
+  - file: config/image/library/the-slate-reference-plate.jpg
+    prompt: config/image/prompts/the-slate-portrait.json
+    description: Canonical identity plate for an ordinary ADULT Slate in the flexible-stone
+      life-stage — androgynous and genderless, smooth living gray stone over clearly
+      humanoid features and proportions. The primary likeness reference for adult
+      Slate (Holvi, Kallio, Aamu, Routa, the warriors). Distinct from the newborn
+      child Itu and from the older, blockier, near-petrified elders such as Lohka
+      — those should read as more rigid and boulder-like, but still androgynous and
+      humanoid, never featureless.
 items/spinewrights-lantern:
   gallery:
   - file: spinewrights-lantern-legend.jpg
@@ -433,3 +443,67 @@ sessions/forgotten-and-forsaken/session-7:
       the Slate's petrified dead — with the living Slate celebrating the first child
       and the reunited party resting. Usable establishing reference for the Slate
       Town.
+sessions/forgotten-and-forsaken/session-8:
+  gallery:
+  - file: sessions/session-8-memory-stone-communion.jpg
+    caption: Garland holds an eager Mira back from the memory stones — 'don't reach
+      too deep, child'
+    subjects:
+    - garland-yn-greenholt
+    - mira
+    - paxton-lumnus
+    - sir-roderic-lightbearer
+    - castor
+    - the-slate
+    - slate-town
+    description: The party at the standing memory stones in the Hall of Deep Memory,
+      Mira reaching as Garland holds her back; the Slate elder Holvi presiding is
+      a clean androgynous adult-Slate render. Usable reference for the memory-hall
+      interior and the adult Slate.
+  - file: sessions/session-8-castor-gorilla-saves-itu.jpg
+    caption: Castor leaps in as a buck-toothed gorilla to snatch the child Itu from
+      the Slate
+    subjects:
+    - castor
+    - the-slate
+    description: Castor in gorilla shapeshift form (oversized buck teeth) — not his
+      standard human/beaver likeness. First depiction of the newborn child Itu (small
+      living-stone child) clutched protectively, amid androgynous adult Slate warriors.
+  - file: sessions/session-8-garland-forgotten-realm.jpg
+    caption: To pull Mira from the realm of the forgotten, Garland gives up the memory
+      of his dead son
+    subjects:
+    - garland-yn-greenholt
+    - mira
+    - realm-of-the-forgotten
+    description: Garland holding Mira as his long-dead son Dafydd (elven-eared, like
+      Garland's line; no entry of his own) reaches out from the void. First and defining
+      depiction of the realm of the forgotten — the flat blue spirit-plane, distant
+      lost-city silhouettes, scattered blue node-lights, and drifting forgotten figures.
+      Usable establishing reference for that realm.
+  - file: sessions/session-8-lohka-snaps-sword.jpg
+    caption: Lohka snaps Roderic's illuminated sword as Paxton's Light finds the flesh
+      beneath the stone
+    subjects:
+    - sir-roderic-lightbearer
+    - paxton-lumnus
+    - the-slate
+    description: Roderic's glowing (Illuminated) sword being snapped by the elder
+      Slate Lohka as Paxton drives golden Light into a small flesh wound at Lohka's
+      neck. Usable reference for Lohka / an aged, near-petrified, blocky-stone Slate
+      elder, distinct from the smoother adult-Slate plate.
+  - file: sessions/session-8-great-hall-standoff.jpg
+    caption: Cornered in the great hall, the party holds Mira's sanctuary as the first
+      vines break through the ceiling
+    subjects:
+    - garland-yn-greenholt
+    - castor
+    - mira
+    - the-slate
+    - slate-town
+    description: Wide establishing view of Muistola's great hall — the descending
+      staircase and pillars of petrified-ancestor stone under bioluminescent moss-glow
+      — with the warded party on the stairs, menacing and anxious Slate around them,
+      and the first mutated vines breaking through the cracking ceiling. Usable establishing
+      reference for the great hall; Castor shown in gorilla form (not his standard
+      likeness).

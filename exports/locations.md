@@ -1,11 +1,6 @@
 # Locations
 
 
----
-id: altreth
-type: location
-name: Altreth
----
 ## Altreth
 
 **Type:** Ruins
@@ -35,13 +30,6 @@ The relic vanished after the initial recovery and eventually surfaced in [[Ashbr
 - [[Session 0]] — Established as the legendary origin of the [[Seal of Unmaking]]
 
 
----
-id: ashbrook
-type: location
-name: Ashbrook
-aliases:
-- Eld Ashara
----
 ## Ashbrook (Eld Ashara)
 
 **Type:** Ruins
@@ -76,18 +64,6 @@ The water tasted unusually sweet, though fish didn't linger in the shallows.
 - [[Session 0]] — The party retrieved the [[Seal of Unmaking]] from these ruins, unwittingly releasing the God of Ruin; the town had already been destroyed by the aging curse
 
 
----
-id: ashen-flow
-type: location
-name: Ashen Flow
-contains:
-- id: upper-ashen-flow
-  name: Upper Ashen Flow
-- id: great-beaver-dam
-  name: The Great Beaver Dam
-- id: lower-ashen-flow
-  name: Lower Ashen Flow
----
 ## The Ashen Flow
 
 **Type:** Wilderness (River)
@@ -137,13 +113,6 @@ Feeds the fertile farmland of the vale.
 - [[Session 0]] — The cursed water from Ashbrook is being held back by the beaver dam; the dam and beavers are aging rapidly
 
 
----
-id: ashen-vale
-type: location
-name: Ashen Vale
-aliases:
-- Greenholt
----
 ## Ashen Vale
 
 **Type:** Region
@@ -198,62 +167,6 @@ Three family heads led the delegation to the [[Witch Stones]], all aggrieved by 
 - [[Session 6]] — At the hidden Witch Stones, [[Captain Vask]]'s delegation and the three great families came to retrieve [[Mira]] and end the beaver troubles; Mira opened a portal to the [[Bonewall]] and stepped through, with Garland and Castor following — and Vask revealed that Aldric somehow knows everything that happens in the Vale
 
 
----
-id: aurelion
-type: location
-name: Aurelion
-aliases:
-- Aurelion Tunnels
-- Mendrath Baths
-- The Mendrath Baths
-- The Aureate
-- Aureate
-contains:
-- id: chryseum
-  name: The Chryseum
-  aliases:
-  - Chryseum
-  - Shrine of Renewal
-  - The Shrine of Renewal
-  - Temple of Renewal
-- id: crest-aurelion
-  name: Crest Aurelion
-images:
-  hero:
-    file: aurelion-approach.jpg
-    alt: The approach to Aurelion
-    description: 'Establishing exterior: hilltop citadel seen from the approach road,
-      tarnished green-gold dome, muted post-imperial palette. Use for arriving-at-Aurelion
-      moments.'
-    prompt: config/image/prompts/aurelion-approach.json
-  gallery:
-  - file: aurelion-street-level.jpg
-    caption: Aurelion at street level
-    description: 'Ground-level imperial avenue: colonnades, market stalls, Aureate
-      patrol, post-imperial melancholy. Use for scenes set in the city streets or
-      tunnels at street level.'
-    prompt: config/image/prompts/aurelion-street-level.json
-  - file: crest-aurelion-castle.jpg
-    caption: Crest Aurelion castle
-    description: The castle/keep of Crest Aurelion, muted scene with one bright dome.
-      Use for scenes at the count's seat.
-    prompt: config/image/prompts/crest-aurelion-castle.json
-  - file: chryseum-exterior.jpg
-    caption: The Chryseum, exterior
-    description: Exterior of the cathedral of the Light, bright gold dome against
-      the declining city. Use for arriving at the Chryseum.
-    prompt: config/image/prompts/chryseum-exterior.json
-    subjects:
-    - chryseum
-  - file: chryseum-interior.jpg
-    caption: The Chryseum, interior
-    description: Interior nave of the cathedral of the Light — luminous gold dome,
-      cool whiteglass, candlelight; strong bright palette and engineered two-temperature
-      lighting. Use for scenes inside the cathedral or near the shrine beneath it.
-    prompt: config/image/prompts/chryseum-interior.json
-    subjects:
-    - chryseum
----
 ## Aurelion
 
 **Type:** City
@@ -336,18 +249,6 @@ They enforce the law and carry out orders including [[Luminary Severin Morrow|Se
 - [[Session 5]] — The [[Order of the Eclipsed Sword]] besieged and breached Crest Aurelion; [[Garland yn Greenholt|Garland]] and [[Sir Roderic Lightbearer|Roderic]] infiltrated the castle using the secret vault passage to retrieve [[Count Albrecht Marrow]]; Harlequins overran the Chryseum, killing an [[Order of the First Dawn]] paladin; [[Sir Roderic Lightbearer|Roderic]]'s divine decree cleared the mob and he beheaded the [[Dark Harlequin|The Dark Harlequin]]; all six heralds gathered at the Shrine of Renewal and the cocoon opened, transforming the chamber into a verdant, living space
 
 
----
-id: beaconhold
-type: location
-name: Beaconhold
-aliases:
-- Beacon Hold
-images:
-  gallery:
-  - file: kingdom-of-beaconhold-map.jpg
-    caption: Map of the Kingdom of Beaconhold
-    prompt: config/image/prompts/kingdom-of-beaconhold-map.json
----
 ## Beaconhold
 
 **Type:** City / Kingdom
@@ -388,11 +289,6 @@ The kingdom may claim mountains, valleys, and regions, but only truly controls t
 - [[Session 0]] — Established as Roderic's homeland
 
 
----
-id: beaver-lake
-type: location
-name: Beaver Lake
----
 ## Beaver Lake
 
 **Type:** Landmark
@@ -424,38 +320,6 @@ In the downtime since the curse passed, the colony has grown unruly and unwieldy
 - [[Session 2]] — Scrying from the Nodrum confirmed the spirit wall still stands but blocks nothing; the great beaver dam has partially collapsed; the ruin travels with the party, not through the water
 
 
----
-id: bonewall
-type: location
-name: Bonewall
-aliases:
-- Thirteen Spines
-- The Thirteen Spines
-- Hallowreach
-- The Watchers
-- Watchers
-images:
-  hero:
-    file: bonewall-dead-shale.jpg
-    alt: The dead shale of the Bonewall
-    description: 'Establishing view of the Bonewall''s dead shale: jagged bone-and-grey
-      flaking stone eroded into skeletal ribs and empty-socket hollows, knotted leafless
-      vines, and a dead imperial ruin half-lost in the rock. Cold overcast, lifeless,
-      tomb-quiet. Use for arriving on or establishing the Bonewall.'
-    prompt: config/image/prompts/bonewall-dead-shale.json
-    subjects:
-    - bonewall
-  gallery:
-  - file: bonewall-slate-watcher.jpg
-    caption: A Watcher
-    description: One of the Watchers — the Bonewall's strange weathered statues, a
-      finely-formed figure worn into the dead shale as if it had always been there,
-      of the same petrified slate as the ground, no record of who carved it. Use for
-      scenes that come upon one of the wall's unexplained statues.
-    prompt: config/image/prompts/bonewall-slate-watcher.json
-    subjects:
-    - bonewall
----
 ## The Bonewall
 
 **Type:** Region (Mountain Range)
@@ -550,29 +414,9 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden [[Paxton Lumnus]] sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum
 - [[Session 6]] — Carnforth, the northernmost Spine, went dark; [[Mira]] opened a Witch Stone portal onto the wall's grey shale and stepped through, with [[Garland yn Greenholt|Garland]] and [[Castor]] following; in the [[The Reaches]] below the wall, [[Paxton Lumnus|Paxton]] burned [[Senna]]'s barge
 - [[Session 7]] — All three threads converged inside the wall: [[Paxton Lumnus|Paxton]] followed a young Slate up the mutating wilds toward [[Carnforth]] and was carried down near death; [[Garland yn Greenholt|Garland]] and [[Castor]] arrived at the second ring of [[Witch Stones]] and met the Slate; [[Sir Roderic Lightbearer|Roderic]] fell through the collapsing [[Tomb of the Spinewright]] and was pulled into the Slate's hidden town, where the party reunited
+- [[Session 8]] — In [[The Slate Town|Muistola]], the memory stones revealed that the spines were built by the deep dwarf Vaalo from a shard of [[Syvämaa]]'s light; the Slate town fractured over [[Moldrex]]'s offer, and the dark god's mutated vines and cat-sized spiders breached the hidden town as the wards failed further
 
 
----
-id: carnforth
-type: location
-name: Carnforth
-aliases:
-- The Last Spine
-- Last Spine
-part_of: bonewall
-images:
-  hero:
-    file: carnforth.jpg
-    alt: The climbing approach to Carnforth, its beacon gone dark
-    description: 'Establishing view of Carnforth: the climber''s-eye approach up
-      the broken western slope at the Bonewall''s end — cairns lining a loose-shale
-      path, the leaning grey shale tower with its dead unlit beacon on the right, a
-      dark cave mouth off the path, and the bright marsh of the Reaches and the
-      Solvium opening to the left. Use for arriving at or establishing Carnforth.'
-    prompt: config/image/prompts/carnforth.json
-    subjects:
-    - carnforth
----
 ## Carnforth
 
 **Type:** Landmark (Ward Tower)
@@ -649,13 +493,6 @@ What the necklace signifies has not been revealed; the party suspects a cult or 
 - [[Session 6]] — Carnforth went dark, the first of the Thirteen Spines to lose its light entirely
 
 
----
-id: cinderwall
-type: location
-name: Cinderwall
-aliases:
-- Farlands Pass
----
 ## The Cinderwall
 
 **Type:** Region (Mountain Range)
@@ -685,11 +522,6 @@ Wooded slopes, mossy, shrouded in mist and steam.
 - [[Session 0]] — Established as the mountain range containing Ashbrook and the dire coyotes
 
 
----
-id: cragmarr
-type: location
-name: Cragmarr
----
 ## The Cragmarr
 
 **Type:** Region (Wilderness)
@@ -710,11 +542,6 @@ The [[Eastern Rivers]] cut through, providing the only reliable passage.
 - [[Session 0]] — Established as the treacherous terrain between Beaconhold and the Solvium
 
 
----
-id: crownvale
-type: location
-name: Crownvale
----
 ## Crownvale
 
 **Type:** Town
@@ -749,11 +576,6 @@ Aldric styles himself a lord here, basing his authority on the [[Greenholt Blood
 - [[Session 1]] — The party stopped to resupply; Garland purchased horses while disguised; Edric distracted guards and gathered intelligence; Mira recognized Garland; the horse seller Laura accused Garland of theft; Roderic delivered a blessing urging compassion
 
 
----
-id: eastern-rivers
-type: location
-name: Eastern Rivers
----
 ## Eastern Rivers
 
 **Type:** Region
@@ -784,14 +606,6 @@ The rivers cut through the [[Cragmarr]], providing passage to the [[Solvium]].
 - [[Session 0]] — Established as Edric's homeland
 
 
----
-id: havens-reach
-type: location
-name: Havens Reach
-aliases:
-- Haven's Reach
-part_of: reaches
----
 ## Havens Reach
 
 **Type:** Town
@@ -833,11 +647,6 @@ See [[The Reaches]] for the marsh itself, its single road and bridges, and the d
 - [[Session 6]] — In the Reaches below the town, Paxton came upon Senna's barge in the reeds, learned of her rebirth in Moldrex's vision, and burned the vessel to escape — killing Senna and unknown others hidden aboard
 
 
----
-id: marrow-county
-type: location
-name: Marrow County
----
 ## Marrow County
 
 **Type:** Region
@@ -872,34 +681,6 @@ Once an independent kingdom called Aurelion, it was absorbed by [[Beaconhold|Bea
 - [[Session 2]] — The party witnessed signs of ruin spreading: rotting merchant stock, failing crops; the Aureate dragged performers from taverns under the anti-storyteller decree
 
 
----
-id: nodrum
-type: location
-name: The Nodrum
-aliases:
-- Nodrum
-- Nexarium
-- Aurelion Vault
-- Eurulian Vaults
-images:
-  hero:
-    file: the-nodrum-exterior.jpg
-    alt: The Nodrum, exterior
-    prompt: config/image/prompts/the-nodrum-exterior.json
-  gallery:
-  - file: the-nodrum-interior-work.jpg
-    caption: The Nodrum, interior workshop
-    prompt: config/image/prompts/the-nodrum-interior-work.json
-  - file: the-antechamber-archive.jpg
-    caption: The antechamber archive
-    prompt: config/image/prompts/the-antechamber-archive.json
-  - file: the-clockworks-automaton.jpg
-    caption: A clockworks automaton
-    prompt: config/image/prompts/the-clockworks-automaton.json
-  - file: the-depths-xan-kors-chamber.jpg
-    caption: The Depths — Xan-Kor's chamber
-    prompt: config/image/prompts/the-depths-xan-kors-chamber.json
----
 ## The Nodrum
 
 **Type:** Landmark
@@ -929,11 +710,6 @@ The facade bears geometric glyphs of immense age, overlaid with Luciferian archi
 - [[Session 2]] - The party sought the Triune's help with the ruin crisis; the Triune examined [[Edric Bloom|Edric]], revealed the old gods' history of ruin and renewal, and confessed to siphoning [[Castor]]'s curse energy; a ritual to contain the Xan-Kor succeeded but corrupted ley lines and reality itself; the Triune declared the party were the heralds of ruin
 
 
----
-id: outh-krelt
-type: location
-name: Öuth Krelt
----
 ## Öuth Krelt
 
 **Type:** Region (Beyond the Bonewall)
@@ -949,31 +725,15 @@ Almost nothing is known about Öuth Krelt in the current era.
 The Light's official position is that the Bonewall wards exist to contain "forces of darkness," but specifics have been lost, suppressed, or classified within the church hierarchy.
 Old maps sometimes mark the region with warnings or simply leave it blank.
 
+It is the land of [[Moldrex]], and it can be reached from within the wall: the [[The Slate Town|Suonet]] tunnels of the [[The Slate|Slate]] run all the way through to the far side, emerging in Öuth Krelt.
+[[The Slate|Lohka]]'s Moldrex faction means to use that route to carry the child Itu through to an emissary of the dark god waiting on the other side.
+
 ### Connected Locations
 - [[Bonewall]] — The mountain range that separates Öuth Krelt from [[Beaconhold]]'s territory
 - [[Thirteen Spines]] — The ward towers that hold its forces at bay
+- [[The Slate Town]] — Muistola, whose Suonet tunnels reach through the wall to Öuth Krelt
 
 
----
-id: reaches
-type: location
-name: The Reaches
-aliases:
-- Reaches
-part_of: beaconhold
-images:
-  hero:
-    file: reaches-delta.jpg
-    alt: The marsh delta of the Reaches, crossed by the imperial road
-    description: 'Establishing view of the Reaches: a vast, teeming marsh delta of
-      brown channels and reed under dawn mist, crossed by a single grand imperial
-      stone causeway; a ruined roadside way station sits half-sunk off a crumbling
-      spur, and the port of Havens Reach is barely glimpsed as a faint smudge on the
-      far horizon. Use for arriving in or establishing the Reaches.'
-    prompt: config/image/prompts/reaches-delta.json
-    subjects:
-    - reaches
----
 ## The Reaches
 
 **Type:** Region (Marsh Delta)
@@ -1048,29 +808,39 @@ The result is a country thick with half-sunk ruins in every state of decay, from
 - [[Session 6]] — Paxton came upon Senna's barge in the reeds, learned of her rebirth in Moldrex's vision, and burned the vessel to escape — killing Senna and unknown others hidden aboard
 
 
----
-id: slate-town
-type: location
-name: Muistola
-aliases:
-- The Slate Town
-- Slate Town
-- Town of the Slate
-part_of: bonewall
-images:
-  hero:
-    file: slate-town-cutaway-map.jpg
-    alt: Isometric cutaway map of Muistola
-    description: 'Hand-painted isometric cutaway map of Muistola inside the Bonewall:
-      a cross-section through the mountain showing the town''s built halls whose
-      columns and walls are its petrified ancestors, the witch-stone ring and vine-choked
-      cave on the surface ridge, the central birthing pool, glyph-carved memory halls,
-      and the stair descending into the amber depths. Use as the reference for the
-      town''s layout and overall look.'
-    prompt: config/image/prompts/slate-town-cutaway-map.json
-    subjects:
-    - slate-town
----
+## The Realm of the Forgotten
+
+**Type:** Landmark (spirit realm)
+**First Visited:** [[Session 8]]
+
+### Description
+A blue spirit realm reached through the [[Witch Stones]], where the landscape of the waking world falls away to a flat grey plane lit only by the distant glow of the stone-network's nodes.
+It is where everything erased from time and memory still drifts — lost people, lost places, the forgotten silhouettes of vanished cities, and the stripped-away fragments of the living.
+[[Mira]] can perceive and enter it through her bond with the stones, the world turning bluish around her like a translucent overlay before it opens fully.
+
+The realm is bound to the [[Xan-Kor]] at the [[Nodrum]], the interdimensional prison of the emanation of forgetting; when Garland worked his ritual to escape it, he saw the Xan-Kor begin to manifest at the Nodrum's faint, dimming node.
+Things that have been removed from the world by forgetting are not destroyed but gathered here, which makes the realm a place where what was lost might, in theory, still be found.
+
+Leaving it quickly exacts a price: a traveler must abandon a piece of themselves to the realm in exchange for a swift return.
+To pull himself and Mira free, [[Garland yn Greenholt|Garland]] gave up the memory of his first son, Dafydd — who promptly materialized among the realm's other forgotten things — and surfaced remembering neither the boy nor the bargain, only a deep and unexplained sense of loss.
+
+### Notable Features
+- A flat blue spirit-plane where the waking landscape vanishes, lit by the glowing nodes of the [[Witch Stones]] network
+- A gathering-place for everything erased from time — people, places, and memories
+- Bound to the [[Xan-Kor]] at the [[Nodrum]]; a swift exit costs the traveler a piece of themselves
+
+### Connected Locations
+- [[Witch Stones]] — The standing stones through which the realm is reached
+- [[Nodrum]] — Where the [[Xan-Kor]], the engine of forgetting, is imprisoned and to which the realm is bound
+
+### Associated NPCs
+- [[Mira]] — Can perceive and enter the realm through her bond with the Witch Stones
+- [[Garland yn Greenholt]] — Entered it to pull Mira free, sacrificing the memory of his son Dafydd to escape
+
+### Events Here
+- [[Session 8]] — Mira slipped into the realm to try to restore a dimming Witch Stone; Garland followed and, to escape swiftly, sacrificed the memory of his first child, Dafydd, surfacing able to hear the stones more clearly than ever
+
+
 ## Muistola
 
 **Type:** Settlement (underground)
@@ -1107,16 +877,9 @@ The Slate say their history is written in their city; they keep no records but t
 
 ### Events Here
 - [[Session 7]] — All three of the party's threads converged here: the Slate carried in the dying [[Paxton Lumnus|Paxton]] and [[Sir Roderic Lightbearer|Roderic]], reuniting them with [[Garland yn Greenholt|Garland]], [[Castor]], and [[Mira]]; through Mira's translation the Slate told of their broken stasis and the first child born among them in living memory, and the party settled in to rest among the celebrating people
+- [[Session 8]] — In the Hall of Deep Memory, [[The Slate|Holvi]] imbued the party with the Slate tongue at the memory stones, where each glimpsed a vision of the deep past; then the town's schism over the child Itu erupted into open violence as [[The Slate|Lohka]]'s [[Moldrex]] faction moved to seize the child, and [[Moldrex]]'s corruption finally breached the town — cat-sized spiders boiling over the surface ring and tentacles cracking down through the ceiling as the party fought to hold a sanctuary on the stairs
 
 
----
-id: solvium
-type: location
-name: The Solvium
-aliases:
-- Solvium
-- Great Lake
----
 ## The Solvium
 
 **Type:** Region (Body of Water)
@@ -1151,17 +914,44 @@ Some believe it reflects the feeling of isolation experienced on its vast surfac
 - [[Session 0]] — Established as a major geographical feature
 
 
----
-id: tomb-of-the-spinewright
-type: location
-name: Tomb of the Spinewright
-aliases:
-- Spinewright's Tomb
-- The Spinewright's Tomb
-- Spinewright Tomb
-- Kehto
-part_of: bonewall
----
+## Syvämaa
+
+**Type:** Region (the deep world below)
+**First Referenced:** [[Session 8]]
+
+### Description
+Syvämaa is the deep world far below the earth, another world beneath the one mortals walk, from which [[The Slate|the Slate]] and the deep dwarves both come.
+A second light shines down there — the light below — and it was a worshipper of that light, the deep dwarf Vaalo, who climbed up from Syvämaa to befriend [[Lucifer]] and raise the spines of the [[Bonewall]].
+
+Syvämaa is at once a place and a power.
+Its under-god has no name the Slate will speak — it is not worshipped the way mortals worship, but reckoned among the [[Old Gods]], an impersonal force more than a god to pray to.
+The Slate are bound to it body and being: they emerge from the mountain by its working and petrify back into the mountain when they die, their whole life cycle dependent on Syvämaa, which they call the land below.
+
+That dependence is the wound [[Moldrex]] presses on.
+With their long stasis broken and aging and death returning to them, the Slate of [[The Slate Town|Muistola]] fear the renewed cycle, and Moldrex offers to sever them from Syvämaa entirely — to let them be born, live, and die as surface mortals do, free of the emergence.
+Some among the Slate now say Syvämaa has abandoned them.
+
+The shard of the light below carried in [[The Spinewright's Lantern|Hiillos]] — the fire that powers the thirteen spines — is drawn from Syvämaa, making the deep world the ultimate source of the wards that hold the dark side of the Bonewall at bay.
+
+### Notable Features
+- The light below, a second sun shining in the deep world
+- A nameless under-god, reckoned among the [[Old Gods]], on which the Slate's life cycle depends
+- The origin of the deep dwarves, among them Vaalo the [[Spinewright]]
+- Source of the shard of light carried in [[The Spinewright's Lantern|Hiillos]]
+
+### Connected Locations
+- [[Bonewall]] — The mountain wall above, where the Slate emerge and the spines stand
+- [[The Slate Town]] — Muistola, the hidden town of the Slate who come from Syvämaa
+- [[Öuth Krelt]] — The dark land of [[Moldrex]], who would break the Slate's bond to Syvämaa
+
+### Associated NPCs
+- [[The Slate]] — The people of living stone, bound to Syvämaa for their emergence and their death
+- [[Spinewright]] — Vaalo, the deep dwarf from Syvämaa who built the spines
+
+### Events Here
+- [[Session 8]] — Named and described for the first time when [[The Slate|Holvi]] told the party of Vaalo's origin, the light below, and the Slate's dependence on the deep world
+
+
 ## Tomb of the Spinewright
 
 **Type:** Landmark (Tomb)
@@ -1174,6 +964,7 @@ An underground river runs beneath it, deep in the stone.
 
 In the Spinewright's own lost tongue the place is named **Kehto** — a word remembered, where it is remembered at all, to mean something closer to a *cradle* than a tomb.
 What it means that the maker of the wall should have called his own resting place a cradle, no one in the vale has thought to ask.
+The [[The Slate|Slate]] know it as the cradle of Vaalo, the deep dwarf they remember as the [[Spinewright]], and hold that the lantern [[The Spinewright's Lantern|Hiillos]] still lies within — the source from which the failing spines must be rekindled.
 
 Once the tomb was filled with the Spinewright's constructs and trials of faith, set to guard what it held: [[The Spinewright's Lantern]], a portable ward built in the image of the great wards atop the Spines.
 It was that relic [[Sir Roderic Lightbearer|Roderic]]'s paladin company came seeking, believing it could let them push past the wall into the darkness beyond.
@@ -1199,17 +990,9 @@ The [[The Slate|Slate]] who dwell within the Bonewall can reach it only through 
 
 ### Events Here
 - [[Session 7]] — Roderic returned to find the tomb buried under a rockslide; the ground gave way and dropped him into the underground river below, where the [[The Slate|Slate]] pulled him out and into their hidden town
+- [[Session 8]] — The Slate revealed the cradle as Vaalo's resting place, still holding the lantern [[The Spinewright's Lantern|Hiillos]]; they can carry travelers there by the southern Suonet, though the stones around it have shifted dangerously of late
 
 
----
-id: witch-stones
-type: location
-name: Witch Stones
-aliases:
-- Witchstones
-- Shepherd's Teeth
-- Shepherds Teeth
----
 ## Witch Stones
 
 **Type:** Ancient Site (standing stones)
@@ -1227,6 +1010,7 @@ The Witch Stones are the source of Garland's magical power.
 He originally learned spellcraft by deciphering their carvings and listening to them speak through the sounds of grinding earth over centuries; the runes glow and pulse to communicate and guide his study.
 On returning to them in the downtime after the curse, Garland felt a renewed connection unlike his old study-built bond — one that returns magic without restoring lost knowledge.
 His great-granddaughter [[Mira]] also hears the stones, but as actual words rather than the grinding and moaning of the earth — a more direct connection that is turning her into something like a cleric of the stones.
+After his passage through the realm of the forgotten on the Bonewall, Garland too can now hear the stones clearly, in the way Mira does, rather than as the dim grinding of the earth he had known for centuries.
 
 ### The Portal to the Bonewall
 At the hidden ring in the Ashen Vale, Mira commanded the stones to tear open a stable portal onto the dead grey shale of the [[Bonewall]], where a matching ring of Witch Stones stood.
@@ -1241,10 +1025,28 @@ This is the only such portal seen so far; whether the stones connect to still mo
 The [[Shrine of Renewal]] beneath the Chryseum in [[Aurelion]] evoked the same ancient resonance Garland felt at the Witch Stones, hinting at some connection between these ancient sites.
 Garland would be very interested in investigating other Witch Stones if they exist elsewhere, and now intends to study the Bonewall ring closely — both for its secrets and to reproduce Mira's long-distance gate as a ritual that could one day send her safely home.
 
+### The Stone Network
+The Slate stone-sage [[The Slate|Kallio]], who has studied the Bonewall ring for ages, keeps a map of the stones as a network of nodes joined like ley lines, and comparing it against the runes in Garland's centuries-old spell book confirmed that the two rings belong to the same web.
+The network spans the [[Ashen Vale]], the [[Cragmarr|Cragmar]], the lands beyond [[Beaconhold]], and even the dark far side of the Bonewall, the nodes scattered far past any single ring.
+The stones appear to exist across realms at once: channeling them, [[Mira]] opened a bluish spirit-overlay in which the living nodes glowed like little lights, and Kallio believes they may be tied to [[Syvämaa]], the deep world's light below.
+Some nodes are dimming — one in the Cragmar has gone faint and suppressed, and the node at the [[Nodrum]] is dim — and Mira fears that whatever is erasing the stones could take them entirely if not answered.
+
+### The Realm of the Forgotten
+Through the stones, Mira can pass into a spirit realm where the waking landscape falls away and only the glowing nodes remain — the [[The Realm of the Forgotten|realm of the forgotten]], where everything erased from time still drifts, bound to the [[Xan-Kor]] at the [[Nodrum]].
+A traveler can leave it swiftly only by abandoning a piece of themselves; [[Garland yn Greenholt|Garland]] followed Mira in to pull her free and paid with the memory of his first son.
+
+### Vision of the Stone-Raisers
+Touching the Slate's memory stones, Garland glimpsed his own bloodline in ages past: people he felt deep kinship with learning stone-cutting in the Bonewall, then raising the Witch Stones square-cut and new in the vale, runes flashing as each rose.
+In the vision a child was given over to the stones — broken from the community to become a speaker for the earth, perhaps the first priest of the Witch Stones — before a great vale civilization rose and a descendant of his line opened its gates to invaders.
+What the ancient stone-raisers demanded of that child, and whether the stones now want something of Mira, deeply unsettled him.
+
 ### Connected Locations
 - [[Ashen Vale]] — The region where the known ring stands hidden, on Garland's Greenholt land
 - [[Bonewall]] — Site of a matching ring carved in a different, unreadable runic language, reached through a portal Mira opened
 - [[Aurelion]] — Whose Shrine of Renewal carries the same ancient resonance
+- [[The Realm of the Forgotten]] — The spirit realm reached through the stones, where what is erased still drifts
+- [[Syvämaa]] — The deep world the stones may be tied to, per the Slate sage Kallio
+- [[Nodrum]] — Site of a dimming node, where the network touches the imprisoned [[Xan-Kor]]
 
 ### Associated NPCs
 - [[Garland yn Greenholt]] — Discovered the stones, learned his magic from them, and guards their location
@@ -1253,3 +1055,4 @@ Garland would be very interested in investigating other Witch Stones if they exi
 ### Events Here
 - [[Session 6]] — A Sunday dinner at the stones was interrupted by [[Captain Vask]]'s delegation; Mira spoke an unknown tongue and opened a portal to the [[Bonewall]], stepping through with [[Garland yn Greenholt|Garland]] and [[Castor]] following
 - [[Session 7]] — At the Bonewall ring, Garland found the stones twin to his own but carved in an unreadable runic language and worn nearly silent; channeling them, [[Mira]] gained the [[The Slate|Slate]]'s grinding stone-tongue but lost the ability to be understood in human speech, and Garland set himself to studying the ring as a possible ritual gate home
+- [[Session 8]] — Comparing notes with the Slate sage [[The Slate|Kallio]], Garland confirmed the stones form a ley-line network spanning realms; the memory stones showed him his bloodline raising the stones and sacrificing a child to them; and following Mira into the [[The Realm of the Forgotten|realm of the forgotten]], he sacrificed the memory of his son Dafydd to escape, surfacing able to hear the stones as clearly as Mira

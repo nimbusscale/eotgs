@@ -1,11 +1,6 @@
 # World Setting
 
 
----
-id: dire-coyotes
-type: world
-name: Dire Coyotes
----
 ## Dire Coyotes
 
 **Category:** Creatures
@@ -34,11 +29,6 @@ That's the last anyone heard of Phillip.
 - [[Session 0]] — Established by Dustin during world-building
 
 
----
-id: greenholt-bloodline
-type: world
-name: Greenholt Bloodline
----
 ## The Greenholt Bloodline
 
 **Category:** Races / Culture
@@ -68,15 +58,6 @@ Castor is in fact Garland's great-grand-uncle — the elder of the line, despite
 The origin of this trait — whether it connects to actual elven ancestry or something else — remains an open question.
 
 
----
-id: imperium-lucis-aeternae
-type: world
-name: Imperium Lucis Aeternae
-aliases:
-- Imperium
-- Old Empire
-- The Farus Lucis
----
 ## Imperium Lucis Aeternae
 
 **Category:** History
@@ -121,11 +102,6 @@ The one in [[Beaconhold]] is the last known intact tower, though dormant.
 - [[Session 0]] — Established during world-building
 
 
----
-id: middle-kingdoms
-type: world
-name: Middle Kingdoms
----
 ## The Middle Kingdoms
 
 **Category:** History
@@ -156,11 +132,6 @@ Outside the cities and main roads lies the wild — a "points of light" setting.
 - [[Session 0]] — Established during world-building
 
 
----
-id: moldrex
-type: world
-name: Moldrex
----
 ## Moldrex
 
 **Category:** Gods (New Gods)
@@ -188,25 +159,24 @@ The corrupted ritual at [[The Nodrum]] set that erasure in motion; the wards hav
 For the first time in living memory, the barrier that has held Moldrex's forces at bay is failing.
 [[The Light]] is aware that the wards are weakening but is hampered by internal disputes, theological confusion caused by gaps in their own history, and the general institutional decay of centuries of stagnation.
 
+Moldrex's corruption is already bleeding through the weakening wards as the [[Bonewall]]'s mutated vines and the cat-sized spiders that nest in them.
+And it has reached the [[The Slate|Slate]] within the wall: with their long stasis broken and the cycle of aging and death returning, Moldrex has offered the Slate of [[The Slate Town|Muistola]] freedom from their dependence on [[Syvämaa]], the deep world — an end to emergence and petrification — in exchange for their newborn child, Itu.
+The offer has split the town, converting the warrior Lohka, the scribe Kallio, and others, who would carry the child through the Suonet into [[Öuth Krelt]] to deliver it to Moldrex's emissary.
+
 ### Related Entries
 - [[Lucifer]] — The god who sealed Moldrex behind the Bonewall
 - [[Bonewall]] — The mountain range that serves as the barrier
 - [[Thirteen Spines]] — The ward towers holding Moldrex's forces at bay
 - [[Öuth Krelt]] — The land beyond the Bonewall where Moldrex rules
 - [[The Light]] — The faith responsible for maintaining the wards
+- [[The Slate]] — The people of living stone Moldrex is now courting with the promise of freedom from [[Syvämaa]]
+- [[Syvämaa]] — The deep world Moldrex offers to sever the Slate from
 
 ### Sources
 - [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established
+- [[Session 8]] — Revealed to be courting the [[The Slate|Slate]], offering freedom from [[Syvämaa]] for the child Itu and splitting the town; his vines and spiders breached Muistola
 
 
----
-id: old-gods-and-new-gods
-type: world
-name: Old Gods and New Gods
-aliases:
-- New Gods
-- The New Gods
----
 ## The Old Gods and the New
 
 **Category:** Gods
@@ -321,11 +291,6 @@ The Luciferians perceive the decline as "the darkness pressing in" and redouble 
 - [[Session 0]] — Established during world-building
 
 
----
-id: points-of-light
-type: world
-name: Points of Light
----
 ## Points of Light
 
 **Category:** Geography / Culture
@@ -355,13 +320,6 @@ What's in the wild:
 - [[Session 0]] — Established during world-building
 
 
----
-id: sariel
-type: world
-name: Sariel
-aliases:
-- Angel of Guidance
----
 ## Sariel
 
 **Category:** Historical Figure / Angel
@@ -407,13 +365,6 @@ The nature of the Xan-Kor's erasure suggests it shifts reality rather than annih
 - [[Session 6]] — The erasure manifested physically in Beaconhold: Sariel's bust vanished without a trace of dust, the clergy could no longer remember him, and Roderic alone still recalled him
 
 
----
-id: spinewright
-type: world
-name: Spinewright
-aliases:
-- The Spinewright
----
 ## Spinewright
 
 **Category:** Historical Figure / Hero
@@ -422,60 +373,44 @@ aliases:
 The singular figure the Light remembers as the maker of the [[Thirteen Spines]], the tower network warding the [[Bonewall]] against [[Öuth Krelt]].
 The Spinewright is honored as a hero of [[Lucifer]] and the Church, the vision behind a wall raised in an age the [[Imperium Lucis Aeternae|Imperium]] could still command such works.
 
-Even the Light keeps no name for the Spinewright — only the title; whatever he was once called has worn away with the centuries, the ordinary forgetting of an age rather than anything torn deliberately from the record.
-What little survives of the man is that he was no son of the [[Imperium Lucis Aeternae|Imperium]] — an outsider, of some far country or stock the vale never had a name for, who came to [[Lucifer]] as a convert rather than being born to the Light.
-That a foreigner's vision raised the Bonewall's great wards, and that the Church took the work for its own, is half-forgotten even in the lore that praises him.
+Even the Light keeps no name for the Spinewright — only the title; whatever he was once called has worn away with the centuries.
+The [[The Slate|Slate]] of [[The Slate Town|Muistola]] remember it, though: his name was **Vaalo**, and the memory stones still hold his face.
+He was no son of the [[Imperium Lucis Aeternae|Imperium]] but a deep dwarf — gray-skinned, great-bearded, robed like a churchman of the Light — who climbed up out of [[Syvämaa]], the deep world below, where he had worshipped the light below.
+On the surface he struck a friendship with [[Lucifer]] himself and gave his vision to the wall, and the Slate elder Holvi knew him as a companion in the founding age.
+
+That he is found nowhere in any scripture, and that the Church kept only the title of a foreigner whose work it took for its own, may be more than the ordinary forgetting of an age.
+When [[Paxton Lumnus|Paxton]] saw him in the memory stones, it was as though Vaalo had been excluded from history, from time itself — the same erasure that has unmade [[Sariel]] — and whether his absence is mere centuries or a deliberate unmaking is now an open question.
 
 ### Details
 The whole network of Spines was the Spinewright's work, but no length of it cost more than [[Carnforth]], the northernmost tower, set on the worst ground at the very end of the wall.
 The imperial laborers and soldiers who raised the Spines lost more of their own at Carnforth than at any other tower, dying in the falls, collapses, and killing wind of impossible stone, and many were buried where they fell.
 What the Spinewright demanded at the edge of the world is remembered as the hardest thing that vision ever asked.
 
-The Spinewright was laid to rest in the [[Tomb of the Spinewright]], set into the [[Bonewall]]'s valley side, once guarded by the Spinewright's own constructs and trials of faith.
-Among what the tomb held was [[The Spinewright's Lantern]], a portable ward built in the image of the great Spines — the relic [[Sir Roderic Lightbearer|Roderic]]'s paladin company died seeking, now lost.
+The wards Vaalo raised draw on the light below: the spines are the "children of Hiillos," and [[The Spinewright's Lantern|Hiillos]] — the lantern that carries a shard of [[Syvämaa]]'s light — is their source.
+The Slate hold that to reignite the spines that have failed, Hiillos must be retrieved from Vaalo's cradle and the towers rekindled from it.
+
+The Spinewright was laid to rest in the [[Tomb of the Spinewright]], which in his own tongue is named Kehto — a cradle, not a tomb — set into the [[Bonewall]]'s valley side, once guarded by the Spinewright's own constructs and trials of faith.
+Among what the cradle held was [[The Spinewright's Lantern|Hiillos]], a portable ward built in the image of the great Spines — the relic [[Sir Roderic Lightbearer|Roderic]]'s paladin company died seeking, now lost; the Slate believe it still lies within.
 
 ### Related Entries
+- [[Syvämaa]] — The deep world Vaalo climbed from, whose light below powers his wards
+- [[The Slate]] — The people who knew Vaalo, kept his name, and hold the memory of him in their stones
 - [[Bonewall]] — The wall the Spines crown and ward
 - [[Carnforth]] — The northernmost and deadliest Spine to raise
-- [[Tomb of the Spinewright]] — Where the Spinewright was entombed, on the wall's valley side
-- [[The Spinewright's Lantern]] — A portable ward kept in the tomb, built in the image of the Spines
+- [[Tomb of the Spinewright]] — Where Vaalo was laid to rest, the cradle on the wall's valley side
+- [[The Spinewright's Lantern]] — Hiillos, the portable ward kept in the cradle, source of the spines' light
 - [[The Light]] — The faith that remembers the Spinewright as a hero
-- [[Lucifer]] — The god the Spinewright served
+- [[Lucifer]] — The god the Spinewright befriended and served
 - [[Spinewardens]] — The order that now garrisons and maintains the towers
 
 ### Sources
 - [[Session 6]] — Named in the lore of Carnforth as the maker of the Thirteen Spines
 - [[Session 7]] — His tomb and the lantern relic it held identified as the site of Roderic's lost battalion
+- [[Session 8]] — Revealed through the Slate's memory stones as Vaalo, a deep dwarf from [[Syvämaa]] and friend of [[Lucifer]], his name and origin recovered and his absence from scripture cast as possible erasure
 
 
 ## Factions
 
----
-id: old-gods
-type: faction
-name: The Old Gods
-aliases:
-- Old Gods
-- Harlequins
-- The God of Renewal
-- The God of Ruin
-- The God of Trickery
-- The Harlequins
-- The God of Forgetting
-- The Laughing One
-- The Dark Harlequin
-- Dark Harlequin
-- The Fallow One
-- The Wild Hunt
-images:
-  gallery:
-  - file: dark-harlequin.jpg
-    caption: The Dark Harlequin
-    prompt: config/image/prompts/dark-harlequin.json
-  - file: chamber-of-renewal-avatar.jpg
-    caption: The Chamber of Renewal
-    prompt: config/image/prompts/chamber-of-renewal-avatar.json
----
 ### The Old Gods
 
 **Type:** Pantheon
@@ -632,6 +567,7 @@ Claimed the Laughing One was responsible for [[Castor]]'s original beaver curse,
 Attempted to recruit [[Castor]] away from Renewal, offering a partnership of building and laughter.
 Demonstrated the ability to puppeteer a dead paladin's corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.
 Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse — though an emanation is not a thing a blade can end, and what wore that mask may yet find another face to return in.
+That it survives the beheading was borne out beneath the [[Bonewall]]: its voice reached [[Castor]] again in the Slate's town, taunting him that of all his companions only he could do nothing but stand and watch — a goad Castor recognized from the Shrine and broke through to save the Slate child.
 
 Harlequins captured, tortured, and killed an [[Order of the First Dawn]] paladin beneath the [[Chryseum|The Chryseum]] — an escalation from trickery to lethal violence.
 
@@ -648,17 +584,9 @@ Mix both for unsettling effect.
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
 - [[Session 4]] — The dormant God of Renewal discovered in the [[Shrine of Renewal]]; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer's suppression revealed as cause of renewal's dormancy
 - [[Session 5]] — The Dark Harlequin confronted [[Castor]] at the Shrine, claiming the Laughing One cursed him and trying to recruit him; Harlequins killed an [[Order of the First Dawn]] paladin and overran the [[Chryseum|The Chryseum]]; the Dark Harlequin was beheaded by [[Sir Roderic Lightbearer|Roderic]]; all six heralds gathered and the cocoon opened, releasing the God of Renewal
+- [[Session 8]] — The Dark Harlequin's voice returned to taunt [[Castor]] in the Slate's town, confirming that its beheading did not end it
 
 
----
-id: spinewardens
-type: faction
-name: The Spinewardens
-aliases:
-- Spinewardens
-- Spinewarden
-- Senna
----
 ### The Spinewardens
 
 **Type:** Organization (military / religious order)
@@ -697,16 +625,6 @@ When a Spine's wards begin to fail, a long-hidden ritual can renew the seal — 
 *No direct interactions yet.*
 
 
----
-id: starfall-caravan-company
-type: faction
-name: The Starfall Caravan Company
-aliases:
-- Starfall Caravan Company
-- Starfall Caravan
-- Cassian Vellor
-- Cassian
----
 ### The Starfall Caravan Company
 
 **Type:** Organization
@@ -751,35 +669,6 @@ He is out to prove it.
 - [[Ashen Vale]] — Original region the company was meant to serve
 
 
----
-id: the-light
-type: faction
-name: The Light
-aliases:
-- Lucifer
-- The Radiant One
-- Light
-- Church of Lucifer
-- Luciferian faith
-- Luciferians
-- The Illuminated
-- Illuminated
-- Order of the First Dawn
-- The Order of the First Dawn
-- Corona Vigil
-- The Corona Vigil
-- Inquisition
-- Order of the Eclipsed Sword
-- The Order of the Eclipsed Sword
-- Eclipsed Sword
-- Redeemers of Light
-- The Redeemers of Light
-images:
-  gallery:
-  - file: order-of-first-dawn.jpg
-    caption: The Order of First Dawn
-    prompt: config/image/prompts/order-of-first-dawn.json
----
 ### The Light
 
 **Type:** Religion
@@ -797,6 +686,11 @@ The faith spread through hope rather than conquest.
 
 The Church genuinely believes it is protecting humanity from darkness.
 Its faith has brought real benefits — stability, safety, the foundations of civilization.
+
+The wards that protect those lands were not Lucifer's own work.
+In the founding age Lucifer — the god of the light above — befriended Vaalo, a deep dwarf who had climbed up from [[Syvämaa]], the deep world, and worshipped the light below.
+It was Vaalo, remembered by the Church only as the [[Spinewright]], who built the [[Thirteen Spines]] to hold back the darkness beyond the [[Bonewall]], drawing their fire from a shard of the light below carried in the lantern [[The Spinewright's Lantern|Hiillos]].
+The Church keeps no name for him and no scripture of the light below — an absence that may be more than ordinary forgetting.
 
 #### Terminology
 
@@ -917,22 +811,6 @@ Enforcement of the faith varies by region:
 - [[Session 5]] — The Order of the Eclipsed Sword besieged [[Aurelion|Crest Aurelion]] and breached the castle; a Corona Vigil inquisitor branded [[Sir Roderic Lightbearer|Roderic]] a heretic in the vault; an [[Order of the First Dawn]] paladin was killed by Harlequins beneath the [[Chryseum|The Chryseum]]; [[Dawnwarden Brenn]] fought alongside the party to eliminate Harlequins
 
 
----
-id: the-slate
-type: faction
-name: The Slate
-aliases:
-- Slate
-- The Slate
-images:
-  hero:
-    file: the-slate-portrait.jpg
-    alt: An adult of the Slate in their flexible-stone life-stage
-    description: Canonical reference for an ordinary living, mobile Slate (the middle "flexible stone" stage the party most often meets) — androgynous, stone-skinned, on the Bonewall shale. Distinct from the newborn and the petrified Watcher statue.
-    prompt: config/image/prompts/the-slate-portrait.json
-    subjects:
-    - the-slate
----
 ### The Slate
 
 **Type:** People (living stone)
@@ -954,42 +832,50 @@ They are peaceful and hospitable, deeply curious about outsiders — they marvel
 The Slate have no gender.
 Mountain-born and without biological reproduction, they are androgynous beings, and each is spoken of as "they."
 
+The Slate emerged from and return to [[Syvämaa]], the deep world below, and depend on it for their very life cycle — born by its working and petrifying back into the mountain in death.
+They keep their oldest knowledge in the memory stones of the Hall of Deep Memory, standing stones that store the memories of the world; touching one can imbue a stranger with the Slate's grinding tongue, the gift by which the party first came to speak with them.
+
 #### The Broken Stasis
 For as long as any of the Slate can remember, none had aged, none had died, and none had been born.
 Their society simply stopped, frozen in place for an age.
-Then, very recently, a single child emerged from the mountain — the first birth in living memory — and the whole people broke into celebration.
-What ended their long stillness, and what the first child signifies, is the central mystery surrounding them.
+Then, very recently, a single child — Itu — emerged from the mountain, the first birth in living memory, and the whole people broke into celebration.
+The stasis broke because the suppressed old gods are reviving: the emergence followed the rebirth of renewal, and with change returning the Slate will once again age, die, and petrify.
+
+#### The Schism
+The renewed cycle has split the Slate of [[The Slate Town|Muistola]] in two.
+Many cling to the old ways and the bond to [[Syvämaa]], but a growing faction has embraced [[Moldrex]], the darkness beyond the wall, who promises to free them from their dependence on the deep world — an end to the cycle of emergence and petrification — in exchange for the child Itu.
+The head warrior Lohka leads them, the scribe Kallio has converted, and the Keeper of Emergence Aamu sides with breaking the cycle so the Slate might be born, live, and die as surface mortals do; the loremaster Holvi was briefly swayed before turning back.
+Lohka's faction means to carry Itu through the Suonet into [[Öuth Krelt]] to deliver the child to Moldrex's emissary.
 
 #### Notable Members
 The party first met the Slate as a people, but the town's figures are quickly becoming known through [[Mira]]'s translation, each carried in plain speech by the epithet Mira renders.
 
-- **Itu**, "the Seed" — the first child, the single new Slate to emerge in an age; small, curious, and precious to the whole people
-- **Routa**, "Deep-Frost" — an eldest guardian who raised Itu, slow and warm and immovable, the elder the celebrating town gathers around
-- **Kallio**, "Bedrock" — a stone-scribe elder who tends the [[Bonewall]] witch-ring; he holds the people's stone-memory but cannot work the ring himself
-- **Holvi**, "the Vault" — a loremaster elder, keeper of the people's deepest memory and the truths the surface world has forgotten
-- **Aamu**, "the Dawnkeeper" — the Keeper of Emergence, who presides over the mountain's births
-- **Lohka**, "the Boulder" — the town's head warrior, an elder nearing petrification
+- **Itu**, "the Seed" — the first child, the single new Slate to emerge in an age; small, curious, and precious to the whole people, claimed by both sides of the schism and snatched up by [[Castor]] in gorilla form to keep the dark god's faction from taking the child
+- **Routa**, "Deep-Frost" — an eldest guardian who raised Itu, slow and warm and immovable, who clashed with Aamu over the child's fate
+- **Kallio**, "Bedrock" — a stone-scribe elder who keeps the map of the [[Witch Stones]] ley-line network and shared his notes with [[Garland yn Greenholt|Garland]]; he holds the people's stone-memory but cannot work the ring himself, and has converted to [[Moldrex]], first swaying Holvi to the cause
+- **Holvi**, "the Vault" — a loremaster elder, keeper of the memory stones in the Hall of Deep Memory and of the truths the surface world has forgotten, and the companion of Vaalo the [[Spinewright]] in the founding age; briefly drawn toward Moldrex by Kallio before [[Paxton Lumnus|Paxton]]'s plea and Roderic's light turned him back
+- **Aamu**, "the Dawnkeeper" — the Keeper of Emergence, who presides over the mountain's births; marked by a trauma-deep sadness, she sides with breaking the Slate's dependence on [[Syvämaa]] so the people might be born and live freely
+- **Lohka**, "the Boulder" — the town's ancient head warrior, an elder nearing petrification, who has embraced [[Moldrex]] and leads the faction that would give Itu to the dark god; beneath his stone is living flesh, and his strength snapped [[Sir Roderic Lightbearer|Roderic]]'s sword like a twig
 - **Sora**, "Gravel" — Lohka's younger, fiercely loyal lieutenant
 
 #### Relationships
 - [[Bonewall]] — The wall the Slate are born from and dwell within; they are less its settlers than an expression of it
+- [[Syvämaa]] — The deep world below, source of their emergence and the cycle they petrify back into; the bond [[Moldrex]] would sever
+- [[Moldrex]] — The dark god beyond the wall, now courting the Slate with the promise of freedom from Syvämaa in exchange for the child Itu
 - [[Mira]] — Channeling the [[Witch Stones]], she can speak the Slate's grinding tongue and served as the party's translator with them
 
 #### Associated Locations
 - [[Bonewall]] — The mountain wall that is their home and their origin
+- [[Syvämaa]] — The deep world below, from which they emerge and to which their dead return
 - [[The Slate Town]] — Their hidden underground settlement, built from their petrified dead
 
 #### History with Party
 - [[Session 7]] — First contact: the Slate carried the gravely wounded [[Paxton Lumnus|Paxton]] and the fallen [[Sir Roderic Lightbearer|Roderic]] into their hidden town, where the party reunited; through Mira's translation they told their story and welcomed the party in to rest amid their celebration of the first child
+- [[Session 8]] — Holvi imbued the party with the Slate tongue at the memory stones and told them of Vaalo; then the town's schism erupted, Lohka's Moldrex faction moving to seize the child Itu, until the party fought to keep the child and Moldrex's spiders and vines broke into Muistola itself
 
 
 ## Notable Items
 
----
-id: seal-of-unmaking
-type: item
-name: Seal of Unmaking
----
 ### Seal of Unmaking
 
 **Type:** Artifact
@@ -1023,15 +909,6 @@ The [[Whiteglass]] seal within absorbed redirected ley line energy and now glows
 [[The Triune]] agreed to repair the broken case and study whether the empowered seal could be used to reseal the God of Ruin.
 
 
----
-id: second-harvest
-type: item
-name: Second Harvest
-aliases:
-- Halcyrax
-- Halcyrax, the Gilded Ruin
-- The Gilded Ruin
----
 ### Second Harvest
 
 **Type:** Weapon
@@ -1056,35 +933,6 @@ When he left home again, he reforged the ploughshare back into a sword.
 Where the gold once lay, the blade now glows with dread — the omen that compelled Garland to leave his home and set out once more.
 
 
----
-id: spinewrights-lantern
-type: item
-name: The Spinewright's Lantern
-aliases:
-- Spinewright's Lantern
-- Spinewright Lantern
-- Hiillos
-images:
-  gallery:
-  - file: spinewrights-lantern-legend.jpg
-    caption: The Spinewright's Lantern as legend imagines it
-    description: An idealized Renaissance/Baroque devotional painting of the relic
-      (Hiillos) suspended unheld in glory, archangels driving back the dark and the
-      faithful in reverence below, with a mountain range crowned by the beacon-towers
-      of the Spines — the lantern shown as their portable kin. Stylized legend art,
-      not the true object.
-    prompt: config/image/prompts/spinewrights-lantern-legend.json
-    subjects:
-    - spinewrights-lantern
-  library:
-  - file: config/image/library/spinewrights-lantern-reference-plate.jpg
-    prompt: config/image/prompts/spinewrights-lantern-reference-plate-prompt.json
-    description: 'The Spinewright''s Lantern (Hiillos): a tall, slender, sturdy hand-lantern
-      of bone-grey shale, dark iron, and tarnished amber-gold, with a stacked-shale
-      dome, bail carry-ring, side chains, and gothic arched openwork; at its heart
-      an enclosed faceted housing shelters a living warm ember. The true-object reference
-      plate.'
----
 ### The Spinewright's Lantern
 
 **Type:** Artifact (portable ward)
@@ -1099,9 +947,12 @@ In the Spinewright's own tongue — a language no one in the vale now speaks —
 Why the maker of the Light's great wards should have called his fire by a foreign word for a humble coal is not a question the Church has ever cared to ask.
 
 #### Properties
+The ember Hiillos carries is a shard of the light below — the second light of [[Syvämaa]], the deep world from which the [[Spinewright]] himself came.
+That same fire is what powers the [[Thirteen Spines]]: the towers are called the "children of Hiillos," and the lantern is their parent and their source.
 Its open flame pushes back the darkness of [[Öuth Krelt]] for miles and purifies the land its light touches.
 That reach is not free: creatures of the dark must be battled back for the light to extend, so the lantern protects best in the hands of those willing to fight for the ground it claims.
 It was prized as a relic that could let its bearers push past the [[Bonewall]] into the country the Light names the darkness.
+Because the spines draw their light from it, the [[The Slate|Slate]] hold that the towers now going dark can only be rekindled by retrieving Hiillos from the [[Tomb of the Spinewright|Spinewright's cradle]] and reigniting them from the lantern itself.
 
 #### History
 The lantern was kept in the [[Tomb of the Spinewright]], guarded by the Spinewright's constructs and trials of faith.
@@ -1112,11 +963,6 @@ Its lantern symbol now appears as a necklace worn by [[Roland]]'s men and, by re
 What the symbol signifies, and where the lantern itself has gone, remain unknown.
 
 
----
-id: whiteglass
-type: item
-name: Whiteglass
----
 ### Whiteglass
 
 **Type:** Substance / Material
@@ -1145,14 +991,6 @@ Whiteglass represents the Luciferian ideal of preservation and permanence.
 It is both a symbol of the faith's power and, ironically, the instrument used to suppress the [[Old Gods and New Gods|Old Gods]].
 
 
----
-id: xan-kor
-type: item
-name: The Xan-Kor
-aliases:
-- Xan-Kor
-- Aegis Mechanism
----
 ### The Xan-Kor
 
 **Type:** Artifact

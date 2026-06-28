@@ -180,6 +180,7 @@ Claimed the Laughing One was responsible for [[Castor]]'s original beaver curse,
 Attempted to recruit [[Castor]] away from Renewal, offering a partnership of building and laughter.
 Demonstrated the ability to puppeteer a dead paladin's corpse using dark magic and to project disturbing visions through eye contact that seed doubt and reveal (or fabricate) hidden truths.
 Beheaded by [[Sir Roderic Lightbearer|Roderic]] in the [[Chryseum|The Chryseum]] after puppeteering the murdered paladin's corpse — though an emanation is not a thing a blade can end, and what wore that mask may yet find another face to return in.
+That it survives the beheading was borne out beneath the [[Bonewall]]: its voice reached [[Castor]] again in the Slate's town, taunting him that of all his companions only he could do nothing but stand and watch — a goad Castor recognized from the Shrine and broke through to save the Slate child.
 
 Harlequins captured, tortured, and killed an [[Order of the First Dawn]] paladin beneath the [[Chryseum|The Chryseum]] — an escalation from trickery to lethal violence.
 
@@ -196,3 +197,4 @@ Mix both for unsettling effect.
 - [[Session 2]] — God of Forgetting revealed; ruin/renewal counterpart established; Harlequins encountered directly; the party identified as heralds of ruin
 - [[Session 4]] — The dormant God of Renewal discovered in the [[Shrine of Renewal]]; heralds of renewal identified; ruin described as acting like a wounded animal; Lucifer's suppression revealed as cause of renewal's dormancy
 - [[Session 5]] — The Dark Harlequin confronted [[Castor]] at the Shrine, claiming the Laughing One cursed him and trying to recruit him; Harlequins killed an [[Order of the First Dawn]] paladin and overran the [[Chryseum|The Chryseum]]; the Dark Harlequin was beheaded by [[Sir Roderic Lightbearer|Roderic]]; all six heralds gathered and the cocoon opened, releasing the God of Renewal
+- [[Session 8]] — The Dark Harlequin's voice returned to taunt [[Castor]] in the Slate's town, confirming that its beheading did not end it

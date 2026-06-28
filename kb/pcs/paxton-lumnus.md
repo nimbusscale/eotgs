@@ -38,7 +38,7 @@ He is an embodiment of radiance who no longer trusts the institutions that wield
 STR 1, DEX 1, INT 0, WIS -1, CHA 2
 
 ## Playbook
-Immolator — Level 1 (reskinned for [[The Light]])
+Immolator — Level 2 (reskinned for [[The Light]])
 
 ## Drive
 Act callously or recklessly about death.
@@ -71,10 +71,10 @@ His spontaneous resurrection is genuinely rare and ill-understood — a divine a
 **Moves:**
 - **Lightbrand** — He can move, shape, and create light; his light is Distinctive, Fiery (it burns, sears, and ignites), and Near, with the chosen traits Restrained (allies gain +1 Armor against it) and Spontaneous (he can create light, not merely manipulate existing fire).
 - **Unleash Radiance** — Roll+CHA to fight using light as a weapon, accepting costs such as collateral damage, conditions like Blinded or Stunned, the loss of a light trait, or unwanted attention.
-- **Righteous Illumination** — When he offers a sacrifice to the Light and illuminates it utterly, he may ask a question and receive a vision answering it, the sacrifice consumed forever and the truth proportional to what was given up.
 - **Drawn to the Light** — Roll+CHA when sharing an intimate or revealing moment to gain Charm over someone.
+- **Smokestep** *(Advanced)* — When he obscures himself in a cloud of smoke, ash, or cinders, he can instantly transport himself anywhere within that cloud or to another nearby cloud.
 
-**Equipment:** 1 Wealth, a Bundle of Torches (5 uses), Adventuring Gear (5 uses), Smoky Leather Armor (1 Armor), a Burnished Sword (Intimate, Close), and a Flask of Whiskey (2 uses).
+**Equipment:** a Bundle of Torches, Adventuring Gear (5 uses), Smoky Leather Armor (1 Armor), and a Flask of Whiskey (2 uses).
 
 ## Appearance
 Paxton is a human man in his early thirties, tall, lean, and weathered, with the posture of a former soldier who still expects inspection.
@@ -95,7 +95,11 @@ He loves dawn over water, hot black tea, the sound of harbor work beginning befo
 - [[Castor]] — Reunited with on the Bonewall
 
 ## Favors
-_None yet._
+
+### Paxton owes a Slate guard of [[The Slate Town|Muistola]]
+Grappling a Slate guard in the Hall of Deep Memory, Paxton pinned them and demanded they stand down.
+They yielded, but only on a bargain: that Paxton would do what he could to see that [[The Slate|Lohka]] survives the fight, short of controlling others or shielding the boulder-warrior's recklessness.
+*[[Session 8]] · Appease · Active — a promise to spare Lohka, owed to the guard who let him go.*
 
 ## Hooks
 
@@ -103,6 +107,8 @@ _None yet._
 When Paxton woke, the dawn showed him that the [[Bonewall]] wards anchoring the [[Thirteen Spines]] are flawed — that [[Lucifer]] did not protect [[Beaconhold]] indefinitely, but only prolonged its inevitable ruin.
 His main motivation is to uncover the truth of the Light before more people die trusting a flawed protection, and to learn whether Lucifer's legacy can be repaired or must be exposed.
 This personal quest intersects the party's wider investigation into [[The Bonewall's Darkness]].
+The Slate's memory stones gave him the first real answer: the wards were not Lucifer's work but Vaalo's — a deep dwarf from [[Syvämaa]] who built the spines and drew their fire from the light below, carried in the lantern [[The Spinewright's Lantern|Hiillos]].
+The spines can be rekindled by retrieving Hiillos from Vaalo's cradle, a concrete thread for the repair-or-expose question that drives him, even as it confirms the Light has hidden the true source of its protection.
 
 ### A Death That Won't Take
 Paxton has "died" several times since the ritual, but it never seems to take, and each time he returns something about him is different.
@@ -121,3 +127,4 @@ What happened, and what that person lost, is an open question to be answered in 
 ## Session Appearances
 - [[Session 6]] — Recounted his death at [[Bonewall|Hallowreach]] and his waking in the mausoleum with the Light in his chest; heard that Carnforth had gone dark and turned back toward the wall; in the [[The Reaches|Reaches]] found [[Senna]] healing marsh-creatures with scaled hand and reptilian eyes, learned she had been reborn in the vision of [[Moldrex]] and he "wrong" in Lucifer's, and burned her barge to escape — killing Senna and unknown others hidden aboard
 - [[Session 7]] — Waded back to the burning barge and saved a woman and child while leaving the husband Roy to the fire; climbing toward [[Carnforth]] he followed a young [[The Slate|Slate]] up the mutating wilds, roped it from a giant vine at the cost of a wrenched shoulder, and was bitten near death by a black spider before the Slate carried him down into the mountain; healed with moss in the [[The Slate Town|Slate town]], where he met [[Sir Roderic Lightbearer|Roderic]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]
+- [[Session 8]] — At the memory stones learned the story of Vaalo, the deep dwarf who built the spines, deepening his conviction that the Light has hidden the truth of its own wards; drew [[The Slate|Holvi]] back from [[Moldrex]] with his plea; seared the flesh beneath [[The Slate|Lohka]]'s stone with Unleash Radiance; and, grappling a Slate guard, bargained their surrender for a promise to spare Lohka

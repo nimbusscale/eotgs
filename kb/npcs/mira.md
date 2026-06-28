@@ -30,6 +30,9 @@ She heard the stones "calling," promising safety, and dreamed of the Bonewall si
 
 Channeling the stones, she can now cast Tongues: when she turns it on the [[The Slate|Slate]] she speaks their grinding stone-tongue but cannot be understood in any human language, making her the party's only translator with the Slate.
 A sanctuary she establishes counts as a home for those bonded to her through the stones.
+She can also pass into the spirit realm through the stones, perceiving the whole [[Witch Stones]] network as glowing nodes in a bluish overlay; reaching into that realm she believed she could have restored a dimming, erased stone, and resented [[Garland yn Greenholt|Garland]] for pulling her out before she could.
+He grabbed her from it instead — chiding her, "you rush forward too soon, child" — and she shot back that every story she has heard of him has him stepping forward where others hesitate, and now, when it mattered most, he did not.
+She has taken to calling Garland by the name **Dagar**, the form he tells his grandchildren he prefers.
 
 ## Faith
 The [[Witch Stones]] are Mira's deity, and her calling is to revive their worship — a creed she understands the lost line of the [[Greenholt Bloodline|Greenholt blood]] once kept, and means to bring back to the people.
@@ -52,4 +55,5 @@ What power truly answers through the stones — and whether it is kin to the dee
 - During the downtime after the curse — declared herself Garland's apprentice and revealed she hears the [[Witch Stones]] as words
 - [[Session 6]] — Sheltering with Garland at the Witch Stones to heal from the ruin that depressed her; spoke an unknown booming tongue and commanded the stones to open a portal onto the [[Bonewall]], then stepped through and left the Ashen Vale
 - [[Session 7]] — Arrived at the Bonewall's second ring of Witch Stones; reaching for the same bond Castor used, she gained the [[The Slate|Slate]]'s grinding stone-tongue but could no longer make herself understood in human speech, serving as the party's translator with the Slate
+- [[Session 8]] — Studied the stones with the Slate sage [[The Slate|Kallio]], perceiving the network as glowing nodes and slipping into the [[The Realm of the Forgotten|spirit realm]] to try to restore a dimming stone; Garland pulled her out at the cost of his own forgotten memory, and she chafed at being held back even as it left her, like him, hearing the stones more clearly than before
 

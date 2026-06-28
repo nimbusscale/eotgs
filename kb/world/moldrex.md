@@ -30,12 +30,19 @@ The corrupted ritual at [[The Nodrum]] set that erasure in motion; the wards hav
 For the first time in living memory, the barrier that has held Moldrex's forces at bay is failing.
 [[The Light]] is aware that the wards are weakening but is hampered by internal disputes, theological confusion caused by gaps in their own history, and the general institutional decay of centuries of stagnation.
 
+Moldrex's corruption is already bleeding through the weakening wards as the [[Bonewall]]'s mutated vines and the cat-sized spiders that nest in them.
+And it has reached the [[The Slate|Slate]] within the wall: with their long stasis broken and the cycle of aging and death returning, Moldrex has offered the Slate of [[The Slate Town|Muistola]] freedom from their dependence on [[Syvämaa]], the deep world — an end to emergence and petrification — in exchange for their newborn child, Itu.
+The offer has split the town, converting the warrior Lohka, the scribe Kallio, and others, who would carry the child through the Suonet into [[Öuth Krelt]] to deliver it to Moldrex's emissary.
+
 ## Related Entries
 - [[Lucifer]] — The god who sealed Moldrex behind the Bonewall
 - [[Bonewall]] — The mountain range that serves as the barrier
 - [[Thirteen Spines]] — The ward towers holding Moldrex's forces at bay
 - [[Öuth Krelt]] — The land beyond the Bonewall where Moldrex rules
 - [[The Light]] — The faith responsible for maintaining the wards
+- [[The Slate]] — The people of living stone Moldrex is now courting with the promise of freedom from [[Syvämaa]]
+- [[Syvämaa]] — The deep world Moldrex offers to sever the Slate from
 
 ## Sources
 - [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established
+- [[Session 8]] — Revealed to be courting the [[The Slate|Slate]], offering freedom from [[Syvämaa]] for the child Itu and splitting the town; his vines and spiders breached Muistola

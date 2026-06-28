@@ -1,32 +1,6 @@
 # Player Characters
 
 
----
-id: castor
-type: pc
-name: Castor
-status: Active
-images:
-  hero:
-    file: pcs/castor-human.jpg
-    alt: Castor in human form
-    description: Castor in human (wood-elf) form, front-facing. Player-submitted in-world
-      art.
-  gallery:
-  - file: pcs/garland-and-castor-beaver.jpg
-    caption: Garland cradling Castor in his true beaver form
-  library:
-  - file: config/image/library/castor-reference-plate.jpeg
-    prompt: config/image/prompts/castor-reference-plate-prompt.json
-    description: 'Castor in human (wood-elf) form: shaggy red-orange hair to the jaw,
-      pointed ears, lean weary build, tattered earth-toned traveler''s outfit and
-      ragged hooded cloak. Canonical identity plate.'
-  - file: config/image/library/castor-beaver-reference-plate.jpeg
-    prompt: config/image/prompts/castor-beaver-reference-plate-prompt.json
-    description: 'Castor in his true beaver form: an unusually large rich chestnut-brown
-      beaver, about knee-high to a standing person. Use when the moment shows him
-      shapeshifted — his true form.'
----
 ## Castor
 
 **Player:** Dustin (duskit)
@@ -40,7 +14,7 @@ He carries the [[Greenholt Bloodline]] and serves as the party's scout, utility 
 STR 0, DEX 1, INT 1, WIS 2, CHA -1
 
 ### Playbook
-Druid
+Druid — Level 3
 
 ### Drive
 Endanger yourself for wildlife or outcasts.
@@ -83,6 +57,8 @@ He still builds dams out of furniture and still thinks like a beaver in many way
 - **Attunement** — Bond with a creature to add it to his Attuned list
 - **Commune** — Speak with the natural world to gain insight
 - **At One With The World** — Deep connection to the natural order; he can extend the bond toward the [[The Slate|Slate]], reading the mountain's and the creatures' intent as wordless "vibes" rather than speech, and felt the Bonewall celebrating something new at his arrival
+- **Resist Instinct** — Roll+WIS to change shape before he has fulfilled a form's Instinct
+- **Bridge Between Worlds** (Advanced) — He perceives the patterns beneath the world and can now extend Shapeshift and At One With The World to inanimate natural things (plants, rocks) and to the raw elements — fire, water, air, and earth; this is the source of his power to dissolve into wind and move "between worlds"
 
 **Attuned Creatures:**
 - Beaver (instinct: reshape the world)
@@ -99,7 +75,7 @@ He has traveled across the continent as a beaver, including to regions with sava
 In animal form he can speak.
 His beaver sense of smell is specialized — excellent for beaver-specific scents like pheromones and territorial markers, but less effective for general tracking.
 
-He has grown into a new elemental power: he can dissolve into wind, moving "between worlds," which he used to rush after [[Mira]] through the [[Witch Stones]] portal to the [[Bonewall]].
+Through the Advanced move **Bridge Between Worlds**, he has grown into a new elemental power: he can dissolve into wind, moving "between worlds," which he used to rush after [[Mira]] through the [[Witch Stones]] portal to the [[Bonewall]].
 In wind form he can pass only through openings a breeze could move through — a wide crack will let him by, but a narrow one will not.
 
 ### The Beaver Dam
@@ -161,6 +137,8 @@ He finds himself burdened with a mid-life crisis despite having spent far more o
 He no longer wants merely to reclaim his humanity — he wants to learn what his mitigated curse is truly capable of, suspecting destiny has marked him as something unusual.
 There is no getting around it, though: this is a man who has spent human lifetimes as a beaver.
 Passing through Mira's portal in wind form gave him a sudden, rare moment of clarity — a vision of the valley before the [[Beaconhold|Beacon]] was built and of his own lost life as a young carpenter in the early days of the [[Imperium Lucis Aeternae|Imperium]], a glimpse of the man beneath the centuries of beaver before it slipped away again.
+The [[The Slate|Slate]]'s memory stones sharpened that ache: in their millennia of frozen stasis he saw a mirror of his own long beaver-years, and grieved openly for the human life and opportunities he let pass while resigned to the change.
+That grief, and the [[Dark Harlequin]]'s old taunt that he can only ever stand back and watch, are pushing him from spectator toward someone who acts — he answered the taunt by leaping in to save the Slate child Itu.
 
 #### Castor's Offspring
 [[Castor]] broke his long-held vow of celibacy by mating with [[Tufa]] the rock rat beneath [[Aurelion]].
@@ -180,16 +158,9 @@ What this role means and what it demands of him is unresolved.
 - [[Session 5]] — Communed with the dormant [[God of Renewal|The God of Renewal]] at the [[Shrine of Renewal]], feeling an overwhelming sense of homecoming; confronted the [[Dark Harlequin|The Dark Harlequin]] who tried to recruit him and claimed the [[Laughing One|The Laughing One]] cursed him; touched the cocoon and received a vision of himself as protector; shifted into a wolverine and drove off the Dark Harlequin; built a dam-like barricade to fortify the Shrine entrance; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — At a Sunday dinner at the [[Witch Stones]], confronted [[Captain Vask]]'s delegation in beaver form, introducing himself as "Garland's uncle"; defended the beavers against the Vale's three great families; learned Aldric somehow knew the beaver could speak; dissolved into wind for the first time to chase [[Mira]] through the Witch Stone portal onto the [[Bonewall]]
 - [[Session 7]] — Came through the portal in wind form and was struck by a vision of his lost life as a young carpenter before the curse; opened his bond to the world and felt the mountain celebrating the [[The Slate|Slate]]'s first child; reunited with [[Sir Roderic Lightbearer|Roderic]] and met [[Paxton Lumnus|Paxton]] in the Slate's hidden town
+- [[Session 8]] — Touched the memory stone and saw the Slate's ages of stagnation as a mirror of his beaver-years; people-watched the celebration until the [[Dark Harlequin]] whispered that he could only ever watch — then broke the taunt by transforming into a buck-toothed gorilla mid-leap to snatch the child Itu, fought off Slate warriors to keep the child, and hurled one screaming down the stairs
 
 
----
-id: edric-bloom
-type: pc
-name: Edric Bloom
-status: Vanished
-aliases:
-- Edric
----
 ## Edric Bloom
 
 **Player:** Ken (SiliKen)
@@ -203,7 +174,7 @@ He serves as the party's face and information broker.
 STR -1, DEX 1, INT 1, WIS 0, CHA 2
 
 ### Playbook
-Bard
+Bard — Level 2
 
 ### Drive
 Endanger or sacrifice something for the sake of your art.
@@ -277,33 +248,6 @@ He knows the layout of [[Aurelion]]'s underground tunnel network — learned fro
 - [[Session 4]] — Vanished while under [[Garland yn Greenholt|Garland]]'s invisibility spell in the tunnels beneath the Chryseum; his whereabouts are unknown
 
 
----
-id: garland-yn-greenholt
-type: pc
-name: Garland yn Greenholt
-status: Active
-aliases:
-- Garland
-- Lord Greenholt
-images:
-  hero:
-    file: pcs/garland-portrait.jpg
-    alt: Garland yn Greenholt
-    description: Garland's face and identity, portrait framing. Player-submitted in-world
-      art.
-  gallery:
-  - file: pcs/garland-second-harvest.jpg
-    caption: Garland walks the vale, Second Harvest in hand
-    description: Garland holding his signature sword Second Harvest (broad forward-curved
-      pattern-welded blade). Player-submitted in-world art showing him armed.
-  - file: pcs/garland-and-castor-beaver.jpg
-    caption: The old guardian and his beaver kin
-  library:
-  - file: config/image/library/garland-reference-plate.jpeg
-    prompt: config/image/prompts/garland-reference-plate-prompt.json
-    description: 'Garland yn Greenholt: extraordinarily old warrior-sage, elven pointed
-      ears, weathered sun-lined veteran''s skin. Canonical identity plate.'
----
 ## Garland yn Greenholt
 
 **Player:** Jay (regular human faits)
@@ -318,10 +262,11 @@ He once knew deep magic, but the Curse of Ruin — his burden as the herald of f
 STR 2, DEX -1, INT 1, WIS 1, CHA 0
 
 ### Playbook
-Fighter (with cross-class Wizard moves)
+Fighter — Level 4 (with cross-class Wizard moves)
 
 ### Drive
-Step forward where others hesitate.
+Protect [[Mira]] from every danger — the stones, her family, even herself — whatever it costs him.
+(Formerly: step forward where others hesitate — a drive he set aside on the Bonewall, to Mira's open dismay, when caution for her sake won out over his old instinct to lead the charge.)
 
 ### Background
 Garland is extremely old — centuries implied — with elven features but human.
@@ -367,6 +312,12 @@ On the Bonewall he found a second ring of Witch Stones, twin to his own but carv
 Having watched Mira's grasping-gate and now studied this far ring, he intends to recreate that long-distance gate as a ritual to send her safely home.
 When the party met the resurrected [[Paxton Lumnus|Paxton]], Garland privately recognized the sigil of his return as the mark of what his youth had called the "unborn" — those reborn through the Light — but kept the knowledge to himself rather than confront him.
 
+Within the Slate's town his sense of the stones deepened and darkened.
+The memory stones showed him his own bloodline raising the [[Witch Stones]] and giving a child over to them, and a descendant of his line betraying an ancient vale civilization to invaders — visions that left him fearing the stones might want something of [[Mira]].
+When she slipped into the spirit realm to mend a dimming stone, he followed and worked a ritual to drag them both free; the price was a piece of himself, and he gave up the memory of his first child — Dafydd, a son born when he first came home from soldiering, dead these hundreds of years, who had carried the face of Garland's own mother.
+He chose the living girl over the remembered boy and surfaced remembering neither Dafydd nor the bargain, only an aching, unexplained grief — but now hearing the Witch Stones clearly, in words, the way Mira does.
+Out of that fear for her, his drive turned: where once he stepped forward where others hesitated, he now means to shield Mira from every danger, including the stones and her own reckless reaching, whatever it costs him.
+
 ### Religion
 Has never had much use for gods.
 
@@ -378,10 +329,12 @@ Has never had much use for gods.
 - **Signature Weapon** — [[Second Harvest]], a legendary great sword with a storied past
 - **Battle Momentum** — Build momentum in combat to fuel powerful follow-up actions
 - **Particular Set of Skills** — Specialized combat expertise honed over centuries of fighting
+- **Armed and Ready** — Ignore the Clumsy tag on the armor he wears
 
 **Cross-Class Wizard Moves:**
 - **Evoke a Spell** — Roll+WIS to cast a known spell
 - **Prestidigitation** — Minor magical tricks and cantrips, fragments of his former mastery
+- **Ritual** — Work powerful magical effects given time and a price the GM sets; the ritual capacity newly returned to him through the [[Witch Stones]]
 
 **Known Spells:** Immunity, Invisibility
 
@@ -392,7 +345,7 @@ Has never had much use for gods.
 - [[Rowan yn Greenholt]] — Great-grandchild through his second family; lived in [[Ashbrook]] and perished when the town fell
 - [[Aldric Garlandsson]] — Grandson through his second family, who rules [[Crownvale]]; Garland's power and name underpin Aldric's authority, but Aldric's position relies on Garland's absence
 - His second wife — the widow of a friend whose death Garland was responsible for, brought home from a long journey roughly a century ago (name unrecorded)
-- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; calls Garland "Pappy"; a warm relationship; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] — though as words rather than the grinding of the earth; he now shelters and mentors her at the Witch Stones
+- [[Mira]] — Aldric's ten-year-old daughter and Garland's great-granddaughter; she has declared herself his apprentice and, like him, hears the [[Witch Stones]] as words; he now shelters and mentors her, and after the Bonewall his protectiveness has hardened into his governing drive — to shield her even from the stones and from herself, though she chafes at being held back and now calls him by the name he prefers, "Dagar"
 - [[Sergeant Iyer]] — One of Aldric's soldiers, whom Garland Favored at the Witch Stones to win the chance to follow Mira through the portal; a bond of obligation now runs between them
 - [[Paxton Lumnus]] — Newly met on the Bonewall; Garland silently recognized the sigil of Paxton's resurrection as the mark of the "unborn" his youth knew, and has chosen to keep that recognition secret for now
 
@@ -413,6 +366,7 @@ And he is not the only one who hears them: his great-granddaughter [[Mira]] hear
 The stones have now proven to be more than a wellspring of magic — Mira commanded them to open a stable portal onto a matching ring on the dead grey shale of the [[Bonewall]].
 That far ring is twin to his own yet carved in a wholly different, unreadable runic language, and his bond to it is faint and distant — evidence that the stones may form a wider network and hold secrets he never learned.
 He now means to study the Bonewall ring closely, both to read what it says and to reproduce Mira's long-distance gate as a ritual that could send her safely home to [[Crownvale]].
+Comparing notes with the Slate sage [[The Slate|Kallio]] confirmed the stones form a ley-line network spanning the [[Ashen Vale]], the [[Cragmarr|Cragmar]], and beyond, reaching even the dark far side of the wall — and after his passage through the [[The Realm of the Forgotten|realm of the forgotten]] he now hears the stones clearly, in words, as Mira does rather than as the old grinding of the earth.
 
 #### Garland's Reluctant Apprentice
 [[Mira]], [[Aldric Garlandsson|Aldric]]'s young daughter, has declared herself [[Garland yn Greenholt|Garland]]'s apprentice and will not be dissuaded.
@@ -437,6 +391,13 @@ What called him away, and how his friend came to die, remain unspoken — a buri
 #### The Greenholt Bloodline Origin
 The [[Greenholt Bloodline]] grants elven features and extraordinary lifespan to some family members, but its origin is unknown.
 Whether it connects to actual elven ancestry or something else entirely remains an open question.
+The Slate's memory stones gave Garland a first glimpse of an answer: he saw his own bloodline raising the [[Witch Stones]] square-cut and new in the vale and giving a child over to them to become their first speaker, then a great vale civilization in its heyday — and a descendant of his line opening its gates to invaders.
+Whether the long lifespan, the bond to the stones, and a buried act of betrayal all spring from the same lost ancestry is now his to unravel.
+
+#### The Forgotten Son
+To pull [[Mira]] free of the [[The Realm of the Forgotten|realm of the forgotten]], Garland surrendered the memory of his first child — Dafydd, a son of his first family, dead hundreds of years — and now cannot recall the boy at all, only a grief he cannot name.
+That realm gathers everything erased from time and memory, and what is taken there is not necessarily destroyed: Dafydd, the suppressed Witch Stone, and a lost fragment of Mira all drift somewhere within it.
+Whether what Garland has given up can ever be recovered, and what else the forgetting has quietly stripped from him over his long life, is an open thread.
 
 #### Aldric's Unnatural Reach
 [[Aldric Garlandsson|Aldric]], Garland's grandson, is consolidating power across the [[Ashen Vale]] — and now somehow knows everything that happens within it, down to the fact that the beaver [[Castor]] could speak.
@@ -453,35 +414,9 @@ How Aldric sees and hears so much, whether the ravens are his eyes, and what his
 - [[Session 5]] — Drew on centuries-old memories of [[Beaconhold]]'s conquest to guide [[Sir Roderic Lightbearer|Roderic]] through [[Aurelion|Crest Aurelion]]'s secret passages; used his veteran's authority to compel Aureate guards aside; convinced [[Count Albrecht Marrow]] to join them; fought [[Order of the Eclipsed Sword]] soldiers in the vault, cutting through one with [[Second Harvest]]; eliminated Harlequins in the [[Chryseum|The Chryseum]] alongside [[Dawnwarden Brenn]]; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Hosted a Sunday dinner at the [[Witch Stones]] with [[Castor]] and [[Mira]]; faced [[Captain Vask]]'s delegation, conceding Mira's return while defending Castor and the beavers; recognized Mira's portal as gate-craft he once knew and lost; broke Vask's grip, was tackled by [[Sergeant Iyer]], then Favored Iyer and swore on his life to compel him aside, crossing the portal to the [[Bonewall]] after Mira and Castor
 - [[Session 7]] — Came through the portal to the Bonewall's second ring of Witch Stones, the forgetting taking hold again as he crossed — briefly reliving yet still unable to recall the lost memory of the note he once gave [[Mira]] for Aldric; found the ring carved in an unreadable tongue and worn nearly silent; met the [[The Slate|Slate]], privately recognized [[Paxton Lumnus|Paxton]]'s resurrection-sigil as the mark of the "unborn" and said nothing, and resolved to study the ring as a ritual gate to send Mira home
+- [[Session 8]] — At the memory stones glimpsed his bloodline raising the [[Witch Stones]] and sacrificing a child to them, and a descendant betraying an ancient vale civilization; studied the stone-network with the Slate sage [[The Slate|Kallio]]; followed Mira into the [[The Realm of the Forgotten|realm of the forgotten]] and sacrificed the memory of his first son, Dafydd, to pull her free — surfacing able to hear the stones clearly and bearing a grief he can no longer name; took up [[Second Harvest]] against the Slate warriors to defend [[Castor]] and the child Itu, was poisoned by a giant spider, and fell back into Mira's sanctuary
 
 
----
-id: paxton-lumnus
-type: pc
-name: Paxton Lumnus
-status: Active
-aliases:
-- Paxton
-images:
-  hero:
-    file: pcs/paxton-portrait.jpg
-    alt: Paxton Lumnus
-    description: Paxton's face and divine light-marks, weapon-free portrait. Player-submitted
-      in-world art.
-  gallery:
-  - file: pcs/paxton-and-the-light.jpg
-    caption: Paxton unleashes the Light against the pack
-  - file: pcs/paxton-pose.jpg
-    caption: Bearing the dawn's burden across broken country
-    description: Full-body Paxton in weathered brown leather road armor with sword
-      at side. Player-submitted in-world art showing him armed.
-  library:
-  - file: config/image/library/paxton-reference-plate.jpeg
-    prompt: config/image/prompts/paxton-reference-plate-prompt.json
-    description: 'Paxton Lumnus: dark near-black hair, dark stubble, pale gold-touched
-      eyes, thin glowing gold divine light-marks on his RIGHT eye/cheek, weathered
-      brown leather road armor. Canonical identity plate.'
----
 ## Paxton Lumnus
 
 **Player:** Ken (SiliKen)
@@ -495,7 +430,7 @@ He is an embodiment of radiance who no longer trusts the institutions that wield
 STR 1, DEX 1, INT 0, WIS -1, CHA 2
 
 ### Playbook
-Immolator (reskinned for [[The Light]])
+Immolator — Level 2 (reskinned for [[The Light]])
 
 ### Drive
 Act callously or recklessly about death.
@@ -528,10 +463,10 @@ His spontaneous resurrection is genuinely rare and ill-understood — a divine a
 **Moves:**
 - **Lightbrand** — He can move, shape, and create light; his light is Distinctive, Fiery (it burns, sears, and ignites), and Near, with the chosen traits Restrained (allies gain +1 Armor against it) and Spontaneous (he can create light, not merely manipulate existing fire).
 - **Unleash Radiance** — Roll+CHA to fight using light as a weapon, accepting costs such as collateral damage, conditions like Blinded or Stunned, the loss of a light trait, or unwanted attention.
-- **Righteous Illumination** — When he offers a sacrifice to the Light and illuminates it utterly, he may ask a question and receive a vision answering it, the sacrifice consumed forever and the truth proportional to what was given up.
 - **Drawn to the Light** — Roll+CHA when sharing an intimate or revealing moment to gain Charm over someone.
+- **Smokestep** *(Advanced)* — When he obscures himself in a cloud of smoke, ash, or cinders, he can instantly transport himself anywhere within that cloud or to another nearby cloud.
 
-**Equipment:** 1 Wealth, a Bundle of Torches (5 uses), Adventuring Gear (5 uses), Smoky Leather Armor (1 Armor), a Burnished Sword (Intimate, Close), and a Flask of Whiskey (2 uses).
+**Equipment:** a Bundle of Torches, Adventuring Gear (5 uses), Smoky Leather Armor (1 Armor), and a Flask of Whiskey (2 uses).
 
 ### Appearance
 Paxton is a human man in his early thirties, tall, lean, and weathered, with the posture of a former soldier who still expects inspection.
@@ -552,7 +487,11 @@ He loves dawn over water, hot black tea, the sound of harbor work beginning befo
 - [[Castor]] — Reunited with on the Bonewall
 
 ### Favors
-_None yet._
+
+#### Paxton owes a Slate guard of [[The Slate Town|Muistola]]
+Grappling a Slate guard in the Hall of Deep Memory, Paxton pinned them and demanded they stand down.
+They yielded, but only on a bargain: that Paxton would do what he could to see that [[The Slate|Lohka]] survives the fight, short of controlling others or shielding the boulder-warrior's recklessness.
+*[[Session 8]] · Appease · Active — a promise to spare Lohka, owed to the guard who let him go.*
 
 ### Hooks
 
@@ -560,6 +499,8 @@ _None yet._
 When Paxton woke, the dawn showed him that the [[Bonewall]] wards anchoring the [[Thirteen Spines]] are flawed — that [[Lucifer]] did not protect [[Beaconhold]] indefinitely, but only prolonged its inevitable ruin.
 His main motivation is to uncover the truth of the Light before more people die trusting a flawed protection, and to learn whether Lucifer's legacy can be repaired or must be exposed.
 This personal quest intersects the party's wider investigation into [[The Bonewall's Darkness]].
+The Slate's memory stones gave him the first real answer: the wards were not Lucifer's work but Vaalo's — a deep dwarf from [[Syvämaa]] who built the spines and drew their fire from the light below, carried in the lantern [[The Spinewright's Lantern|Hiillos]].
+The spines can be rekindled by retrieving Hiillos from Vaalo's cradle, a concrete thread for the repair-or-expose question that drives him, even as it confirms the Light has hidden the true source of its protection.
 
 #### A Death That Won't Take
 Paxton has "died" several times since the ritual, but it never seems to take, and each time he returns something about him is different.
@@ -578,31 +519,9 @@ What happened, and what that person lost, is an open question to be answered in 
 ### Session Appearances
 - [[Session 6]] — Recounted his death at [[Bonewall|Hallowreach]] and his waking in the mausoleum with the Light in his chest; heard that Carnforth had gone dark and turned back toward the wall; in the [[The Reaches|Reaches]] found [[Senna]] healing marsh-creatures with scaled hand and reptilian eyes, learned she had been reborn in the vision of [[Moldrex]] and he "wrong" in Lucifer's, and burned her barge to escape — killing Senna and unknown others hidden aboard
 - [[Session 7]] — Waded back to the burning barge and saved a woman and child while leaving the husband Roy to the fire; climbing toward [[Carnforth]] he followed a young [[The Slate|Slate]] up the mutating wilds, roped it from a giant vine at the cost of a wrenched shoulder, and was bitten near death by a black spider before the Slate carried him down into the mountain; healed with moss in the [[The Slate Town|Slate town]], where he met [[Sir Roderic Lightbearer|Roderic]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]
+- [[Session 8]] — At the memory stones learned the story of Vaalo, the deep dwarf who built the spines, deepening his conviction that the Light has hidden the truth of its own wards; drew [[The Slate|Holvi]] back from [[Moldrex]] with his plea; seared the flesh beneath [[The Slate|Lohka]]'s stone with Unleash Radiance; and, grappling a Slate guard, bargained their surrender for a promise to spare Lohka
 
 
----
-id: sir-roderic-lightbearer
-type: pc
-name: Sir Roderic Lightbearer
-status: Active
-aliases:
-- Sir Roderic
-- Roderic
-images:
-  hero:
-    file: pcs/roderic-pose.jpg
-    alt: Sir Roderic Lightbearer
-    description: Sir Roderic in full plate. Player-submitted in-world art.
-  gallery:
-  - file: pcs/roderic-horse.jpg
-    caption: The Lightbearer rides for the failing wards
-  library:
-  - file: config/image/library/roderic-reference-plate.jpeg
-    prompt: config/image/prompts/roderic-reference-plate-prompt.json
-    description: 'Sir Roderic Lightbearer: young blond knight in polished silver-steel
-      plate with gold filigree, heraldic-blue surcoat, blue kite shield with gold
-      rampant lion. Strong bright canonical palette. Canonical identity plate.'
----
 ## Sir Roderic Lightbearer
 
 **Player:** Ramsey (feklars)
@@ -616,7 +535,7 @@ He serves as the party's moral anchor and frontline defender.
 STR 1, DEX 0, INT -1, WIS 1, CHA 2
 
 ### Playbook
-Paladin
+Paladin — Level 3
 
 ### Drive
 Endanger yourself to save or protect someone.
@@ -654,6 +573,7 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - **Honor** — Vow and boon tied to keeping one's word and acting with integrity
 - **Mercy** — Vow and boon tied to sparing the defeated and offering redemption
 - **Purity** — Vow and boon tied to resisting corruption and temptation
+- **Justice** — *Suffer not a crime unpunished*: when he questions a captive or friendly individual, he knows whether they are lying; it gives him no read on the unfriendly or unwilling
 
 **Moves:**
 - **Devout Virtues** — Gain boons by upholding vows; break a vow to lose its boon
@@ -661,7 +581,9 @@ This reflects the attitude of [[Beaconhold]] — the faith is good and right, bu
 - **Chains of Faith** — Bind enemies or restrain evil through the power of faith
 - **Armed and Ready** — Always prepared for battle; never caught without weapon or armor
 - **Healing Hands** — Lay on hands to heal; Guardian background allows choosing two effects
-- **Eyes of the Faithful** *(Advanced)* — Used via Scrutinize or Examine, it always reveals a guilt or transgression on its target; it is meant to be turned on those who have done wrong, not used as a neutral sense-motive to judge whether someone is simply good or bad
+- **Eyes of the Faithful** *(custom)* — Used via Scrutinize or Examine, it always reveals a guilt or transgression on its target; it is meant to be turned on those who have done wrong, not used as a neutral sense-motive to judge whether someone is simply good or bad
+- **Divine Favor** *(Advanced)* — He has drawn a deity's notice, gaining the Cleric's Divine Agent and Invoke Miracle moves and learning Miracles (up to three known)
+- **Illuminate** *(Miracle)* — A holy light shines from him or something he touches, piercing darkness, illusions, and trickery
 
 **Asset:** Organization — The Church of Light
 
@@ -694,6 +616,8 @@ Who Roland is, what now lies in the tomb, what the lantern necklace signifies, a
 #### Roderic Remembers Sariel
 Where the clergy of Beaconhold can no longer recall the hero [[Sariel]] — his bust vanished from [[Vicar Lucis Gregory]]'s office without even a trace of dust — Roderic remembers him clearly, as the right hand of [[Lucifer]] and the general who imprisoned the God of Ruin and the [[Xan-Kor]].
 Why the forgetting that is unmaking Sariel from record and memory has not touched Roderic is an open question.
+At the Slate's memory stones the mystery widened: behind the visions of the old paladins Roderic sensed yet another figure, nearly as important as Lucifer and distinct from Sariel, whose presence has likewise been erased from everything he was ever taught — a second unmade name he has no way to recover.
+The deep dwarf Vaalo, builder of the spines, may be one such erased figure, but whether the one Roderic sensed is Vaalo or another is unknown.
 
 ### Session Appearances
 - [[Session 0]] — Character creation and party formation
@@ -704,3 +628,4 @@ Why the forgetting that is unmaking Sariel from record and memory has not touche
 - [[Session 5]] — Infiltrated besieged [[Aurelion|Crest Aurelion]] with [[Garland yn Greenholt|Garland]] to retrieve [[Count Albrecht Marrow]]; bluffed past Aureate guards using [[Luminary Severin Morrow|Severin]]'s [[Whiteglass|whiteglass]] pendant; fought [[Order of the Eclipsed Sword]] soldiers in the vault and was branded a heretic by a [[Corona Vigil]] inquisitor; cleared the [[Chryseum|The Chryseum]] of rioters with a divine decree; beheaded the [[Dark Harlequin|The Dark Harlequin]] after it puppeteered a dead paladin's corpse; used Eyes of the Faithful to confirm the sincerity of the followers of renewal; participated in the gathering of all six heralds that opened the cocoon
 - [[Session 6]] — Returned to a [[Beaconhold]] whose Light had fractured and whose scripture had subtly changed; was lured to the imperial tunnels under [[Primus Griswald]]'s name and met [[Inquisitor Voss]] instead, learning Griswald and other faithful had vanished; weighed Voss's words as true and accepted the charge to investigate the failing Bonewall wards; learned the full story of his lost battalion; pressed [[Vicar Lucis Gregory]] and discovered [[Sariel]]'s bust gone without a trace of dust, the clergy unable to remember the hero he still recalls
 - [[Session 7]] — Ambushed at the edge of the [[The Reaches|Reaches]] by six lantern-marked men sent by [[Roland]] to keep him from the [[Tomb of the Spinewright]]; charged free and traced them to their camp to learn their purpose; doubled back to find the tomb buried under a rockslide, fell through collapsing ground into an underground river, and was hauled out by the [[The Slate|Slate]] into their hidden town, where he met [[Paxton Lumnus|Paxton]] and reunited with [[Garland yn Greenholt|Garland]] and [[Castor]]
+- [[Session 8]] — At the memory stones sensed a second figure, as important as [[Lucifer]] and not [[Sariel]], erased from all he was taught; learned from [[The Slate|Holvi]] of Vaalo and [[The Spinewright's Lantern|Hiillos]]; raised his light to turn [[The Slate|Holvi]] back from Moldrex and decreed the wavering guards aside, but had his sword snapped in half by the boulder-warrior [[The Slate|Lohka]], leaving him weaponless as the dark god's swarm broke into the town

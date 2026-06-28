@@ -1,60 +1,126 @@
 # Sessions
 
 
-## Session 8: A Cradle of Stone
+## Session 8: The Memory Stones
 
-**Date Played:**
+**Date Played:** 2026-06-27
 
 ### Recap-Teaser
 
-*The three roads have finally become one.*
-*Deep inside the **Bonewall**, in a hidden town built from the petrified bodies of its own dead, the old friends are together again — **Garland**, **Castor**, **Roderic**, and **Paxton** met at last, with young **Mira** speaking for them all in the grinding stone-tongue of the mountain.*
-*The **Slate** are dancing.*
-*For the first time in an age none of them can measure, a child has emerged from the rock — no births, no deaths, no aging for longer than their memory reaches, and now, suddenly, a single cradle that is full.*
-*It is a strange harbor, this town of the dead — but the Slate are warm, Paxton is mending in their care, and the road can wait a night.*
+*Beneath the [[Bonewall]], in [[The Slate Town|Muistola]] the Remembrance, the memory stones gave the party the tongue of the [[The Slate|Slate]] and unburied truths older than the [[Imperium Lucis Aeternae|Imperium]] — and then the hidden town tore itself in two over a single newborn child.*
 
-*But the wall they crossed to reach this place is turning into something else.*
-*The grey vines that choke its ravines have begun to move of their own will, shrugging off fire and swelling to monstrous size; cat-sized spiders prowl the shale, creatures no warden has ever recorded; and to the north the Spine of **Carnforth** has gone fully and finally dark.*
-*Paxton has already felt the wall's new teeth — bitten near to death on the climb toward that darkness — and he alone has seen the face behind it: **Senna**, healing horrors with a scaled hand, reborn not in **Lucifer**'s light but in the vision of **Moldrex**.*
-*What was sealed beyond the mountains is bleeding back over the wall now, a little more of it every day.*
+### Summary
 
-*And this buried town is far more than a place to wait out the night.*
-*The **Slate** are a people of living stone — ageless, deathless, and birthless until a few days ago — memory and endurance made flesh, and the truest mirror **Mira** has yet found for the faith waking inside her.*
-*They hold a second ring of **Witch Stones** whose carvings **Garland** cannot read, though young Mira hears them speak; and for **Roderic** and **Paxton**, both sworn to the **Light**, this place stirs unexpected glimpses of something older and deeper in their faith than the Church above ever taught.*
-*Yet even here, deep in the warm heart of the mountain, **Castor** can feel it — the same stone that sang with welcome only days ago has begun to carry a wrong note from somewhere further down, something that should not be.*
-*Moldrex's rot has crept across the surface of the wall above them.*
-*The only question left is how deep it goes.*
+In the great hall of [[The Slate Town|Muistola]], amid a celebration the party felt in their chests more than heard, an old [[The Slate|Slate]] named Holvi led them to the Hall of Deep Memory and bid them touch a standing memory stone.
+Each received the Slate tongue and a vision shaped by their own longing.
+Paxton saw Vaalo — a gray-skinned deep dwarf in the robes of an [[Imperium Lucis Aeternae|Imperium]] church, a figure absent from every scripture, as if excluded from time.
+Roderic relived the paladins of old surrounding an emanation of ruin during the [[Old Gods and New Gods|Godstorm]], and sensed another figure as vital as [[Lucifer]], erased from memory the way [[Sariel]] was.
+Garland saw his own bloodline raising the [[Witch Stones]] square-cut and new, a child given over to the stones to become their first speaker, and a descendant of his line opening the gates of an ancient vale civilization to invaders.
+Castor felt a millennia of stagnation and a deep, traumatic sadness in the Slate, and a kinship with his own long beaver-stasis.
+
+Holvi told Paxton and Roderic the story of Vaalo: a worshipper of the light below who climbed up from [[Syvämaa]], befriended Lucifer, and built the spines — the children of Hiillos — to hold back the darkness beyond the wall.
+[[The Spinewright's Lantern|Hiillos]], they realized, is the Spinewright's Lantern, carrying a shard of the light below; its thirteen children are the towers, and Vaalo's cradle is the very [[Tomb of the Spinewright|tomb]] Roderic came from.
+Apart from the others, Garland and Mira found the stone-sage Kallio, who confirmed the Witch Stones form a ley-line network spanning the vale, the Bonewall, the [[Cragmarr|Cragmar]] and beyond — one node now gone dark.
+When Mira slipped into the blue spirit realm to try to restore it, Garland followed; to pull them both free quickly he was made to leave a piece of himself behind, and he gave up the memory of his first child, Dafydd, dead these hundreds of years.
+He chose the living child over the remembered one, and surfaced hearing the stones as clearly as Mira ever had — and remembering nothing of what he had lost.
+
+Then the town turned.
+The ancient, near-petrified Slate [[The Slate|Lohka]], the sage Kallio, the grieving Aamu and others had embraced [[Moldrex]], who promised to free the Slate from their dependence on Syvämaa — their cycle of emergence and petrification — in exchange for the newborn child Itu.
+The [[Dark Harlequin]] whispered in Castor's ear that he could only ever watch; Castor answered by leaping in as a gorilla and snatching Itu to protect it.
+Below, Lohka snapped Roderic's sword like a twig, Paxton seared the flesh beneath Lohka's stone with the Light, Roderic decreed the wavering guards aside, and Mira raised a sanctuary on the stairs.
+The session ended in a three-way standstill — Lohka swearing Moldrex would keep him from ever petrifying — as the corrupted vines bore their fruit: cat-sized spiders boiled over the wall outside and tentacles began to crack down through the ceiling of Muistola itself.
+
+### Major Events
+
+- In the Hall of Deep Memory, the old Slate Holvi invited the party to touch a vaulted chamber's standing memory stone, smooth from countless hands and humming with a low resonance.
+Each who touched it was imbued with the means to speak with the Slate, and glimpsed older memories besides.
+Paxton, seeking the truth of how the far side of the wall was held back, saw Vaalo: a gray-skinned deep dwarf robed like a churchman of the Imperium, yet found nowhere in any scripture, as though excluded from history itself.
+- Roderic asked the stone why Lucifer had sealed away the old gods when they had once been in harmony.
+He relived the paladins of old surrounding an emanation of ruin and putting it back, felt their grief, and understood the [[Old Gods and New Gods|Godstorm]] as a time when every old god was turned all the way up, out of balance — with Lucifer's offer of civilization as a defense.
+At the memory's edge he sensed another figure, nearly as important as Lucifer and not [[Sariel]], whose presence has been seemingly omitted from what he was ever taught.
+- Garland touched the stone with singular intent and was shaken: people he felt deep kinship with in the Bonewall teaching him stone-cutting, then those same people back in the vale raising the [[Witch Stones]] square-cut and new, runes flashing as each rose.
+He saw a child given over to the stones — broken from the community to become a speaker for the earth, perhaps the first priest of the Witch Stones — and then a great vale civilization in its heyday, with someone of his own bloodline opening its gates to let invaders in.
+He came away fearing the stones might want something of [[Mira]], and warned her, "Don't reach too deep, child."
+- Castor asked the stone whether the Slate's existence had always been so static, and felt a millennia of nothing changing — their celebration born of stagnation, and within it one individual carrying a trauma-deep sadness who, unlike the rest, had somehow changed.
+He recognized in the Slate's frozen ages a kinship with his own long stasis as a beaver, and an aching wonder at the human life he had let pass him by.
+- Holvi told Paxton and Roderic the story of Vaalo — a deep dwarf from [[Syvämaa]], the world below, a worshipper of the light below who climbed to the surface, befriended Lucifer, and built the spines to hold back a great evil beyond the wall.
+The towers were Vaalo's work, not Lucifer's; the small lantern of a [[Carnforth]] chaplain is [[The Spinewright's Lantern|Hiillos]], carrying a shard of the light below, and its thirteen children are the spines themselves.
+Vaalo is long dead, lying in a cradle nearby — the very [[Tomb of the Spinewright]] that Roderic came from — and to reignite the failed towers, Hiillos must be retrieved from that cradle.
+- Garland and Mira sought out the stone-sage Kallio, who had studied the standing stones since coming to the surface and drew for them a network of nodes joined like ley lines.
+Comparing Kallio's map against the runes in Garland's centuries-old spell book, they confirmed the Bonewall stones answer to the same network as the vale's [[Witch Stones]] — though carved in a different, unreadable tongue — spanning the [[Ashen Vale]], the [[Cragmarr|Cragmar]], beyond [[Beaconhold]], and even the dark far side of the wall.
+Mira, hearing the stones as voices, opened a bluish spirit-overlay in which the living nodes glowed like little lights; one in the Cragmar had gone faint and suppressed, and the [[Nodrum]]'s was dim as well.
+- When Mira slipped fully into the spirit realm to try to restore the dimming stones, Garland followed and worked a swift ritual to pull them both out — realizing too late this was the realm of the forgotten, tied to the [[Xan-Kor]] at the [[Nodrum]], where everything erased from time still drifts.
+The wandering fragment of Mira he saw was a memory of her he had lost while recovering the [[Seal of Unmaking]]; to leave quickly he had to abandon a piece of himself, and he sacrificed the memory of his first child, Dafydd — born when he returned from soldiering, dead hundreds of years, with his own mother's face.
+Dafydd reached out, laughing, but Garland chose Mira; the realm released them, he forgot Dafydd entirely, and he surfaced hearing the stones more clearly than ever before.
+- The ancient, near-petrified Slate Lohka entered, interrogated Paxton and Roderic about their faith, and revealed the schism splitting Muistola.
+Lohka, the sage Kallio and others had embraced [[Moldrex]] — the rival darkness beyond the wall — who promised to free the Slate from their dependence on [[Syvämaa]], the cycle of emerging from the mountain and petrifying back into it, in exchange for the newborn child Itu.
+They meant to carry the child through the [[The Slate Town|Suonet]] into [[Öuth Krelt]] to meet Moldrex's emissary; Holvi was briefly swayed by Kallio before Paxton's plea and the light of Roderic's blade turned him back, but Lohka would not yield.
+- In the great hall above, as warriors closed on the child Itu, the [[Dark Harlequin]] whispered in Castor's ear that of all his companions only he could do nothing but watch society — and Castor, frozen, finally broke the taunt's hold.
+He leapt forward, transforming into a buck-toothed gorilla mid-air, snatched the stone child, and barreled through the Slate warriors to put his back to the wall, cradling Itu.
+Garland came up the stairs, recognized his uncle at once, and stepped in to defend him, sword drawn.
+- The standoff collapsed into a fight on three fronts.
+Below, Lohka snapped Roderic's sword in half like a twig and hurled it aside; Paxton leapt at the flesh beneath Lohka's chipped stone and seared it with Unleash Radiance — the first pain the old boulder had ever known — while Roderic decreed the wavering guards aside so he could reach Lohka.
+Above, Garland and Castor fought off swarming warriors to keep Itu — Castor flinging one screaming down the stairs, Garland poisoned by a giant spider but holding — and Mira raised a sanctuary on the stairs that none could enter without her consent.
+- As the party fell back toward Mira's sanctuary, Lohka swore there would be no agreement — that Moldrex would keep him from ever petrifying — and Moldrex's corruption bore its fruit.
+Cat-sized spiders boiled down over the Bonewall and across the sealed entrance, and mutated vines began cracking down through the stone ceiling of Muistola itself as the session ended on the brink.
+
+### New Questions & Hooks
+
+- Who is the figure as important as [[Lucifer]], besides [[Sariel]], that Roderic sensed has been erased from all memory and teaching?
+- What truly is [[Syvämaa]] — the deep world and its nameless under-god — and why has it "abandoned" the [[The Slate|Slate]]?
+- Can [[The Spinewright's Lantern|Hiillos]] be retrieved from Vaalo's cradle in the [[Tomb of the Spinewright]] and the failing spines reignited?
+- Can what is lost in the realm of the forgotten — Garland's son Dafydd, the suppressed Witch Stone, Mira's missing fragment — ever be recovered?
+- Is Garland's [[Greenholt Bloodline]] descended from the line that betrayed and opened the gates of the ancient vale civilization to invaders, and why did the ancient stone-raisers give a child over to the [[Witch Stones]]?
+- What is the destiny of the child Itu, whom both factions of the Slate consider special, and will Lohka's faction carry the child to Moldrex's emissary in [[Öuth Krelt]]?
+
+### Questions Answered / Arcs Advanced
+
+- The [[The Slate|Slate]]'s long stasis broke because the suppressed old gods are reviving: the emergence of the child Itu followed directly from the rebirth of renewal. With change returning, the Slate will once again age, die, and petrify — exactly what drives Lohka's faction to [[Moldrex]], who promises to sever them from the cycle.
+- The [[Bonewall|Watcher]] statues are confirmed as the Slate dead, and the newborn Itu had simply escaped the town; the Slate were recovering the runaway child when Mira's portal opened, joining the two events by coincidence rather than design.
+- The [[Witch Stones]] form a single ley-line network across the [[Ashen Vale]], the Bonewall, the [[Cragmarr|Cragmar]], beyond [[Beaconhold]], and even the dark far side of the wall — the Bonewall nodes carved in a different unreadable tongue, the stones seeming to exist across realms at once and possibly tied to [[Syvämaa]]. One Cragmar node has gone dark and the [[Nodrum]]'s is dim.
+- The lantern necklace is [[The Spinewright's Lantern|Hiillos]], carrying a shard of the light below; its thirteen children are the spines that hold back the darkness, tying the lantern-marked and a [[Carnforth]] chaplain's relic to the failing wards.
+- The [[Spinewright]] is named: Vaalo, a deep dwarf from [[Syvämaa]] and ally of [[Lucifer]], who built the spines — and who has been erased from scripture as though excluded from time, like [[Sariel]].
+
+### Notable NPCs Introduced
+
+- [[The Slate|Holvi]] — "the Vault," the loremaster elder and keeper of Muistola's memory stones, who welcomed the party and was the companion of Vaalo in the founding age.
+- [[The Slate|Lohka]] — "the Boulder," the town's ancient head warrior near petrification, who has embraced [[Moldrex]] and led the faction that would give the child Itu to the dark god.
+- [[The Slate|Kallio]] — "Bedrock," the stone-scribe elder who keeps the map of the Witch Stone network and is himself a Moldrex convert.
+- [[The Slate|Itu]] — "the Seed," the first child to emerge among the Slate in living memory, whom both factions of the schism would claim.
+- [[Syvämaa]] — The deep world below the earth, home of the Slate and the deep dwarves, with its own light below — a realm reckoned among the old gods, on which the Slate's very life cycle depends.
+
+### Notable Locations Visited
+
+- [[The Slate Town]] — Muistola, the Remembrance, its Hall of Deep Memory and memory stones, now split by the schism over the child.
+- [[Syvämaa]] — The deep world below, named and described for the first time.
+- [[Witch Stones]] — Revealed as a network spanning realms, perceptible as glowing nodes in a spirit overlay.
+- [[Tomb of the Spinewright]] — Named as Vaalo's cradle, still holding the lantern Hiillos.
+
+### Notable Quotes
+
+> "Don't reach too deep, child."
+> — [[Garland yn Greenholt|Garland]], warning Mira at the memory stones after his disturbing vision
+
+> "This is the height of humor. Out of all of your companions, any one of them could do something. But you can't do anything here. All you do is watch society."
+> — The [[Dark Harlequin]], whispering in Castor's ear as the Slate fight broke out
+
+> "Dagar, every story I hear about you has always been you stepping forward when others hesitate. And now at the time where we need that most, you hesitate."
+> — [[Mira]], reproaching Garland after he pulled her out of the spirit realm
+
+> "My heart breaks when I see him, but I know that I need to protect the child that's living right now."
+> — [[Garland yn Greenholt|Garland]], choosing to sacrifice the memory of his dead son Dafydd to save Mira
+
+> "There will be no agreement. Moldrex will keep me from petrifying."
+> — [[The Slate|Lohka]], refusing the party as the spiders and tentacles broke into Muistola
+
+> "The child has a life of their own to live and it's not yours to take. Listen to the chittering in the dark."
+> — [[Garland yn Greenholt|Garland]], refusing to surrender Itu and warning the Slate of the coming swarm
+
+### Session Notes
+
+- The combat ran across two simultaneous fronts (the great hall above and the Hall of Deep Memory below), intercut beat-by-beat rather than resolved in sequence; the table judged the back-and-forth roleplay confrontation with Lohka the highlight even as the argument circled without quite evolving.
 
 
----
-id: session-7
-type: session
-name: 'Session 7: The Town of the Slate'
-arc: forgotten-and-forsaken
-date: 2026-06-13
-images:
-  gallery:
-  - file: sessions/session-7-paxton-saves-family.jpg
-    caption: "Paxton drags a mother and child from the burning barge, and leaves Roy to the flames"
-    subjects: [paxton-lumnus]
-    description: "Paxton wades back to Senna's burning canal barge and pulls a woman and her young child free; barge style kept consistent with the session-6 burning-barge image."
-  - file: sessions/session-7-paxton-vine-rescue.jpg
-    caption: "Paxton ropes a young Slate to safety as the Bonewall's vines turn monstrous"
-    subjects: [paxton-lumnus, the-slate]
-    description: "Paxton hauls a frightened adolescent Slate up a rope amid the Bonewall's mutated, thorny vines — a usable secondary reference for the Slate's younger (teenage) form."
-  - file: sessions/session-7-portal-arrival.jpg
-    caption: "Garland, Castor, and Mira step from the portal onto the Bonewall's silent ring of stones"
-    subjects: [garland-yn-greenholt, castor, mira, the-slate, witch-stones]
-    description: "Arrival on the Bonewall's second ring of Witch Stones through Mira's portal, the stone-skinned Slate closing in; Castor is in human form here. Usable reference for the Bonewall witch-stone ring and the adult Slate."
-  - file: sessions/session-7-roderic-ambush.jpg
-    caption: "Roderic breaks the ambush of the men sent to keep him from the Spinewright's tomb"
-    subjects: [sir-roderic-lightbearer]
-    description: "Roderic, mounted, springs an ambush by Roland's mercenaries in an open forest clearing, archers loosing from the treeline."
-  - file: sessions/session-7-slate-town.jpg
-    caption: "The party reunites in the Slate's hidden town, built from the petrified bodies of its dead"
-    subjects: [paxton-lumnus, sir-roderic-lightbearer, garland-yn-greenholt, castor, mira, the-slate, slate-town]
-    description: "First depiction of the Slate Town — a cavern settlement built from the Slate's petrified dead — with the living Slate celebrating the first child and the reunited party resting. Usable establishing reference for the Slate Town."
----
 ## Session 7: The Town of the Slate
 
 **Date Played:** 2026-06-13
@@ -176,61 +242,6 @@ Garland devoted his attention to the witch stones, intent on reproducing Mira's 
 > — [[Paxton Lumnus|Paxton]], accepting Mira's confiscated dagger as a borrowed weapon
 
 
----
-id: session-6
-type: session
-name: 'Session 6: Three Roads to the Bonewall'
-arc: forgotten-and-forsaken
-date: '2026-05-30'
-images:
-  gallery:
-  - file: sessions/session-6-roderic-meets-voss.jpg
-    caption: Beneath Beaconhold, an inquisitor wears a missing Primus's name to beg
-      an alliance
-    subjects:
-    - sir-roderic-lightbearer
-    - inquisitor-voss
-    description: Inquisitor Voss (older man ~60s, bare lined face emerging from a
-      deep dark hood, NO mask) faces Sir Roderic in a torchlit underground brick conduit
-      beneath Beaconhold. Only existing depiction of Voss.
-  - file: sessions/session-6-sariel-forgotten.jpg
-    caption: Where Sariel's bust always stood, only an untouched patch of dust remains
-    subjects:
-    - sir-roderic-lightbearer
-    - vicar-lucis-gregory
-    description: Elderly Vicar Lucis Gregory (frail, thin grey hair, cream-and-gold
-      Light vestments, whiteglass pendant) and Roderic before a dusty four-slot marble-bust
-      shelf in a Beaconhold church office. Only existing depiction of Gregory.
-  - file: sessions/session-6-castor-confronts-vask.jpg
-    caption: Castor stares down Captain Vask and the Vale's great families at the
-      Witch Stones
-    subjects:
-    - captain-vask
-    - castor
-    - witch-stones
-    description: Captain Vask (weathered older soldier in brigandine armor, sheathed
-      sword, silver Crownvale crown pin) faces Castor in beaver form at the Witch
-      Stones in daylight, mounted great-family delegates behind. Only existing depiction
-      of Vask; Castor is in beaver form here.
-  - file: sessions/session-6-witch-stones-portal.jpg
-    caption: Mira sings open a door to the Bonewall, and the old friends rush through
-    subjects:
-    - mira
-    - garland-yn-greenholt
-    - witch-stones
-    description: Mira (arms raised) and Garland at the Witch Stones as the rune-blazing
-      ring tears a portal onto the grey Bonewall shale and its matching ring. Castor
-      is present only as a swirl of wind (no usable likeness, so not listed as a subject).
-  - file: sessions/session-6-paxton-burns-barge.jpg
-    caption: Paxton burns Senna's barge and throws himself into the river
-    subjects:
-    - paxton-lumnus
-    - senna
-    description: Paxton hurls fire and falls into the river as a plain wooden canal
-      barge burns in the marshy Reaches below the Bonewall cliffs; Senna and round
-      long-tentacled marsh-creatures are glimpsed low-detail through the cargo door.
-      Only existing depiction of Senna (low detail).
----
 ## Session 6: Three Roads to the Bonewall
 
 **Date Played:** 2026-05-30
@@ -344,35 +355,6 @@ First session with [[Paxton Lumnus]] replacing [[Edric Bloom]]; the player was n
 The group worked through the Favor mechanic for the first time (Garland Favoring [[Sergeant Iyer]]) and Paxton's player tested the crumble-and-return rules for the first time.
 
 
----
-id: session-5
-type: session
-name: 'Session 5: The Cocoon Opens'
-arc: curse-of-ruin
-date: '2026-03-14'
-images:
-  gallery:
-    - file: sessions/session-5-castor-communion.jpg
-      caption: "Castor presses a paw to the cocoon and is welcomed home"
-      subjects: [castor]
-      description: "Castor in true beaver form communing with the God of Renewal's cocoon; warm golden glow in the desiccated shrine."
-    - file: sessions/session-5-besieged-crest-aurelion.jpg
-      caption: "Garland and Roderic slip past Dorn's last stand to reach the Count"
-      subjects: [garland-yn-greenholt, sir-roderic-lightbearer, the-light]
-      description: "Besieged Crest Aurelion. Order of the Eclipsed Sword soldiers depicted as militant inquisitional troops in Corona Vigil style (dark mantles, sunburst insignia over armor) — first depiction of Order soldiers; distinct from Dorn's gold Aureate (Dorn present but incidental in the battle line, low detail)."
-    - file: sessions/session-5-castor-wolverine-harlequin.jpg
-      caption: "Castor becomes a wolverine and drives the Dark Harlequin from the cocoon"
-      subjects: [old-gods]
-      description: "The Dark Harlequin recoiling from a snarling wolverine (Castor shapeshifted — not a usable likeness of his own form). Usable reference for the Dark Harlequin."
-    - file: sessions/session-5-roderic-beheads-harlequin.jpg
-      caption: "Roderic beheads the Dark Harlequin in a single stroke"
-      subjects: [sir-roderic-lightbearer, garland-yn-greenholt, old-gods]
-      description: "Roderic's killing stroke through the Dark Harlequin in the Chryseum nave; Garland fighting lesser Harlequins in the background. Usable reference for the Dark Harlequin."
-    - file: sessions/session-5-cocoon-opens.jpg
-      caption: "Six heralds gather, and the shrine bursts into green"
-      subjects: [garland-yn-greenholt, sir-roderic-lightbearer, castor]
-      description: "All six heralds ring the splitting cocoon as the shrine bursts into verdant growth. Garland, Roderic, and Castor (beaver) clearly depicted; Severin, Brenn, and Marrow present but faces turned inward (not usable likenesses)."
----
 ## Session 5: The Cocoon Opens
 
 **Date Played:** 2026-03-14
@@ -487,13 +469,6 @@ With all six heralds gathered around the cocoon, the ruinous energy flowed out o
 - Sessions 1-5 are treated as prologue, with the "real game" starting from the next session onward.
 
 
----
-id: session-4
-type: session
-name: 'Session 4: The Sleeping God'
-arc: curse-of-ruin
-date: '2026-03-07'
----
 ## Session 4: The Sleeping God
 
 **Date Played:** 2026-03-07
@@ -614,13 +589,6 @@ Yet as they emerged near Crest Aurelion to retrieve Marrow, they discovered the 
 - Garland's spellbook responding to renewal energy provides a personal stake in awakening the God of Renewal beyond the global threat
 
 
----
-id: session-3
-type: session
-name: 'Session 3: Beneath the Golden City'
-arc: curse-of-ruin
-date: '2026-02-21'
----
 ## Session 3: Beneath the Golden City
 
 **Date Played:** 2026-02-21
@@ -724,13 +692,6 @@ All three stumbled through the door to rejoin [[Edric Bloom|Edric]] on the far s
 - Players found the system more intuitive by session 3; the GM felt more comfortable running it
 
 
----
-id: session-2
-type: session
-name: 'Session 2: Heralds of Ruin'
-arc: curse-of-ruin
-date: '2026-02-07'
----
 ## Session 2: Heralds of Ruin
 
 **Date Played:** 2026-02-07
@@ -862,13 +823,6 @@ The party resolved to press on toward the Chryseum, hoping to find a path to ren
 - The Harlequin encounter provided a strong comedic-sinister counterpoint after the intensity of the Nodrum
 
 
----
-id: session-1
-type: session
-name: 'Session 1: The Race Ahead of Ruin'
-arc: curse-of-ruin
-date: '2026-01-24'
----
 ## Session 1: The Race Ahead of Ruin
 
 **Date Played:** 2026-01-24

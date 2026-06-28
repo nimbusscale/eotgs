@@ -117,7 +117,7 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - **Natural vs. unnatural evolution (the balance):** read Castor as a *natural* evolution — a remaking by the wild that, mitigated, he increasingly treats as a gift — against Moldrex as the *unnatural* evolution, the god of aberration who drags the living backward into wrong forms (cf. the Slate devolution in the GM note *The Slate*). The two are halves of one severed craft: Moldrex builds with flesh, Castor with wood. This gives the thread an endpoint — the discarded humble half may be the only thing that can weaken or unmake the god half, so undoing Castor's curse and contending with Moldrex become the same problem.
 - **The Laughing One's claim may hold:** the [[Dark Harlequin]]'s taunt that the [[Laughing One]] cursed him need not be a clean lie — the Laughing One may have arranged or savored the joke even if Moldrex's ascension is the mechanism ("a god who couldn't stop being petty"). Leave the exact truth unknown; it's a riddle to play, not a fact to settle.
 - **The Dark Harlequin as Castor's recurring foil (Session 8):** keep building the Dark Harlequin–Castor relationship and bring it back in Session 8. As an emanation of the Laughing One it survived its beheading (now reflected in the player-facing [[Old Gods]] entry as the two-masks Comedy/Tragedy framing); a natural return vector is *within something Castor crafts*, since it manifests inside objects. The alternate, lighter Comedy face is available to surface in Session 8 as a contrast to the Dark Harlequin.
-- ⚠️ Keep Castor out of the **forgetting** thread (Garland and Mira own that — see the *Session 8 Prep* note §7). His lane is the devolution/aberration mirror to Moldrex, not erasure.
+- ⚠️ Keep Castor out of the **forgetting** thread (Garland and Mira own that — see the *Session 8 and Beyond* note, Scene B). His lane is the devolution/aberration mirror to Moldrex, not erasure.
 
 ### Garland yn Greenholt
 
@@ -163,214 +163,513 @@ These are not player-facing; playable hooks live in `kb/story-arcs/character/`.
 - **Resurrection vs. Senna (Session 7):** established in play that Paxton's spontaneous resurrection is genuinely rare and divine (no ritual), while Senna was not raised from death but metaphysically transformed/"reborn" in Moldrex's vision. Keep the two distinct — Paxton is Light-made, Senna is Moldrex-made.
 
 
-## Session 8 Prep — The Slate Town (Sandbox)
+## Roland & the Lantern Cult
 
-> **GM ONLY.** A live-play sandbox, not a plot outline — a menu of pressure points and drama to draw on as the table reveals what it cares about. New names and connections are **proposed** (▶); established canon is **locked** (●). Status: draft / sandbox — nothing locked.
-> Title options: *The First to Survive* · *The Stone That Would Not Sleep* · *Birth and Boulder*.
+> **GM ONLY.** The working doc for the Roland storyline: the lantern cult, the Tomb of the Spinewright (Kehto), and the seams to resolve before the tomb arc. Carved out of [[Session 8 and Beyond — Planning Guide|gm-notes/session-8-and-beyond.md]] to keep that doc focused on the Slate/Bonewall stretch.
+>
+> Markers: **●** locked canon · **▶** proposed / workshopped · **⚠️** handle-with-care or hold. Nothing under ▶ is committed until the table makes it real.
 
-See also: [[The Slate]] · [[The Slate Town]] · [[Bonewall]] · [[Moldrex]] · [[Witch Stones]] · [[Mira]] · [[Spinewright]] (Vaalo) · [[Tomb of the Spinewright]] (Kehto) · [[Carnforth]] · gm-notes: The Slate / The Spinewright
+See also: [[Roland]] · [[Tomb of the Spinewright|Kehto]] · [[Spinewright|Vaalo]] · [[The Spinewright's Lantern|Hiillos]] · [[Carnforth]] · [[Sir Roderic Lightbearer]] · [[Sariel]] · [[Witch Stones]] · [[Session 8 and Beyond — Planning Guide|gm-notes/session-8-and-beyond.md]]
 
-The durable Slate secrets this prep draws on (the birthing secret, the Moldrex offer, the devolution, Syvämaa) are kept in the GM note **The Slate**; this file is the session staging.
-
----
-
-### 1. The shape in one breath
-
-The party is resting amid the Slate's celebration of the first child.
-They settle in, bond, and learn the town across a night.
-The next day, a faction **already inside the town** moves to seize the child — not raiders from outside, but Slate of the town itself, recruited by an offer from beyond the wall.
-The choice the party makes here either heads off [[Moldrex]]'s first foothold among the Slate or solidifies it.
-
-The whole thing rhymes: **real renewal and counterfeit renewal arrive at the same moment.**
-The Awakening gives the Slate a true child; Moldrex offers them a way to stop needing the mountain at all.
+**Touchpoints in the planning guide:** the Part Two fork (the Tomb road), and Carnforth's lantern chaplain (the human face of the cult in the horror, a bridge toward Roland).
 
 ---
 
-### 2. Mira's faith (new canon to capture)
+### The Tomb / Kehto (tomb arc, ~2 sessions out)
 
-▶ **[[Mira]] is a cleric of the [[Witch Stones]].**
-The Stones are her deity — a font of power tied to an as-yet-unknown emanation (candidate: the Old God of memory hypothesis; possibly kin to the Slate's "stone god" / Syvämaa's buried sun — leave open).
-The creed, as Jay framed it: **Domain** the earth and the living things upon it (*the land abides*); **Aspect** endurance, inevitability, remembrance (*the land endures*); **Worshippers** the lost line of the [[Greenholt Bloodline|Greenholt blood]], whose faith Mira is called to revive (*the land provides*); **Enemies** the despoilers of the past, the rootless, the revelers in the ephemeral (*the land remembers*); **Demands** preserve what must endure, leave the world stronger for those who come after (*the land survives*).
+**● Footing:** Kehto, "the Cradle," a return not a grave. Vaalo (deep dwarf) entombed there. ● Hiillos, the lantern, a banked ember of an inner sun that burns *below*. ● The company massacre was a **betrayal from inside**; bodies mutilated as bookkeeping because **someone walked out unaccounted for.** ● Buried under a fresh rockslide (S7); reachable via the south Suonet vein.
 
-**Why it matters this session:** the Slate are endurance, inevitability, and remembrance made flesh — the very thing Mira is becoming.
-The rival faction, by reaching for Moldrex's ephemeral transformation, becomes the literal doctrinal **enemy** of her faith.
-This is the first time her faith meets its opposite in the world.
-*(Don't have her articulate all this — let it press on her.)*
+**The knot (▶, tying it shut):** the **missing body is the missing lantern.** Roland walked out with Hiillos. One fact explains the uncounted corpse and the relic never recovered. The lantern is also the one thing that could relight Carnforth, so the dark tower is the reason the tomb matters. Loop closed.
 
----
+**Why he keeps Roderic away (one-liner for now):** not to guard what's there, but because Roderic returning and remembering is the single thing that can connect the lantern-prophet to a buried brother and a massacre.
 
-### 3. The cast
-
-Names are Finnish-grounded to match Vaalo / Kehto / Hiillos / Syvämaa.
-The party hears them through Mira's translation, so each carries an epithet she can render in plain speech.
-All ▶ proposed.
-
-● **The Slate have no gender** — mountain-born, no biological reproduction, androgynous; every Slate is **they**.
-
-**The child — ▶ Itu** ("the Seed," *EE-too*): the first to emerge in an age. ● Established as the first child; ▶ the twist (§4) makes it the first to *survive*. Small, curious, precious; should become real to at least one PC during the settle-in.
-
-**Friendly faction (the town as it stands):**
-- **▶ Routa** ("Deep-Frost," *ROW-tah*) — eldest guardian, raised Itu, the Stagnation survived. Slow, warm, immovable in the good sense. The emotional anchor: bond with Routa and the child's danger lands as personal stakes.
-- **▶ Kallio** ("Bedrock," *KAL-lee-oh*) — stone-scribe elder who tends the Bonewall witch-ring and reads the old carvings. **Garland & Mira's contact.** Holds the stone-memory but cannot work the ring as a mage; needs what Mira hears.
-- **▶ Holvi** ("the Vault," *HOL-vee*) — loremaster elder who still holds **Vaalo's name** and the truth of the Spines. **Roderic & Paxton's contact.** *Mergeable into Kallio on the fly if there are too many elders — keep Holvi in your back pocket.*
-
-**Rival faction (embedded inside the town):**
-- **▶ Aamu** ("the Dawnkeeper," *AH-moo*) — **Keeper of Emergence**, who presides over the mountain's births. Faction **leader** and the sympathetic core, carrying the secret (§4). Reachable, because the wound is grief, not zeal. Has the standing to redefine what the Slate are; that's why the warrior needs them.
-- **▶ Lohka** ("the Boulder," *LOH-kah*) — **head warrior**, nearing petrification. The combat foil. Not despairing — *wanting* Moldrex's gift of never returning to stone. Cannot lead alone (no cachet), so backs Aamu. Talk Aamu down and you don't stop Lohka — you *trigger* them, because their only road out of dying just walked away.
-- **▶ Sora** ("Gravel," *SOH-rah*) — Lohka's lieutenant, younger and fanatically loyal. A second voice and body so the fight isn't a single target.
-- **Younger loyal warriors** — unnamed combat body, visibly **devolving** (§4).
+**To brainstorm later:** *why* Roland took Hiillos, and what now lies in the buried tomb.
 
 ---
 
-### 4. The secret and the offer
+### Roland / the Lantern Cult (beyond)
 
-**The secret (the diplomatic lever).**
-▶ **Itu is not the first to emerge — it is the first to survive.**
-Others came before, stillborn, and **the town does not know. Only Aamu knows** (locked — not even Routa).
-Aamu has hidden the failures out of **mercy, not coercion** (Moldrex is not holding it over them), protecting the people from despair.
-The tragedy: the same protective silence that shields the town is what isolates Aamu enough for Moldrex's offer to take root.
-The lever: if the party uncovers this, the move isn't "argue Moldrex is bad" — it's **bring the grief into the open, let Aamu not be alone with it**, competing with Moldrex on the actual wound. (Mira's creed cuts here: *the land remembers*.)
+**▶ Roland is the fallen paladin's cult name**, not a deception. His men are **true believers**, not mercenaries, wearing the lantern (Hiillos) as the sign of the flame their prophet carries (he holds the real relic; the necklace is the promise of its light past the failing wall). They know him only as Roland. ● Their S7 behavior already fits believers: feigned a quarrel, struck only at Roderic, obeyed a precise "harm no one else."
 
-**The offer (Moldrex).**
-Not a threat — a seduction, framed as a **divorce from the Old Gods**: the Slate are a people *of* the abiding order; Moldrex offers them out of it.
-- **Control over birth** (Aamu's want) — make your own children, never again at the mercy of a mountain that keeps losing them.
-- **Control over death** (Lohka's want) — never return to the stone; petrification stops being destiny.
-Both ends of the lifecycle severed from the mountain. *The land endures / the land survives* — Mira's god — is exactly what Moldrex sells an escape from.
+**● The camper at the Bonewall ring is Roland.** The recent campfire beside the second ring of Witch Stones (S7) and the "mortal soft-skin" Kallio recalls passing through before the party emerged (S8) are the same man: Roland, who had been at the ring before the party arrived. Held as GM knowledge — the party has no way yet to connect the campsite to him, so the KB keeps it an open question. It quietly fits his nature: a contender from the erased ascension stratum, **spared the erasure by standing at a node** (the ring-network register that also shielded Roderic at the Nodrum), would be drawn to the stones. Pays off later as another thread tying Roland to the Sariel-era forgetting.
 
-**The devolution (what the change actually is).**
-The Slate's nature is to *harden* toward permanence; Moldrex's "evolution" is the exact inversion, dragging them **backward into soft biological life.**
-Under the cracking stone is real flesh — they are devolving from enduring stone beings into perishable creatures, becoming *the revelers in the ephemeral* in the most literal sense.
-**Mechanical/visual consequence:** the exposed flesh under broken stone is a **weakness the party can see and target.** The more transformed a warrior, the more flesh shows, the easier to wound — the "stronger, freer" Slate are the easiest to hurt.
-▶ Staging: **Aamu not visibly changed** (still deciding, talkable, sympathetic); **Lohka and the loyal warriors** showing it — stone split at the joints, flesh beneath. Reads against [[Castor]]'s curse (§7: forced devolution vs. their chosen one).
+**Why Roderic can't place the name:** ● Roland was one of his company, the unaccounted body. Roderic believes he died in that tomb. You don't hunt a living enemy among men you've buried. The reveal isn't "who is Roland," it's **"I buried you."** Real name held back for that beat. (▶ candidates if needed: Aldous, Lothar, Emeric, Reynard, Wulfric.)
 
-> The **mutated vines are their own Bonewall phenomenon**, not part of the warriors' transformation. Keep them separate (§8).
+**▶ The name's deeper root (strong seed):** "Roland" is a figure from the **erased ascension history**, a contender at the first ascension who did *not* ascend when Lucifer did. A fringe sect holds the Church should have worshipped Roland, not Lucifer. The fallen paladin is Roland's reincarnation, vessel, or the man himself. Because Roland sits in the same **erased stratum as Sariel**, the forgetting is the soil the heresy grows in, and the name lands on no one at the table. ● Roland (the man) was **spared the erasure** (remembers Sariel), explained by the ring-network register: standing at a node during the erasure shielded him, as the Nodrum shielded Roderic.
+
+**⚠️ The one seam to resolve before the tomb arc:** is the present antagonist the **reincarnation/vessel** of Roland (mortal, flexible, easiest to deepen or walk back) **or literally the original Roland** (cosmic, ties him straight to the Sariel era, reframes the massacre as far older than a paladin's grudge)? The whole texture depends on this.
+
+**⚠️ Canon guards:**
+- Avoid **dawn** language; the [[Order of the First Dawn]] owns it. Reach for lantern, ember, carried flame.
+- Keep Roland's heresy a **Light-grievance** (contested succession), distinct from Moldrex's **transformation** offer. The two villains stay thematically separate.
 
 ---
 
-### 5. Locations
+### Standing open questions (pull as the table cares)
 
-Eight places, each tagged to what it earns at the **End of Session** (▣ Discover · ▣ Visit/Alter · ▣ Overcome) and to whose **Drive** it feeds. Matches the cutaway map spec (`map-slate-town-cutaway`). *(The town's own name is **Muistola**, "the Remembrance"; the conduit network is **Suonet**, "the Veins" — players know them as the Slate Town and the Speedways. Player-safe places — the town interior and Suonet — are now mirrored in [[The Slate Town|Muistola]]; the Gallery of the Lost and the Descending Stair are kept GM-only.)*
+- Who, exactly, is the present Roland: vessel or the original?
+- *Why* did Roland take Hiillos, and what now lies in the buried tomb?
+- What does the lantern necklace promise the cult's true believers, and how widely has the sect spread (Carnforth's chaplain and beyond)?
 
-**Surface — The Bonewall Ridge** (dead grey shale, one side of the wall only; Öuth Krelt off-frame):
-- **▶ The Bonewall Witch-Ring** — a rough ring of standing stones, twin to Garland's but carved in the unreadable runic tongue, worn nearly silent; low subsonic hum, faint grinding when Mira channels; cold stone, dry lichen, ozone after a channeling. **Earns:** ▣ Discover · ▣ Overcome (the vine attack, §8). **Drive:** *Garland — "Step forward where others hesitate"* (first into the vine fight or the channeling risk).
-- **▶ The Vine Cave-Mouth** ● *(established entry — Paxton, S7)* — a low cave choked with oversized discolored grey vines, fresh scorch where Paxton burned through; creak of growing wood, drip, something shifting; wet rot, char, a sweetish wrongness. **Earns:** ▣ Overcome. **Drive:** *Paxton — "Act callously or recklessly about death"* (where he already nearly died saving a young Slate) · *Castor — "for wildlife or outcasts"*.
 
-**The Descent — entrances into the mountain:**
-- **▶ The Witch-Ring Stair** — worn fissure dropping from the ring into the cutaway; the second on-map entrance. Garland & Mira's way down.
-- **▶ The River-Collapse Entry** ● — Roderic's fall (S7); **off-frame**, far south by the tomb, reached now only by the south speedway.
+## Session 8 and Beyond — Planning Guide
 
-**Interior:**
-- **▶ The Hall of the Settled** *(town proper)* — pillared hall where every column is a petrified ancestor; Itu's celebration still glowing in lit hollows; grinding stone-tongue, a slow communal sound like the mountain breathing; mineral dust, cold water, warm rock. **Earns:** ▣ Visit/Alter (the party's standing is set or broken here). **Drive:** *Roderic — "save or protect someone"* and *Castor — "for outcasts"* seed here via bonding with Routa and Itu.
-- **▶ The Cradle-Hollow** *(birthing chamber — Aamu's domain)* — a rounded, womb-like hollow where the rock turns soft and organic, warm glow, Itu newly emerged; a heartbeat-slow pulse in the stone; warm wet mineral. **Earns:** ▣ Discover (how emergence works; the cycle restarting). **Drive:** *Castor — "for wildlife or outcasts"* · *Roderic — "save or protect someone"*.
-- **▶ The Gallery of the Lost** *(the secret)* — ⚠️ **GM-only.** A quiet side-niche off the Cradle-Hollow; a row of small, still, unfinished forms in low niches, easy to miss; the one silent place; cold, dry, settled. **Earns:** ▣ Discover (the stillbirth secret — the lever, §4). Render and reveal subtly; this is the engine of the whole faction conflict.
-- **▶ The Hall of Deep Memory** *(Holvi's domain)* — walls dense with glyph-carved memory-stones, the oldest ancestor-figures standing here; a deeper grinding, the stones "speak" longest; age, dry dust, faint metal. **Earns:** ▣ Discover (Vaalo's name; the Spines' true origin; Hiillos as banked ember). Redirects Roderic's and Paxton's Drives toward Kehto and Carnforth next session.
+> **GM ONLY.** A living sandbox, not a script. This is the working doc for the threads now in motion: Session 8 in full, plus the Carnforth and Part Two threads it plants. (The Roland / lantern-cult / Tomb storyline has its own doc — see **[[Roland & the Lantern Cult|gm-notes/roland-and-the-lantern-cult.md]]**.) Supersedes the earlier *Session 8 Prep — The Slate Town* note.
+>
+> Markers: **●** locked canon · **▶** proposed / workshopped · **⚠️** handle-with-care or hold. Nothing under ▶ is committed until the table makes it real.
 
-**The Network & The Deep:**
-- **▶ Suonet, "the Veins"** *(party nickname: the Speedways)* — smooth, ancient, glyph-carved conduits, plainly built and purposeful, branching off the rough caves; two run prominently **north to Carnforth**, **south to Kehto**, others sealed. The Slate's fast-travel network between fixed nodes, threading the living mountain like veins — fast travel, **not** free roaming. Explains their tie to the tomb and the towers. **Earns:** ▣ Discover.
-- **▶ The Descending Stair** *(Syvämaa hint)* — ⚠️ **GM-only / keep shut this session.** At the lowest point, a great half-sealed stair vanishing into a deep amber glow from far below; a warmth-hum felt more than heard; warm air rising. **Earns:** ▣ Discover (a future road). Plants the descent to the Deep-earth (Castor's curiosity, Mira's faith, the stone-god question).
+> **Running it at the table?** The mechanical companion — stat blocks for the rival Slate, the forgetting/Witch-Stones contest as an Avalanche, and per-PC move call-outs — lives in **[[Session 8 — Run Guide (Mechanical Companion)|gm-notes/session-8-run-guide.md]]**. This doc owns the fiction; that one owns the dice.
+
+See also: [[The Slate]] · [[The Slate Town|Muistola]] · [[Bonewall]] · [[Moldrex]] · [[Witch Stones]] · [[Mira]] · [[Garland yn Greenholt]] · [[Sir Roderic Lightbearer]] · [[Paxton Lumnus]] · [[Castor]] · [[Spinewright|Vaalo]] · [[Tomb of the Spinewright|Kehto]] · [[Carnforth]] · [[Roland]] · [[Sariel]] · [[The Xan-Kor]]
 
 ---
 
-### 6. Soft structure (beats, not rails)
+### How to use this doc
 
-A loose clock; players can move fast, slow, or sideways.
+Three braided scenes make up Session 8, and they can run in any order or overlap, because the party is together in one place for a night and a day. Part One is those three scenes. Part Two is everything Session 8 points at, held loosely so the table chooses the road, not me.
 
-- **Beat 1 — Settle & Bond (the night).** Celebration continues; roleplay menu open (§7); Itu becomes real to someone. Plant Lohka and Aamu in scenes now so the next-day turn is a betrayal, not a stranger.
-- **Beat 2 — The Crack (where the secret can surface).** A wrong note: a too-careful elder, a sealed gallery of the dead, Mira hearing the stones grieve, Castor's bond sensing something *off* under the town's joy. Pull the thread or not.
-- **Beat 3 — The Move (next day).** Aamu's faction acts to take Itu. Open with an **ultimatum, not violence** — give diplomacy a door. The party's standing with Routa is suddenly in jeopardy: fight the rival Slate in front of the Slate they bonded with and they risk looking like the invaders.
-- **Beat 4 — The Choice & its cost.** Forks in §8–9.
-
-**Moldrex clock (if players don't engage):** unattended, Aamu accepts, Lohka's faction grows, Itu is taken beyond the wall, and Moldrex gains his first foothold and first willing Slate; the wards weaken a little further. The cost of doing nothing, available to apply off-screen.
+The spine of the whole stretch: **two false renewals and one true one arrive at the same wall.** The Slate get a real child (renewal reborn) at the same moment Moldrex offers them a counterfeit escape, and at the same moment the forgetting is unmaking the very stones that remember. Session 8 is where all three meet.
 
 ---
 
-### 7. Interaction points by PC
+## PART ONE — Session 8: A Cradle of Stone
 
-**[[Garland yn Greenholt|Garland]] & Mira — the ring and the faith.**
-● Garland wants to read the Bonewall ring and reproduce Mira's gate; ● he can't read its runes; ● Mira hears the stones as words. **▶ Kallio** holds the stone-memory but no mage-craft.
-▶ Where each spends the downtime is open (Jay's call). Two pulls: Garland to the ring with Kallio, Mira to the child below. Together, the three-way scene plays — the centuries-old wizard and the stone-elder both circling a ring neither can crack, and the ten-year-old casually relays what it says (pays off the irony of the master out-paced by his apprentice). Split, you get the two-front option (§8) and Mira's own thread with Itu.
-- ▶ Mira's deeper beat: she meets a whole people of stone-memory — a living mirror of her faith — *and* its heresy in the rival faction. First real test of her calling.
-- ⚠️ Keep straight: Garland lost only his single most recent memory at the [[Nodrum]] (the note Mira carried), **not** his knowledge of her. No amnesia-about-Mira beats.
+*(Working title; alternates: The First to Survive · The Stone That Would Not Sleep.)*
 
-**[[Sir Roderic Lightbearer|Roderic]] & [[Paxton Lumnus|Paxton]] — Vaalo and the Light.**
-Both are bound to the surface Light that **absorbed Vaalo's fire and forgot where it came from.** ● Roderic's company died in Vaalo's tomb seeking the lantern; ● Paxton is Light-made. **▶ Holvi** (or Kallio, merged) still holds the truth the Church forgot:
-- The Spinewright was no son of the Imperium — his name was **Vaalo** (● GM-only until surfaced; most likely from the Slate, this is the place).
-- The relic is **Hiillos**, a banked coal of an inner sun that burns *below*, not above.
-- The tomb is **Kehto, the Cradle** — a return, not a grave.
-▶ Gut-punch for Roderic: the massacre, the lost men, the lantern — reframed by a people who knew the truth all along. ▶ For Paxton: a thread into the deeper nature of his own Light. **Plants the return to Kehto with new eyes** (and recolors Carnforth's cold ember — the ward itself died, not just a flame).
+The party rests amid the Slate's celebration of the first child, learns the town across a night, and the next day a faction already inside the town moves to seize the child, recruited by an offer from beyond the wall. The choice the party makes either heads off Moldrex's first foothold among the Slate or cements it.
 
-**[[Castor]] — forced vs. chosen.**
-Light touch. Castor watches Slate *willingly* choose a devolution into perishable flesh — the same unwanted transformation that was *forced* on him. A quiet provocation, no backstory committed.
-- ⚠️ Don't over-connect Castor to the **forgetting** theme (Garland and Mira own that). This is the *devolution* mirror, which is fair game.
-- ▶ Optional: Castor senses the wrongness under the town's joy through his bond as one-with-the-world — the same sense that felt the mountain's goodwill in S7 now catching a discordant note (a Beat-2 crack).
+### The cast (proposed names, ● gender locked)
+
+● The Slate have no gender. Every Slate is **they**.
+
+- **▶ Itu** ("the Seed") — the first child. ● first to emerge in an age; ▶ the twist makes it the first to *survive*.
+- **▶ Routa** ("Deep-Frost") — eldest guardian, raised Itu. The warm anchor; bond here and the child's danger turns personal.
+- **▶ Kallio** ("Bedrock") — stone-scribe elder who tends the Bonewall witch-ring and reads the old carvings. **Garland and Mira's contact.**
+- **▶ Holvi** ("the Vault") — loremaster elder, keeper of the deepest memory, and the one Slate who still speaks Imperial (learned from [[Spinewright|Vaalo]]). **Roderic and Paxton's contact, and the key to the language unlock.**
+- **▶ Aamu** ("the Dawnkeeper") — Keeper of Emergence, who presides over births. Faction **leader**, the sympathetic core, carries the secret. Reachable because the wound is grief, not zeal.
+- **▶ Lohka** ("the Boulder") — head **warrior**, nearing petrification, *wanting* Moldrex's gift of never returning to stone. The combat foil. Backs Aamu; cannot lead alone.
+- **▶ Sora** ("Gravel") — Lohka's younger, fanatically loyal lieutenant.
 
 ---
 
-### 8. The combat (chosen, not forced)
+### Scene A — The Unlock (no more language barrier)
 
-The fight is **the warrior's refusal to die, made physical** — it happens because Lohka chooses it, not because the plot needed a brawl. Roderic gets his real encounter.
+**The problem this solves:** all the faction roleplay this session is built on dies if it funnels through one translator. The fix opens every Slate to every PC, in fiction.
 
-**Trigger:** the party talks **Aamu** down (via the secret, §4). Their stepping back removes Lohka's only road to immortality. **Lohka seizes the moment by force** and tries to take both Itu and the movement.
+**● Established:** the Slate speak a grinding stone-tongue; only their young force out single labored words of common speech. Mira, channeling the stones, can speak the stone-tongue but loses human speech while attuned, leaving her the sole conduit.
 
-**The encounter (below, in the town):** **Lohka** (head warrior, visibly devolving, soft flesh under split stone the seam to target), **Sora** (lieutenant), and the **younger loyal warriors** (the body of the fight, devolving to varying degrees). The grim irony to surface: the more "freed" by Moldrex, the more flesh shows, the easier to wound — endurance was their armor, traded away.
+**▶ The fix — Holvi and the memory-stones.** Imperial is the world's lingua franca, the tongue everyone speaks today. The stagnation means it hasn't drifted inside the wall, so the Imperial Vaalo once taught Holvi is still today's Imperial, undrifted. So Holvi can speak to the party directly from first contact. Holvi's rite at the **Hall of Deep Memory** then opens the rest: laying hands on the communal memory-stones, the party is imbued with the Slate tongue itself, so every PC can speak with every Slate directly for the rest of their stay.
 
-**▶ Optional two-front staging.** If Garland and Kallio are up at the ring during the downtime, run surface and depths at once:
-- **Surface (the ring):** the **mutated Bonewall vines** — ● their own phenomenon, separate from the warriors — attack Garland and Kallio at the witch-ring.
-- **Below (the town):** the Slate faction fight around Itu.
-- **Reunion:** the two fronts converge for the finish.
-- *Collapse to a single front if timing's tight; the vines stay an available Bonewall threat regardless.*
+**▶ Staging.** Mira introduces Holvi. Holvi approaches Roderic first, drawn by the metal (one who wears his minerals on the outside, kin-adjacent to a people of stone) and because Roderic stirs the memory of Holvi's lost friend Vaalo. That warmth, not exposition, opens the Vaalo thread. Holvi offers to take them below and perform the rite.
 
-**Texture to keep the fork alive:** even mid-fight, Lohka's faction can be individually talked down — but Lohka, with the stone closing on them, will not. A clean win means going through Lohka.
+**▶ Thematic dressing (makes it weigh something).** Play the rite with callbacks to **Syvämaa** (the journey up from the inner earth) and the old bond between the Slate, Vaalo, and Lucifer. The tongue isn't a button, it's the Slate sharing a piece of their deepest memory and their oldest alliance with the party.
+
+**● Canon guard:** Vaalo stays a **deep dwarf** of the Deep-earth, **not** a Slate. The Slate revere Vaalo and learned Imperial through him and the Imperium contact; they are not his people. (Why this matters: the Slate petrify back into Muistola, so Vaalo having his own separate tomb at Kehto only works if he is not Slate.)
 
 ---
 
-### 9. Outcome branches & world consequences
+### Scene B — The Slate and the Offer (Moldrex as a villain a reasonable person would consider)
 
-- **A. Pure combat / kill them all.** Fast, satisfying for Ramsey, but the diplomatic door shuts: Aamu is never reached, the secret stays buried, the *idea* survives even if these warriors don't. ▶ Moldrex's alliance with the rival impulse **solidifies** — first foothold gained.
-- **B. Talk Aamu down, fight Lohka.** The strong tragic beat: Aamu turns, Lohka fights anyway, and **Aamu watches the people they recruited die for the offer they just refused.** The grief doubles. The town learns the secret. Moldrex's foothold is **headed off** — for now.
-- **C. Save / lose Itu.** Cross-cuts A and B. Losing Itu beyond the wall is the Moldrex-clock outcome and a long-running wound. Saving Itu cements standing with Routa and the town.
-- **D. The keeper after.** If Aamu lives and turns, they become a standing NPC carrying open grief — a potential ally, a potential relapse, a living reminder that the town's renewal is fragile.
+**Goal of the scene:** make the seduction land. The table should feel the pull of what Moldrex offers and understand why a grieving, dying people might take it. He is not an obvious evil. He is the right answer to the wrong question.
 
-Whatever the mix: this session decides whether **Moldrex gains his first willing foothold among the Slate**.
+**The whole thing rhymes:** real renewal and counterfeit renewal arrive together. The Awakening gives the Slate a true child; Moldrex offers a way to stop needing the mountain at all.
+
+#### The secret (the diplomatic lever)
+
+**▶ Itu is not the first to emerge, it is the first to survive.** Others came before, stillborn, and the town does not know. **Only Aamu knows** (▶ locked tight, not even Routa). Aamu has hidden the failures out of **mercy, not coercion**: Moldrex is not holding it over them. The tragedy is that the same protective silence that shields the town is what isolates Aamu enough for Moldrex's offer to take root.
+
+The lever: if the party uncovers this, the move is not "argue Moldrex is bad," it is **bring the grief into the open so Aamu is not alone with it**, competing with Moldrex on the actual wound. (Mira's creed cuts here: *the land remembers*.)
+
+#### The offer (why it is reasonable)
+
+Not a threat. A seduction, framed as a **divorce from the Old Gods**. The Slate are a people *of* the abiding order, and Moldrex offers them out of it:
+
+- **Control over birth** (Aamu's want) — make your own children, never again at the mercy of a mountain that keeps losing them. For someone hiding a row of stillborn dead, this is not temptation, it is salvation.
+- **Control over death** (Lohka's want) — never return to the stone. With petrification closing on Lohka, this is a drowning person reaching for a rope.
+
+Both ends of the lifecycle severed from the mountain. *The land endures / the land survives*, Mira's god, is exactly what Moldrex sells an escape from.
+
+#### The cost made visible (the devolution)
+
+The Slate's nature is to harden toward permanence. Moldrex's "evolution" is the exact inversion: it drags them **backward into soft, perishable biological life**. Under cracking stone is real flesh. The "stronger, freer" Slate are devolving into the literal *revelers in the ephemeral*.
+
+**Mechanical/visual:** exposed flesh under broken stone is a **weakness the party can see and target.** The more transformed, the more flesh shows, the easier to wound. Endurance was their armor, traded away.
+
+**▶ Staging:** **Aamu not visibly changed** (still deciding, talkable, sympathetic). **Lohka and the loyal warriors** showing it, stone split at the joints, flesh beneath.
+
+> **⚠️ No necromancy, ever, for Moldrex.** He does not raise, reanimate, or work the dead. His domain is the *living* dragged into wrong forms. The dead don't evolve, so they aren't his material. (That thread is reserved for a different New God if ever.)
+
+#### Castor's mirror (light touch)
+
+Castor watches the Slate *willingly choose* a devolution into perishable flesh, the same unwanted transformation that was *forced* on him. A quiet provocation, no backstory spent. ⚠️ Keep Castor out of the forgetting thread; his lane is the devolution mirror to Moldrex.
+
+#### The move and the choice (next day)
+
+Open with an **ultimatum, not violence.** Give diplomacy a door. The party's standing with Routa is suddenly at risk: fighting rival Slate in front of the Slate they bonded with can make them look like the invaders.
+
+**Trigger for the fight (chosen, not forced):** talk Aamu down via the secret, and you remove Lohka's only road out of dying. **Lohka seizes the moment by force** and tries to take both Itu and the movement. Even mid-fight, Lohka's faction can be talked down one by one, but Lohka, with the stone closing in, will not.
+
+#### Outcome branches
+
+- **A. Kill them all.** Fast, satisfying, but the diplomatic door shuts, Aamu is never reached, the *idea* survives, and Moldrex's alliance with the rival impulse **solidifies** (first foothold gained).
+- **B. Talk Aamu down, fight Lohka.** The tragic beat: Aamu turns and watches the people they recruited die for the offer they just refused. The town learns the secret. Moldrex's foothold is **headed off**, for now.
+- **C. Save or lose Itu.** Cross-cuts A and B. Losing Itu beyond the wall is the long wound; saving Itu cements standing with Routa.
+- **D. Aamu after.** If Aamu lives and turns, a standing NPC carrying open grief: ally, possible relapse, living reminder that renewal here is fragile.
+
+**Moldrex clock (if the table doesn't engage):** Aamu accepts, Lohka's faction grows, Itu is taken beyond the wall, Moldrex gains his first willing Slate, the wards weaken a little more. The cost of doing nothing, applied off-screen.
 
 ---
 
-### 10. Threads this plants
+### Scene C — The Witch Stones Network (Garland, Mira, Kallio)
 
-- **Return to Kehto / the [[Tomb of the Spinewright|Spinewright's tomb]]** — ● stated party intent; Vaalo's truth from Holvi/Kallio gives new eyes for the relic and the trials.
-- **[[Carnforth]] next** — ● the agreed next stop; the cold-ember reframe (Hiillos) makes the dark tower land harder.
-- **Syvämaa / the Deep-earth** — ● a future descent; the Slate are the door. (Keep GM-only for now.)
-- **Mira's faith** — her calling to revive the Greenholt creed, sharpened by meeting both its embodiment (the Slate) and its heresy (the rivals).
-- **The Witch Stone emanation** — open: is it kin to the Slate's stone-god / the buried sun? Don't answer; let it deepen.
+**The three-handed engine:** no one holds all of it. **Kallio reads** the carvings but cannot work the ring as a mage. **Mira wakes and hears** it but cannot read the old script (she is half-present in the place the stones open onto, which is *why* she hears words where others hear grinding). **Garland understands** how magic is *built* into a repeatable ritual. The ring only truly speaks when the three work it together. Pays off the running joke: two ancient scholars circling stones neither can crack while the ten-year-old voices what they say.
+
+#### What the stones are (predate the Slate)
+
+**▶ Two strata of carving.** A deep layer in the maker's hand, older than the Slate and older than Vaalo, in a script none of them fully read. Over it, generations of Slate marginalia, reverent guesses and annotations. **The Slate revere the stones (kin to them), they never deface them.** Kallio tends *that* tradition: best theories, no certainty, the core older than the Slate themselves. The stones were here when the Slate arrived. **The Slate are stewards, not builders.**
+
+**▶ Kallio's theory:** the stones tie somehow to the gods of **Syvämaa**, the hollow world below. The ring may have been set here *because* of what burns beneath. Same deep source, two expressions. Resonance, not authorship. (Feeds the open "stone-god / buried sun" question without answering it.)
+
+#### The network (Garland's goal, made actionable)
+
+**● Canon footing:** the Nodrum ritual ran on **ley-line** energy through Edric and Roderic; the stones stand slightly outside linear time, the same register as the Xan-Kor's prison. **● The Suonet** ("the Veins") already link fixed nodes through the mountain.
+
+**▶ The reveal:** Kallio reads the deep stratum as a record of **nexus lines running out to the world**, the ring one node of many. The Slate have always known nodes exist (they live in a network). What is new and frightening is that nodes are **going dark**, connections even the Slate have lost, for the first time since they existed. This hands Garland his gate directly: the gate isn't invented, it is a **road between nodes the stones already name.** It reframes Mira's Bonewall portal as her reopening an old road, and ties back to the Chryseum resonance.
+
+#### The restoration property (demonstrate once, then stop)
+
+**▶ The demo:** as the three map the live lines, Mira wakes the ring and one **dead node flickers back**. A line the erasure had taken is briefly *there* again, then fades when the channeling stops, because the erasure is still pulling on the far end. Principle established: **the stones don't just remember what's gone, waking them can pull a lost thing back from the edge, briefly.** The players watch a forgotten thing return and slip away, and their own minds finish the sentence: *if it can do that to a place, then a person.*
+
+**⚠️ Do not let Garland say "Sariel."** Let the table make the leap. (Sariel is not the answer to everything; the players connect it, Garland doesn't lecture it.)
+
+**▶ Optional warmer version:** the restored thing is Kallio's, a node or sister-ring Kallio grieved as lost for good, given back for a moment. Emotional weight on the NPC, Garland's personal card unspent.
+
+**⚠️ Held cards, do not spend here:**
+- The ring giving Garland back his actual **Nodrum memory** (the note's contents). Once-only pull, Garland-and-Mira's beat.
+- The stones surfacing a **flicker of Sariel** himself, shown to people who cannot place him (Roderic, the one who remembers, isn't in this scene). Save for a later ring beat: it clicks only when Roderic later hears it described.
+
+#### The showdown (the danger comes from the act)
+
+**▶ Trigger:** mapping the live network, they hit the **Nodrum node**, the brightest and wrongest on it, a place where a line doesn't continue but is being actively chewed. They've found the mouth doing the erasing. The instant they linger, it looks back up the line at them. The threat arrives with no monster walking in.
+
+**▶ The contest (true to each):**
+- **Mira is the battlefield**, the only one actually *there*. The forgetting can reach for her directly. A ten-year-old standing in the current.
+- **Garland anchors**, holding the ring open so the apprentice isn't swept down it. The wizard braces the gate.
+- **Kallio reads** what's coming, calling the runes as the attack moves. The lookout who knows the map but can't fight on it.
+
+**▶ What the forgetting does:** it doesn't throw fire, it **subtracts.** It tries to take the line they just lit, make them forget they found it, unmake the ring under them. Garland feels pieces of the map go dark as fast as Kallio reads them; Mira hears the stones' voices silenced one by one around her. **Win condition: don't let go.** Refuse to forget long enough to break contact. The creed-war made physical, *the land remembers* against the thing that unremembers. Garland's Drive lives here: step forward and hold when the smart move is to drop the line and run.
+
+**The cost (the real point):** they survive, but touching the live network put **Garland and Mira on the forgetting's radar**, the way Roderic is already on it for remembering Sariel. ● This quietly answers the open canon question of why the faithful vanish overnight: the forgetting takes those who touch what it is trying to erase. Garland and Mira just became candidates. Let the dread sit unspoken.
+
+**▶ Two dials to set in play:**
+- **Clean exit or a wound?** If the forgetting takes a piece on its way out (a node Kallio just showed them goes permanently dark, or the ring's voice drops fainter), the enemy feels real and the next channeling costs more.
+- **Does Mira pay a price?** If she returns a little more half-there, hearing the stones a little too easily after, you deepen the locked thread (part of her lives in that place) without spending it. The most ominous option; only if you want that pressure now.
+
+#### Advance-the-danger tie-in (two-front option)
+
+If Garland and Kallio are up at the ring during the downtime, run surface and depths at once: the **mutated Bonewall vines** (● their own phenomenon, separate from the warriors) attack the ring while the Slate faction fight rages below. In-fiction reason the vines come: waking a half-erased ring is **loud**, and loud is what the wall's corruption hears. Remembering has a cost. Collapse to one front if timing is tight.
 
 ---
 
-### 11. End-of-Session move — landing the XP
+### End of Session 8 — landing the XP
 
-The goal: by session's end every "yes" is earnable and every PC has had a real shot at their Drive, so XP is honest.
+**Three group questions (1 XP each):**
+- **Discover something new and important?** Reliable: the stillbirth secret, Vaalo's name and the Spines' truth (Holvi), how emergence works, the speedway network, the Moldrex offer, or the ley-node reveal. The offer and the secret both land just by engaging the conflict.
+- **Newly visit or significantly alter a memorable location?** ⚠️ "Newly visit" for the Slate Town was already claimed in S7. Rests on **significantly alter** (the town's standing shifts; Cradle-Hollow / Hall of Deep Memory changed) **or** reaching a *new* spot (first descent down the Suonet, the Descending Stair). Don't let the table claim this for free on arrival.
+- **Overcome a notable obstacle?** Broad: the Lohka fight, **or** talking Aamu down, **or** the vine skirmish, **or** the network showdown, **or** getting through the depths.
 
-**The three group questions (1 XP each, whole party):**
-- ▣ **"Discover something new and important?"** — reliable triggers: the stillbirth secret (Gallery), Vaalo's name and the Spines' truth (Deep Memory), how emergence works (Cradle-Hollow), the speedway network, or the Moldrex offer itself. Insurance: the offer and the secret both land just by engaging the faction conflict.
-- ▣ **"Newly visit or significantly alter a memorable location?"** — ⚠️ the party already claimed *newly visit* for the Slate Town in S7, so being here does **not** re-earn it. Rests on **significantly alter** (town's standing toward outsiders shifts; the Cradle-Hollow / Gallery / Deep-Memory hall changed) or reaching a *new* spot (first descent down the Speedways or to the Descending Stair). Don't let the table claim this for free on arrival.
-- ▣ **"Overcome a notable obstacle?"** — the Lohka fight is obvious, but keep it broad: talking Aamu down counts, as does the vine skirmish or getting through the speedway/depths. A pure-diplomacy table still earns this.
+**Each PC's Drive (1 XP each):**
+- **Roderic — endanger yourself to save or protect someone.** Shield Itu when Lohka moves; put himself between a Slate noncombatant and harm. Ensure a protect-able target is in danger in front of him.
+- **Paxton — act callously or recklessly about death.** Offer a reckless door, don't punish taking it. The tension is the point.
+- **Garland — step forward where others hesitate.** First into the vine fight; take the channeling/network risk no one else can; broker with Aamu when the table stalls.
+- **Castor — endanger yourself for wildlife or outcasts.** The Slate are outcasts and Itu the ultimate vulnerable one. His Beat-2 "something is wrong" sense is a clean lead-in.
+- **Mira — no Drive (NPC).** Translator, decoder, emotional thread. Don't engineer XP for her.
 
-**Each PC's Drive (1 XP each, individual) — verified against the PC entries:**
-- **Roderic — *"Endanger yourself to save or protect someone."*** Built for him: shield Itu when Lohka moves; put himself between a Slate noncombatant and harm; hold the line at the Cradle-Hollow. Ensure a protect-able target is in danger *in front of him*.
-- **Paxton — *"Act callously or recklessly about death."*** Trickier (S7 had him *learning* not to spend lives cheaply). Give a temptation, not a gimme: a moment where recklessness with his own death (or another's) is the fast path. Earns it whether or not it's wise; the tension is the point. Don't punish, present the door.
-- **Garland — *"Step forward where others hesitate."*** Be first into the vine fight; take the channeling risk when no one else can; step up to broker with Aamu when the table stalls. The two-front staging hands this to him naturally.
-- **Castor — *"Endanger yourself for wildlife or outcasts."*** The Slate *are* outcasts and Itu the ultimate vulnerable one: risk himself for the child, for a devolving warrior he pities, or for the young Slate from S7; use his world-bond to shield or rescue. His Beat-2 "something is wrong" sense is a clean lead-in.
-- **Mira — no Drive (NPC).** Translator, decoder, emotional thread. Don't engineer XP beats for her.
+---
 
-**Quick GM checklist (glance mid-session):**
-- [ ] A discovery has actually *surfaced* out loud (not just available).
-- [ ] The town has been *altered* (S7 already covered "visited"), **or** a new spot reached.
-- [ ] A challenge has been *overcome* (fight **or** diplomacy).
-- [ ] Roderic has had someone to protect *in danger*.
-- [ ] Paxton has been *offered* a reckless door.
-- [ ] Garland has hit a *hesitation moment* to step into.
-- [ ] Castor has had an *outcast/wild* thing worth risking himself for.
+## PART TWO — Beyond (threads to pull)
 
-*If a box is empty heading into the back half, that's your cue for what to put in front of the table next.*
+After Carnforth, hand the wheel to the table. The aim is a real choice, not set-piece after set-piece. Build genuine, divergent pulls so a **party split** is organic if they want it, not forced.
+
+### The Fork (post-Carnforth, player-driven)
+
+Carnforth is a loss they can witness but not fix (no renewal rites, no lantern), so it points outward rather than resolving. Likely roads, each with a PC already pulled toward it:
+
+- **Havens Reach** — the darkening of Carnforth is the road to the Solivum opening, and ● Moldrex wants something from the Solivum. The next town down that road is full of people. *Pull: Paxton (his old wall, the warning), anyone protective.*
+- **The Tomb / Kehto** — the lantern is the one thing that could relight Carnforth, and Roland walked out with it. *Pull: Roderic (his massacre, the relic, Roland).*
+- **Beaconhold** — the vanishing faithful, Griswald, the fractured Light, Roland's move on the Church. Now sharpened: Garland and Mira may be the forgetting's next candidates. *Pull: Roderic (the Church), Garland and Mira (the forgetting closing in).*
+- **Back to Muistola / the Slate** — Aamu's grief, Itu, the Descending Stair toward Syvämaa. *Pull: Castor (outcasts, the devolution thread), Mira (her faith's mirror).*
+
+**The split engine:** Roderic torn between the tomb and Beaconhold; Paxton toward Havens Reach or the wardens; Garland and Mira toward the ring/home and away from the forgetting's eye; Castor toward the Slate and the deep. Give each a clean reason and let them divide the map themselves.
+
+⚠️ Don't presuppose the order of the tomb vs Carnforth, or which Spine fails next. Leave it open for the table.
+
+---
+
+### Carnforth — the dark tower (next stop, ● agreed)
+
+**● Footing:** northernmost Spine, gone fully dark, on the worst ground at the very end of the wall, nearest the Solivum. ● The deadliest Spine to raise: more imperial laborers died and were buried here than anywhere. The wall is a mass grave.
+
+**The shape:** Moldrex in full force, the theme of unnatural evolution at its loudest. Carnforth's darkening **opens the road to the Solivum and Havens Reach.** The stake is not "kill the monster," it is "the road is being opened and the next town down it is full of people." Even if the beast can't be killed, **delaying it and warning Havens Reach is a real win.**
+
+**The wrongness (site-specific, no necromancy):** over a ground full of the dead, a **wrong living ecology** has bloomed. Fungus, the mutated grey vines, insects, scavengers, a living web, everything alive twisted into Moldrex's shapes. The dead are not raised; the *living* things that feed and grow around the grave are remade. (Atmosphere can lean on the grave beneath; the horror is the living bloom over it.)
+
+**The transformed wardens (the gut-punch, aimed at Paxton):** Carnforth's garrison didn't simply die. As the tower failed and Moldrex's allure reached them, they **accepted the change**, the way Senna did (living, lured, transformed, not raised). ● Paxton is a former Spinewarden, so these are his old order, maybe an old name among them, now tending the dark tower as something else. Senna was the single example; Carnforth is the pattern at scale, asking Paxton to stop fighting and join the flourishing. His reckless-about-death drive gets a brutal test.
+
+**The lantern chaplain (Roland's thread, human face in the horror):** ● a Carnforth chaplain reputedly wears the lantern necklace. Two heresies meet at one dying ward, kept distinct: Moldrex's transformation versus the lantern cult's Light-grievance (only the carried flame can hold the line). Not allies, two opportunists at the same wound. The chaplain is an intel source and a bridge toward Roland.
+
+#### The creature — ▶ the drider-dragon ("hero of Moldrex")
+
+A cross between a black dragon and a giant spider: dragon body, spider legs. Sent into the Bonewall to **clear the wall for the forces that will threaten Havens Reach.**
+
+- **Owns the wall:** climbs the vertical shale on spider legs, drops and scuttles, can't be cornered.
+- **Breath weapon is a birth, not a blast:** instead of poison gas it vomits a **swarm of small, undeveloped poison spiders** (ordinary-sized, a spreading swarm that denies ground and keeps the battlefield spawning). ▶ Name TBD.
+- **The cat-sized spiders are separate middleweight minions / its brood**, not the breath. ● One nearly killed Paxton in S7, so he has effectively been **tasted**, maybe marked or carrying its venom.
+- **Dose:** an apex they likely can't kill on first contact (one brood-spider nearly ended Paxton). **Lean glimpse-and-survive:** establish it clearing the wall, fight through brood and transformed wardens, drive it off or escape, bank the real reckoning. Protects the road-to-Havens-Reach clock; if it's killable now, the clock loses teeth.
+
+#### Carnforth mode — open
+
+▶ Stand-and-fight doomed-defense **or** witness-the-loss reconnaissance. Don't pre-decide; make the **exits** the decision point so the players' choice sets the shape, and use it to launch the Part Two fork. (Resolve in prep once Carnforth firms up.)
+
+#### Lighter threads (available, not mandatory)
+
+- **Castor:** the devolution mirror at full volume, forced versus chosen, still no backstory spent.
+- **Garland and Mira:** route in through the ● Suonet vein that runs **north to Carnforth**.
+- **⚠️ Öuth Krelt glimpse (big card, dose small):** the edge of the world is where they could first see that Öuth Krelt isn't blighted wasteland but strangely, wrongly *flourishing*, recoloring Moldrex from monster to seducer. A glimpse over the wall, not a tour.
+
+---
+
+### Roland, the Lantern Cult & the Tomb — moved out
+
+The Roland storyline — the lantern cult, the Tomb of the Spinewright (Kehto), the missing-body/missing-lantern knot, and the seams to resolve before the tomb arc — now lives in its own working doc: **[[Roland & the Lantern Cult|gm-notes/roland-and-the-lantern-cult.md]]**.
+
+Touchpoints that stay here: the Part Two fork (the Tomb road, pulling Roderic), and Carnforth's lantern chaplain (the human face of the cult in the horror).
+
+---
+
+### Standing open questions (pull as the table cares)
+
+- Does the Witch Stone restoration ever reach a *person* (Sariel, Garland's Nodrum memory), and on whose terms?
+- What does Moldrex want from the Solivum, and is Havens Reach the target or the doorway?
+- Which Spine fails next? **Undecided, do not presuppose.**
+- Is the Witch Stones' emanation kin to the Slate's stone-god / Syvämaa's buried sun? Leave open.
+- Where is [[Edric Bloom|Edric]] (vanished beneath the Chryseum, which resonates with the stones, the same register as the forgotten place)?
+- The Descending Stair toward Syvämaa: when does that door open, and for whom?
+
+
+## Session 8 — Run Guide (Mechanical Companion)
+
+> **GM ONLY — at-the-table sheet.** Mechanical companion to the story doc
+> [[Session 8 and Beyond — Planning Guide|gm-notes/session-8-and-beyond.md]] (that doc owns the fiction,
+> branches, and canon markers ● ▶ ⚠️). This doc is what you hold while running: **key NPCs and locations
+> with stats up top**, then per-scene **"have an answer ready" call-outs** so no investigative move
+> blindsides you, the PC moves mapped to each fight, and the XP landing. System: Chasing Adventure (PbtA).
+
+> **Saying the names (Finnish-rooted — vowels are pure, stress falls on the first syllable):**
+> **Muistola** = *MWEE-stoh-lah* · **Itu** = *EE-too* · **Routa** = *ROH-tah* · **Aamu** = *AH-moo* (long "ah") ·
+> **Lohka** = *LOH-kah* · **Sora** = *SOH-rah* · **Holvi** = *HOHL-vee* · **Kallio** = *KAH-lee-oh* ·
+> **Suonet** = *SWOH-net* · **Kehto** = *KEH-toh* · **Vaalo** = *VAH-loh* · **Syvämaa** = *SÜ-və-mah* (≈ *SOO-vuh-mah*).
+> *(The roots are real Finnish: Muistola "remembrance," Aamu "dawn," Routa "ground-frost," Kallio "bedrock," Holvi "vault," Sora "gravel," Itu "sprout/seed," Suonet "veins," Kehto "cradle," Syvämaa "deep-land" — a quiet logic if a player asks.)*
+
+---
+
+## KEY NPCs
+
+NPC shorthand: **C** = conditions to defeat (1C noncombatant · 3C capable · +1C tough/central) · **Inflicts NC** · **Armor** (Stone/Plate/Bone = 2) · Piercing ignores Armor.
+
+**"Under the lens"** = what to surface *the instant* a player aims a truth-move at them, decided now so it never derails you. The relevant moves: **Roderic's Eyes of the Faithful** (always reveals a *guilt/transgression*), **Scrutinize** (+WIS, Insight → ask their motives), **Castor's At One With The World / Commune** (wordless vibes), **Paxton's Righteous Illumination** (sacrifice → a true vision).
+
+#### Aamu *(AH-moo)* — Keeper of Emergence *(faction LEADER · talk target, not a fight target)*
+The grieving keeper who presides over births and secretly hides the stillborn dead in the **Gallery of the Lost**; reaching for Moldrex's promise of children that won't be lost. **Not visibly changed.**
+- **Wants** to never lose another child to the mountain. · **1C, 2 Armor (Stone).**
+- Methods: invoke the people's hope · conceal the Gallery · frame Moldrex's offer as mercy, not betrayal.
+- **⚠️ Under the lens — this is the big one.** Eyes of the Faithful / a deep Scrutinize **lights up the hidden grief and the bargain**: dead children kept secret, a deal struck in the dark. **Don't fight this — it's the diplomatic lever, not a derail.** Surfacing the secret early just *opens Branch B* (bring the grief into the open so Aamu isn't alone with it). Give Roderic the *shape* (something hidden, lost children, a pact), not necessarily every word — let the table dig for the rest. Castor's Commune reads her as a wound radiating grief.
+
+#### Lohka *(LOH-kah)* — the Boulder *(head warrior · the combat foil · will NOT be talked down)*
+Nearing petrification and *wanting* Moldrex's gift of never returning to stone — a drowning person reaching for a rope. Backs Aamu because he has no cachet to lead alone.
+- **Wants** a way out of dying into stone. · **4C, 1 Armor** (already cracking → drops to 0 as flesh spreads; see Exposed Flesh, Scene B). **Inflicts 1C, Forceful.**
+- Methods: seize Itu and the movement by force · smash through stone kin who block him · refuse every plea.
+- **Under the lens:** Eyes of the Faithful reads the **Moldrex pact and the corruption** plainly — he isn't hiding it. Scrutinize = naked terror of petrification under the bravado. Commune reads the devolving flesh as *sickness/wrongness*.
+
+#### Sora *(SOH-rah)* — Gravel *(Lohka's lieutenant · the warrior Group's second voice)*
+Fanatically loyal younger warrior who gives the movement a body.
+- **Wants** to follow Lohka out of stillness. · folded into the **warrior Group** stat block (Scene B).
+- **Under the lens:** would do violence to kin for Lohka; the loyalty is real, not bought.
+
+#### Routa *(ROH-tah)* — Deep-Frost *(eldest guardian who raised Itu · warm ally, social anchor)*
+The party's warmest bond among the Slate; the one whose regard is on the line when they fight rival Slate in her town. **Does NOT know the stillbirth secret.**
+- **Wants** to protect Itu and keep the town whole. · **1C, 2 Armor** (capable **3C** if she fights for the child).
+- **Under the lens:** Eyes finds only small things — overprotectiveness, a buried doubt that *something* about the births is being hidden from her. Scrutinize = fierce love for Itu, fear of the faction. She's clean; don't invent a dark secret here.
+
+#### Holvi *(HOHL-vee)* — the Vault *(loremaster · speaks Imperial · Roderic & Paxton's contact · the language unlock)*
+Keeper of the Slate's deepest memory and the one Slate who still speaks (undrifted) Imperial, learned from **Vaalo**. Drawn to Roderic's metal and the echo of his lost friend.
+- **Wants** to keep and pass on the deep memory. · **1C, 2 Armor.**
+- **Under the lens:** Scrutinize/Eyes surfaces **survivor's grief over Vaalo** and the keeping of hard memory (the Imperium-quarry grievance, Vaalo's true name and nature). This is your controlled tap for the Vaalo/Spinewright thread — open it through *warmth*, not exposition.
+
+#### Kallio *(KAH-lee-oh)* — Bedrock *(stone-scribe · Garland & Mira's contact · reads the witch-ring carvings)*
+Tends the Slate's reverent annotations on the ring but cannot work it as a mage. The "reads but can't fight" third of Scene C's engine.
+- **Wants** to read what the deep carvings truly say. · **1C, 2 Armor.**
+- **Under the lens:** Scrutinize = intellectual pride; presents best-guess theory as more certain than it is, and **is privately frightened that nodes are going dark for the first time ever.** Commune/Examine of the stones with Kallio present is the natural way to surface the network reveal.
+
+#### Itu *(EE-too)* — the Seed *(the first child · the STAKE, not a combatant)*
+The first Slate to *survive* in an age. No stat block — Itu is the **protect-target** that arms Roderic's and Castor's Drives.
+- **⚠️ Under the lens:** Eyes of the Faithful finds **no transgression — pure innocence.** Tell Roderic plainly there's nothing; the only unsettling note is the faint *absence/newness* around a child that should not exist. Don't let Eyes on Itu reveal the stillbirth secret — that lives with Aamu.
+
+---
+
+## KEY LOCATIONS
+
+For each: what's here, and **"If they dig"** — what Examine (+WIS) / Ponder (+INT) / Commune surfaces, decided in advance.
+
+#### Muistola *(MWEE-stoh-lah)* — the Slate Town
+The hidden town of living stone mid-celebration of the first child. Ancestors petrified into the architecture; everything predates the Stagnation.
+- **Senses:** *Sight* — bone-white through ashen-grey halls, ancestor-statues woven into walls and arches, soft amber veinlight glowing up through the floor-stone. *Sound* — a deep, slow grinding-stone "song" of the gathered Slate, felt in the chest more than heard; the lighter tap-and-chime of the young moving quickly. *Smell* — cold wet rock, mineral dust, a faint ozone tang like a cellar after rain.
+- **If they dig:** Examine the celebration → the joy is genuine but *brittle*, the elders watchful. Ponder "why now?" → the Awakening (the cycle restarting), if they've earned the thread. Castor's At One With The World → the **mountain itself celebrating** Itu.
+
+#### Cradle-Hollow & the Gallery of the Lost ⚠️
+The birthing place. Off it, an easy-to-miss side-niche — the **Gallery of the Lost** — holds a row of small, unfinished stillborn forms in low niches. The one silent place in the town. **Only Aamu knows.**
+- **Senses:** *Sight* — the warm heart of the town, the brightest amber glow rising from a cradle-hollow in the rock; then, in the side-niche, small half-formed grey shapes in shadow, deliberately unlit. *Sound* — warmth and movement in the Hollow proper; the niche is the one place where the town's stone-song *stops* — a pocket of total silence. *Smell* — warm mineral, almost like sun-baked stone, against the cold of the rest of the town; the niche smells of nothing at all, dry and still.
+- **⚠️ If they dig:** this is the room that can hand them the secret *environmentally*, without an NPC. If a PC **Examines** the Cradle-Hollow closely, or Castor **Communes** there, be ready: the niche, the silence, the grief. Decide before play whether you *want* them to find it here (it's a clean Branch-B opener) or whether Aamu steers them away (a tell in itself). Don't get caught flat-footed by "I look around the birthing chamber."
+
+#### Hall of Deep Memory
+Where Holvi performs the memory-stone rite (Scene A) that gives every PC the stone-tongue. Communal memory-stones; callbacks to Syvämaa and the old Slate–Vaalo–Lucifer bond.
+- **Senses:** *Sight* — a vaulted chamber of close-set standing stones worn smooth by countless hands, faint carvings catching the light, the oldest surfaces near-black. *Sound* — a low resonant hum when palms touch the stones, like a struck bowl that never fully fades; whispered overlapping voices at the edge of hearing. *Smell* — old dry dust, cold iron, the faint sweetness of long-undisturbed air.
+- **If they dig:** Examine/Ponder the memory-stones → the Slate keep their past *in stone*, which is why they still hold Vaalo's lost name when the Light has forgotten it. A tap toward the forgetting theme — but ⚠️ keep "Sariel" off the table here.
+
+#### The Bonewall witch-ring (the second ring)
+Twin to Garland's own ring but carved in an unreadable older tongue, worn nearly silent. Two strata: a deep maker's hand older than the Slate, over it generations of reverent Slate marginalia. **Scene C happens here.** A recent campfire sits beside it (unexplained — open thread).
+- **Senses:** *Sight* — a ring of grey shale standing stones on the open, dead Bonewall, sky vast and bruised overhead, the cold ash of a recent campfire at their feet. *Sound* — wind keening across the wall and through gaps in the stones; the ring itself almost mute — a grinding voice you strain to catch, where Garland's home ring spoke clearly. *Smell* — cold wind, dry stone-dust, the spent char and woodsmoke of the dead fire; faint rot drifting up from the mutating vines downslope.
+- **If they dig:** Examine/Ponder with Kallio → the deep stratum is a **record of nexus lines running out to the world**, the ring one node of many, and **nodes are going dark.** Garland's Ponder about the gate → the gate isn't invented, it's a *road between nodes the stones already name*. See Scene C for the danger this triggers.
+
+#### The Suonet *(SWOH-net)* (the "Speedways") & the Descending Stair
+The Slate's glyph-carved fast-travel veins — north to **Carnforth**, south to **Kehto** — the party's road through the wall. At the town's lowest point, a half-sealed **Descending Stair** glows amber from far below (toward Syvämaa).
+- **Senses:** *Sight* — smooth glyph-carved tunnels, the wayglyphs lighting faintly as you pass; at the Stair, a wide half-sealed throat in the floor with deep amber light welling up out of unseen depths. *Sound* — in the veins, your own footfalls swallowed oddly fast, a sense of distance compressing; at the Stair, a low warm thrum from far below, almost a heartbeat. *Smell* — clean cold stone in the veins; at the Stair, a rising warmth that carries something green and mineral, like deep earth and sap, wholly unlike the cold town above.
+- **If they dig:** the Suonet is surfaced and usable. ⚠️ The Stair stays **shut** this session — if they push, it's "not yet," a warmth felt not opened. Plants Castor's curiosity and Mira's faith without spending the descent.
+
+---
+
+## SCENE A — The Unlock *(social, no combat)*
+
+Holvi speaks Imperial from first contact; the memory-stone rite then gives every PC the stone-tongue for the stay. **Don't tax it** — it's a gift, not a gate. If you want dice, a **Scrutinize** on Holvi (read the Vaalo grief) or a **Connect/Compel** to earn the rite. Roderic draws Holvi in (the metal, the echo of Vaalo) — pure roleplay.
+
+---
+
+## SCENE B — The Slate Faction Fight
+
+**Shape:** opens as an **ultimatum, not violence.** The fight only triggers if the party **talks Aamu down** — which removes Lohka's only road out of dying, so **Lohka seizes Itu by force.** Even then, the loyal warriors peel off **one at a time**; Lohka cannot.
+
+#### Stat blocks (the two not covered above)
+
+**Sora & the loyal warriors — the warrior Group**
+> Lohka's lieutenant and the younger faithful who give the movement its body.
+> **Wants** to follow Lohka out of stillness. · **Group: 5C** (3 +2 group), **2 Armor (Stone)** dropping as they devolve, **Inflicts 1C (+1C ganging up), Forceful.**
+> Methods: surround and body-block the Cradle-Hollow · drag Itu toward the stair · shield Lohka.
+
+*(Aamu, Lohka, Itu, Routa stat lines are in KEY NPCs above.)*
+
+#### The devolution mechanic (the visible weakness — use it all fight)
+The rival Slate are trading stone for Moldrex's soft, perishable flesh. **Mechanize as falling Armor + a flesh vulnerability:**
+- Normal Slate = **2 Armor (Stone).** A transformed one's stone is cracking, flesh showing.
+- **Exposed Flesh:** any attack that *targets the cracked-open flesh* (spotted via Examine, or just called) is **Piercing — ignores their Armor.** More transformed = more flesh = more Piercing-target. Start Lohka at 1 Armor → 0; warriors at 2 → dropping. The table *sees* "stronger, freer" = most vulnerable.
+
+#### ⚠️ Moves to have an answer ready for (so the scene doesn't derail)
+- **Roderic — Eyes of the Faithful on Aamu:** surfaces the hidden grief/pact → **opens Branch B**, don't resist it (see Aamu, above). On **Lohka:** the Moldrex corruption, plain.
+- **Roderic — Decree (+CHA, ONE enemy):** the **peel-off button.** A landed Decree removes one warrior from the Group (drop its C by 1, weaken its Inflict). On **Lohka** it only *staggers* (he won't surrender unless already beaten in the fiction). Have the "one warrior wavers and steps back" beat ready.
+- **Castor — At One With The World / Scrutinize (+WIS):** reads *which warrior is wavering* → feeds **Advantage** to the next peel-off, and reads the devolution as sickness. Have a wavering candidate picked.
+- **Paxton — Drawn to the Light (+CHA):** an intimate beat can Charm a warrior into peeling off too. **Unleash Radiance always costs** — be ready to name it (a Blinded bystander Slate sours Routa; collateral in a town of ancestors-as-architecture).
+- **Castor / Roderic protecting Itu:** if Itu is grabbed, have the drag-toward-the-stair clock and the wind-form-rescue option (breeze-gap) in mind.
+
+#### PC moves mapped to this fight
+- **Roderic** (CHA +2): **Decree** = peel-off / Lohka-stagger; **Chains of Faith** restrains Lohka mid-lunge; **Healing Hands** (two effects) patches Itu/allies; **Eyes of the Faithful** cracks Aamu's secret; **Illuminate** if Moldrex hides anything. **★ Drive:** shield Itu when Lohka moves.
+- **Paxton** (CHA +2): **Unleash Radiance** is his attack (name the cost every time); **Drawn to the Light** Charms a waverer; **Lightbrand Restrained** = he can flare near allies (+1 Armor to them vs his light). **★ Drive:** offer him a reckless door, don't punish it.
+- **Garland** (STR +2): **Engage + Second Harvest** is the hammer on Lohka; **Battle Momentum** banks a finisher; **Evoke Immunity** walls off Lohka's Forceful blows. **★ Drive:** first between Itu and Lohka.
+- **Castor** (WIS +2): **At One With The World / Scrutinize** sets up peel-offs and reads the wrongness; **Shapeshift** to body-block or drag Itu clear; **wind form** to slip Itu out a breeze-gap. **★ Drive:** endanger himself for Itu / the outcast Slate. **This is his devolution-mirror scene** — let him watch them *choose* what was forced on him.
+
+#### Outcome dials
+- **A — kill them all:** diplomacy door shuts; Moldrex's foothold **solidifies** (advance the Force at Settle In).
+- **B — talk Aamu down, fight Lohka:** town learns the secret; foothold **headed off for now**; reward Roderic's **Mercy** virtue for sparing the peeled warriors.
+- **C — save/lose Itu:** crosscuts A/B. Save = standing with Routa cemented; lose beyond the wall = the long wound.
+- **Disengage (Moldrex clock):** Aamu accepts, Itu taken beyond the wall, wards weaken — apply at Settle In.
+
+---
+
+## SCENE C — The Witch-Stones Network & the Forgetting
+
+**Who's here:** **Garland is the only PC.** Mira and Kallio are NPCs who *Cooperate* (grant Advantage), they don't roll. ⚠️ Castor stays out of this thread (others join only via the two-front option).
+
+**Three-handed engine:** Kallio **reads**, Mira **wakes and hears** (she's half-present in the place the ring opens onto — that's *why* she hears words), Garland **builds it into a ritual.** None alone can work it.
+
+#### ⚠️ Moves to have an answer ready for
+- **Garland — Ponder/Examine the ring (+INT/+WIS):** the deep stratum names **nexus lines to the world**; the gate is a *road between nodes the stones already name*; **nodes are going dark.** Have this reveal staged — it's the hook that hands Garland his gate-home project *and* triggers the showdown.
+- **Garland — Veteran background:** he may trust his gut and **ask you one question** about how to avoid/prepare for the danger; answer honestly, **+1 Momentum if the party heeds it.** Expect "what's coming up the line?" — have the Nodrum-node answer ready.
+- **The demo (do ONCE, then stop):** Mira wakes the ring, **one dead node flickers back** then fades. Principle: *waking the stones can pull a lost thing back from the edge.* **⚠️ Do NOT let Garland say "Sariel"** — let the table make the leap. (Warmer: the restored thing is Kallio's grieved-lost sister-ring.)
+- **Paxton — Righteous Illumination** (if he's drawn in): sacrifice → a true vision, *proportional to the sacrifice.* Bound it: small offering → "the wards fail because something was unmade"; large → the erasure's reach. **⚠️ Don't let it name Sariel cheaply**; keep it to the shape of the forgetting.
+
+#### The forgetting as an Avalanche (the load-bearing mechanic)
+When they map to the **Nodrum node** (brightest, wrongest — a line being actively *chewed*), the mouth doing the erasing **looks back up the line.** No monster walks in; the forgetting **subtracts.** Run it as the **Avalanche** move (the environmental-danger variant of Chase/Edge):
+
+**Setup:** two sides, both at **0 Edge** — *the party* vs *the forgetting.* First to **3 Edge** ends it.
+
+**Garland Gains the Edge** — he says how much Edge he risks (1–3), then rolls:
+- **+INT** (his +1) — out-think it, brace the ritual logic *(Avalanche default for knowledge/out-of-box).*
+- **+WIS** (his +1) — **Evoke Immunity** to anchor Mira so it can't take *her*; or sheer refusal to forget.
+- **Push Yourself** for Advantage on the key roll (take a condition that ignores Armor — *he forgets something to hold the rest*).
+- **Mira & Kallio Cooperate** → each grants **Advantage** (channel / call the runes). The three-handed engine, in dice.
+
+**Resolving Edge:**
+- **10+:** party gains the Edge risked.
+- **7–9:** *both* sides gain it — they hold, but it takes ground (a node Kallio just read goes dark; the ring's voice drops fainter).
+- **6−:** the forgetting gains it — takes the line they just lit, makes them forget they found it.
+
+**Win = "don't let go":** reach **3 Edge**, break contact intact. **If the forgetting hits 3 first**, by Avalanche it may **inflict 1 condition on everyone present (incl. Mira)** and *the PC on the losing side Crumbles* — but **don't kill Garland here.** Crumble = swept down the line, hauled back by the Slate/Mira at a cost, *the map gone from his head.* The wound, not a death.
+
+> **Lighter fallback:** a short series of **Defy** rolls (+INT out-think / +WIS endure); each 7–9 costs a piece of the map until he holds three or breaks contact and loses something. Same beats, fewer parts.
+
+#### The cost (apply win or lose)
+Touching the live network **puts Garland and Mira on the forgetting's radar** — like Roderic for *remembering* Sariel. In-fiction answer to *why the faithful vanish overnight.* Let the dread sit; **don't say Sariel.**
+- **Clean exit or a wound?** Wound = a node goes *permanently* dark, or the ring's voice drops (next channeling costs more).
+- **Does Mira pay a price?** Ominous option: she returns *a little more half-there*, hearing the stones too easily. Deepens her locked thread without spending it.
+
+#### Two-front option (vines + faction at once)
+If Garland & Kallio are at the ring during the faction fight, the **mutated vines** attack the ring — *waking a half-erased ring is loud, and loud is what the corruption hears.* Collapse to one front if timing is tight.
+
+**Mutated Bonewall Vines** *(own phenomenon, NOT the warriors' transformation)*
+> **Wants** (instinct) to spread, smother, feed the failing wall. · **Group 4C / Horde 6C, 1 Armor, Inflicts 1C, Forceful, Area.**
+> **⚠️ Fire-resistant** — Paxton's light and Garland's flame are *blunted*; tell them it won't catch. Cut, uproot, out-maneuver instead.
+> Methods: ensnare and drag toward the edge · choke the ring's stones · shelter/disgorge giant spiders.
+
+---
+
+## LANDING THE XP
+
+**Three group questions — 1 XP each:**
+- **Discover something new & important?** Reliable: the stillbirth secret · Vaalo's name & the Spines' truth (Holvi) · how emergence works · the Suonet network · the Moldrex offer · the ley-node reveal.
+- **Newly visit OR significantly alter a memorable location?** ⚠️ "Newly visit" the Slate Town was claimed in S7 — **don't grant it free on arrival.** Needs *significantly altered* (town's standing shifts; Hall of Deep Memory / Cradle-Hollow changed) **or** a genuinely *new* spot (first descent down the Suonet, the Descending Stair).
+- **Overcome a notable obstacle/enemy?** Broad: the Lohka fight · talking Aamu down · the vine skirmish · the network showdown · getting through the depths.
+
+**Each PC's Drive — 1 XP (set up one clean shot):**
+- **Roderic** — shield Itu when Lohka moves; body between a Slate and harm.
+- **Paxton** — offer a reckless door; don't punish taking it.
+- **Garland** — first into the vines; take the channeling risk; broker with Aamu when the table stalls.
+- **Castor** — endanger himself for Itu / the outcast Slate; his "something is wrong" sense leads in.
+- **Mira** — NPC, no Drive, no engineered XP.
+
+*(A PC who rolled a conditioned stat banked +1 XP each time. Settle In: 5 XP = a Level-Up. Paxton's Dawn Unending resurrection, if he falls, resolves at that Settle In — changed.)*
+
+---
+
+## BANK FOR LATER — Carnforth teaser
+
+**Dose small — glimpse-and-survive, not a kill.** Full plan in the planning doc.
+
+**Brood Spider (cat-sized)** — **3C, 1 Armor, Venomous Bite (Piercing, Inflicts 2C).** One nearly killed Paxton in S7; he's been **tasted** (maybe marked/venom-carrying). Methods: drop from vines · swarm one target · inject lingering venom.
+
+**The Drider-Dragon — "Hero of Moldrex"** *(apex; not killable on first contact)*
+> Black-dragon body on giant-spider legs, sent to clear the wall for the forces that will threaten Havens Reach.
+> **Wants** to scour the Bonewall clear. · **6C, 3 Armor (Stone-scale + special).**
+> **Claws & spider-legs (Inflicts 2C, Forceful, Piercing)** · **Breath = a birth, not a blast:** vomits a **Horde** of poison spiderlings (**Area** — denies ground, keeps spawning).
+> Methods: **own the vertical wall** (climbs/drops/scuttles — can't be cornered) · birth a swarm · taste/mark prey and withdraw.
+> **Dose:** establish it clearing the wall, fight through brood + transformed wardens, **drive off or escape.** Bank the real reckoning — keep the road-to-Havens-Reach clock's teeth.
 
 
 ## The Spinewright — GM Notes
@@ -458,7 +757,7 @@ GM-only until found in play:
 
 > **GM ONLY.** First contact happened in [[Session 7]] — the player-facing entry now lives at [[The Slate]] (and their town at [[The Slate Town]]). This file keeps the secrets the players have **not** learned: the Stagnation/Awakening framing, the Moldrex temptation, the birthing secret, the Imperium-quarry grievance, and the open mechanics below. Locked decisions and open questions are marked.
 
-The live-play staging that draws on this lore lives in the GM note **Session 8 Prep — The Slate Town**.
+The live-play staging that draws on this lore lives in the GM note **Session 8 and Beyond — Planning Guide**.
 
 See also: [[The Slate]], [[The Slate Town]], [[Bonewall]], [[Thirteen Spines]], [[Moldrex]], [[Öuth Krelt]], [[Senna]], [[Spinewardens]], [[Witch Stones]]
 

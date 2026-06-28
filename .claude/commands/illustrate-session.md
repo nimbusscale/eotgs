@@ -44,6 +44,12 @@ From the resolved path derive:
 
 Read the session file at that path.
 
+The session frontmatter **may** carry two source-only keys you'll use in Step 1:
+- `transcript:` — path to the prepared transcript (stable line numbers).
+- `scene_sources:` — a labelled list of `{ beat, lines }` entries pointing into that
+  transcript. These let you recover the concrete narrated detail behind each beat.
+  Older sessions won't have them — that's fine; Step 1 degrades gracefully.
+
 ### Step 1 — Pick 3–5 key moments
 
 Mine the session for the most visual, distinct beats. **Read the `## Summary`
@@ -60,12 +66,82 @@ For each chosen moment, draft a brief matching the `illustrate-scene` contract:
 - `characters` — names present (may be empty for an establishing shot).
 - `location` — place name (or a free description if it has no KB entity).
 - `aspect_ratio` — default `16:9 landscape`.
-- `weapons` — `hidden` for parley/quiet/ceremony moments, `shown` for combat.
+- `weapons` — `hidden` or `shown`, **derived from the span** (rule (b) below), not
+  defaulted: `hidden` for parley/quiet/ceremony *and* for brawls the text narrates
+  as bare-handed; `shown` only when drawn weapons are narrated.
+- optional `negatives` — a list of "not in this scene" constraints, especially
+  span-derived ones: invented weapons/props the text never named, and intent
+  negatives (rules (b)/(c) below). Passed through to the scene-request `negatives`.
 - optional `mood` / `lighting` tweak.
 - `caption` — one short narrative line (used as the gallery caption in Step 6).
+- optional `transcript_ref` — `{ file, lines }` recording the transcript span you
+  grounded this beat in (see below). Pass it through to the generation subagent in
+  Step 4 so it can pull extra detail during compose/refine. Omit when no
+  `scene_sources` entry matched.
 
 **Ground every detail in the session text. Invent nothing that was not
-narrated.** This is the hard rule. (The validating lesson — `session-6-paxton-
+narrated.** This is the hard rule.
+
+**Read the transcript behind each beat (when available).** The `## Summary` and
+`## Major Events` are a compression of the transcript, so concrete scene detail
+(positioning, appearances, blocking, lighting) the GM narrated is lost. If the
+frontmatter carries `scene_sources`, then for each chosen beat:
+
+1. Match it to the best `scene_sources` entry by its `beat` label (the beat that
+   most closely names what your moment depicts).
+2. **Read that entry's `lines` range from the `transcript` file** — use Read with
+   `offset`/`limit` (e.g. `offset: <start>`, `limit: <end − start + 1>`). This is
+   cheap text and consistent with the orchestrator's "stay light, no image reads"
+   rule — you are reading the transcript, never an image.
+3. **Ground the brief in what you find there** — the narrated staging the Summary
+   dropped — while still obeying the "invent nothing not narrated" rule. Set
+   `transcript_ref` to `{ file: <transcript path>, lines: <range> }`. As you read
+   the span, apply the four grounding rules below.
+
+**Grounding rules (apply to every transcript-backed beat).** Reading the span is
+not enough — *how* you turn it into a brief is what separates an accurate-but-flat
+image from a good one. These four were learned from failures, each tied to a real
+miss:
+
+- **(a) Two layers: foreground staging + background atmosphere.** Write the
+  `description` in two layers. The **foreground** is the literal action/staging
+  from the span. The **background** is the scene's *atmosphere* — the setting, the
+  light, the wider world visible behind the action. The Summary and the climax
+  lines drop atmosphere; recover it from the span's **establishing lines** (the
+  setup the GM narrated before the payoff — the `lines` range already includes
+  them if extraction did its job) **and** from the entity's **own KB page** (read
+  the `location`/world entry for how the place looks). Do not let the foreground
+  action crowd the backdrop out of the prompt — name the backdrop explicitly as
+  its own clause, or the model renders only the foreground. *(The realm-of-the-
+  forgotten beat failed exactly here: the brief was all Garland/child foreground
+  and dropped the distant lost city + drifting forgotten people the span actually
+  described — so the image was accurate but lifeless next to a looser one that
+  free-associated the atmosphere.)*
+- **(b) Derive `weapons` and "not-narrated" negatives from the span — don't
+  default.** Read what the span actually says about armament and props. If the
+  text has fighters bare-handed, grappling, or "coming to blows" with no named
+  weapon, set `weapons: hidden` and add explicit negatives against invented arms
+  (e.g. `"no spears, no knives — the warriors are bare-handed"`). Only set
+  `weapons: shown` when the span names drawn weapons. The blunt default licenses
+  the model to invent a wall of spears the table never described.
+- **(c) State intent and emotion explicitly — the model composes literally.** A
+  literal pose ("cradling the child out in front of him") can read as the
+  *opposite* of what was meant ("offering it" vs. "shielding it from them"). The
+  human infers the intent from context; the model does not. So spell out the
+  emotional read and the body-language intent in the `description`, and add an
+  intent **negative** (e.g. `"shielding the child, NOT offering it"`;
+  `"grief-stricken, not calm or stoic"`). Make the emotional focus an explicit
+  clause when the beat's power is emotional.
+- **(d) Carry the span's negatives into the brief's `negatives` list** so the
+  generation subagent and the evaluator both inherit them (see Step 4 and
+  `references/evaluate.md`). A negative that lives only in your head can't be
+  checked.
+
+**Graceful fallback:** when the frontmatter has no `scene_sources`, or a chosen beat
+has no good match (older sessions), draw the `description` from the `## Summary` /
+`## Major Events` exactly as before and omit `transcript_ref`. Do not block on a
+missing transcript. Rules (a)–(d) still apply as far as the Summary and the
+entity KB pages allow — atmosphere and intent come from those instead of a span. (The validating lesson — `session-6-paxton-
 burns-barge`: the Summary says the creatures dragged at him *from the marsh* and
 he found Senna *inside* the barge healing them; it does **not** put a horde of
 tentacle-monsters on the shore. Draw the barge and the two figures the text
@@ -118,12 +194,25 @@ is not set, ask the user to set it in this session first:
 Then spawn **one subagent per approved scene** (the Agent tool — one nesting
 level only). Spawn them **in parallel** (multiple Agent calls in a single
 message). Give each subagent:
-- the approved brief for its scene, and
+- the approved brief for its scene — **including its `transcript_ref`** if the beat
+  has one (so the subagent can Read that span, cheap text, to pull extra narrated
+  detail during compose/refine), **its `negatives`, and its intent/emotion clause**
+  (rules (b)/(c)) so they survive into the scene-request, and
 - an instruction to **follow the `.claude/commands/illustrate-scene.md` skill
   end-to-end** (resolve → select references by the library-first priority →
   write the scene-request → compose/generate → evaluate → bounded refine), and
+- an instruction that **a refine pass must re-assert the scene's signature
+  "tells"** — the one or two features that make a subject recognizable (Castor's
+  oversized beaver buck teeth, Garland's elven ears, a character's heraldry). A
+  worded correction aimed at one fix routinely drops a *different* signature
+  feature; the correction must restate the tells to protect, not just name the
+  defect. *(The gorilla refine that fixed the child's stone face silently lost the
+  buck teeth — exactly this regression.)*
 - an instruction to return **only** the result object
   `{ image_path, verdict, notes }` and nothing else (no image dumps).
+
+(`transcript_ref` is additive and optional — `illustrate-scene`'s own contract is
+unaffected; a brief without it behaves exactly as before.)
 
 A ref-light entity is generated from its description plus the available
 references. Each subagent's candidate lands in `image-test/<name>.jpg` (refines

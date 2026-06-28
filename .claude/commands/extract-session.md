@@ -109,6 +109,29 @@ All narrative content must read like fiction. A reader should never be able to t
 
 **Translate mechanical outcomes into narrative.** Every game mechanic has a fictional counterpart — describe that instead. A failed healing roll becomes "his divine light faltered." A story point establishment becomes nothing — just state the fact.
 
+#### Transcript line references (major_events)
+
+For each `major_events` entry, record `transcript_lines: "start-end"` — the
+representative **contiguous span in the prepared transcript** where that event's
+main beat plays out. Use the **same line numbering** already applied to
+`filtered_sections.line_range` (the prepared transcript's own line numbers). Pick
+the span that best captures the narrated detail of the beat (positioning,
+appearances, blocking, lighting) so a downstream reader can recover the concrete
+scene from the source. This is **best-effort**: omit `transcript_lines` only when
+no single representative range can be identified.
+
+**Start the span at the establishing beat, not the climax.** The GM almost always
+*sets the scene* — the place, the light, who is where, what the surroundings look
+like — a few exchanges **before** the dramatic payoff. That setup carries the
+visual backdrop the climax lines assume but never restate. So extend `start`
+back to include the establishing description, even if it predates the line you
+think of as "the moment." (Concretely: the realm-of-the-forgotten sacrifice was
+narrated as a tight emotional exchange, but the dissolved landscape, the distant
+lost city, and the drifting forgotten people that define how that scene *looks*
+were all established a dozen lines earlier — an illustrator handed only the
+climax span would miss the entire backdrop.) When in doubt, widen `start`
+upward, not down.
+
 #### Entity recognition
 
 1. If an entity name matches the known entities list → it's known. Record updates under `entity_updates`.
@@ -257,6 +280,10 @@ major_events:
       Narrative description of what happened.
     entities_involved: ["Castor", "Roderic", "Edric", "Garland"]
     location: "Location Name"
+    transcript_lines: "start-end"   # representative contiguous span in the prepared
+                                    # transcript where this event's main beat plays out
+                                    # (same line numbering as filtered_sections.line_range).
+                                    # Best-effort; omit only if no range can be identified.
 
 new_entities:
   npcs:

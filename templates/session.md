@@ -9,6 +9,15 @@ date: [YYYY-MM-DD]
 # images:          # optional; mirrors a config/image-map.yaml entry. Gallery
 #                  # items take `subjects: [slug, ...]` so guests (NPCs/locations
 #                  # without their own image) are discoverable as references.
+# transcript: inbox/transcripts/prepared/session-[NUMBER].txt
+#                  # optional, SOURCE-ONLY (excluded from all exports). The prepared
+#                  # transcript that scene_sources line ranges point into.
+# scene_sources:   # optional, SOURCE-ONLY (excluded from all exports). Labelled
+#                  # spans into `transcript` so illustrate-session can read the
+#                  # narrated detail behind each beat. Each entry: a short `beat`
+#                  # label + a `lines: "start-end"` range.
+#   - beat: "memory-stones in the Hall of Deep Memory"
+#     lines: "1048-1206"
 ---
 # Session [NUMBER]: [TITLE]
 

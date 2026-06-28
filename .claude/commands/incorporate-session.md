@@ -140,6 +140,29 @@ Fill in:
 - **Notable Locations Visited:** from `new_entities.locations` plus locations mentioned in `major_events`, with `[[wiki-links]]`
 - **Notable Quotes:** from `notable_quotes`, cleaned up with speaker attribution
 
+**Source-only frontmatter (`transcript` + `scene_sources`):**
+
+In addition to the usual identity frontmatter (`id`, `type`, `name`, `arc`, `date`),
+emit two **source-only** keys derived from the YAML, so `/illustrate-session` can read
+the narrated detail behind each beat:
+
+- `transcript:` — the YAML `source_transcript` path (the prepared transcript).
+- `scene_sources:` — a labelled list built from `major_events`. For each event that
+  carries a `transcript_lines` range, emit one entry:
+  ```yaml
+  scene_sources:
+    - beat: "<short label distilled from the event description>"
+      lines: "<transcript_lines from the major_event>"
+  ```
+  The `beat` is a short human label (a few words), not the full description — it is what
+  `illustrate-session` matches its chosen beats against. Skip any event with no
+  `transcript_lines`. Omit the whole `scene_sources` block (and `transcript`) if no event
+  has a range (older YAML without the field).
+
+These keys are **source-only**: they are excluded from all published outputs (the
+Claude Projects export strips frontmatter; the website export whitelists fields; Foundry
+ignores them). Do not surface them in any body section.
+
 **Determine the arc folder:**
 
 Sessions live under arc subfolders — `kb/sessions/<arc-slug>/session-{N}.md`.

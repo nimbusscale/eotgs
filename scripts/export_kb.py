@@ -20,6 +20,8 @@ import re
 import sys
 from pathlib import Path
 
+from build_index import split_frontmatter
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 KB_DIR = REPO_ROOT / "kb"
 GM_DIR = REPO_ROOT / "gm-notes"
@@ -49,8 +51,14 @@ def demote_headers(text, levels=1):
 
 
 def read_and_demote(path, levels=1):
-    """Read a markdown file and demote its headers by *levels*."""
-    return demote_headers(path.read_text(encoding="utf-8"), levels)
+    """Read a markdown file, strip its frontmatter, and demote headers by *levels*.
+
+    Stripping the leading ``---`` YAML block keeps source-only frontmatter
+    (e.g. ``transcript`` / ``scene_sources`` on session entities, plus
+    id/type/name/etc.) out of the consolidated Claude Projects export.
+    """
+    _, body = split_frontmatter(path.read_text(encoding="utf-8"))
+    return demote_headers(body, levels)
 
 
 def session_sort_key(path):

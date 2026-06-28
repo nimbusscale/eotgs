@@ -36,6 +36,19 @@ Walk these every time:
 - **Composition & count.** Does the character count match the brief exactly? No
   duplicated or extra figures, no extra/merged limbs, no spurious crowd members
   at a focal table that should seat N.
+- **Intent & emotion.** Does the body language read as the brief *means*, not just
+  what it literally says? A pose can land as its opposite — a child held out reads
+  as *offering* when the brief meant *shielding*; a face meant to be grief-stricken
+  renders calm and stoic. Check the brief's intent clause and intent `negatives`
+  explicitly: if the image says the wrong thing emotionally, that is a `refine`,
+  not an accept.
+- **Atmosphere / backdrop.** If the brief names a background layer (a distant
+  setting, the wider world visible behind the action, the quality of light), did
+  it actually render — or did the foreground action crowd it out? A flat,
+  backdrop-less image of a beat the brief gave atmosphere to is a fixable defect.
+- **Span-derived negatives.** Honor the brief's "not narrated" negatives — invented
+  weapons or props the text never named (a wall of spears behind bare-handed
+  fighters) is a defect even though it "looks like combat."
 
 ## Known hard traps — call these out explicitly
 
@@ -80,6 +93,14 @@ Be specific. Name the defect **and** the desired state, and only a few at a time
 - Bad: `"make it better"`, `"fix the composition"`.
 
 Each correction string carries straight into the composer's `--correction` flag.
+
+**Protect the signature "tells" in every correction.** A correction aimed at one
+fix routinely makes the model drop a *different* signature feature it had right.
+So restate the tells to keep, not just the defect to fix: not `"give the child a
+stone face"` but `"give the child a grey stone face — and keep the gorilla's two
+big buck teeth"`. Name the one or two features that make each subject
+recognizable (buck teeth, elven ears, heraldry, divine mark) and carry them
+forward through the whole refine loop, or you trade one defect for another.
 
 ## Judge adherence, not pixel-match
 

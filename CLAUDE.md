@@ -62,6 +62,22 @@ to refresh snapshots without incorporating. Actor→PC mapping lives in
 - `/illustrate-reference` - Generate a durable reference image (location establishing view or character portrait) for a KB entity: author the brief, generate candidates into scratch for the user to pick, then promote the winner (copy to `images/`, author a reusable prompt spec, register it in frontmatter)
 - `/export-kb` - Generate consolidated export files for Claude Project Knowledge, then build and deploy the website and the Foundry compendium
 - `/export-foundry` - Mirror the KB into the `grimwild-kb` Foundry VTT compendium and deploy it (also run as part of `/export-kb`)
+- `/review-session` - GM coaching: review a session transcript for Chasing Adventure / PbtA craft (system-specific, with concrete in-system alternatives for fumbled moments), a spotlight/time breakdown, and continuity across sessions. Writes to `gm-notes/reviews/`; touches no `kb/` content
+
+### GM Session Review
+
+`/review-session N` is a GM-coaching tool, separate from the lore pipeline. It reads
+the prepared transcript (`inbox/transcripts/prepared/session-N.txt`) and produces
+honest, **Chasing-Adventure-specific** feedback — Moves, Principles, 6-/7-9 handling,
+conditions, missed character moments — always pairing a faulted moment with a
+concrete in-system alternative. It runs `scripts/spotlight_breakdown.py` for objective
+talk-time, then layers a semantic spotlight/time-bucket read on top. It measures
+out-of-game / rules-explanation time **neutrally and never moralizes about it**.
+Outputs `gm-notes/reviews/session-N.md` and updates the cross-session
+`gm-notes/reviews/coaching-ledger.md` (recurring strengths/growth areas, progress on
+prior recommendations). The rules rubric is the enriched
+`knowledge/ca-gm-review-reference.md` (distilled from the canonical reference so the
+command needn't rescan the full rulebook); no RAG/vector search is used.
 
 ## Architecture
 

@@ -414,7 +414,7 @@ Below the wall, between it and [[Havens Reach|Haven's Reach]], lies the marshy d
 - The wards at the Spine of Hallowreach failed and a breach opened from beyond the Bonewall; the Spinewarden [[Paxton Lumnus]] sacrificed himself in a hidden ritual to anchor the Light and seal the breach, then woke from death in the mausoleum
 - [[Session 6]] — Carnforth, the northernmost Spine, went dark; [[Mira]] opened a Witch Stone portal onto the wall's grey shale and stepped through, with [[Garland yn Greenholt|Garland]] and [[Castor]] following; in the [[The Reaches]] below the wall, [[Paxton Lumnus|Paxton]] burned [[Senna]]'s barge
 - [[Session 7]] — All three threads converged inside the wall: [[Paxton Lumnus|Paxton]] followed a young Slate up the mutating wilds toward [[Carnforth]] and was carried down near death; [[Garland yn Greenholt|Garland]] and [[Castor]] arrived at the second ring of [[Witch Stones]] and met the Slate; [[Sir Roderic Lightbearer|Roderic]] fell through the collapsing [[Tomb of the Spinewright]] and was pulled into the Slate's hidden town, where the party reunited
-- [[Session 8]] — In [[The Slate Town|Muistola]], the memory stones revealed that the spines were built by the deep dwarf Vaalo from a shard of [[Syvämaa]]'s light; the Slate town fractured over [[Moldrex]]'s offer, and the dark god's mutated vines and cat-sized spiders breached the hidden town as the wards failed further
+- [[Session 8]] — In [[The Slate Town|Muistola]], the memory stones revealed that the spines were built by the deep dwarf Vaalo from a shard of [[Syvämaa]]'s light; the Slate town fractured over [[Moldrex]]'s offer, and the dark god's mutated vines began to breach the hidden town's ceiling while cat-sized spiders swarmed the wall outside as the wards failed further
 
 
 ## Carnforth
@@ -877,7 +877,7 @@ The Slate say their history is written in their city; they keep no records but t
 
 ### Events Here
 - [[Session 7]] — All three of the party's threads converged here: the Slate carried in the dying [[Paxton Lumnus|Paxton]] and [[Sir Roderic Lightbearer|Roderic]], reuniting them with [[Garland yn Greenholt|Garland]], [[Castor]], and [[Mira]]; through Mira's translation the Slate told of their broken stasis and the first child born among them in living memory, and the party settled in to rest among the celebrating people
-- [[Session 8]] — In the Hall of Deep Memory, [[The Slate|Holvi]] imbued the party with the Slate tongue at the memory stones, where each glimpsed a vision of the deep past; then the town's schism over the child Itu erupted into open violence as [[The Slate|Lohka]]'s [[Moldrex]] faction moved to seize the child, and [[Moldrex]]'s corruption finally breached the town — cat-sized spiders boiling over the surface ring and tentacles cracking down through the ceiling as the party fought to hold a sanctuary on the stairs
+- [[Session 8]] — In the Hall of Deep Memory, [[The Slate|Holvi]] imbued the party with the Slate tongue at the memory stones, where each glimpsed a vision of the deep past; then the town's schism over the child Itu erupted into open violence as [[The Slate|Lohka]]'s [[Moldrex]] faction moved to seize the child, and [[Moldrex]]'s corruption began to breach the town — cat-sized spiders boiling over the surface ring outside and mutated vines cracking down through the ceiling as the party fought to hold a sanctuary on the stairs
 
 
 ## The Solvium

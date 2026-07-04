@@ -45,4 +45,4 @@ The offer has split the town, converting the warrior Lohka, the scribe Kallio, a
 
 ## Sources
 - [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established
-- [[Session 8]] — Revealed to be courting the [[The Slate|Slate]], offering freedom from [[Syvämaa]] for the child Itu and splitting the town; his vines and spiders breached Muistola
+- [[Session 8]] — Revealed to be courting the [[The Slate|Slate]], offering freedom from [[Syvämaa]] for the child Itu and splitting the town; his vines began breaching Muistola's ceiling as spiders swarmed the wall outside

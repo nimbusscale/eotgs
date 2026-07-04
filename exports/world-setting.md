@@ -174,7 +174,7 @@ The offer has split the town, converting the warrior Lohka, the scribe Kallio, a
 
 ### Sources
 - [[Session 2]] — The Bonewall's darkness was first referenced; the wards' weakening was established
-- [[Session 8]] — Revealed to be courting the [[The Slate|Slate]], offering freedom from [[Syvämaa]] for the child Itu and splitting the town; his vines and spiders breached Muistola
+- [[Session 8]] — Revealed to be courting the [[The Slate|Slate]], offering freedom from [[Syvämaa]] for the child Itu and splitting the town; his vines began breaching Muistola's ceiling as spiders swarmed the wall outside
 
 
 ## The Old Gods and the New
@@ -871,7 +871,7 @@ The party first met the Slate as a people, but the town's figures are quickly be
 
 #### History with Party
 - [[Session 7]] — First contact: the Slate carried the gravely wounded [[Paxton Lumnus|Paxton]] and the fallen [[Sir Roderic Lightbearer|Roderic]] into their hidden town, where the party reunited; through Mira's translation they told their story and welcomed the party in to rest amid their celebration of the first child
-- [[Session 8]] — Holvi imbued the party with the Slate tongue at the memory stones and told them of Vaalo; then the town's schism erupted, Lohka's Moldrex faction moving to seize the child Itu, until the party fought to keep the child and Moldrex's spiders and vines broke into Muistola itself
+- [[Session 8]] — Holvi imbued the party with the Slate tongue at the memory stones and told them of Vaalo; then the town's schism erupted, Lohka's Moldrex faction moving to seize the child Itu, until the party fought to keep the child and Moldrex's vines broke through into Muistola itself as spiders swarmed the wall outside
 
 
 ## Notable Items

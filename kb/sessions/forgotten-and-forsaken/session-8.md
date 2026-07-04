@@ -48,7 +48,7 @@ scene_sources:
     lines: "1209-1311"
   - beat: "the three-front fight; Lohka snaps Roderic's sword"
     lines: "1515-2080"
-  - beat: "spiders and tentacles break into Muistola"
+  - beat: "vines breach Muistola's ceiling as spiders swarm the wall outside"
     lines: "2081-2146"
 ---
 # Session 8: The Memory Stones
@@ -78,7 +78,7 @@ Then the town turned.
 The ancient, near-petrified Slate [[The Slate|Lohka]], the sage Kallio, the grieving Aamu and others had embraced [[Moldrex]], who promised to free the Slate from their dependence on Syvämaa — their cycle of emergence and petrification — in exchange for the newborn child Itu.
 The [[Dark Harlequin]] whispered in Castor's ear that he could only ever watch; Castor answered by leaping in as a gorilla and snatching Itu to protect it.
 Below, Lohka snapped Roderic's sword like a twig, Paxton seared the flesh beneath Lohka's stone with the Light, Roderic decreed the wavering guards aside, and Mira raised a sanctuary on the stairs.
-The session ended in a three-way standstill — Lohka swearing Moldrex would keep him from ever petrifying — as the corrupted vines bore their fruit: cat-sized spiders boiled over the wall outside and tentacles began to crack down through the ceiling of Muistola itself.
+The session ended in a three-way standstill — Lohka swearing Moldrex would keep him from ever petrifying — as the corrupted vines bore their fruit: cat-sized spiders boiled over the wall outside and mutated vines began to crack down through the ceiling of Muistola itself.
 
 ## Major Events
 
@@ -161,7 +161,7 @@ Cat-sized spiders boiled down over the Bonewall and across the sealed entrance, 
 > — [[Garland yn Greenholt|Garland]], choosing to sacrifice the memory of his dead son Dafydd to save Mira
 
 > "There will be no agreement. Moldrex will keep me from petrifying."
-> — [[The Slate|Lohka]], refusing the party as the spiders and tentacles broke into Muistola
+> — [[The Slate|Lohka]], refusing the party as the vines breached Muistola's ceiling and spiders swarmed the wall outside
 
 > "The child has a life of their own to live and it's not yours to take. Listen to the chittering in the dark."
 > — [[Garland yn Greenholt|Garland]], refusing to surrender Itu and warning the Slate of the coming swarm

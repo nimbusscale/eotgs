@@ -70,5 +70,5 @@ For as long as any of them can remember, none had aged, died, or been born — t
 That stasis broke as an echo of the [[God of Renewal]]'s awakening: with the suppressed old gods reviving, change has returned to the Slate, and with it aging, death, and the dread of petrifying once more.
 The Slate are bound body and being to [[Syvämaa]], the deep world below, from which they emerge and to which their dead return — a dependence some now feel as abandonment.
 In [[Session 8]] [[Moldrex]] turned that fear into a wedge, offering to sever the Slate from Syvämaa entirely — to let them be born, live, and die freely — in exchange for the child Itu, to be carried through the Suonet into [[Öuth Krelt]] and given to his emissary.
-The offer split [[The Slate Town|Muistola]]: the warrior [[The Slate|Lohka]] and the scribe [[The Slate|Kallio]] converted, his vines and spiders breached the town, and the party fought to keep the child from him.
+The offer split [[The Slate Town|Muistola]]: the warrior [[The Slate|Lohka]] and the scribe [[The Slate|Kallio]] converted, his vines began breaching the town's ceiling as spiders swarmed the wall outside, and the party fought to keep the child from him.
 What Itu's destiny is, whether Lohka's faction succeeds in reaching Moldrex, and what Syvämaa truly is remain open.

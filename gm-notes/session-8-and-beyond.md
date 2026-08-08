@@ -204,12 +204,22 @@ Carnforth is a loss they can witness but not fix (no renewal rites, no lantern),
 
 **The lantern chaplain (Roland's thread, human face in the horror):** ● a Carnforth chaplain reputedly wears the lantern necklace. Two heresies meet at one dying ward, kept distinct: Moldrex's transformation versus the lantern cult's Light-grievance (only the carried flame can hold the line). Not allies, two opportunists at the same wound. The chaplain is an intel source and a bridge toward Roland.
 
-### The creature — ▶ the drider-dragon ("hero of Moldrex")
+### The creature — ● the Öthkra ("hero of Moldrex")
 
-A cross between a black dragon and a giant spider: dragon body, spider legs. Sent into the Bonewall to **clear the wall for the forces that will threaten Havens Reach.**
+A cross between a black dragon and a giant spider, built on the **drider frame**: where a drider is a drow torso above and a spider below, this is a *dragon* above and a spider below.
+Sent into the Bonewall to **clear the wall for the forces that will threaten Havens Reach.**
+
+**● Name.** *The Öthkra*, in the tongue of Öuth Krelt — said *OOTH-krah*.
+It shares the Ö-, the -th, and the kr- of Öuth Krelt itself, so it reads as a thing *of* that country rather than a name outsiders hung on it.
+
+**● Look.** Rising from the front of the spider body is a black dragon's fore-quarters — a long serpentine neck, a wedge-shaped horned skull with a heavy toothed jaw and pale cold eyes, two scaled forelimbs with hooked talons, ribbed membranous wings, and a long tapering tail curling out behind the abdomen.
+Below and behind is a colossal spider on eight long, thin, sharply-jointed legs, each tapering to a needle point that sinks into the shale.
+It is sleek **black widow**, never tarantula: a smooth bulbous abdomen with a hard oil-glossy sheen, bare polished legs, no hair or bristle anywhere on it.
+The whole animal is near-black, and the two blacks are told apart only by finish — matte scale above, wet chitin below — which reads starkly against the Bonewall's bone-white flaking stone.
+Reference plate: `image-test/othkra-reference.jpg`; canon spec at `config/image/prompts/othkra.json`.
 
 - **Owns the wall:** climbs the vertical shale on spider legs, drops and scuttles, can't be cornered.
-- **Breath weapon is a birth, not a blast:** instead of poison gas it vomits a **swarm of small, undeveloped poison spiders** (ordinary-sized, a spreading swarm that denies ground and keeps the battlefield spawning). ▶ Name TBD.
+- **Breath weapon is a birth, not a blast:** instead of poison gas it vomits a **swarm of small, undeveloped poison spiders** (ordinary-sized, a spreading swarm that denies ground and keeps the battlefield spawning).
 - **The cat-sized spiders are separate middleweight minions / its brood**, not the breath. ● One nearly killed Paxton in S7, so he has effectively been **tasted**, maybe marked or carrying its venom.
 - **Dose:** an apex they likely can't kill on first contact (one brood-spider nearly ended Paxton). **Lean glimpse-and-survive:** establish it clearing the wall, fight through brood and transformed wardens, drive it off or escape, bank the real reckoning. Protects the road-to-Havens-Reach clock; if it's killable now, the clock loses teeth.
 

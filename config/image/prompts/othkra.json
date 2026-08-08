@@ -1,0 +1,35 @@
+{
+  "title": "The Öthkra — Hero of Moldrex",
+  "purpose": "The canonical creature reference for the Öthkra, Moldrex's apex champion sent through the failing wards to scour the Bonewall clear. This is the visual anchor for its anatomy, its two-tone blackness, and its scale relative to its cat-sized brood. Use it as the creature reference when illustrating any scene in which the Öthkra appears, and as the design authority for the brood spiders that swarm the wall ahead of it. Built on the Bonewall's dead-shale palette so creature and range read as one world. GM-side: the creature is unrevealed at the table as of Session 8.",
+  "subject": "A single fused monstrosity — one animal, not a hybrid of two. A black dragon's fore-body rises from the front of a colossal spider, on the drider frame: where a drider is a humanoid torso above and a spider below, the Öthkra is a dragon above and a spider below. No characters in frame.",
+  "core_aesthetic": {
+    "the_dragon_half": "A true black dragon's fore-quarters growing directly out of the front of the spider body, where the cephalothorax would be. A long serpentine neck arched low and forward; a wedge-shaped horned skull with swept-back horns, a heavy toothed jaw, and pale cold slitted eyes; two scaled forelimbs ending in hooked talons; a pair of ribbed membranous bat-like wings; and a long tapering scaled tail curling out behind the abdomen. The junction where scale gives way to chitin is seamless — this animal was born this way, not stitched together.",
+    "the_spider_half": "A colossal spider built on the black widow, never the tarantula: a smooth bulbous abdomen with a hard, wet, oil-glossy sheen, and eight long, thin, sharply-jointed legs — bare and polished, absolutely no hair, fur, bristle, or fuzz — each tapering to a needle-fine point braced on or sunk into flaking shale. The abdomen is lacquered hard shell with visible segmentation, not a soft or inflated sac.",
+    "the_two_blacks": "The entire animal is near-black, and its only tonal variety is finish, not hue: matte black scale with faint grey edge-wear along horns and talons on the dragon half, against wet oil-gloss on the spider half. It reads as a black cutout against the Bonewall's bone-white and ashen-grey stone — that contrast is the creature's signature and should never be softened.",
+    "the_brood": "Cat-sized glossy black spiders of the same sleek black-widow build swarm around it — on the shale, in the knotted grey leafless vines, strung through dirty grey sheet-silk. They are its brood and its scale cue: no bigger than a housecat, so that the Öthkra beside them reads as the size of a house.",
+    "the_ground": "Bare flaking pale shale — bone-white where freshly broken, weathering through ashen grey — splitting into loose plates and shards, with the Bonewall's knotted grey near-leafless woody vine tangled at the frame edges.",
+    "emotional_register": "Cold, clinical, predatory menace. A thing that owns the vertical wall and cannot be cornered. Grounded and anatomically believable — an animal that could actually exist and hunt, not a monster poster."
+  },
+  "setting": "The dead shale of the Bonewall: a bare pale slope or a near-vertical flaking cliff face, falling into dry mineral haze, with knotted grey vine and sheet-silk at the edges and the cat-sized brood crawling across the stone.",
+  "composition": "The full silhouette must stay legible — head to abdomen, all eight legs, both wings, and the tail readable, with breathing room around the form and nothing that defines the design cropped away. Viewed from slightly below in three-quarter or profile, so both the dragon fore-body and the spider base read clearly against pale rock. The brood spiders sit in foreground and midground as the size cue. The eye reads the black shape against white stone first, then the crawling brood, then how big the thing actually is.",
+  "lighting": "Flat, cold, overcast daylight; even and shadeless, low contrast, with dry mineral dust haze in the distance. Enough diffuse light to read every surface — the difference between matte scale and glossy chitin must be clearly visible. No warm sun, no golden hour, no rim lighting, no dramatic shafts, no glow.",
+  "mood": "Ominous, predatory, wrong. Tomb-quiet desolation invaded by a wrong living ecology — the wall's dead grey vines swollen and crawling with life that should not be here.",
+  "aspect_ratio": "16:9 landscape — wide enough to hold the full spread of legs and wings",
+  "do_not_include": [
+    "any humanoid or human torso, human arms, human face, or centaur-like upper body — the fore-body is a DRAGON, never a classic drow drider",
+    "hair, fur, bristles, or fuzzy tarantula texture on the spider body or legs — smooth, sleek, hard-shelled black widow chitin only",
+    "a soft, inflated, or rubbery-looking abdomen — it is lacquered hard plate with visible segmentation",
+    "a rider, saddle, harness, or any figure mounted on the creature",
+    "two separate creatures — the dragon and the spider are one fused body, never a dragon standing beside or on a spider",
+    "red hourglass markings, bright warning coloration, or any saturated color on the creature",
+    "brood spiders larger than a housecat — they are the scale cue and must stay small",
+    "fire, glowing eyes, magical glow, embers, or any light source",
+    "snow, ice, green foliage, grass, scrub, or living trees",
+    "lit or glowing watchtowers or Spines, or rock formations that could be misread as a Spine",
+    "warm or golden palette",
+    "water, rivers, lakes, or pools",
+    "people or characters in the frame",
+    "cropped wings, cropped legs, or an obscured body silhouette",
+    "glossy CGI render, movie-poster glamour, heroic monster-splash framing"
+  ]
+}

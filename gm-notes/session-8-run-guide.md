@@ -205,8 +205,10 @@ If Garland & Kallio are at the ring during the faction fight, the **mutated vine
 
 **Brood Spider (cat-sized)** — **3C, 1 Armor, Venomous Bite (Piercing, Inflicts 2C).** One nearly killed Paxton in S7; he's been **tasted** (maybe marked/venom-carrying). Methods: drop from vines · swarm one target · inject lingering venom.
 
-**The Drider-Dragon — "Hero of Moldrex"** *(apex; not killable on first contact)*
-> Black-dragon body on giant-spider legs, sent to clear the wall for the forces that will threaten Havens Reach.
+**The Öthkra — "Hero of Moldrex"** *(apex; not killable on first contact)*
+> **Name:** *the Öthkra* (*OOTH-krah*), in the tongue of Öuth Krelt — not Finnish like the Slate names above; it shares the Ö-, -th, and kr- of Öuth Krelt itself.
+> **Look (drider build):** a black dragon's fore-body — long serpentine neck, horned wedge skull, two scaled forelimbs, ribbed membranous wings, long tapering tail — rising from a colossal spider base on eight long, sharply-jointed legs. Sleek **black-widow**, not tarantula: a smooth bulbous oil-glossy abdomen and bare polished legs, no hair anywhere. Two blacks distinguished by finish — matte scale above, wet chitin below — stark against the bone-white shale. Reference plate: `image-test/othkra-reference.jpg` (spec: `config/image/prompts/othkra.json`).
+> Sent to clear the wall for the forces that will threaten Havens Reach.
 > **Wants** to scour the Bonewall clear. · **6C, 3 Armor (Stone-scale + special).**
 > **Claws & spider-legs (Inflicts 2C, Forceful, Piercing)** · **Breath = a birth, not a blast:** vomits a **Horde** of poison spiderlings (**Area** — denies ground, keeps spawning).
 > Methods: **own the vertical wall** (climbs/drops/scuttles — can't be cornered) · birth a swarm · taste/mark prey and withdraw.

@@ -18,13 +18,13 @@ The generated image and the composed-prompt scratch both land under image-test/
 promote it by moving the file into images/ and registering it in image-map.yaml.
 
 Usage:
-    OPENAI_ACCESS_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json
+    OPENAI_API_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json
     python3 scripts/compose_image_prompt.py --request req.json --dry-run
     # write a final, publish-ready asset straight to images/ instead of image-test/:
-    OPENAI_ACCESS_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json --out-dir images
+    OPENAI_API_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json --out-dir images
     # refine pass — feed the prior generated image back with a targeted fix
     # (writes an auto-versioned image-test/<name>-vN.jpg, leaving the base intact):
-    OPENAI_ACCESS_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json \
+    OPENAI_API_KEY=sk-... python3 scripts/compose_image_prompt.py --request req.json \
         --correction "shield is on his arm, not leaning on the floor" \
         --prior image-test/<name>.jpg
 

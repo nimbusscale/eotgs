@@ -59,13 +59,13 @@ For each view, write a scene-request JSON to `image-test/.composed/<view>-reques
 
 ### Step 4 — Confirm the API key
 
-`generate_image.py` needs `OPENAI_ACCESS_KEY`. Check it without printing it:
+`generate_image.py` needs `OPENAI_API_KEY`. Check it without printing it:
 
 ```bash
-[ -n "$OPENAI_ACCESS_KEY" ] && echo set || echo UNSET
+[ -n "$OPENAI_API_KEY" ] && echo set || echo UNSET
 ```
 
-If `UNSET`, stop and ask the user to set it in this session (e.g. `! export OPENAI_ACCESS_KEY=sk-...`) before generating.
+If `UNSET`, stop and ask the user to set it in this session (e.g. `! export OPENAI_API_KEY=sk-...`) before generating.
 
 ### Step 5 — Compose once, then generate N candidates
 

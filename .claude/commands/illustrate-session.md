@@ -184,11 +184,11 @@ clears.** Stop here and wait for the human.
 
 ### Step 4 — Generate (the isolation boundary)
 
-Once the descriptions are approved, generation needs `OPENAI_ACCESS_KEY`. If it
+Once the descriptions are approved, generation needs `OPENAI_API_KEY`. If it
 is not set, ask the user to set it in this session first:
 
 ```
-! export OPENAI_ACCESS_KEY=sk-...
+! export OPENAI_API_KEY=sk-...
 ```
 
 Then spawn **one subagent per approved scene** (the Agent tool — one nesting

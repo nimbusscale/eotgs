@@ -2,9 +2,9 @@
 """Generate an image via OpenAI's image API and write it to <name>.jpg.
 
 Usage:
-    OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py "a prompt here" [--tall|--wide|--square]
-    OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py --prompt-file config/image/prompts/some-spec.json
-    OPENAI_ACCESS_KEY=sk-... python3 scripts/generate-image.py "a prompt here" --image images/pcs/roderic-pose.jpg
+    OPENAI_API_KEY=sk-... python3 scripts/generate-image.py "a prompt here" [--tall|--wide|--square]
+    OPENAI_API_KEY=sk-... python3 scripts/generate-image.py --prompt-file config/image/prompts/some-spec.json
+    OPENAI_API_KEY=sk-... python3 scripts/generate-image.py "a prompt here" --image images/pcs/roderic-pose.jpg
 
 Exactly one of: a prompt argument, or --prompt-file (a .json spec is passed to
 the model whole; a .txt file is used as raw prompt text).
@@ -17,6 +17,11 @@ Pass --count N (N>1) to generate N candidates from the same prompt concurrently
 (one independent API call each, run in a thread pool). The outputs are suffixed
 <name>-a.jpg, <name>-b.jpg, ...; --count 1 (the default) keeps the single-image
 behaviour and naming unchanged.
+
+--model picks the image model (default: $OPENAI_IMAGE_MODEL, else
+gpt-image-2.5-sunburst) and --quality the render quality (default:
+$OPENAI_IMAGE_QUALITY, else xhigh). Token usage reported by the API is printed after each
+image so per-setting cost can be compared.
 
 Size defaults to --wide (1536x1024). The file is written into the repo's images/
 directory as <name>.jpg (where build_site.py syncs from). Unless --name is given,
@@ -43,7 +48,8 @@ from pathlib import Path
 IMAGE_URL = "https://api.openai.com/v1/images/generations"
 EDIT_URL = "https://api.openai.com/v1/images/edits"
 CHAT_URL = "https://api.openai.com/v1/chat/completions"
-MODEL = os.environ.get("OPENAI_IMAGE_MODEL", "gpt-image-2")
+MODEL = os.environ.get("OPENAI_IMAGE_MODEL", "gpt-image-2.5-sunburst")
+QUALITY = os.environ.get("OPENAI_IMAGE_QUALITY", "xhigh")
 NAMING_MODEL = os.environ.get("OPENAI_NAMING_MODEL", "gpt-4o-mini")
 MAX_NAME_LEN = 48
 MAX_NAME_ATTEMPTS = 5
@@ -216,6 +222,8 @@ def generate(
     access_key: str,
     size: str,
     images: list[Path] | None = None,
+    model: str = MODEL,
+    quality: str = QUALITY,
 ) -> bytes:
     """Call the image API and return the decoded image bytes.
 
@@ -227,10 +235,10 @@ def generate(
         body = _post_multipart(
             EDIT_URL,
             {
-                "model": MODEL,
+                "model": model,
                 "prompt": prompt,
                 "size": size,
-                "quality": "high",
+                "quality": quality,
                 "n": "1",
                 "output_format": "jpeg",
             },
@@ -241,15 +249,18 @@ def generate(
         body = _post(
             IMAGE_URL,
             {
-                "model": MODEL,
+                "model": model,
                 "prompt": prompt,
                 "size": size,
-                "quality": "high",
+                "quality": quality,
                 "n": 1,
                 "output_format": "jpeg",
             },
             access_key,
         )
+
+    if body.get("usage"):
+        print(f"Usage: {json.dumps(body['usage'])}")
 
     item = body["data"][0]
 
@@ -280,6 +291,8 @@ def generate_to_file(
     size: str,
     images: list[Path] | None,
     out_dir: Path,
+    model: str = MODEL,
+    quality: str = QUALITY,
 ) -> tuple[str, str | None, str | None]:
     """Generate one image and write it to ``out_dir/name.jpg``.
 
@@ -287,7 +300,9 @@ def generate_to_file(
     failed candidate in a concurrent batch does not abort the others.
     """
     try:
-        image_bytes = generate(prompt, access_key, size, images)
+        image_bytes = generate(
+            prompt, access_key, size, images, model, quality
+        )
         out_path = out_dir / f"{name}.jpg"
         out_path.write_bytes(image_bytes)
         print(f"Wrote {len(image_bytes)} bytes to {out_path}")
@@ -296,6 +311,7 @@ def generate_to_file(
         return name, None, str(exc)
 
 
+QUALITIES = ("low", "medium", "high", "xhigh", "max", "auto")
 SIZES = {"tall": "1024x1536", "wide": "1536x1024", "square": "1024x1024"}
 
 
@@ -350,6 +366,17 @@ def main(argv=None) -> str:
         ),
     )
     parser.add_argument(
+        "--model",
+        default=MODEL,
+        help=f"image model (default: {MODEL})",
+    )
+    parser.add_argument(
+        "--quality",
+        default=QUALITY,
+        choices=QUALITIES,
+        help=f"render quality (default: {QUALITY})",
+    )
+    parser.add_argument(
         "--out-dir",
         default=DEFAULT_OUT_DIR,
         type=Path,
@@ -378,10 +405,10 @@ def main(argv=None) -> str:
             "provide exactly one of: a prompt argument or --prompt-file"
         )
 
-    access_key = os.environ.get("OPENAI_ACCESS_KEY")
+    access_key = os.environ.get("OPENAI_API_KEY")
     if not access_key:
         sys.exit(
-            "OPENAI_ACCESS_KEY is not set. Export your OpenAI API key first "
+            "OPENAI_API_KEY is not set. Export your OpenAI API key first "
             "or pass it in the environment."
         )
 
@@ -402,7 +429,9 @@ def main(argv=None) -> str:
     # existing file; otherwise the naming model picks a name and a collision
     # triggers a reprompt.
     if args.count == 1:
-        image_bytes = generate(prompt, access_key, args.size, images)
+        image_bytes = generate(
+            prompt, access_key, args.size, images, args.model, args.quality
+        )
         if args.name:
             name = slugify(args.name)
         else:
@@ -428,6 +457,8 @@ def main(argv=None) -> str:
                 args.size,
                 images,
                 args.out_dir,
+                args.model,
+                args.quality,
             )
             for name in names
         ]

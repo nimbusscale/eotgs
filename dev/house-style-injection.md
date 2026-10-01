@@ -205,7 +205,7 @@ likeness reference. This needs OpenAI's **`/v1/images/edits`** endpoint, which
 
 ```
 curl -sS https://api.openai.com/v1/images/edits \
-  -H "Authorization: Bearer $OPENAI_ACCESS_KEY" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
   -F "model=gpt-image-2" \
   -F "image[]=@images/pcs/roderic-pose.jpg;type=image/jpeg" \
   -F "prompt=</tmp/composed-prompt.txt" \

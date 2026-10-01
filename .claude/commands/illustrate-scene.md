@@ -93,16 +93,16 @@ Notes:
 
 ### Step 5 — Compose and generate
 
-`generate_image.py` needs `OPENAI_ACCESS_KEY`. If it is not set, ask the user to set it in this session first, e.g.:
+`generate_image.py` needs `OPENAI_API_KEY`. If it is not set, ask the user to set it in this session first, e.g.:
 
 ```
-! export OPENAI_ACCESS_KEY=sk-...
+! export OPENAI_API_KEY=sk-...
 ```
 
 Then run the composer (it writes the composed prompt and calls `generate_image.py`):
 
 ```bash
-OPENAI_ACCESS_KEY=$OPENAI_ACCESS_KEY python3 scripts/compose_image_prompt.py --request image-test/.composed/<name>-request.json
+OPENAI_API_KEY=$OPENAI_API_KEY python3 scripts/compose_image_prompt.py --request image-test/.composed/<name>-request.json
 ```
 
 This is the **first pass** and produces the base image `image-test/<name>.jpg`. To check the assembled prompt **before** spending on a generation (recommended when the brief is unusual), add `--dry-run`: it writes `image-test/.composed/<name>.json` and prints the `generate_image.py` command without calling the API. Inspect that JSON — confirm the references are numbered to match the images, the palette scoping in `instructions` reads correctly, and the scene negatives are present — then re-run without `--dry-run`. The image lands in `image-test/`; pass `--out-dir images` only when you already know it is a final, publish-ready asset.
